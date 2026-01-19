@@ -64,8 +64,32 @@ const podcastEpisodes = [
     </div>
   </section>
 
-  <!-- Webinars Section -->
+  <!-- AI Shorts Section -->
   <section class="media-section">
+    <div class="container">
+      <div class="section__header">
+        <span class="section__title">AI Shorts</span>
+        <a href="https://www.youtube.com/@Saufexevents/shorts" target="_blank" class="section__link">View all shorts →</a>
+      </div>
+
+      <div class="shorts-section">
+        <p class="shorts-description">
+          AI-generated video summaries of our blog posts, making key insights accessible in under 60 seconds.
+        </p>
+        <a href="https://www.youtube.com/@Saufexevents/shorts" target="_blank" class="shorts-cta">
+          Watch on YouTube
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+            <polyline points="15 3 21 3 21 9"/>
+            <line x1="10" y1="14" x2="21" y2="3"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Webinars Section -->
+  <section class="content-section">
     <div class="container">
       <div class="section__header">
         <span class="section__title">Webinars & Events</span>
@@ -270,6 +294,36 @@ const podcastEpisodes = [
 
   .webinar-card__link:hover {
     gap: var(--space-sm);
+  }
+
+  .shorts-section {
+    max-width: 600px;
+    padding: var(--space-lg);
+    background: var(--color-light);
+    border-radius: 16px;
+  }
+
+  .shorts-description {
+    color: var(--color-muted);
+    margin-bottom: var(--space-md);
+  }
+
+  .shorts-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-xs);
+    padding: var(--space-sm) var(--space-md);
+    background: var(--color-dark);
+    color: var(--color-light);
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 0.9rem;
+    border-radius: 100px;
+    transition: all 0.3s;
+  }
+
+  .shorts-cta:hover {
+    background: var(--color-purple);
   }
 
   @media (max-width: 1024px) {
