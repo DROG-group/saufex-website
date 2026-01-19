@@ -1,0 +1,400 @@
+---
+import { getCollection } from 'astro:content';
+import { spotlight, mediaMentions, successStories } from '../data/homepage';
+import { tools } from '../data/tools';
+
+// Get latest posts
+const allPosts = await getCollection('blog');
+const posts = allPosts
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
+  .slice(0, 6);
+
+const featuredPost = posts[0];
+const recentPosts = posts.slice(1, 4);
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SAUFEX — Fighting Information Manipulation</title>
+  <meta name="description" content="SAUFEX is an EU Horizon Europe funded research initiative combating foreign information manipulation and interference through research, education, and collaboration.">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://saufex.eu/">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="SAUFEX — Fighting Information Manipulation">
+  <meta property="og:description" content="EU Horizon Europe funded research initiative combating foreign information manipulation and interference.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://saufex.eu/">
+  <meta property="og:site_name" content="SAUFEX">
+  <meta property="og:image" content="https://saufex.eu/images/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="en_US">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="SAUFEX — Fighting Information Manipulation">
+  <meta name="twitter:description" content="EU Horizon Europe funded research initiative combating foreign information manipulation and interference.">
+  <meta name="twitter:image" content="https://saufex.eu/images/og-image.png">
+
+  <!-- Additional SEO -->
+  <meta name="author" content="SAUFEX Consortium">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#6b4ce6">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/images/logo-primary.png">
+  <link rel="apple-touch-icon" href="/images/logo-primary.png">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="/styles/global.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container header__inner">
+      <a href="/" class="header__logo">
+        <img src="/images/logo-primary.png" alt="">
+        <span>SAUFEX</span>
+      </a>
+
+      <!-- Mobile menu button -->
+      <button class="nav__toggle" id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <svg class="nav__toggle-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M3 12h18M3 6h18M3 18h18"></path>
+        </svg>
+        <svg class="nav__toggle-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M18 6L6 18M6 6l12 12"></path>
+        </svg>
+      </button>
+
+      <nav class="nav" id="nav">
+        <a href="/insights">Insights</a>
+        <a href="/research">Research</a>
+        <a href="/tools">Tools</a>
+        <a href="/media">Media</a>
+        <a href="/partners">Partners</a>
+        <a href="/about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <script>
+    const navToggle = document.getElementById('nav-toggle');
+    const nav = document.getElementById('nav');
+
+    navToggle?.addEventListener('click', () => {
+      const isOpen = nav?.classList.toggle('nav--open');
+      navToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      document.body.classList.toggle('nav-open', isOpen);
+    });
+
+    nav?.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        nav.classList.remove('nav--open');
+        navToggle?.setAttribute('aria-expanded', 'false');
+        document.body.classList.remove('nav-open');
+      });
+    });
+  </script>
+
+  <!-- Hero - Full screen, single focus -->
+  <main id="main-content">
+  <section class="hero">
+    <div class="hero__background"></div>
+    <div class="container">
+      <span class="hero__label">EU Horizon Europe Research</span>
+      <h1 class="hero__title">
+        Automating Europe's <em>democratic</em> response to foreign interference
+      </h1>
+      <p class="hero__subtitle">
+        A unified democratic framework for detecting, analyzing, and countering information manipulation across member states.
+      </p>
+      <a href="/insights" class="hero__cta">
+        Read our latest thinking
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M5 12h14M12 5l7 7-7 7"/>
+        </svg>
+      </a>
+    </div>
+    <span class="hero__scroll">Scroll</span>
+  </section>
+
+  <!-- Spotlight - Featured book/tool/announcement -->
+  {spotlight.active && (
+    <section class="spotlight">
+      <div class="container">
+        <div class="spotlight__inner">
+          <div class="spotlight__image">
+            <img src={spotlight.image} alt="" loading="lazy">
+          </div>
+          <div class="spotlight__content">
+            <span class="spotlight__label">{spotlight.type === 'book' ? 'New Publication' : spotlight.type === 'tool' ? 'New Tool' : 'Announcement'}</span>
+            <h2 class="spotlight__title">{spotlight.title}</h2>
+            <p class="spotlight__description">{spotlight.description}</p>
+            <a href={spotlight.cta.url} class="spotlight__cta">
+              {spotlight.cta.text}
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M5 12h14M12 5l7 7-7 7"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Featured - Latest insight, big and bold -->
+  <section class="featured">
+    <div class="container">
+      <span class="featured__label">Latest Insight</span>
+      <div class="featured__grid">
+        <div class="featured__content">
+          <h2>{featuredPost.data.title}</h2>
+          <p>{featuredPost.data.description || "Exploring the latest developments in information integrity and democratic resilience."}</p>
+          <a href={`/insights/${featuredPost.data.slug || featuredPost.id}`} class="featured__link">
+            Read this article →
+          </a>
+        </div>
+        <div class="featured__visual" aria-hidden="true">
+          <img src="/images/duotone-1_edt0ikgr.png" alt="" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Recent Posts -->
+  <section class="content-section">
+    <div class="container">
+      <div class="section__header">
+        <span class="section__title">Recent Insights</span>
+        <a href="/insights" class="section__link">View all 115+ →</a>
+      </div>
+      <div class="posts-grid">
+        {recentPosts.map((post, i) => (
+          <a href={`/insights/${post.data.slug || post.id}`} class="post-card">
+            <span class="post-card__number">№ {allPosts.length - (i + 1)}</span>
+            <h3 class="post-card__title">{post.data.title}</h3>
+            <p class="post-card__excerpt">{post.data.description || ""}</p>
+            <div class="post-card__meta">
+              {post.data.author && <span>{post.data.author}</span>}
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- In The Media - Press coverage -->
+  {mediaMentions.length > 0 && (
+    <section class="media-mentions">
+      <div class="container">
+        <div class="section__header">
+          <span class="section__title">In The Media</span>
+        </div>
+        <div class="mentions-grid">
+          {mediaMentions.map((mention) => (
+            <a href={mention.url} target="_blank" rel="noopener" class="mention-card">
+              <span class="mention-card__source">{mention.source}</span>
+              <h3 class="mention-card__title">{mention.title}</h3>
+              <div class="mention-card__meta">
+                <span class="mention-card__lang">{mention.language}</span>
+                <span>{new Date(mention.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Success Stories -->
+  {successStories.length > 0 && (
+    <section class="success-stories">
+      <div class="container">
+        <div class="section__header">
+          <span class="section__title">Success Stories</span>
+        </div>
+        {successStories.map((story) => (
+          <div class="story-card">
+            <div class="story-card__content">
+              <span class="story-card__label">Case Study</span>
+              <h3 class="story-card__title">{story.title}</h3>
+              <p class="story-card__summary">{story.summary}</p>
+              <span class="story-card__highlight">{story.highlight}</span>
+              <a href={`/insights/${story.slug}`} class="story-card__link">
+                Read the full story
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+              </a>
+            </div>
+            <div class="story-card__visual">
+              <span class="story-card__icon">PL</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- Tools Section -->
+  <section class="tools-section">
+    <div class="container">
+      <div class="section__header" style="border-color: rgba(255,255,255,0.1);">
+        <span class="section__title" style="color: rgba(255,255,255,0.6);">Our Tools</span>
+        <a href="/tools" class="section__link">See all tools →</a>
+      </div>
+      <div class="tools-grid">
+        {tools.map((tool) => (
+          <div class={`tool-card ${tool.status === 'coming-soon' ? 'tool-card--coming-soon' : ''}`}>
+            <span class="tool-card__icon">{tool.icon}</span>
+            <h3 class="tool-card__name">{tool.name}</h3>
+            <span class="tool-card__tagline">{tool.tagline}</span>
+            <span class={`tool-card__status tool-card__status--${tool.status}`}>
+              {tool.status === 'live' && 'Live'}
+              {tool.status === 'beta' && 'Beta'}
+              {tool.status === 'coming-soon' && 'In Development'}
+            </span>
+            <p class="tool-card__description">{tool.description}</p>
+            <a href={tool.cta.url} class="tool-card__cta" target={tool.status !== 'coming-soon' ? '_blank' : undefined} rel={tool.status !== 'coming-soon' ? 'noopener' : undefined}>
+              {tool.cta.text}
+              {tool.status !== 'coming-soon' && (
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                  <polyline points="15 3 21 3 21 9"/>
+                  <line x1="10" y1="14" x2="21" y2="3"/>
+                </svg>
+              )}
+            </a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Media Section - Podcast highlight -->
+  <section class="media-section">
+    <div class="container">
+      <div class="section__header">
+        <span class="section__title">Listen & Watch</span>
+        <a href="/media" class="section__link">All episodes →</a>
+      </div>
+      <div class="media-grid">
+        <div class="media-card">
+          <span class="media-card__label">Podcast</span>
+          <h3 class="media-card__title">Conversations on Information Integrity</h3>
+          <p class="media-card__guest">Recent guests include Audrey Tang, Stephan Lewandowsky, Jon Roozenbeek, and more.</p>
+          <div class="media-card__embed">
+            <iframe
+              width="100%"
+              height="166"
+              scrolling="no"
+              frameborder="no"
+              src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/saufex&color=%236b4ce6&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"
+            ></iframe>
+          </div>
+        </div>
+        <div class="media-card">
+          <span class="media-card__label">Webinars</span>
+          <h3 class="media-card__title">Workshops & Panel Discussions</h3>
+          <p class="media-card__guest">Recordings from Helsinki, Warsaw, and online events.</p>
+          <a href="https://www.youtube.com/channel/UCJpiyIP4lWTgpqgJE830Kqw" target="_blank" style="display: inline-flex; align-items: center; gap: 0.5rem; color: var(--color-purple); font-weight: 600; margin-top: 1rem;">
+            Watch on YouTube
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+              <polyline points="15 3 21 3 21 9"/>
+              <line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Strip -->
+  <section class="about-strip">
+    <div class="container">
+      <h2 class="about-strip__title">Research that matters</h2>
+      <p class="about-strip__text">
+        SAUFEX is a Horizon Europe funded consortium of six European organizations working to understand and counter foreign information manipulation and interference (FIMI).
+      </p>
+      <a href="/about" style="color: var(--color-purple); font-weight: 600;">Learn about the project →</a>
+    </div>
+  </section>
+
+  <!-- Partners -->
+  <section class="partners-section">
+    <div class="container">
+      <p class="partners__label">Consortium Partners</p>
+      <div class="partners__logos">
+        <a href="https://port.org.pl/" target="_blank" title="PORT Łukasiewicz">
+          <img src="/images/port-logo.jpg" alt="PORT Łukasiewicz">
+        </a>
+        <a href="https://faktabaari.fi/" target="_blank" title="Faktabaari">
+          <img src="/images/faktabaari-logo.png" alt="Faktabaari">
+        </a>
+        <a href="https://drog.group/" target="_blank" title="DROG">
+          <img src="/images/drog-logo.png" alt="DROG">
+        </a>
+        <a href="https://debunk.org/" target="_blank" title="Debunk.org">
+          <img src="/images/debunk.svg" alt="Debunk.org">
+        </a>
+        <a href="https://politic.edu.pl/" target="_blank" title="ISP PAN" class="partner-text">
+          <span>ISP PAN</span>
+        </a>
+        <a href="https://www.uw.edu.pl/" target="_blank" title="University of Warsaw">
+          <img src="/images/uw-logo.png" alt="University of Warsaw">
+        </a>
+      </div>
+    </div>
+  </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__inner">
+        <div class="footer__brand">
+          <img src="/images/logo-primary.png" alt="SAUFEX" style="height: 40px; margin-bottom: 1rem;">
+          <p>Combating information manipulation through research, education, and collaboration.</p>
+        </div>
+        <div class="footer__links">
+          <div class="footer__col">
+            <h4>Explore</h4>
+            <a href="/insights">Insights</a>
+            <a href="/research">Research</a>
+            <a href="/tools">Tools</a>
+            <a href="/media">Media</a>
+            <a href="/partners">Partners</a>
+            <a href="/about">About</a>
+          </div>
+          <div class="footer__col">
+            <h4>Connect</h4>
+            <a href="https://www.linkedin.com/company/saufex" target="_blank">LinkedIn</a>
+            <a href="https://soundcloud.com/saufex" target="_blank">Podcast</a>
+            <a href="https://www.youtube.com/channel/UCJpiyIP4lWTgpqgJE830Kqw" target="_blank">YouTube</a>
+            <a href="https://discord.gg/bvaGd5rahu" target="_blank">Discord</a>
+            <a href="mailto:info@saufex.eu">Contact</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <p class="footer__legal">
+          Funded by the European Union. Views expressed are those of the authors only.
+        </p>
+        <div class="footer__eu">
+          <img src="/images/eu-funded.svg" alt="Funded by the European Union">
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,104 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Get all blog posts, sorted by date (newest first)
+const allPosts = await getCollection('blog');
+const posts = allPosts.sort((a, b) => {
+  const dateA = new Date(a.data.date);
+  const dateB = new Date(b.data.date);
+  return dateB.getTime() - dateA.getTime();
+});
+
+const totalPosts = posts.length;
+---
+
+<BaseLayout title="Insights" description="Analysis, opinions, and updates on combating foreign information manipulation from the SAUFEX team.">
+
+  <!-- Page Header -->
+  <section class="page-header">
+    <div class="container">
+      <span class="page-header__label">Research & Analysis</span>
+      <h1 class="page-header__title">Insights</h1>
+      <p class="page-header__subtitle">
+        {totalPosts} articles on combating foreign information manipulation and building democratic resilience.
+      </p>
+    </div>
+  </section>
+
+  <!-- Posts Grid -->
+  <section class="content-section">
+    <div class="container">
+      <div class="posts-grid posts-grid--full">
+        {posts.map((post, i) => (
+          <a href={`/insights/${post.data.slug || post.id}`} class="post-card">
+            <span class="post-card__number">№ {totalPosts - i}</span>
+            <h3 class="post-card__title">{post.data.title}</h3>
+            {post.data.description && (
+              <p class="post-card__excerpt">{post.data.description}</p>
+            )}
+            <div class="post-card__meta">
+              {post.data.author && <span>{post.data.author}</span>}
+              <span>{new Date(post.data.date).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' })}</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>
+
+<style>
+  .page-header {
+    padding: calc(80px + var(--space-2xl)) 0 var(--space-xl);
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+  }
+
+  .page-header__label {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-xs);
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--color-purple);
+    margin-bottom: var(--space-md);
+  }
+
+  .page-header__label::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    background: var(--color-gold);
+    border-radius: 50%;
+  }
+
+  .page-header__title {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    margin-bottom: var(--space-sm);
+  }
+
+  .page-header__subtitle {
+    font-size: 1.1rem;
+    color: var(--color-muted);
+    max-width: 50ch;
+  }
+
+  .posts-grid--full {
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  }
+
+  .post-card__meta {
+    display: flex;
+    justify-content: space-between;
+    gap: var(--space-sm);
+  }
+
+  @media (max-width: 768px) {
+    .posts-grid--full {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

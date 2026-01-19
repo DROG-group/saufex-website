@@ -1,0 +1,291 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const podcastEpisodes = [
+  { title: "Piotr Sosnowski and Sara Nowacka", date: "November 19, 2025", description: "Discussion on disinformation resilience in Poland." },
+  { title: "Emma Briant: Privacy, Data and the Digital Influence Industry", date: "October 23, 2025", description: "Exploring the intersection of privacy and digital influence." },
+  { title: "The Online Marketplace of Ideas with Jon Roozenbeek", date: "October 6, 2025", description: "How ideas spread and compete online." },
+  { title: "Fact Speaking and Belief Speaking with Dr. Stephan Lewandowsky", date: "September 22, 2025", description: "Understanding the psychology of belief and misinformation." },
+  { title: "Webinar: Current state of detection and response to FIMI", date: "September 17, 2025", description: "Expert panel on FIMI detection technologies." },
+  { title: "Emerging Technologies with Andreas Vlachos", date: "June 2, 2025", description: "How AI and emerging tech impact information integrity." },
+  { title: "Talking Digital Democracy with Audrey Tang", date: "May 8, 2025", description: "Taiwan's Digital Minister on civic technology and democracy." },
+  { title: "Panel Discussion: Helsinki Conference on Civil Society", date: "April 22, 2025", description: "Engaging civil society in the fight against disinformation." },
+  { title: "Panel Discussion: Helsinki SAUFEX Event", date: "April 10, 2025", description: "Highlights from our Helsinki gathering." },
+  { title: "Diving into OSINT with Saman Nazari", date: "March 27, 2025", description: "Open-source intelligence techniques and applications." },
+];
+---
+
+<BaseLayout title="Media" description="Podcast episodes and webinar recordings from the SAUFEX project.">
+
+  <!-- Page Header -->
+  <section class="page-header">
+    <div class="container">
+      <span class="page-header__label">Listen & Watch</span>
+      <h1 class="page-header__title">Media</h1>
+      <p class="page-header__subtitle">
+        Podcast episodes featuring experts in disinformation, democracy, and digital resilience, plus recordings from our webinars and events.
+      </p>
+    </div>
+  </section>
+
+  <!-- Podcast Section -->
+  <section class="content-section">
+    <div class="container">
+      <div class="section__header">
+        <span class="section__title">Podcast</span>
+        <a href="https://soundcloud.com/saufex" target="_blank" class="section__link">Listen on SoundCloud →</a>
+      </div>
+
+      <!-- Embedded Player -->
+      <div class="embed-container">
+        <iframe
+          width="100%"
+          height="166"
+          scrolling="no"
+          frameborder="no"
+          allow="autoplay"
+          src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/saufex&color=%236b4ce6&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"
+        ></iframe>
+      </div>
+
+      <!-- Episode List -->
+      <div class="episodes">
+        {podcastEpisodes.map((episode, index) => (
+          <div class="episode">
+            <div class="episode__number">{podcastEpisodes.length - index}</div>
+            <div class="episode__content">
+              <h3 class="episode__title">{episode.title}</h3>
+              <p class="episode__description">{episode.description}</p>
+              <span class="episode__date">{episode.date}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Webinars Section -->
+  <section class="media-section">
+    <div class="container">
+      <div class="section__header">
+        <span class="section__title">Webinars & Events</span>
+        <a href="https://www.youtube.com/channel/UCJpiyIP4lWTgpqgJE830Kqw" target="_blank" class="section__link">View all on YouTube →</a>
+      </div>
+
+      <div class="webinar-grid">
+        <div class="webinar-card">
+          <span class="webinar-card__tag">Conference</span>
+          <h3 class="webinar-card__title">Helsinki Conference 2025</h3>
+          <p class="webinar-card__description">Panel discussions on engaging civil society in combating disinformation.</p>
+          <a href="https://www.youtube.com/channel/UCJpiyIP4lWTgpqgJE830Kqw" target="_blank" class="webinar-card__link">
+            Watch recording
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+              <polyline points="15 3 21 3 21 9"/>
+              <line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+          </a>
+        </div>
+
+        <div class="webinar-card">
+          <span class="webinar-card__tag">Webinar</span>
+          <h3 class="webinar-card__title">FIMI Detection Workshop</h3>
+          <p class="webinar-card__description">Technical deep-dive into detection methodologies and tools.</p>
+          <a href="https://www.youtube.com/channel/UCJpiyIP4lWTgpqgJE830Kqw" target="_blank" class="webinar-card__link">
+            Watch recording
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+              <polyline points="15 3 21 3 21 9"/>
+              <line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+          </a>
+        </div>
+
+        <div class="webinar-card">
+          <span class="webinar-card__tag">Panel</span>
+          <h3 class="webinar-card__title">Resilience Councils Launch</h3>
+          <p class="webinar-card__description">Introduction to the Resilience Council concept and implementation.</p>
+          <a href="https://www.youtube.com/channel/UCJpiyIP4lWTgpqgJE830Kqw" target="_blank" class="webinar-card__link">
+            Watch recording
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+              <polyline points="15 3 21 3 21 9"/>
+              <line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>
+
+<style>
+  .page-header {
+    padding: calc(80px + var(--space-2xl)) 0 var(--space-xl);
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+  }
+
+  .page-header__label {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-xs);
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--color-purple);
+    margin-bottom: var(--space-md);
+  }
+
+  .page-header__label::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    background: var(--color-gold);
+    border-radius: 50%;
+  }
+
+  .page-header__title {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    margin-bottom: var(--space-sm);
+  }
+
+  .page-header__subtitle {
+    font-size: 1.1rem;
+    color: var(--color-muted);
+    max-width: 55ch;
+  }
+
+  .embed-container {
+    max-width: 700px;
+    margin-bottom: var(--space-xl);
+    border-radius: 8px;
+    overflow: hidden;
+    background: #f0f0f0;
+  }
+
+  .episodes {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    max-width: 700px;
+  }
+
+  .episode {
+    display: flex;
+    gap: var(--space-md);
+    padding: var(--space-md);
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 12px;
+    transition: all 0.3s;
+  }
+
+  .episode:hover {
+    border-color: var(--color-purple);
+    transform: translateX(4px);
+  }
+
+  .episode__number {
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(107, 76, 230, 0.1);
+    border-radius: 8px;
+    font-family: var(--font-display);
+    font-weight: 600;
+    color: var(--color-purple);
+    font-size: 0.8rem;
+  }
+
+  .episode__content {
+    flex: 1;
+  }
+
+  .episode__title {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: var(--space-xs);
+    color: var(--color-dark);
+  }
+
+  .episode__description {
+    font-size: 0.875rem;
+    color: var(--color-muted);
+    margin-bottom: var(--space-xs);
+  }
+
+  .episode__date {
+    font-size: 0.75rem;
+    color: var(--color-muted);
+  }
+
+  .webinar-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-lg);
+  }
+
+  .webinar-card {
+    background: var(--color-light);
+    padding: var(--space-lg);
+    border-radius: 16px;
+  }
+
+  .webinar-card__tag {
+    display: inline-block;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--color-purple);
+    font-weight: 600;
+    margin-bottom: var(--space-sm);
+  }
+
+  .webinar-card__title {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    margin-bottom: var(--space-xs);
+  }
+
+  .webinar-card__description {
+    font-size: 0.9rem;
+    color: var(--color-muted);
+    margin-bottom: var(--space-md);
+  }
+
+  .webinar-card__link {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-xs);
+    color: var(--color-purple);
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: gap 0.2s;
+  }
+
+  .webinar-card__link:hover {
+    gap: var(--space-sm);
+  }
+
+  @media (max-width: 1024px) {
+    .webinar-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .webinar-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .episode {
+      flex-direction: column;
+      gap: var(--space-sm);
+    }
+  }
+</style>

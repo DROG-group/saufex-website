@@ -1,0 +1,6 @@
+# robots.txt for saufex.eu
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://saufex.eu/sitemap-index.xml

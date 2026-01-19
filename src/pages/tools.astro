@@ -1,0 +1,154 @@
+---
+import { tools } from '../data/tools';
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tools — SAUFEX</title>
+  <meta name="description" content="Explore the tools built by SAUFEX to combat disinformation: EMOD microlearning, GetResilience citizen councils, and more.">
+
+  <link rel="canonical" href="https://saufex.eu/tools">
+  <meta property="og:title" content="Tools — SAUFEX">
+  <meta property="og:description" content="Explore the tools built by SAUFEX to combat disinformation.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://saufex.eu/tools">
+
+  <link rel="icon" type="image/png" href="/images/logo-primary.png">
+  <link rel="stylesheet" href="/styles/global.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container header__inner">
+      <a href="/" class="header__logo">
+        <img src="/images/logo-primary.png" alt="">
+        <span>SAUFEX</span>
+      </a>
+      <button class="nav__toggle" id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <svg class="nav__toggle-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M3 12h18M3 6h18M3 18h18"></path>
+        </svg>
+        <svg class="nav__toggle-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M18 6L6 18M6 6l12 12"></path>
+        </svg>
+      </button>
+      <nav class="nav" id="nav">
+        <a href="/insights">Insights</a>
+        <a href="/research">Research</a>
+        <a href="/tools" class="active">Tools</a>
+        <a href="/media">Media</a>
+        <a href="/partners">Partners</a>
+        <a href="/about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <script>
+    const navToggle = document.getElementById('nav-toggle');
+    const nav = document.getElementById('nav');
+    navToggle?.addEventListener('click', () => {
+      const isOpen = nav?.classList.toggle('nav--open');
+      navToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      document.body.classList.toggle('nav-open', isOpen);
+    });
+  </script>
+
+  <main id="main-content">
+    <!-- Page Header -->
+    <section class="tools-page-header">
+      <div class="container">
+        <h1 class="tools-page-header__title">Tools We've Built</h1>
+        <p class="tools-page-header__subtitle">
+          Practical tools for practitioners, citizens, and organizations fighting information manipulation.
+        </p>
+      </div>
+    </section>
+
+    <!-- Tool Details -->
+    {tools.map((tool, index) => (
+      <section class={`tool-detail ${tool.status === 'coming-soon' ? 'tool-detail--coming-soon' : ''}`} id={tool.id}>
+        <div class="container">
+          <div class="tool-detail__inner">
+            <div class="tool-detail__content">
+              <span class="tool-detail__icon">{tool.icon}</span>
+              <h2 class="tool-detail__name">{tool.name}</h2>
+              <p class="tool-detail__tagline">{tool.tagline}</p>
+              <div class="tool-detail__description">
+                {tool.longDescription.split('\n\n').map(para => <p>{para}</p>)}
+              </div>
+              {tool.features && (
+                <ul class="tool-detail__features">
+                  {tool.features.map(feature => <li>{feature}</li>)}
+                </ul>
+              )}
+              {tool.audience && (
+                <p class="tool-detail__audience">
+                  <strong>Built for:</strong> {tool.audience}
+                </p>
+              )}
+              <a
+                href={tool.cta.url}
+                class="tool-detail__cta"
+                target={tool.status !== 'coming-soon' ? '_blank' : undefined}
+                rel={tool.status !== 'coming-soon' ? 'noopener' : undefined}
+              >
+                {tool.cta.text}
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+              </a>
+            </div>
+            <div class="tool-detail__visual">
+              {tool.icon}
+            </div>
+          </div>
+        </div>
+      </section>
+    ))}
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__inner">
+        <div class="footer__brand">
+          <img src="/images/logo-primary.png" alt="SAUFEX" style="height: 40px; margin-bottom: 1rem;">
+          <p>Combating information manipulation through research, education, and collaboration.</p>
+        </div>
+        <div class="footer__links">
+          <div class="footer__col">
+            <h4>Explore</h4>
+            <a href="/insights">Insights</a>
+            <a href="/research">Research</a>
+            <a href="/tools">Tools</a>
+            <a href="/media">Media</a>
+            <a href="/partners">Partners</a>
+            <a href="/about">About</a>
+          </div>
+          <div class="footer__col">
+            <h4>Connect</h4>
+            <a href="https://www.linkedin.com/company/saufex" target="_blank">LinkedIn</a>
+            <a href="https://soundcloud.com/saufex" target="_blank">Podcast</a>
+            <a href="https://www.youtube.com/channel/UCJpiyIP4lWTgpqgJE830Kqw" target="_blank">YouTube</a>
+            <a href="https://discord.gg/bvaGd5rahu" target="_blank">Discord</a>
+            <a href="mailto:info@saufex.eu">Contact</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <p class="footer__legal">
+          Funded by the European Union. Views expressed are those of the authors only.
+        </p>
+        <div class="footer__eu">
+          <img src="/images/eu-funded.svg" alt="Funded by the European Union">
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

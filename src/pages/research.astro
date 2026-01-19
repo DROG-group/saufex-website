@@ -1,0 +1,368 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const publications = [
+  {
+    title: "International Disinformation: A Handbook for Analysis and Response",
+    type: "Book",
+    url: "https://brill.com/display/title/71367",
+    description: "Comprehensive handbook on analyzing and responding to international disinformation campaigns."
+  },
+  {
+    title: "Lessons for Poland - SAUFEX Research Paper",
+    type: "Research Paper",
+    url: "https://docs.saufex.eu/Lessons_for_Poland-Saufex_Research_Paper-Pawe%C5%82_Kasprzyk.pdf",
+    author: "Paweł Kasprzyk",
+    description: "Analysis of disinformation challenges and resilience strategies for Poland."
+  },
+  {
+    title: "Towards FIMI Resilience Council in Poland",
+    type: "Report",
+    url: "https://docs.saufex.eu/Towards_FIMI_Resilience_Council_in_Poland.pdf",
+    description: "Research and progress report on establishing resilience councils."
+  },
+  {
+    title: "Project SAUFEX on Societal Resilience",
+    type: "Booklet",
+    url: "https://docs.saufex.eu/booklet%20(1).pdf",
+    description: "Overview of the whole-of-society approach to building resilience."
+  }
+];
+
+const reports = [
+  {
+    title: "Current State of Detection and Response to FIMI",
+    type: "Deliverable D1.2",
+    url: "https://docs.saufex.eu/D1.2%20-%20Current%20state%20of%20detection%20and%20response%20to%20FIMI.pdf",
+    description: "Comprehensive review of existing FIMI detection and response mechanisms."
+  },
+  {
+    title: "FIMI Narrative Report",
+    type: "Deliverable D3.1",
+    url: "https://docs.saufex.eu/D3.1.%20FIMI%20narrative_FINAL.pdf",
+    description: "Analysis of Russian disinformation narratives targeting the EU."
+  },
+  {
+    title: "EMOD: Societal Resilience through a Modular Action Plan",
+    type: "White Paper",
+    url: "https://docs.saufex.eu/EMOD_Societal_Resilience_Modular_Action_Plan.pdf",
+    description: "Framework for modular education and action planning."
+  }
+];
+---
+
+<BaseLayout title="Research" description="Publications, reports, and tools from the SAUFEX research project.">
+
+  <!-- Page Header -->
+  <section class="page-header">
+    <div class="container">
+      <span class="page-header__label">Publications & Tools</span>
+      <h1 class="page-header__title">Research</h1>
+      <p class="page-header__subtitle">
+        Publications, reports, and educational resources produced by the SAUFEX consortium.
+      </p>
+    </div>
+  </section>
+
+  <!-- Publications -->
+  <section class="content-section">
+    <div class="container">
+      <div class="section__header">
+        <span class="section__title">Publications</span>
+      </div>
+
+      <div class="resource-list">
+        {publications.map((pub) => (
+          <a href={pub.url} target="_blank" class="resource-item">
+            <div class="resource-item__icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                <polyline points="14,2 14,8 20,8"></polyline>
+              </svg>
+            </div>
+            <div class="resource-item__content">
+              <span class="resource-item__type">{pub.type}</span>
+              <h3 class="resource-item__title">{pub.title}</h3>
+              <p class="resource-item__description">{pub.description}</p>
+              {pub.author && <span class="resource-item__author">By {pub.author}</span>}
+            </div>
+            <div class="resource-item__arrow">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                <polyline points="15 3 21 3 21 9"/>
+                <line x1="10" y1="14" x2="21" y2="3"/>
+              </svg>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Reports & Deliverables -->
+  <section class="media-section">
+    <div class="container">
+      <div class="section__header">
+        <span class="section__title">Reports & Deliverables</span>
+      </div>
+
+      <div class="resource-list">
+        {reports.map((report) => (
+          <a href={report.url} target="_blank" class="resource-item resource-item--alt">
+            <div class="resource-item__icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                <polyline points="14,2 14,8 20,8"></polyline>
+                <line x1="16" y1="13" x2="8" y2="13"></line>
+                <line x1="16" y1="17" x2="8" y2="17"></line>
+              </svg>
+            </div>
+            <div class="resource-item__content">
+              <span class="resource-item__type">{report.type}</span>
+              <h3 class="resource-item__title">{report.title}</h3>
+              <p class="resource-item__description">{report.description}</p>
+            </div>
+            <div class="resource-item__arrow">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                <polyline points="15 3 21 3 21 9"/>
+                <line x1="10" y1="14" x2="21" y2="3"/>
+              </svg>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Tools & Educational Resources -->
+  <section class="content-section">
+    <div class="container">
+      <div class="section__header">
+        <span class="section__title">Tools & Education</span>
+      </div>
+
+      <div class="tools-grid">
+        <div class="tool-card">
+          <span class="tool-card__tag">Educational Platform</span>
+          <h3 class="tool-card__title">EMOD Modules</h3>
+          <p class="tool-card__description">
+            European Master of Disinformation - educational modules designed for training professionals, officials, and practitioners in countering information manipulation.
+          </p>
+          <a href="https://substance-frontend.vercel.app/" target="_blank" class="tool-card__link">
+            Access EMOD
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M5 12h14M12 5l7 7-7 7"/>
+            </svg>
+          </a>
+        </div>
+
+        <div class="tool-card">
+          <span class="tool-card__tag">Data Access</span>
+          <h3 class="tool-card__title">Research Data</h3>
+          <p class="tool-card__description">
+            Access anonymized datasets and research materials for academic purposes. Available under appropriate data sharing agreements.
+          </p>
+          <a href="mailto:info@saufex.eu" class="tool-card__link">
+            Request Access
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M5 12h14M12 5l7 7-7 7"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>
+
+<style>
+  .page-header {
+    padding: calc(80px + var(--space-2xl)) 0 var(--space-xl);
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+  }
+
+  .page-header__label {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-xs);
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--color-purple);
+    margin-bottom: var(--space-md);
+  }
+
+  .page-header__label::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    background: var(--color-gold);
+    border-radius: 50%;
+  }
+
+  .page-header__title {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    margin-bottom: var(--space-sm);
+  }
+
+  .page-header__subtitle {
+    font-size: 1.1rem;
+    color: var(--color-muted);
+    max-width: 50ch;
+  }
+
+  .resource-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    max-width: 800px;
+  }
+
+  .resource-item {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-md);
+    padding: var(--space-md);
+    background: var(--color-light);
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 12px;
+    text-decoration: none;
+    transition: all 0.3s;
+  }
+
+  .resource-item--alt {
+    background: var(--color-light);
+  }
+
+  .resource-item:hover {
+    border-color: var(--color-purple);
+    transform: translateX(4px);
+  }
+
+  .resource-item__icon {
+    flex-shrink: 0;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(107, 76, 230, 0.1);
+    border-radius: 10px;
+    color: var(--color-purple);
+  }
+
+  .resource-item__content {
+    flex: 1;
+  }
+
+  .resource-item__type {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-purple);
+    margin-bottom: var(--space-xs);
+  }
+
+  .resource-item__title {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-dark);
+    margin-bottom: var(--space-xs);
+  }
+
+  .resource-item__description {
+    font-size: 0.875rem;
+    color: var(--color-muted);
+    margin: 0;
+  }
+
+  .resource-item__author {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--color-muted);
+    margin-top: var(--space-xs);
+  }
+
+  .resource-item__arrow {
+    flex-shrink: 0;
+    color: var(--color-muted);
+    transition: all 0.2s;
+  }
+
+  .resource-item:hover .resource-item__arrow {
+    color: var(--color-purple);
+    transform: translate(2px, -2px);
+  }
+
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-lg);
+  }
+
+  .tool-card {
+    padding: var(--space-lg);
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 16px;
+  }
+
+  .tool-card__tag {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-purple);
+    margin-bottom: var(--space-sm);
+  }
+
+  .tool-card__title {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    margin-bottom: var(--space-sm);
+  }
+
+  .tool-card__description {
+    font-size: 0.95rem;
+    color: var(--color-muted);
+    margin-bottom: var(--space-lg);
+  }
+
+  .tool-card__link {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-xs);
+    padding: var(--space-sm) var(--space-md);
+    background: var(--color-dark);
+    color: var(--color-light);
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 0.9rem;
+    border-radius: 100px;
+    transition: all 0.3s;
+  }
+
+  .tool-card__link:hover {
+    background: var(--color-purple);
+  }
+
+  @media (max-width: 768px) {
+    .tools-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .resource-item {
+      flex-direction: column;
+      gap: var(--space-sm);
+    }
+
+    .resource-item__arrow {
+      display: none;
+    }
+  }
+</style>
