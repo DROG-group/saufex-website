@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://saufex.eu',
+  site: 'https://new.saufex.eu',
   output: 'static',
   integrations: [
     sitemap({
