@@ -393,9 +393,9 @@ button:focus-visible {
   scroll-behavior: smooth;
   scrollbar-width: none;
   -ms-overflow-style: none;
-  padding: var(--space-sm) calc(50% - 140px);
-  -webkit-mask-image: linear-gradient(to right, transparent 5%, black 35%, black 65%, transparent 95%);
-  mask-image: linear-gradient(to right, transparent 5%, black 35%, black 65%, transparent 95%);
+  padding: var(--space-sm) var(--space-md);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 20%, black 80%, transparent);
+  mask-image: linear-gradient(to right, transparent, black 20%, black 80%, transparent);
 }
 
 .shorts-carousel__track::-webkit-scrollbar {
@@ -404,13 +404,12 @@ button:focus-visible {
 
 .shorts-carousel__item {
   flex: 0 0 auto;
-  width: 280px;
+  width: 220px;
   aspect-ratio: 9/16;
   border-radius: 12px;
   overflow: hidden;
   scroll-snap-align: center;
   background: #000;
-  transition: opacity 0.3s;
 }
 
 .shorts-carousel__item iframe {
