@@ -102,6 +102,17 @@ const recentPosts = posts.slice(1, 4);
         document.body.classList.remove('nav-open');
       });
     });
+
+    // Shorts carousel navigation
+    const track = document.querySelector('.shorts-carousel__track');
+    const prevBtn = document.querySelector('.shorts-carousel__btn--prev');
+    const nextBtn = document.querySelector('.shorts-carousel__btn--next');
+
+    if (track && prevBtn && nextBtn) {
+      const scrollAmount = () => track.querySelector('.shorts-carousel__item')?.offsetWidth + 16 || 300;
+      prevBtn.addEventListener('click', () => track.scrollBy({ left: -scrollAmount(), behavior: 'smooth' }));
+      nextBtn.addEventListener('click', () => track.scrollBy({ left: scrollAmount(), behavior: 'smooth' }));
+    }
   </script>
 
   <!-- Hero - Full screen, single focus -->
@@ -162,8 +173,34 @@ const recentPosts = posts.slice(1, 4);
             Read this article →
           </a>
         </div>
-        <div class="featured__visual" aria-hidden="true">
-          <img src="/images/duotone-1_edt0ikgr.png" alt="" loading="lazy">
+        <div class="shorts-carousel" aria-label="Video summaries of popular blog posts">
+          <button class="shorts-carousel__btn shorts-carousel__btn--prev" aria-label="Previous video">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M15 18l-6-6 6-6"/>
+            </svg>
+          </button>
+          <div class="shorts-carousel__track">
+            <div class="shorts-carousel__item">
+              <iframe src="https://www.youtube.com/embed/eS3V2_XFHGQ" title="Video summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="shorts-carousel__item">
+              <iframe src="https://www.youtube.com/embed/It1qlUQ_-NU" title="Video summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="shorts-carousel__item">
+              <iframe src="https://www.youtube.com/embed/sq5xeSgia_U" title="Video summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="shorts-carousel__item">
+              <iframe src="https://www.youtube.com/embed/cdjFMWY-q5U" title="Video summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="shorts-carousel__item">
+              <iframe src="https://www.youtube.com/embed/TfRPIc4HXUo" title="Video summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+          <button class="shorts-carousel__btn shorts-carousel__btn--next" aria-label="Next video">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M9 18l6-6-6-6"/>
+            </svg>
+          </button>
         </div>
       </div>
     </div>

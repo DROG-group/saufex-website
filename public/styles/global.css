@@ -376,6 +376,70 @@ button:focus-visible {
 }
 
 /* ============================================
+   SHORTS CAROUSEL - Video summaries
+   ============================================ */
+.shorts-carousel {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.shorts-carousel__track {
+  display: flex;
+  gap: var(--space-md);
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  padding: var(--space-sm) var(--space-xl);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
+  mask-image: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
+}
+
+.shorts-carousel__track::-webkit-scrollbar {
+  display: none;
+}
+
+.shorts-carousel__item {
+  flex: 0 0 auto;
+  width: 200px;
+  aspect-ratio: 9/16;
+  border-radius: 12px;
+  overflow: hidden;
+  scroll-snap-align: center;
+  background: #000;
+}
+
+.shorts-carousel__item iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.shorts-carousel__btn {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255,255,255,0.15);
+  color: var(--color-light);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  z-index: 2;
+}
+
+.shorts-carousel__btn:hover {
+  background: rgba(255,255,255,0.25);
+  transform: scale(1.1);
+}
+
+/* ============================================
    CONTENT GRID - Clean, scannable
    ============================================ */
 .content-section {
@@ -759,6 +823,22 @@ button:focus-visible {
   .featured__visual {
     aspect-ratio: 16/9;
     margin-top: var(--space-lg);
+  }
+
+  .shorts-carousel {
+    margin-top: var(--space-lg);
+  }
+
+  .shorts-carousel__btn {
+    display: none;
+  }
+
+  .shorts-carousel__track {
+    padding: var(--space-sm) var(--space-lg);
+  }
+
+  .shorts-carousel__item {
+    width: 160px;
   }
 
   .posts-grid {
