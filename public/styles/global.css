@@ -1560,3 +1560,25 @@ button:focus-visible {
   border-radius: 8px;
   margin: var(--space-lg) 0;
 }
+
+/* ============================================
+   MOBILE OVERRIDES - Must be at end of file
+   ============================================ */
+@media (max-width: 768px) {
+  .mentions-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .tools-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .story-card {
+    grid-template-columns: 1fr !important;
+    text-align: center;
+  }
+
+  .story-card__visual {
+    display: none !important;
+  }
+}
