@@ -64,26 +64,28 @@ const podcastEpisodes = [
     </div>
   </section>
 
-  <!-- AI Shorts Section -->
+  <!-- Video Summaries Section -->
   <section class="media-section">
     <div class="container">
       <div class="section__header">
-        <span class="section__title">AI Shorts</span>
-        <a href="https://www.youtube.com/@Saufexevents/shorts" target="_blank" class="section__link">View all shorts →</a>
+        <span class="section__title">Video Summaries</span>
+        <a href="https://www.youtube.com/@Saufexevents/shorts" target="_blank" class="section__link">View all →</a>
       </div>
 
-      <div class="shorts-section">
-        <p class="shorts-description">
-          AI-generated video summaries of our blog posts, making key insights accessible in under 60 seconds.
-        </p>
-        <a href="https://www.youtube.com/@Saufexevents/shorts" target="_blank" class="shorts-cta">
-          Watch on YouTube
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
-            <polyline points="15 3 21 3 21 9"/>
-            <line x1="10" y1="14" x2="21" y2="3"/>
-          </svg>
-        </a>
+      <p class="shorts-intro">
+        60-second video summaries of our most popular blog posts.
+      </p>
+
+      <div class="shorts-grid">
+        <div class="short-embed">
+          <iframe
+            src="https://www.youtube.com/embed/videoseries?list=UUSHFSaufexevents"
+            title="SAUFEX Video Summaries"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
       </div>
     </div>
   </section>
@@ -296,34 +298,34 @@ const podcastEpisodes = [
     gap: var(--space-sm);
   }
 
-  .shorts-section {
-    max-width: 600px;
-    padding: var(--space-lg);
-    background: var(--color-light);
-    border-radius: 16px;
-  }
-
-  .shorts-description {
+  .shorts-intro {
     color: var(--color-muted);
-    margin-bottom: var(--space-md);
+    margin-bottom: var(--space-lg);
+    max-width: 500px;
   }
 
-  .shorts-cta {
-    display: inline-flex;
-    align-items: center;
-    gap: var(--space-xs);
-    padding: var(--space-sm) var(--space-md);
-    background: var(--color-dark);
-    color: var(--color-light);
-    font-family: var(--font-display);
-    font-weight: 600;
-    font-size: 0.9rem;
-    border-radius: 100px;
-    transition: all 0.3s;
+  .shorts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: var(--space-md);
+    max-width: 900px;
   }
 
-  .shorts-cta:hover {
-    background: var(--color-purple);
+  .short-embed {
+    position: relative;
+    aspect-ratio: 9/16;
+    max-height: 500px;
+    border-radius: 12px;
+    overflow: hidden;
+    background: #000;
+  }
+
+  .short-embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 
   @media (max-width: 1024px) {

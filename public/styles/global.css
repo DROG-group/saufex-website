@@ -470,7 +470,7 @@ button:focus-visible {
 
 .media-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
   gap: var(--space-lg);
 }
 
@@ -678,6 +678,10 @@ button:focus-visible {
   }
 
   .mentions-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .media-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 }
