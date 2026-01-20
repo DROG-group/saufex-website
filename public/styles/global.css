@@ -1581,4 +1581,8 @@ button:focus-visible {
   .story-card__visual {
     display: none !important;
   }
+
+  .shorts-carousel {
+    max-width: 260px !important;
+  }
 }
