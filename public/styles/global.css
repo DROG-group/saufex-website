@@ -763,6 +763,19 @@ button:focus-visible {
   .media-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .tools-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .story-card {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .story-card__visual {
+    display: none;
+  }
 }
 
 @media (max-width: 768px) {
@@ -923,17 +936,7 @@ button:focus-visible {
     grid-template-columns: 1fr;
   }
 
-  /* Success stories mobile */
-  .story-card {
-    grid-template-columns: 1fr;
-    text-align: center;
-  }
-
-  .story-card__visual {
-    display: none;
-  }
-
-  /* Tools mobile */
+  /* Tools mobile - single column at small screens */
   .tools-grid {
     grid-template-columns: 1fr;
   }
