@@ -233,8 +233,8 @@ button:focus-visible {
 }
 
 .hero__title {
-  font-size: clamp(3rem, 8vw, 6rem);
-  max-width: 14ch;
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  max-width: 18ch;
   margin-bottom: var(--space-lg);
 }
 
