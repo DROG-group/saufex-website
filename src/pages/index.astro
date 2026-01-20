@@ -173,7 +173,9 @@ const recentPosts = posts.slice(1, 4);
             Read this article →
           </a>
         </div>
-        <div class="shorts-carousel" aria-label="Video summaries of popular blog posts">
+        <div class="shorts-carousel-wrapper">
+          <span class="shorts-carousel__label">Insights in 60 seconds</span>
+          <div class="shorts-carousel" aria-label="Video summaries of blog posts">
           <button class="shorts-carousel__btn shorts-carousel__btn--prev" aria-label="Previous video">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <path d="M15 18l-6-6 6-6"/>
@@ -201,6 +203,7 @@ const recentPosts = posts.slice(1, 4);
               <path d="M9 18l6-6-6-6"/>
             </svg>
           </button>
+          </div>
         </div>
       </div>
     </div>
