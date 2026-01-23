@@ -6,47 +6,103 @@ const publications = [
     title: "International Disinformation: A Handbook for Analysis and Response",
     type: "Book",
     url: "https://brill.com/display/title/71367",
-    description: "Comprehensive handbook on analyzing and responding to international disinformation campaigns."
+    description: "Comprehensive handbook on analyzing and responding to international disinformation campaigns.",
+    status: "published"
   },
   {
     title: "Lessons for Poland - SAUFEX Research Paper",
     type: "Research Paper",
     url: "https://docs.saufex.eu/Lessons_for_Poland-Saufex_Research_Paper-Pawe%C5%82_Kasprzyk.pdf",
     author: "Paweł Kasprzyk",
-    description: "Analysis of disinformation challenges and resilience strategies for Poland."
+    description: "Analysis of disinformation challenges and resilience strategies for Poland.",
+    status: "published"
   },
   {
     title: "Towards FIMI Resilience Council in Poland",
     type: "Report",
     url: "https://docs.saufex.eu/Towards_FIMI_Resilience_Council_in_Poland.pdf",
-    description: "Research and progress report on establishing resilience councils."
+    description: "Research and progress report on establishing resilience councils.",
+    status: "published"
   },
   {
     title: "Project SAUFEX on Societal Resilience",
     type: "Booklet",
     url: "https://docs.saufex.eu/booklet%20(1).pdf",
-    description: "Overview of the whole-of-society approach to building resilience."
+    description: "Overview of the whole-of-society approach to building resilience.",
+    status: "published"
   }
 ];
 
-const reports = [
+const conferences = [
+  // Add your conference presentations here as they happen
+  // Target: Minimum 3 presentations (Semesters 3-6)
+];
+
+const technicalReports = [
+  {
+    title: "Report on Building STIX 2.1 Extensions",
+    description: "Technical documentation for cyber threat intelligence exchange extensions.",
+    semester: "4-5",
+    status: "planned"
+  },
+  {
+    title: "OpenCTI Cases Publication",
+    description: "Training dataset for GPT AI models and Automated Consensus Resilience Council responses.",
+    semester: "4-5",
+    status: "planned"
+  },
+  {
+    title: "Applied Science Master's Programme Documentation",
+    description: "Comprehensive documentation related to EMoD development and implementation.",
+    semester: "5-6",
+    status: "planned"
+  }
+];
+
+const deliverables = [
   {
     title: "Current State of Detection and Response to FIMI",
     type: "Deliverable D1.2",
     url: "https://docs.saufex.eu/D1.2%20-%20Current%20state%20of%20detection%20and%20response%20to%20FIMI.pdf",
-    description: "Comprehensive review of existing FIMI detection and response mechanisms."
+    description: "Comprehensive review of existing FIMI detection and response mechanisms.",
+    status: "completed"
   },
   {
     title: "FIMI Narrative Report",
     type: "Deliverable D3.1",
     url: "https://docs.saufex.eu/D3.1.%20FIMI%20narrative_FINAL.pdf",
-    description: "Analysis of Russian disinformation narratives targeting the EU."
+    description: "Analysis of Russian disinformation narratives targeting the EU.",
+    status: "completed"
+  },
+  {
+    title: "Communication, Dissemination and Exploitation Plan",
+    type: "Deliverable D5.1",
+    url: "#",
+    description: "Comprehensive strategy for project communication, dissemination, and exploitation of results.",
+    status: "completed"
+  },
+  {
+    title: "FIMI Course Field Handbook",
+    type: "Deliverable D5.3",
+    url: "#",
+    description: "Comprehensive guide for establishing Resilience Councils with best practices and operational procedures.",
+    status: "in-progress",
+    semester: "5"
+  },
+  {
+    title: "Policy Briefs on FIMI Response",
+    type: "Deliverable D5.4",
+    url: "#",
+    description: "Two policy briefs synthesizing project findings and recommendations for policymakers.",
+    status: "planned",
+    semester: "5-6"
   },
   {
     title: "EMOD: Societal Resilience through a Modular Action Plan",
     type: "White Paper",
     url: "https://docs.saufex.eu/EMOD_Societal_Resilience_Modular_Action_Plan.pdf",
-    description: "Framework for modular education and action planning."
+    description: "Framework for modular education and action planning.",
+    status: "completed"
   }
 ];
 ---
@@ -69,6 +125,7 @@ const reports = [
     <div class="container">
       <div class="section__header">
         <span class="section__title">Publications</span>
+        <span class="section__meta">Target: 4+ journal articles | Current: {publications.length}</span>
       </div>
 
       <div class="resource-list">
@@ -99,37 +156,152 @@ const reports = [
     </div>
   </section>
 
-  <!-- Reports & Deliverables -->
+  <!-- Conference Presentations -->
   <section class="media-section">
     <div class="container">
       <div class="section__header">
-        <span class="section__title">Reports & Deliverables</span>
+        <span class="section__title">Conference Presentations</span>
+        <span class="section__meta">Target: Minimum 3 presentations | Current: {conferences.length}</span>
+      </div>
+
+      {conferences.length > 0 ? (
+        <div class="resource-list">
+          {conferences.map((conf) => (
+            <div class="resource-item resource-item--alt">
+              <div class="resource-item__icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                  <circle cx="9" cy="7" r="4"></circle>
+                  <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                  <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                </svg>
+              </div>
+              <div class="resource-item__content">
+                <span class="resource-item__type">{conf.type}</span>
+                <h3 class="resource-item__title">{conf.title}</h3>
+                <p class="resource-item__description">{conf.description}</p>
+                {conf.presenter && <span class="resource-item__author">Presented by {conf.presenter}</span>}
+              </div>
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div class="empty-state">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+            <circle cx="9" cy="7" r="4"></circle>
+            <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+            <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+          </svg>
+          <h3 class="empty-state__title">Conference presentations forthcoming</h3>
+          <p class="empty-state__description">
+            We're actively seeking speaking opportunities at academic and industry conferences focused on disinformation, hybrid threats, and cybersecurity.
+          </p>
+          <a href="mailto:info@saufex.eu?subject=Speaking Opportunity" class="empty-state__cta">
+            Invite us to speak
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M5 12h14M12 5l7 7-7 7"/>
+            </svg>
+          </a>
+        </div>
+      )}
+    </div>
+  </section>
+
+  <!-- Project Deliverables -->
+  <section class="content-section">
+    <div class="container">
+      <div class="section__header">
+        <span class="section__title">Project Deliverables</span>
+        <span class="section__meta">Horizon Europe Grant 101132494</span>
       </div>
 
       <div class="resource-list">
-        {reports.map((report) => (
-          <a href={report.url} target="_blank" class="resource-item resource-item--alt">
+        {deliverables.map((deliverable) => (
+          deliverable.status === 'completed' ? (
+            <a href={deliverable.url} target="_blank" class="resource-item">
+              <div class="resource-item__icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                  <polyline points="14,2 14,8 20,8"></polyline>
+                  <line x1="16" y1="13" x2="8" y2="13"></line>
+                  <line x1="16" y1="17" x2="8" y2="17"></line>
+                </svg>
+              </div>
+              <div class="resource-item__content">
+                <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+                  <span class="resource-item__type">{deliverable.type}</span>
+                  <span class="status-badge status-badge--completed">✓ Completed</span>
+                </div>
+                <h3 class="resource-item__title">{deliverable.title}</h3>
+                <p class="resource-item__description">{deliverable.description}</p>
+              </div>
+              <div class="resource-item__arrow">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                  <polyline points="15 3 21 3 21 9"/>
+                  <line x1="10" y1="14" x2="21" y2="3"/>
+                </svg>
+              </div>
+            </a>
+          ) : (
+            <div class="resource-item resource-item--inactive">
+              <div class="resource-item__icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                  <polyline points="14,2 14,8 20,8"></polyline>
+                  <line x1="16" y1="13" x2="8" y2="13"></line>
+                  <line x1="16" y1="17" x2="8" y2="17"></line>
+                </svg>
+              </div>
+              <div class="resource-item__content">
+                <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+                  <span class="resource-item__type">{deliverable.type}</span>
+                  {deliverable.status === 'in-progress' && (
+                    <span class="status-badge status-badge--progress">In Progress</span>
+                  )}
+                  {deliverable.status === 'planned' && (
+                    <span class="status-badge status-badge--planned">Semester {deliverable.semester}</span>
+                  )}
+                </div>
+                <h3 class="resource-item__title">{deliverable.title}</h3>
+                <p class="resource-item__description">{deliverable.description}</p>
+              </div>
+            </div>
+          )
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Technical Reports -->
+  <section class="media-section">
+    <div class="container">
+      <div class="section__header">
+        <span class="section__title">Technical Reports</span>
+        <span class="section__meta">Forthcoming documentation and datasets</span>
+      </div>
+
+      <div class="resource-list">
+        {technicalReports.map((report) => (
+          <div class="resource-item resource-item--alt resource-item--inactive">
             <div class="resource-item__icon">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-                <polyline points="14,2 14,8 20,8"></polyline>
-                <line x1="16" y1="13" x2="8" y2="13"></line>
-                <line x1="16" y1="17" x2="8" y2="17"></line>
+                <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path>
+                <polyline points="14 2 14 8 20 8"></polyline>
+                <line x1="12" y1="18" x2="12" y2="12"></line>
+                <line x1="9" y1="15" x2="15" y2="15"></line>
               </svg>
             </div>
             <div class="resource-item__content">
-              <span class="resource-item__type">{report.type}</span>
+              <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+                <span class="resource-item__type">Technical Report</span>
+                <span class="status-badge status-badge--planned">Semester {report.semester}</span>
+              </div>
               <h3 class="resource-item__title">{report.title}</h3>
               <p class="resource-item__description">{report.description}</p>
             </div>
-            <div class="resource-item__arrow">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
-                <polyline points="15 3 21 3 21 9"/>
-                <line x1="10" y1="14" x2="21" y2="3"/>
-              </svg>
-            </div>
-          </a>
+          </div>
         ))}
       </div>
     </div>
@@ -351,6 +523,112 @@ const reports = [
     background: var(--color-purple);
   }
 
+  /* Section Meta */
+  .section__header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-lg);
+  }
+
+  .section__meta {
+    font-size: 0.85rem;
+    color: var(--color-muted);
+    font-weight: 500;
+  }
+
+  /* Status Badges */
+  .status-badge {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 100px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .status-badge--completed {
+    background: rgba(34, 197, 94, 0.1);
+    color: #16a34a;
+  }
+
+  .status-badge--progress {
+    background: rgba(251, 146, 60, 0.1);
+    color: #ea580c;
+  }
+
+  .status-badge--planned {
+    background: rgba(107, 76, 230, 0.1);
+    color: var(--color-purple);
+  }
+
+  /* Inactive Resource Items */
+  .resource-item--inactive {
+    opacity: 0.7;
+    cursor: default;
+    pointer-events: none;
+  }
+
+  .resource-item--inactive:hover {
+    border-color: rgba(0,0,0,0.08);
+    transform: none;
+  }
+
+  /* Empty State */
+  .empty-state {
+    text-align: center;
+    padding: var(--space-2xl) var(--space-lg);
+    background: rgba(107, 76, 230, 0.03);
+    border: 1px dashed rgba(107, 76, 230, 0.2);
+    border-radius: 16px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .empty-state svg {
+    color: var(--color-purple);
+    margin-bottom: var(--space-md);
+    opacity: 0.5;
+  }
+
+  .empty-state__title {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    margin-bottom: var(--space-sm);
+    color: var(--color-dark);
+  }
+
+  .empty-state__description {
+    color: var(--color-muted);
+    margin-bottom: var(--space-lg);
+    max-width: 50ch;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .empty-state__cta {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-xs);
+    padding: var(--space-sm) var(--space-lg);
+    background: var(--color-dark);
+    color: var(--color-light);
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 0.9rem;
+    border-radius: 100px;
+    text-decoration: none;
+    transition: all 0.3s;
+  }
+
+  .empty-state__cta:hover {
+    background: var(--color-purple);
+    transform: translateY(-2px);
+  }
+
   @media (max-width: 768px) {
     .tools-grid {
       grid-template-columns: 1fr;
@@ -363,6 +641,11 @@ const reports = [
 
     .resource-item__arrow {
       display: none;
+    }
+
+    .section__header {
+      flex-direction: column;
+      align-items: flex-start;
     }
   }
 </style>
