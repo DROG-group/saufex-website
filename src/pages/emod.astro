@@ -1,0 +1,366 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const learningPaths = [
+  {
+    category: "Foundational Track",
+    subtitle: "Perfect for beginners",
+    paths: [
+      {
+        title: "Understanding Disinformation Basics",
+        modules: 6,
+        completed: 4,
+        duration: "45 minutes",
+        description: "Learn what disinformation is, how it spreads online, and basic FIMI concepts.",
+        level: "Beginner",
+        url: "/emod/foundational/understanding-disinformation"
+      },
+      {
+        title: "Media Literacy Fundamentals",
+        modules: 6,
+        completed: 1,
+        duration: "50 minutes",
+        description: "Develop critical skills for evaluating sources, identifying bias, and fact-checking.",
+        level: "Beginner",
+        url: "/emod/foundational/media-literacy"
+      },
+      {
+        title: "Introductory Data Analysis",
+        modules: 5,
+        completed: 0,
+        duration: "40 minutes",
+        description: "Understand statistics, visualizations, and research findings critically.",
+        level: "Beginner",
+        url: "/emod/foundational/data-analysis"
+      }
+    ]
+  },
+  {
+    category: "Core Learning Paths",
+    subtitle: "Professional development",
+    paths: [
+      {
+        title: "Anatomy of Mis- and Disinformation",
+        modules: 7,
+        completed: 5,
+        duration: "60 minutes",
+        description: "Deep dive into belief systems, how they form, sustain, and can be countered.",
+        level: "Intermediate",
+        url: "/emod/core/anatomy"
+      },
+      {
+        title: "Understanding and Addressing FIMI",
+        modules: 8,
+        completed: 3,
+        duration: "70 minutes",
+        description: "Comprehensive training on foreign information manipulation and interference.",
+        level: "Intermediate",
+        url: "/emod/core/fimi"
+      },
+      {
+        title: "Organized Countering of Disinformation",
+        modules: 6,
+        completed: 2,
+        duration: "55 minutes",
+        description: "Institutional approaches including fact-checking, prebunking, and strategic communication.",
+        level: "Intermediate",
+        url: "/emod/core/organized-countering"
+      },
+      {
+        title: "AI and Hybrid Threats",
+        modules: 7,
+        completed: 0,
+        duration: "65 minutes",
+        description: "How AI transforms disinformation and hybrid warfare strategies.",
+        level: "Advanced",
+        url: "/emod/core/ai-hybrid-threats",
+        badge: "Critical"
+      },
+      {
+        title: "Disinfonomics",
+        modules: 6,
+        completed: 1,
+        duration: "50 minutes",
+        description: "The economics of information threats and market-based countermeasures.",
+        level: "Intermediate",
+        url: "/emod/core/disinfonomics"
+      },
+      {
+        title: "FIMI on Large Online Platforms",
+        modules: 6,
+        completed: 0,
+        duration: "50 minutes",
+        description: "Platform governance, moderation, and regulatory approaches.",
+        level: "Advanced",
+        url: "/emod/core/platforms"
+      }
+    ]
+  }
+];
+
+const stats = [
+  { number: "14", label: "Modules Available", sublabel: "36 more coming soon" },
+  { number: "50+", label: "Total Modules", sublabel: "When complete" },
+  { number: "8 min", label: "Per Module", sublabel: "Average completion time" },
+  { number: "7", label: "Learning Paths", sublabel: "Foundational to advanced" }
+];
+
+const features = [
+  {
+    icon: "📚",
+    title: "Self-Paced Learning",
+    description: "Learn at your own speed with flexible, mobile-friendly modules designed for busy professionals."
+  },
+  {
+    icon: "🎓",
+    title: "Expert Content",
+    description: "Curated by SAUFEX researchers and specialists in disinformation, FIMI, and democratic resilience."
+  },
+  {
+    icon: "🌍",
+    title: "Real-World Focus",
+    description: "Practical skills and frameworks you can apply immediately in your work and community."
+  },
+  {
+    icon: "🔄",
+    title: "Continuously Updated",
+    description: "Content evolves with the threat landscape, incorporating latest research and case studies."
+  }
+];
+---
+
+<BaseLayout
+  title="EMoD - European Master of Disinformation"
+  description="Comprehensive e-learning platform for countering disinformation, FIMI, and information manipulation. Free, self-paced courses from SAUFEX researchers.">
+
+  <!-- Hero Section -->
+  <section class="page-header" style="background: linear-gradient(135deg, var(--color-dark) 0%, #1a1a2e 100%);">
+    <div class="container">
+      <div style="display: inline-flex; align-items: center; gap: 8px; padding: 6px 16px; background: rgba(107, 76, 230, 0.15); border: 1px solid var(--color-purple); border-radius: 100px; margin-bottom: var(--space-md);">
+        <span style="width: 8px; height: 8px; background: var(--color-purple); border-radius: 50%; animation: pulse 2s ease-in-out infinite;"></span>
+        <span style="font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-purple);">Part of SAUFEX</span>
+      </div>
+
+      <h1 class="page-header__title" style="color: white; font-size: clamp(2.5rem, 6vw, 5rem); margin-bottom: var(--space-md);">
+        <span style="background: linear-gradient(135deg, var(--color-purple) 0%, var(--color-purple-light) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">EMoD</span>
+      </h1>
+
+      <p class="page-header__subtitle" style="color: rgba(255,255,255,0.9); font-size: 1.3rem; max-width: 60ch; margin-bottom: var(--space-lg);">
+        European Master of Disinformation — Free, self-paced learning for professionals defending democracy against information manipulation.
+      </p>
+
+      <div style="display: flex; gap: var(--space-md); flex-wrap: wrap; margin-bottom: var(--space-2xl);">
+        <a href="#learning-paths" class="btn btn--primary" style="padding: var(--space-md) var(--space-xl); font-size: 1.1rem;">
+          Browse Learning Paths
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </a>
+        <a href="https://substance-frontend.vercel.app/" target="_blank" class="btn btn--outline" style="padding: var(--space-md) var(--space-xl); font-size: 1.1rem; border-color: white; color: white;">
+          Access Full Platform
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+            <polyline points="15 3 21 3 21 9"/>
+            <line x1="10" y1="14" x2="21" y2="3"/>
+          </svg>
+        </a>
+      </div>
+
+      <!-- Stats -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: var(--space-lg); max-width: 900px;">
+        {stats.map(stat => (
+          <div style="text-align: center; padding: var(--space-md); background: rgba(255,255,255,0.08); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px;">
+            <div style="font-size: 2.5rem; font-weight: 700; color: var(--color-purple-light); font-family: var(--font-display); margin-bottom: 4px;">{stat.number}</div>
+            <div style="font-size: 0.9rem; font-weight: 600; color: white; margin-bottom: 4px;">{stat.label}</div>
+            <div style="font-size: 0.75rem; color: rgba(255,255,255,0.6);">{stat.sublabel}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="content-section">
+    <div class="container">
+      <div class="section__header" style="text-align: center; margin-bottom: var(--space-2xl);">
+        <span class="section__label">Why EMoD</span>
+        <h2 class="section__title" style="font-size: clamp(2rem, 4vw, 3rem);">Professional Learning, Freely Available</h2>
+        <p style="font-size: 1.1rem; color: var(--color-muted); max-width: 65ch; margin: var(--space-md) auto 0;">
+          EMoD provides evidence-based training for professionals working to counter disinformation and protect democratic processes.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--space-xl);">
+        {features.map(feature => (
+          <div style="padding: var(--space-xl); background: var(--color-light); border: 1px solid rgba(0,0,0,0.08); border-radius: 16px; transition: all 0.3s;"
+               onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 12px 24px rgba(0,0,0,0.1)';"
+               onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+            <div style="font-size: 3rem; margin-bottom: var(--space-md);">{feature.icon}</div>
+            <h3 style="font-family: var(--font-display); font-size: 1.3rem; margin-bottom: var(--space-sm); color: var(--color-dark);">{feature.title}</h3>
+            <p style="color: var(--color-muted); line-height: 1.6;">{feature.description}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Learning Paths -->
+  <section id="learning-paths" class="media-section">
+    <div class="container">
+      <div class="section__header" style="text-align: center; margin-bottom: var(--space-2xl);">
+        <span class="section__label">Curriculum</span>
+        <h2 class="section__title" style="font-size: clamp(2rem, 4vw, 3rem);">Learning Paths</h2>
+        <p style="font-size: 1.1rem; color: var(--color-muted); max-width: 65ch; margin: var(--space-md) auto 0;">
+          Choose your path based on your experience level and learning goals. All paths are free and self-paced.
+        </p>
+      </div>
+
+      {learningPaths.map(category => (
+        <div style="margin-bottom: var(--space-2xl);">
+          <div style="margin-bottom: var(--space-lg);">
+            <h3 style="font-family: var(--font-display); font-size: 1.8rem; color: var(--color-dark); margin-bottom: 4px;">{category.category}</h3>
+            <p style="color: var(--color-muted); font-size: 1rem;">{category.subtitle}</p>
+          </div>
+
+          <div style="display: grid; gap: var(--space-lg);">
+            {category.paths.map(path => (
+              <a href={path.url} style="display: block; padding: var(--space-xl); background: var(--color-light); border: 2px solid rgba(0,0,0,0.08); border-radius: 16px; text-decoration: none; transition: all 0.3s;"
+                 onmouseover="this.style.borderColor='var(--color-purple)'; this.style.transform='translateX(4px)';"
+                 onmouseout="this.style.borderColor='rgba(0,0,0,0.08)'; this.style.transform='translateX(0)';">
+
+                <div style="display: flex; justify-content: space-between; align-items: start; gap: var(--space-lg); flex-wrap: wrap;">
+                  <div style="flex: 1; min-width: 300px;">
+                    <div style="display: flex; align-items: center; gap: var(--space-sm); margin-bottom: var(--space-sm);">
+                      <h4 style="font-family: var(--font-display); font-size: 1.4rem; color: var(--color-dark); margin: 0;">{path.title}</h4>
+                      {path.badge && (
+                        <span style="padding: 4px 12px; background: rgba(234, 88, 12, 0.1); color: #ea580c; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; border-radius: 100px; letter-spacing: 0.05em;">{path.badge}</span>
+                      )}
+                    </div>
+
+                    <p style="color: var(--color-muted); margin-bottom: var(--space-md); line-height: 1.6;">{path.description}</p>
+
+                    <div style="display: flex; gap: var(--space-lg); flex-wrap: wrap; font-size: 0.9rem; color: var(--color-muted);">
+                      <div style="display: flex; align-items: center; gap: 6px;">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                          <path d="M12 2v20M2 12h20"/>
+                        </svg>
+                        <span><strong>{path.completed}</strong> / {path.modules} modules</span>
+                      </div>
+                      <div style="display: flex; align-items: center; gap: 6px;">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                          <circle cx="12" cy="12" r="10"/>
+                          <polyline points="12 6 12 12 16 14"/>
+                        </svg>
+                        <span>{path.duration}</span>
+                      </div>
+                      <div style="display: flex; align-items: center; gap: 6px;">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                          <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/>
+                          <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>
+                        </svg>
+                        <span>{path.level}</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div style="display: flex; flex-direction: column; align-items: center; gap: var(--space-sm);">
+                    <div style="position: relative; width: 80px; height: 80px;">
+                      <svg viewBox="0 0 36 36" style="width: 100%; height: 100%; transform: rotate(-90deg);">
+                        <circle cx="18" cy="18" r="16" fill="none" stroke="rgba(0,0,0,0.1)" stroke-width="3"/>
+                        <circle cx="18" cy="18" r="16" fill="none" stroke="var(--color-purple)" stroke-width="3"
+                                stroke-dasharray={`${(path.completed / path.modules) * 100}, 100`}
+                                stroke-linecap="round"/>
+                      </svg>
+                      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: var(--font-display); font-size: 1.2rem; font-weight: 700; color: var(--color-dark);">
+                        {Math.round((path.completed / path.modules) * 100)}%
+                      </div>
+                    </div>
+                    <span style="font-size: 0.75rem; color: var(--color-muted); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;">Complete</span>
+                  </div>
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="content-section" style="background: linear-gradient(135deg, var(--color-purple) 0%, #5a3cc4 100%); color: white;">
+    <div class="container" style="text-align: center; padding: var(--space-2xl) 0;">
+      <h2 style="font-family: var(--font-display); font-size: clamp(2rem, 4vw, 3rem); margin-bottom: var(--space-md); color: white;">Ready to Start Learning?</h2>
+      <p style="font-size: 1.2rem; color: rgba(255,255,255,0.9); max-width: 55ch; margin: 0 auto var(--space-xl);">
+        Join professionals worldwide building resilience against disinformation and information manipulation.
+      </p>
+      <div style="display: flex; gap: var(--space-md); justify-content: center; flex-wrap: wrap;">
+        <a href="#learning-paths" class="btn" style="background: white; color: var(--color-purple); padding: var(--space-md) var(--space-xl); font-size: 1.1rem;">
+          Browse Courses
+        </a>
+        <a href="https://substance-frontend.vercel.app/" target="_blank" class="btn" style="background: transparent; border: 2px solid white; color: white; padding: var(--space-md) var(--space-xl); font-size: 1.1rem;">
+          Access Full Platform
+        </a>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>
+
+<style>
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-sm);
+    padding: var(--space-sm) var(--space-lg);
+    border: none;
+    border-radius: 100px;
+    font-family: var(--font-display);
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s;
+    cursor: pointer;
+  }
+
+  .btn--primary {
+    background: var(--color-purple);
+    color: white;
+  }
+
+  .btn--primary:hover {
+    background: var(--color-purple-light);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(107, 76, 230, 0.3);
+  }
+
+  .btn--outline {
+    background: transparent;
+    border: 2px solid var(--color-dark);
+    color: var(--color-dark);
+  }
+
+  .btn--outline:hover {
+    background: var(--color-dark);
+    color: white;
+  }
+
+  .section__label {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--color-purple);
+    margin-bottom: var(--space-sm);
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+  }
+
+  @media (max-width: 768px) {
+    .page-header {
+      padding: var(--space-xl) 0 !important;
+    }
+  }
+</style>

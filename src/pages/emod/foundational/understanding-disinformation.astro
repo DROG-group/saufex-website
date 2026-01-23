@@ -1,0 +1,305 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+const modules = [
+  {
+    number: 1,
+    title: "What is Disinformation?",
+    slug: "Module-What-is-Disinformation",
+    status: "available",
+    duration: "8 min",
+    description: "Common definitions of disinformation, the challenge of intent, and what counts as 'false'.",
+    author: "Julian"
+  },
+  {
+    number: 2,
+    title: "Outrageous Beliefs",
+    slug: "8-Module-Outrageous-beliefs",
+    status: "available",
+    duration: "9 min",
+    description: "Four types of outrageous beliefs and how to identify disinformation.",
+    author: "Onno Hansen-Staszyński"
+  },
+  {
+    number: 3,
+    title: "How Information Spreads Online",
+    slug: "Module-How-Information-Spreads-Online",
+    status: "available",
+    duration: "8 min",
+    description: "Social media algorithms, virality, filter bubbles, and network effects.",
+    author: "SAUFEX Consortium"
+  },
+  {
+    number: 4,
+    title: "Basic FIMI Concepts",
+    slug: "Module-Basic-FIMI-Concepts",
+    status: "available",
+    duration: "8 min",
+    description: "What is Foreign Information Manipulation and Interference and why it matters to democracy.",
+    author: "SAUFEX Consortium"
+  },
+  {
+    number: 5,
+    title: "Recognizing Manipulation Tactics",
+    slug: "module-recognizing-manipulation-tactics",
+    status: "coming-soon",
+    duration: "8 min",
+    description: "Common manipulation techniques, emotional manipulation, and logical fallacies.",
+    author: "SAUFEX Consortium"
+  },
+  {
+    number: 6,
+    title: "Your Role in Information Ecosystems",
+    slug: "module-your-role-information-ecosystems",
+    status: "coming-soon",
+    duration: "6 min",
+    description: "Individual responsibility, being a critical consumer, and sharing responsibly.",
+    author: "SAUFEX Consortium"
+  }
+];
+
+const pathInfo = {
+  title: "Understanding Disinformation Basics",
+  level: "Beginner",
+  duration: "45 minutes",
+  completedModules: 4,
+  totalModules: 6,
+  description: "This foundational learning path introduces you to key concepts in disinformation, how false information spreads online, and what Foreign Information Manipulation and Interference (FIMI) means for democracy. Perfect for beginners with no prior knowledge."
+};
+
+const learningObjectives = [
+  "Define disinformation and distinguish it from misinformation",
+  "Understand how information spreads through social media algorithms",
+  "Identify Foreign Information Manipulation and Interference (FIMI)",
+  "Recognize common manipulation tactics used in disinformation campaigns",
+  "Apply critical thinking skills to your own information consumption"
+];
+---
+
+<BaseLayout
+  title={`${pathInfo.title} - EMoD`}
+  description={pathInfo.description}>
+
+  <!-- Breadcrumb -->
+  <section class="content-section" style="padding-top: calc(80px + var(--space-lg)); padding-bottom: 0;">
+    <div class="container">
+      <nav style="display: flex; align-items: center; gap: var(--space-xs); font-size: 0.9rem; color: var(--color-muted); margin-bottom: var(--space-xl);">
+        <a href="/" style="color: var(--color-muted); text-decoration: none;">Home</a>
+        <span>›</span>
+        <a href="/emod" style="color: var(--color-muted); text-decoration: none;">EMoD</a>
+        <span>›</span>
+        <span style="color: var(--color-dark);">{pathInfo.title}</span>
+      </nav>
+    </div>
+  </section>
+
+  <!-- Header -->
+  <section class="page-header" style="border-bottom: 1px solid rgba(0,0,0,0.08);">
+    <div class="container">
+      <div style="display: flex; gap: var(--space-sm); align-items: center; margin-bottom: var(--space-md); flex-wrap: wrap;">
+        <span style="padding: 6px 14px; background: rgba(34, 197, 94, 0.1); color: #16a34a; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; border-radius: 100px; letter-spacing: 0.05em;">
+          {pathInfo.level}
+        </span>
+        <span style="padding: 6px 14px; background: rgba(107, 76, 230, 0.1); color: var(--color-purple); font-size: 0.75rem; font-weight: 700; text-transform: uppercase; border-radius: 100px; letter-spacing: 0.05em;">
+          Foundational Track
+        </span>
+      </div>
+
+      <h1 class="page-header__title" style="margin-bottom: var(--space-md);">{pathInfo.title}</h1>
+
+      <p class="page-header__subtitle" style="max-width: 70ch; margin-bottom: var(--space-xl);">
+        {pathInfo.description}
+      </p>
+
+      <div style="display: flex; gap: var(--space-xl); flex-wrap: wrap; padding: var(--space-lg); background: var(--color-light); border-radius: 12px; margin-bottom: var(--space-lg);">
+        <div>
+          <div style="font-size: 0.8rem; color: var(--color-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Modules</div>
+          <div style="font-family: var(--font-display); font-size: 1.5rem; font-weight: 700; color: var(--color-dark);">
+            {pathInfo.completedModules} / {pathInfo.totalModules}
+          </div>
+        </div>
+        <div>
+          <div style="font-size: 0.8rem; color: var(--color-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Duration</div>
+          <div style="font-family: var(--font-display); font-size: 1.5rem; font-weight: 700; color: var(--color-dark);">
+            {pathInfo.duration}
+          </div>
+        </div>
+        <div>
+          <div style="font-size: 0.8rem; color: var(--color-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Progress</div>
+          <div style="font-family: var(--font-display); font-size: 1.5rem; font-weight: 700; color: var(--color-purple);">
+            {Math.round((pathInfo.completedModules / pathInfo.totalModules) * 100)}%
+          </div>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: var(--space-md); flex-wrap: wrap;">
+        <a href={`/insights/${modules.find(m => m.status === 'available').slug}`} class="btn btn--primary">
+          Start Learning
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </a>
+        <a href="https://substance-frontend.vercel.app/" target="_blank" class="btn btn--outline">
+          Access on Platform
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+            <polyline points="15 3 21 3 21 9"/>
+            <line x1="10" y1="14" x2="21" y2="3"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Learning Objectives -->
+  <section class="content-section">
+    <div class="container">
+      <h2 style="font-family: var(--font-display); font-size: 1.8rem; margin-bottom: var(--space-lg);">Learning Objectives</h2>
+      <div style="background: var(--color-light); padding: var(--space-xl); border-radius: 16px; border-left: 4px solid var(--color-purple);">
+        <p style="color: var(--color-muted); margin-bottom: var(--space-md);">By completing this learning path, you will be able to:</p>
+        <ul style="display: flex; flex-direction: column; gap: var(--space-md); list-style: none; padding: 0; margin: 0;">
+          {learningObjectives.map(objective => (
+            <li style="display: flex; align-items: start; gap: var(--space-sm);">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--color-purple)" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
+                <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
+                <polyline points="22 4 12 14.01 9 11.01"/>
+              </svg>
+              <span style="color: var(--color-dark); line-height: 1.6;">{objective}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Modules List -->
+  <section class="media-section">
+    <div class="container">
+      <h2 style="font-family: var(--font-display); font-size: 1.8rem; margin-bottom: var(--space-lg);">Course Modules</h2>
+
+      <div style="display: flex; flex-direction: column; gap: var(--space-md);">
+        {modules.map(module => (
+          <div style={`display: flex; align-items: start; gap: var(--space-lg); padding: var(--space-lg); background: var(--color-light); border: 2px solid ${module.status === 'available' ? 'rgba(0,0,0,0.08)' : 'rgba(0,0,0,0.05)'}; border-radius: 12px; ${module.status === 'available' ? '' : 'opacity: 0.6;'}`}>
+
+            <!-- Module Number Circle -->
+            <div style={`flex-shrink: 0; width: 60px; height: 60px; display: flex; align-items: center; justify-content: center; border-radius: 50%; font-family: var(--font-display); font-size: 1.5rem; font-weight: 700; ${module.status === 'available' ? 'background: var(--color-purple); color: white;' : 'background: rgba(0,0,0,0.08); color: var(--color-muted);'}`}>
+              {module.number}
+            </div>
+
+            <!-- Module Content -->
+            <div style="flex: 1; min-width: 0;">
+              <div style="display: flex; align-items: start; justify-content: space-between; gap: var(--space-md); margin-bottom: var(--space-sm);">
+                <div style="flex: 1;">
+                  <h3 style="font-family: var(--font-display); font-size: 1.2rem; color: var(--color-dark); margin-bottom: 4px;">
+                    {module.title}
+                  </h3>
+                  <p style="color: var(--color-muted); font-size: 0.9rem; margin-bottom: var(--space-sm); line-height: 1.5;">
+                    {module.description}
+                  </p>
+                  <div style="display: flex; gap: var(--space-md); flex-wrap: wrap; font-size: 0.85rem; color: var(--color-muted);">
+                    <span style="display: flex; align-items: center; gap: 4px;">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="10"/>
+                        <polyline points="12 6 12 12 16 14"/>
+                      </svg>
+                      {module.duration}
+                    </span>
+                    <span style="display: flex; align-items: center; gap: 4px;">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+                        <circle cx="12" cy="7" r="4"/>
+                      </svg>
+                      {module.author}
+                    </span>
+                  </div>
+                </div>
+
+                {module.status === 'available' ? (
+                  <a href={`/insights/${module.slug}`}
+                     style="flex-shrink: 0; padding: var(--space-sm) var(--space-lg); background: var(--color-purple); color: white; font-family: var(--font-display); font-weight: 600; font-size: 0.9rem; border-radius: 100px; text-decoration: none; transition: all 0.3s; display: inline-flex; align-items: center; gap: var(--space-xs);"
+                     onmouseover="this.style.background='var(--color-purple-light)'; this.style.transform='translateY(-2px)';"
+                     onmouseout="this.style.background='var(--color-purple)'; this.style.transform='translateY(0)';">
+                    Start Module
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <path d="M5 12h14M12 5l7 7-7 7"/>
+                    </svg>
+                  </a>
+                ) : (
+                  <span style="flex-shrink: 0; padding: var(--space-sm) var(--space-lg); background: rgba(0,0,0,0.05); color: var(--color-muted); font-family: var(--font-display); font-weight: 600; font-size: 0.9rem; border-radius: 100px; display: inline-flex; align-items: center; gap: var(--space-xs);">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
+                      <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+                    </svg>
+                    Coming Soon
+                  </span>
+                )}
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Next Steps -->
+  <section class="content-section" style="background: linear-gradient(135deg, var(--color-purple) 0%, #5a3cc4 100%); color: white;">
+    <div class="container" style="text-align: center; padding: var(--space-2xl) 0;">
+      <h2 style="font-family: var(--font-display); font-size: 2rem; margin-bottom: var(--space-md); color: white;">Ready to Get Started?</h2>
+      <p style="font-size: 1.1rem; color: rgba(255,255,255,0.9); max-width: 55ch; margin: 0 auto var(--space-xl);">
+        Begin with the first module and work through at your own pace. Each module takes about 8 minutes.
+      </p>
+      <a href={`/insights/${modules[0].slug}`} class="btn" style="background: white; color: var(--color-purple); padding: var(--space-md) var(--space-xl); font-size: 1.1rem;">
+        Start Module 1
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M5 12h14M12 5l7 7-7 7"/>
+        </svg>
+      </a>
+    </div>
+  </section>
+
+</BaseLayout>
+
+<style>
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-sm);
+    padding: var(--space-sm) var(--space-lg);
+    border: none;
+    border-radius: 100px;
+    font-family: var(--font-display);
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s;
+    cursor: pointer;
+  }
+
+  .btn--primary {
+    background: var(--color-purple);
+    color: white;
+  }
+
+  .btn--primary:hover {
+    background: var(--color-purple-light);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(107, 76, 230, 0.3);
+  }
+
+  .btn--outline {
+    background: transparent;
+    border: 2px solid var(--color-dark);
+    color: var(--color-dark);
+  }
+
+  .btn--outline:hover {
+    background: var(--color-dark);
+    color: white;
+  }
+
+  @media (max-width: 768px) {
+    .btn {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+</style>
