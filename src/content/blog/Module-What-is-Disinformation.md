@@ -1,10 +1,12 @@
 ---
 title: "Module: What is Disinformation?"
 slug: "Module-What-is-Disinformation"
-author: "Julian"
-date: "2024-10-15"
-updated: "2024-11-01"
-description: "Here we look at common definitions of disinformation and what they do and don't include."
+author: "SAUFEX Consortium"
+date: "2026-01-23"
+description: "Foundational definitions of disinformation, misinformation, and malinformation - understanding what we're fighting."
+learningPath: "Understanding Disinformation Basics"
+moduleNumber: 1
+estimatedTime: "8 minutes"
 ---
 
 [![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
@@ -14,47 +16,337 @@ description: "Here we look at common definitions of disinformation and what they
 
 # Module: What is Disinformation?
 
-By **Julian** | Last Updated: **1 November 2024**  
+By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
-\[screen 1\]
+[screen 1]
 
-This may seem overly semantic but if we want to make policy surrounding disinformation it is very important to know what it is.
+"Fake news." "Propaganda." "Lies." We use many terms to describe false information, but precise definitions matter. If we want to address information manipulation, we must understand what we're fighting.
 
-As the field has evolved multiple definitions have [emerged of what disinformation](https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/) is. The most common definition of disinformation is false information deliberately intended to deceive its audience. Misinformation is when false information is spread without the intent to deceive.
+This module defines disinformation and related concepts, providing the foundation for everything that follows.
 
-So wait how the hell do we know the intent of someone online?
+[screen 2]
 
-\[screen 2\]
+## Core Definitions
 
-Unless you are in someone's head or in the room with them when they make a plan to deceive people it is very difficult to establish intent. Guessing the intent of an actor spreading disinformation online is often a matter of guesswork for analysts based on the evidence gathered.
+Three key terms describe problematic information:
 
-\[screen 3\]
+**Disinformation**: False information deliberately created and spread with intent to deceive
 
-Based on the content analysts can try to assess what the intent is. As an example if someone says "cereal is made of insects" they might have a variety of incentives. They could have financial motives if they sell a competitive product to breakfast cereal. They may be a state actor trying to create doubt in an adversary state's food safety bureau. They may be just lying for the fun of it!
+**Misinformation**: False information spread without intent to deceive (often by mistake)
 
-\[screen 4\]
+**Malinformation**: Genuine information shared to cause harm (leaked private info, out-of-context truth)
 
-For intent analysts need to gave a wealth of evidence about _who_ is trying to spread the false information and _what_ the false information is. Often assigning intent is done as a confidence level (eg. we are reasonably certain X is meant to...)
+**Key distinction**: Intent. Disinformation requires deliberate deception; misinformation doesn't.
 
-\[screen 5\]
+[screen 3]
 
-Okay, so disinformation is false information spread with the intent to deceive. We've covered how they look at intent but what about the most important part?
+## The Intent Problem
 
-How do we say what is false?
+How do we know someone intended to deceive?
 
-\[screen 6\]
+**Challenge**: We can't read minds. Intent is inherently difficult to establish.
 
-To address whether something is false some public health [researchers](https://pubmed.ncbi.nlm.nih.gov/31874069/) went with the definition "information that is contrary to the epistemic consensus of the scientific community regarding a phenomenon". This is a fine definition for public health as most health topics have scientists who have weighed in, but what about topics where there is no "epistemic consensus"?
+**Reality**: Unless we have evidence of planning (leaked communications, coordinated campaigns, financial motives), intent is inferred.
 
-\[screen 7\]
+**Approach**: Analysts assess intent based on:
+• Consistency of false claims
+• Coordination patterns
+• Financial or political motives
+• Sophistication of operation
+• Response to corrections
 
-In general, facts in science are based on events that are repeatable. In other areas of life fact is usually established in reference to a source (eg. a witness, an expert, a piece of evidence). Journalists and Intelligence officers are in the business of trying to tell what is true or false and they both rely extensively on combing through different sources to verify information.
+Intent assessment is often a confidence level, not certainty.
 
-\[screen 8\]
+[screen 4]
 
-Defining further what is a fact quickly gets into epistemology and we don't have time for that. What is important is that for most people fact relies on source, and belief in a source requires trust.
+## What Makes Information "False"?
 
-## Subscribe now &  
+Establishing falsity requires standards:
+
+**Scientific topics**: Contrary to scientific consensus
+• Example: "Vaccines cause autism" contradicts overwhelming evidence
+
+**Verifiable facts**: Contradicts documented reality
+• Example: "Election had 3 million illegal votes" contradicted by evidence
+
+**Contested claims**: More difficult
+• Interpretation vs fact
+• Emerging issues without consensus
+
+**Context matters**: Same information can be true, false, or misleading depending on context and framing.
+
+[screen 5]
+
+## Truth, Facts, and Trust
+
+How do we establish truth?
+
+**Science**: Repeatable, testable, consensus-based
+
+**Journalism**: Multiple sources, verification, evidence
+
+**Intelligence**: Source evaluation, corroboration, confidence levels
+
+**Law**: Evidence, witness testimony, standards of proof
+
+**Common thread**: Trust in sources and methods
+
+**Reality**: Fact-checking ultimately relies on trusted authorities and evidence. When trust erodes, establishing truth becomes harder.
+
+[screen 6]
+
+## "Fake News" - A Problematic Term
+
+Why "fake news" is inadequate:
+
+**Originally**: Entirely fabricated stories presented as news
+
+**Weaponized**: Now used to dismiss any inconvenient reporting
+
+**Problems**:
+• Weaponized by politicians to attack legitimate journalism
+• Implies all false information looks like "news"
+• Oversimplifies complex phenomenon
+
+**Better terms**: Disinformation, misinformation, false information, information manipulation
+
+Precise language matters.
+
+[screen 7]
+
+## Types of False Information
+
+Disinformation takes many forms:
+
+**Fabricated content**: Completely false, invented from nothing
+
+**Manipulated content**: Genuine content altered (edited images, doctored documents)
+
+**Imposter content**: Impersonating genuine sources
+
+**Misleading content**: Selective truth, misleading framing
+
+**False context**: Genuine content with false context (old photo presented as recent)
+
+**Satire/parody**: Humorous content mistaken for real (not disinformation unless intent to deceive)
+
+[screen 8]
+
+## Disinformation vs. Propaganda
+
+Related but distinct concepts:
+
+**Propaganda**:
+• Communication to influence opinion
+• May use truthful or false information
+• Often one-sided, not necessarily false
+• Historically associated with governments
+
+**Disinformation**:
+• Specifically false information
+• Deliberately deceptive
+• Can be from any actor
+• Modern focus on deception
+
+**Overlap**: Propaganda campaigns often include disinformation, but propaganda isn't always disinformation.
+
+[screen 9]
+
+## Online vs. Offline Disinformation
+
+Digital changes the game:
+
+**Traditional disinformation**:
+• Pamphlets, radio, TV
+• Limited reach without resources
+• Slower spread
+• Centralized creation
+
+**Digital disinformation**:
+• Anyone can create and spread
+• Global reach instantly
+• Algorithmic amplification
+• Permanent (archived, screenshotted)
+• Scale and speed unprecedented
+
+Same basic concept, transformed by technology.
+
+[screen 10]
+
+## Harm from Disinformation
+
+Why disinformation matters:
+
+**Individual harms**:
+• Bad decisions based on false beliefs
+• Health risks (medical misinformation)
+• Financial losses (scams)
+• Psychological distress
+
+**Societal harms**:
+• Undermining democratic processes
+• Public health crises (vaccine hesitancy)
+• Erosion of trust in institutions
+• Polarization and conflict
+• Violence (motivated by false beliefs)
+
+**Cumulative effect**: Degraded information environment where truth becomes harder to identify.
+
+[screen 11]
+
+## Not All False Information is Disinformation
+
+Important distinctions:
+
+**Honest mistakes**: Journalists occasionally err, then correct
+
+**Satire**: Clearly intended as humor (The Onion, etc.)
+
+**Contested interpretations**: Disagreement about implications
+
+**Evolving information**: Scientific understanding changes
+
+**Opinion**: Subjective views aren't "false"
+
+**Disinformation requires**: Falsity + intent to deceive + deliberate spread
+
+Overuse of "disinformation" label can itself be problematic.
+
+[screen 12]
+
+## Who Creates Disinformation?
+
+Multiple actors with different motives:
+
+**State actors**: Foreign influence operations, domestic propaganda
+
+**Political actors**: Campaigns, partisans seeking advantage
+
+**Financial actors**: Profit from engagement, advertising, scams
+
+**Ideological actors**: True believers spreading aligned false narratives
+
+**Malicious actors**: Chaos, entertainment, attention-seeking
+
+**Hybrid operations**: Combinations of above
+
+Understanding actor motivations helps understand and counter disinformation.
+
+[screen 13]
+
+## Information Disorder Framework
+
+Claire Wardle's comprehensive framework:
+
+**Three types** (disinformation, misinformation, malinformation)
+
+**Seven types of content** (fabricated, manipulated, imposter, etc.)
+
+**Three elements**:
+• Agent (who created/spread)
+• Message (what is the content)
+• Interpreter (who receives and understands)
+
+**Value**: Comprehensive view of information ecosystem problems
+
+Framework widely adopted by researchers and policymakers.
+
+[screen 14]
+
+## Disinformation vs. Conspiracy Theories
+
+Overlapping but distinct:
+
+**Conspiracy theories**:
+• Explain events through secret plots
+• May be believed sincerely by promoters
+• Often unfalsifiable
+• Psychological and social functions
+
+**Disinformation**:
+• False information deliberately spread
+• Creator knows it's false
+• Specific claims, not just theories
+
+**Overlap**: Disinformation campaigns often exploit and amplify conspiracy theories
+
+Not all conspiracy theorists are disinformation agents; not all disinformation is conspiracy theories.
+
+[screen 15]
+
+## The Definitional Challenge
+
+Why definitions are contested:
+
+**Politics**: "Disinformation" used to delegitimize opponents
+
+**Epistemology**: What counts as "false" is sometimes unclear
+
+**Free speech**: Concerns about who decides truth
+
+**Cultural differences**: Varying norms about truth and deception
+
+**Evolution**: Phenomenon evolving faster than definitions
+
+**Reality**: Perfect definitions impossible, but working definitions necessary for research and policy
+
+Acknowledge limitations while working with best available definitions.
+
+[screen 16]
+
+## Why Precise Definitions Matter
+
+Consequences of imprecise language:
+
+**Policy**: Vague laws can be abused for censorship
+
+**Research**: Incomparable studies if measuring different things
+
+**Public discourse**: "Disinformation" loses meaning through overuse
+
+**Trust**: False accusations damage credibility
+
+**Effectiveness**: Can't address problem not clearly defined
+
+**Balance**: Precision without paralysis - act while refining understanding
+
+[screen 17]
+
+## Beyond "True" and "False"
+
+Information can be problematic without being false:
+
+**Misleading but true**: Selective facts creating false impression
+
+**Manipulative framing**: True information presented deceptively
+
+**Harmful truth**: Private information weaponized
+
+**Context stripping**: Facts without necessary context
+
+**Focus**: Harm and manipulation, not just falsity
+
+Information integrity about more than just factual accuracy.
+
+[screen 18]
+
+## Working Definition for This Programme
+
+For EMoD purposes:
+
+**Disinformation**: False, misleading, or deceptively framed information deliberately created or spread to deceive, manipulate, or cause harm
+
+**Broad enough**: Captures various problematic information
+
+**Specific enough**: Excludes honest mistakes and legitimate disagreement
+
+**Acknowledges**: Gray areas and edge cases
+
+**Practical**: Enables policy and intervention design
+
+With this foundation, we can explore how disinformation spreads, how to recognize it, and how to counter it.
+
+## Subscribe now &
 Get the latest updates
 
 Subscribe
