@@ -24,11 +24,11 @@ export const tools: Tool[] = [
     longDescription: `EMOD (European Master of countering Disinformation) provides microlearning modules built from contributions by experts who excel at specific approaches in the counter-disinformation field. Each module shares one specific value, system, or approach that has proven effective.
 
 Whether you're a journalist, fact-checker, policy maker, or educator, EMOD gives you actionable knowledge you can apply immediately.`,
-    url: 'https://substance-frontend.vercel.app',
+    url: 'https://emod-platform2.vercel.app/dashboard',
     status: 'live',
     cta: {
       text: 'Try EMOD',
-      url: 'https://substance-frontend.vercel.app'
+      url: 'https://emod-platform2.vercel.app/dashboard'
     },
     features: [
       'Expert-contributed content',
