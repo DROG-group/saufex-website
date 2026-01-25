@@ -22,3 +22,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# scratch/temp files
+_scratch/
+CLAUDE.md
+README.md
