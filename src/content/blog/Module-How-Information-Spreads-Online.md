@@ -3,92 +3,478 @@ title: "Module: How Information Spreads Online"
 slug: "Module-How-Information-Spreads-Online"
 author: "SAUFEX Consortium"
 date: "2026-01-23"
-description: "Understanding how social media algorithms, virality, and network effects shape what information reaches us online."
+description: "Understanding the mechanics of online information spread - algorithms, networks, amplification, and why some content reaches millions while most disappears."
 learningPath: "Understanding Disinformation Basics"
 moduleNumber: 3
-estimatedTime: "8 minutes"
+estimatedTime: "18 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
 
 # Module: How Information Spreads Online
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
+**Purpose**: You'll learn how content actually spreads online — the mechanics, not the mythology. This helps distinguish organic spread from coordinated amplification and avoids the "it went viral, therefore suspicious" trap.
+
+---
 
 [screen 1]
 
-Every day, billions of pieces of content compete for your attention online. But have you ever wondered why you see what you see? Why does some content "go viral" while other posts disappear?
+## The Basic Question
 
-Understanding how information spreads online is crucial to recognizing how disinformation reaches millions.
+Why does one post reach 10 million people while another, nearly identical, reaches 47?
+
+The answer isn't magic, luck, or (usually) conspiracy. It's mechanics. Understanding those mechanics is foundational to analyzing information operations.
+
+If you don't understand how things spread, you'll see coordination where there's randomness and miss coordination where it exists.
+
+---
 
 [screen 2]
 
-## The Algorithm Decides
+## Platforms Are Sorting Machines
 
-When you open Facebook, Twitter, Instagram, or TikTok, you're not seeing everything your friends post. Instead, an algorithm - a set of computer instructions - decides what appears in your feed.
+Every major platform — Facebook, X/Twitter, Instagram, TikTok, YouTube — faces the same problem: too much content, limited attention.
 
-The algorithm's job? Keep you scrolling as long as possible.
+Their solution: algorithms that decide what you see.
+
+You don't see everything your friends post. You don't see every tweet from accounts you follow. You see what the algorithm predicts you'll engage with.
+
+The algorithm's goal isn't truth, accuracy, or your wellbeing. It's engagement — keeping you on the platform.
+
+---
 
 [screen 3]
 
-These algorithms prioritize "engagement" - likes, shares, comments, and time spent viewing. Content that triggers strong emotions (anger, fear, joy, outrage) gets more engagement.
+## What Drives Algorithmic Selection
 
-This is why false and misleading information often spreads faster than accurate news: it's designed to provoke emotion.
+Different platforms weight factors differently, but common elements:
+
+**Engagement signals:**
+- Likes, shares, comments, saves
+- Time spent viewing
+- Click-through rates
+- Reply depth and velocity
+
+**Recency:**
+- Fresh content typically prioritized
+- But "viral" content can persist
+
+**Relationship signals:**
+- Accounts you interact with frequently
+- Network connections
+- Group memberships
+
+**Content characteristics:**
+- Media type (video often boosted)
+- Post length, formatting
+- Topics matching your history
+
+---
 
 [screen 4]
 
-## Going Viral
+## The Engagement Trap
 
-A post "goes viral" when it spreads exponentially - from dozens to thousands to millions of people in hours. Virality happens through a chain reaction: someone sees content, shares it, their followers share it, and so on.
+Here's the problem: what drives engagement often diverges from what's true or useful.
 
-But virality isn't random. It follows patterns.
+Content that triggers strong emotion — outrage, fear, moral indignation, humor — gets more engagement. Content that confirms existing beliefs gets more engagement. Content that's simple and shareable gets more engagement.
+
+This isn't a conspiracy. It's incentive alignment. Platforms optimize for attention; emotional content captures attention.
+
+The result: a structural advantage for content designed to provoke, regardless of accuracy.
+
+---
 
 [screen 5]
 
-Viral content typically has three characteristics:
+## Virality: The Mechanics
 
-• Strong emotional appeal (makes you laugh, angry, or shocked)
+"Viral" means exponential spread — content reaching far beyond its initial audience through chains of sharing.
 
-• Social currency (makes you look knowledgeable or entertaining when you share it)
+**Basic model:**
+1. Content posted to initial audience
+2. Some portion shares
+3. Their audiences see it, some share
+4. Process repeats, potentially exponentially
 
-• Simplicity (easy to understand and share quickly)
+**Reality modifiers:**
+- Most content never goes viral
+- Virality is heavily influenced by early engagement
+- Platform amplification decisions matter enormously
+- Timing, topic, and network position all factor
 
-Disinformation creators deliberately design content with these characteristics.
+A sudden spike isn't suspicious by itself. It's how things work.
+
+---
 
 [screen 6]
 
-## Filter Bubbles and Echo Chambers
+## Why "Viral" Isn't Evidence of Coordination
 
-Algorithms learn your preferences from your past behavior. If you often click on political content from one perspective, the algorithm will show you more similar content.
+A common analytical error: "This spread too fast, therefore it's coordinated."
 
-Over time, this creates a "filter bubble" - you mainly see information that confirms what you already believe.
+Reality check:
+- Real-world events trigger organic virality constantly
+- Celebrity shares can cause instant massive spread
+- Platform algorithm changes affect spread patterns
+- Emotional content naturally spreads faster
+
+**What to look for instead:**
+- Coordination in timing (seconds apart, not natural)
+- Same content across unconnected accounts
+- Accounts with creation patterns suggesting bulk production
+- Cross-platform coordination with identical timing
+
+Speed alone is weak evidence. Pattern analysis is stronger.
+
+---
 
 [screen 7]
 
-Inside filter bubbles, false claims can spread unchecked. When everyone in your feed agrees with a misleading narrative, it starts to feel like truth.
+## Network Structure Matters
 
-Echo chambers amplify this effect: not only do you see similar views, but opposing perspectives become invisible or are actively rejected.
+Not all accounts are equal. Some are "super-spreaders" — accounts with large followings, high engagement rates, or connections to multiple communities.
+
+**Network positions:**
+- **Hubs**: Many connections, wide reach
+- **Bridges**: Connect otherwise separate communities
+- **Amplifiers**: High engagement, followers share their shares
+
+When analyzing spread, the question isn't just "how far" but "through whom."
+
+Coordinated campaigns often target these positions — either by creating influential fake accounts or by getting genuine influencers to share content.
+
+---
 
 [screen 8]
 
-## Network Effects
+## The Seeding Problem
 
-Your position in social networks matters. Some accounts are "super-spreaders" - they have large followings or connections to multiple communities. When they share disinformation, it reaches far more people than when an average user does.
+Disinformation campaigns face a chicken-and-egg problem: content needs engagement to spread, but it needs to spread to get engagement.
 
-Coordinated campaigns exploit this by targeting influential users or creating fake accounts that appear influential.
+**Seeding strategies:**
+- Large networks of controlled accounts for initial push
+- Targeting influential authentic accounts
+- Cross-posting across platforms
+- Leveraging existing communities with aligned interests
+- Timing to coincide with real events for organic pickup
+
+Understanding seeding helps distinguish organic spread from manufactured.
+
+---
 
 [screen 9]
 
-## Breaking Free
+## Filter Bubbles: Real but Overblown
 
-Now you understand the mechanics: algorithms prioritize engagement, emotional content spreads faster, filter bubbles limit your perspective, and network position amplifies reach.
+You've heard of "filter bubbles" — the idea that algorithms trap you in information silos.
 
-This knowledge is your first defense. When you see content designed to provoke strong emotion, pause. Ask yourself: is this spreading because it's true, or because it's designed to spread?
+**The reality is more nuanced:**
+- Yes, algorithms personalize what you see
+- Yes, people tend to follow like-minded accounts
+- But most people encounter diverse content too
+- Cross-cutting exposure happens, especially for news
+- Filter bubbles are partial, not absolute
 
-## Subscribe now &
-Get the latest updates
+**Analytical implication:** Don't assume audiences are completely siloed. Content often crosses ideological lines — which is both how disinformation spreads widely and how correction can reach affected audiences.
 
-Subscribe
+---
+
+[screen 10]
+
+## Echo Chambers: Reinforcement Dynamics
+
+Echo chambers are about reinforcement, not just filtering.
+
+**Characteristics:**
+- Repeated exposure to similar viewpoints
+- Social validation for conforming beliefs
+- Social punishment for dissenting
+- Shared identity formation around beliefs
+
+**Key insight:** Echo chambers aren't created by algorithms alone. They're social phenomena. People seek out confirming information and communities.
+
+This matters for response: technical fixes (changing algorithms) have limited effect on socially-driven dynamics.
+
+---
+
+[screen 11]
+
+## Platform Differences Matter
+
+Each platform has distinct spread dynamics:
+
+**X/Twitter:**
+- Retweet chains visible
+- Quote tweets add commentary layer
+- Trending topics concentrate attention
+- Network effects strong
+
+**Facebook:**
+- Groups create concentrated communities
+- Shares less visible than retweets
+- Algorithm heavily curates
+- Older demographic, different content patterns
+
+**TikTok:**
+- Algorithm-driven discovery dominant
+- "For You Page" bypasses following
+- Duet/stitch features enable response content
+- Extremely fast trend cycles
+
+**YouTube:**
+- Recommendation algorithm drives views
+- Longer content, different engagement patterns
+- Comment sections as secondary spread vector
+
+---
+
+[screen 12]
+
+## Cross-Platform Spread
+
+Sophisticated campaigns don't stay on one platform.
+
+**Common patterns:**
+- Seed on fringe platforms with low moderation
+- Screenshot and share to mainstream platforms
+- Use platform-specific content for each venue
+- Coordinate timing across platforms
+
+**Detection implication:**
+- Watch for content appearing "simultaneously" across platforms
+- Identical content with platform-specific formatting
+- Timing patterns that suggest pre-planning
+
+---
+
+[screen 13]
+
+## The Role of Traditional Media
+
+Online spread doesn't happen in isolation.
+
+**Amplification loop:**
+1. Content gains traction online
+2. Media covers "viral phenomenon"
+3. Media coverage drives more online spread
+4. Cycle repeats
+
+**Strategic exploitation:**
+- Create outrageous content designed for coverage
+- Manufacture controversy that "requires" response
+- Use media coverage as validation
+
+This is why "just ignore it" sometimes fails — and sometimes succeeds. Understanding the amplification loop helps choose response.
+
+---
+
+[screen 14]
+
+## Industrial vs. Organic Reach
+
+A useful distinction:
+
+**Organic reach:**
+- Natural spread through genuine user behavior
+- Unpredictable, variable
+- Depends on content resonance
+- Limited by network size
+
+**Industrial reach:**
+- Paid promotion
+- Coordinated amplification networks
+- Algorithm manipulation
+- Platform abuse (fake accounts, bots)
+
+**The intervention point:** We don't (and shouldn't) try to stop organic spread of ideas. We can address industrial-scale manipulation of distribution systems.
+
+---
+
+[screen 15]
+
+## Practical Scenario
+
+**Situation:** A video claiming election fraud gains 2 million views in 48 hours. Your editor asks: "Is this a coordinated campaign?"
+
+**Your constraints:** 2 hours. Public data. Assessment for editorial decision.
+
+**What you check:**
+1. Initial posting account characteristics
+2. Early share patterns (timing, account types)
+3. Cross-platform presence
+4. Whether organic news hooks explain timing
+5. Content in relation to existing narratives
+
+---
+
+[screen 16]
+
+## Working the Scenario
+
+**Step 1: Initial account**
+- When created? (Very new = medium signal)
+- Posting history? (Single-purpose = medium signal)
+- Network? (Clustered bot-like follows = medium signal)
+
+**Step 2: Early spread**
+- Who shared in first hour?
+- Natural or unusually coordinated timing?
+- Real accounts with genuine history, or suspicious patterns?
+
+**Step 3: Context check**
+- Real-world event that would explain organic interest?
+- Celebrity or media amplification?
+- Trending topic riding?
+
+**Step 4: Assess evidence tier**
+- Strong signals → "evidence suggests coordination"
+- Medium signals → "patterns warrant monitoring"
+- Weak signals → "currently indistinguishable from organic spread"
+
+---
+
+[screen 17]
+
+## Sample Assessment
+
+"The video 'Proof of Fraud in County X' reached 2M views in 48 hours. Initial analysis shows:
+
+**Observations:**
+- Posted by account created 2 weeks ago, single-topic posting
+- Early shares include 15+ accounts created in same week, minimal history
+- Timing coincides with real news hook (audit announcement)
+- Content circulated first on Telegram before Twitter pickup
+
+**Assessment:** Pattern suggests organized seeding with organic amplification following. Origin of coordination unclear. Reach attributable to both manufactured initial push and genuine organic interest.
+
+**Confidence:** Medium. Seeding patterns visible; attribution to specific actor unsupported.
+
+**Recommendation:** Focus on content accuracy, not origin. If factually false, address the claims. Don't claim 'coordinated campaign' without stronger evidence."
+
+---
+
+[screen 18]
+
+## What Speed Actually Tells You
+
+Reframe your thinking about viral spread:
+
+**Fast spread suggests:**
+- Content resonates with audience (not evidence of coordination)
+- Possibly strategic timing (could be organic or planned)
+- Possibly algorithmic boost (platforms make choices)
+- Possibly coordinated seeding (requires additional evidence)
+
+**Fast spread does NOT prove:**
+- Foreign origin
+- Coordinated campaign
+- Inauthentic behavior
+- Falsity of content
+
+Speed is a reason to investigate, not a conclusion.
+
+---
+
+[screen 19]
+
+## The Amplification Decision
+
+When you encounter content spreading widely, ask:
+
+**Does responding amplify it?**
+- Will your response reach people who haven't seen it?
+- Will your response appear alongside the original (inadvertent promotion)?
+- Will coverage drive curiosity views?
+
+**The calculus:**
+- Low reach + high harm potential → consider not amplifying
+- High reach + addressable claims → correction may help
+- High reach + vague narrative → correction difficult, may backfire
+
+This is where understanding spread mechanics informs response strategy.
+
+---
+
+[screen 20]
+
+## Stop Rules
+
+Know when your spread analysis is sufficient:
+
+**Stop when:**
+- You've characterized what's observable
+- Evidence tier is clear (strong/medium/weak)
+- Additional investigation won't change confidence level
+- Time would be better spent on response
+
+**Document what you don't know:**
+- "Origin unattributable with available data"
+- "Coordination possible but not confirmed"
+- "Organic factors could explain observed patterns"
+
+Acknowledging limits isn't weakness. It's accuracy.
+
+---
+
+[screen 21]
+
+## DIM Application
+
+How does spread analysis inform response selection?
+
+**If spread is organic + content is false:**
+→ Gen 2 (debunk) or Gen 3 (prebunk for future) make sense
+→ Address the content, not the "campaign"
+
+**If spread is coordinated + policy violation clear:**
+→ Gen 4 (platform moderation) appropriate
+→ Focus on the behavior, not just the content
+
+**If spread is mixed + origin unclear:**
+→ Avoid attribution claims
+→ Address content accuracy if warranted
+→ Monitor for evidence upgrade
+
+Detection of spread patterns is input, not endpoint.
+
+---
+
+[screen 22]
+
+## Module Assessment
+
+**Scenario:** A hashtag criticizing a government policy appears. Within 6 hours, it's trending nationally with 50,000 tweets. Critics claim "bot campaign." Government supporters claim "organic outrage."
+
+**Task (12 minutes):**
+
+1. List 4 things you would check to assess organic vs. coordinated
+2. For each, describe what would count as strong vs. weak signal
+3. Write a 3-sentence assessment that acknowledges uncertainty
+4. Identify one claim you explicitly will NOT make without additional evidence
+5. Suggest appropriate next action given typical medium-confidence findings
+
+**Scoring:**
+- Penalize certainty without evidence
+- Credit methodical approach
+- Reward proportionate conclusions
+
+---
+
+[screen 23]
+
+## Key Takeaways
+
+- Platforms are sorting machines; algorithms prioritize engagement, not truth
+- Virality has mechanics — understanding them prevents false pattern-matching
+- Speed of spread is weak evidence of coordination; look for behavioral signals
+- Industrial reach (coordinated amplification) is distinguishable from organic spread, but requires evidence
+- Cross-platform analysis often more revealing than single-platform
+- Spread analysis informs response selection but isn't the response itself
+- Acknowledge what you don't know; precision protects credibility
+
+Next, you'll learn about the specific tactics used in information manipulation campaigns.
+
+---
+
+## Next Module
+
+Continue to: **Basic FIMI Concepts** — Understanding foreign information manipulation and how to assess it without overclaiming.
