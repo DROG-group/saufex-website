@@ -46,7 +46,9 @@ Whether you're a journalist, fact-checker, policy maker, or educator, EMOD gives
     description: 'A decentralized platform enabling any citizen to establish a Resilience Council and bridge the gap between EU citizens and DSA implementation.',
     longDescription: `GetResilience democratizes the fight against disinformation by empowering citizens to create their own Resilience Councils.
 
-The platform provides the structure, tools, and guidance needed to establish a functioning council that can coordinate responses to information manipulation at the local level, while connecting to the broader European framework.`,
+The platform provides the structure, tools, and guidance needed to establish a functioning council that can coordinate responses to information manipulation at the local level, while connecting to the broader European framework.
+
+📖 **New:** Download [The Resilience Council Handbook](/resilience-council-handbook.pdf) - a comprehensive guide exploring the origins, evolution, and practical application of Resilience Councils.`,
     url: 'https://getresilience.eu',
     status: 'live',
     cta: {
@@ -57,7 +59,8 @@ The platform provides the structure, tools, and guidance needed to establish a f
       'Start your own Resilience Council',
       'Connect with EU DSA framework',
       'Coordinate local responses',
-      'Join the European network'
+      'Join the European network',
+      'Resilience Council Handbook available'
     ],
     audience: 'Citizens, community organizers, local governments, civil society organizations',
     icon: '🛡️'
