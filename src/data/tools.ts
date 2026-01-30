@@ -48,7 +48,7 @@ Whether you're a journalist, fact-checker, policy maker, or educator, EMOD gives
 
 The platform provides the structure, tools, and guidance needed to establish a functioning council that can coordinate responses to information manipulation at the local level, while connecting to the broader European framework.
 
-📖 **New:** Download [The Resilience Council Handbook](/resilience-council-handbook.pdf) - a comprehensive guide exploring the origins, evolution, and practical application of Resilience Councils.`,
+📖 **New:** Download [The Resilience Council Handbook](/Resilience-Council-Handbook.pdf) - a comprehensive guide exploring the origins, evolution, and practical application of Resilience Councils.`,
     url: 'https://getresilience.eu',
     status: 'live',
     cta: {
