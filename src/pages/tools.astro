@@ -92,17 +92,32 @@ import { tools } from '../data/tools';
                   <strong>Built for:</strong> {tool.audience}
                 </p>
               )}
-              <a
-                href={tool.cta.url}
-                class="tool-detail__cta"
-                target={tool.status !== 'coming-soon' ? '_blank' : undefined}
-                rel={tool.status !== 'coming-soon' ? 'noopener' : undefined}
-              >
-                {tool.cta.text}
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <path d="M5 12h14M12 5l7 7-7 7"/>
-                </svg>
-              </a>
+              <div class="tool-detail__ctas">
+                <a
+                  href={tool.cta.url}
+                  class="tool-detail__cta"
+                  target={tool.status !== 'coming-soon' ? '_blank' : undefined}
+                  rel={tool.status !== 'coming-soon' ? 'noopener' : undefined}
+                >
+                  {tool.cta.text}
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                  </svg>
+                </a>
+                {tool.secondaryCta && (
+                  <a
+                    href={tool.secondaryCta.url}
+                    class="tool-detail__cta tool-detail__cta--secondary"
+                    target="_blank"
+                    rel="noopener"
+                  >
+                    {tool.secondaryCta.text}
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/>
+                    </svg>
+                  </a>
+                )}
+              </div>
             </div>
             <div class="tool-detail__visual">
               {tool.icon}
