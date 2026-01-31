@@ -174,12 +174,29 @@ const deliverables = [
       <div class="resource-list">
         {publications.map((pub) => (
           pub.status === 'published' ? (
-            <a href={pub.url} target="_blank" class="resource-item">
-              <div class="resource-item__icon">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-                  <polyline points="14,2 14,8 20,8"></polyline>
-                </svg>
+            <a href={pub.url} target="_blank" class={`resource-item resource-item--${pub.type.toLowerCase().replace(/\s+/g, '-')}`}>
+              <div class={`resource-item__icon resource-item__icon--${pub.type.toLowerCase().replace(/\s+/g, '-')}`}>
+                {pub.type === 'Book' ? (
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                    <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                  </svg>
+                ) : pub.type === 'Training Guide' ? (
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+                    <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+                  </svg>
+                ) : pub.type === 'Working Paper' ? (
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+                    <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+                  </svg>
+                ) : (
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                    <polyline points="14,2 14,8 20,8"></polyline>
+                  </svg>
+                )}
               </div>
               <div class="resource-item__content">
                 <span class="resource-item__type">{pub.type}</span>
@@ -196,8 +213,8 @@ const deliverables = [
               </div>
             </a>
           ) : (
-            <div class="resource-item resource-item--inactive">
-              <div class="resource-item__icon">
+            <div class={`resource-item resource-item--inactive resource-item--${pub.type.toLowerCase().replace(/\s+/g, '-')}`}>
+              <div class={`resource-item__icon resource-item__icon--${pub.type.toLowerCase().replace(/\s+/g, '-')}`}>
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
                   <polyline points="14,2 14,8 20,8"></polyline>
@@ -205,7 +222,7 @@ const deliverables = [
               </div>
               <div class="resource-item__content">
                 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
-                  <span class="resource-item__type">{pub.type}</span>
+                  <span class={`resource-item__type resource-item__type--${pub.type.toLowerCase().replace(/\s+/g, '-')}`}>{pub.type}</span>
                   <span class="status-badge status-badge--planned">Planned</span>
                 </div>
                 <h3 class="resource-item__title">{pub.title}</h3>
@@ -282,14 +299,32 @@ const deliverables = [
       <div class="resource-list">
         {deliverables.map((deliverable) => (
           deliverable.status === 'completed' ? (
-            <a href={deliverable.url} target="_blank" class="resource-item">
-              <div class="resource-item__icon">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-                  <polyline points="14,2 14,8 20,8"></polyline>
-                  <line x1="16" y1="13" x2="8" y2="13"></line>
-                  <line x1="16" y1="17" x2="8" y2="17"></line>
-                </svg>
+            <a href={deliverable.url} target="_blank" class="resource-item resource-item--deliverable">
+              <div class="resource-item__icon resource-item__icon--deliverable">
+                {deliverable.type.includes('D1') || deliverable.type.includes('D2') ? (
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.3-4.3"></path>
+                  </svg>
+                ) : deliverable.type.includes('D3') ? (
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                  </svg>
+                ) : deliverable.type.includes('D5') ? (
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                    <circle cx="9" cy="7" r="4"></circle>
+                    <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                    <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                  </svg>
+                ) : (
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                    <polyline points="14,2 14,8 20,8"></polyline>
+                    <line x1="16" y1="13" x2="8" y2="13"></line>
+                    <line x1="16" y1="17" x2="8" y2="17"></line>
+                  </svg>
+                )}
               </div>
               <div class="resource-item__content">
                 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
@@ -486,6 +521,61 @@ const deliverables = [
     background: rgba(107, 76, 230, 0.1);
     border-radius: 10px;
     color: var(--color-purple);
+  }
+
+  /* Type-specific icon colors */
+  .resource-item__icon--book {
+    background: rgba(34, 197, 94, 0.1);
+    color: #16a34a;
+  }
+
+  .resource-item__icon--journal-article {
+    background: rgba(107, 76, 230, 0.1);
+    color: var(--color-purple);
+  }
+
+  .resource-item__icon--research-paper {
+    background: rgba(59, 130, 246, 0.1);
+    color: #2563eb;
+  }
+
+  .resource-item__icon--report {
+    background: rgba(249, 115, 22, 0.1);
+    color: #ea580c;
+  }
+
+  .resource-item__icon--booklet {
+    background: rgba(236, 72, 153, 0.1);
+    color: #db2777;
+  }
+
+  .resource-item__icon--training-guide {
+    background: rgba(20, 184, 166, 0.1);
+    color: #0d9488;
+  }
+
+  .resource-item__icon--working-paper {
+    background: rgba(168, 85, 247, 0.1);
+    color: #9333ea;
+  }
+
+  /* Type-specific type labels */
+  .resource-item__type--book { color: #16a34a; }
+  .resource-item__type--research-paper { color: #2563eb; }
+  .resource-item__type--report { color: #ea580c; }
+  .resource-item__type--booklet { color: #db2777; }
+  .resource-item__type--training-guide { color: #0d9488; }
+  .resource-item__type--working-paper { color: #9333ea; }
+
+  /* Deliverable icon - green for completed */
+  .resource-item__icon--deliverable {
+    background: rgba(34, 197, 94, 0.1);
+    color: #16a34a;
+  }
+
+  /* Hover state shows full color */
+  .resource-item--deliverable:hover .resource-item__icon--deliverable {
+    background: rgba(34, 197, 94, 0.15);
   }
 
   .resource-item__content {

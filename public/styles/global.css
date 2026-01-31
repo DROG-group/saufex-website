@@ -250,13 +250,17 @@ button:focus-visible {
   margin-bottom: var(--space-xl);
 }
 
+.hero__ctas {
+  display: flex;
+  gap: var(--space-sm);
+  flex-wrap: wrap;
+}
+
 .hero__cta {
   display: inline-flex;
   align-items: center;
   gap: var(--space-xs);
   padding: var(--space-sm) var(--space-md);
-  background: var(--color-dark);
-  color: var(--color-light);
   font-family: var(--font-display);
   font-weight: 600;
   font-size: 1rem;
@@ -264,8 +268,25 @@ button:focus-visible {
   transition: all 0.3s;
 }
 
-.hero__cta:hover {
+.hero__cta--primary {
+  background: var(--color-dark);
+  color: var(--color-light);
+}
+
+.hero__cta--primary:hover {
   background: var(--color-purple);
+  transform: translateY(-2px);
+}
+
+.hero__cta--secondary {
+  background: transparent;
+  color: var(--color-dark);
+  border: 2px solid var(--color-dark);
+}
+
+.hero__cta--secondary:hover {
+  background: var(--color-dark);
+  color: var(--color-light);
   transform: translateY(-2px);
 }
 
@@ -598,6 +619,52 @@ button:focus-visible {
   margin: 0 auto var(--space-md);
 }
 
+/* ============================================
+   IMPACT NUMBERS - Stats showcase
+   ============================================ */
+.impact-section {
+  padding: var(--space-xl) 0;
+  background: var(--color-dark);
+}
+
+.impact-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-lg);
+  text-align: center;
+}
+
+.impact-stat__number {
+  display: block;
+  font-family: var(--font-display);
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 700;
+  color: var(--color-purple);
+  line-height: 1;
+  margin-bottom: var(--space-xs);
+}
+
+.impact-stat__label {
+  display: block;
+  font-size: 0.875rem;
+  color: rgba(255,255,255,0.6);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+@media (max-width: 768px) {
+  .impact-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .impact-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-md);
+  }
+}
+
 .about-strip__text {
   font-size: 1.1rem;
   color: var(--color-muted);
@@ -727,9 +794,42 @@ button:focus-visible {
   margin-top: var(--space-sm);
 }
 
+.footer__social {
+  display: flex;
+  gap: var(--space-sm);
+  margin-top: var(--space-md);
+}
+
+.footer__social a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 50%;
+  color: rgba(255,255,255,0.7);
+  transition: all 0.2s;
+}
+
+.footer__social a:hover {
+  background: var(--color-purple);
+  color: white;
+}
+
 .footer__links {
   display: flex;
-  gap: var(--space-xl);
+  gap: var(--space-md);
+}
+
+.footer__links a {
+  font-size: 0.875rem;
+  color: rgba(255,255,255,0.6);
+  transition: color 0.2s;
+}
+
+.footer__links a:hover {
+  color: white;
 }
 
 .footer__col h4 {
@@ -843,14 +943,30 @@ button:focus-visible {
     padding: calc(60px + var(--space-xl)) var(--space-lg) var(--space-lg);
     gap: 0;
     transform: translateX(100%);
-    transition: transform 0.3s ease;
-    box-shadow: -4px 0 20px rgba(0,0,0,0.15);
+    transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: -4px 0 30px rgba(0,0,0,0.2);
     z-index: 100;
     overflow-y: auto;
   }
 
   .nav--open {
     transform: translateX(0);
+  }
+
+  .nav__toggle {
+    z-index: 101;
+  }
+
+  .nav__toggle[aria-expanded="true"] .nav__toggle-open {
+    display: none;
+  }
+
+  .nav__toggle[aria-expanded="true"] .nav__toggle-close {
+    display: block;
+  }
+
+  .nav__toggle[aria-expanded="false"] .nav__toggle-close {
+    display: none;
   }
 
   .nav a {
@@ -875,8 +991,14 @@ button:focus-visible {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0,0,0,0.3);
+    background: rgba(0,0,0,0.4);
     z-index: 99;
+    animation: fadeIn 0.3s ease;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
   }
 
   .hero {
@@ -1273,12 +1395,16 @@ button:focus-visible {
 }
 
 .tool-card--coming-soon {
-  opacity: 0.7;
+  opacity: 0.5;
+  border-style: dashed;
+  border-color: rgba(255,255,255,0.2);
+  background: rgba(255,255,255,0.02);
 }
 
 .tool-card--coming-soon:hover {
   transform: none;
-  border-color: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.3);
+  opacity: 0.6;
 }
 
 .tool-card__icon {
@@ -1399,6 +1525,8 @@ button:focus-visible {
 
 .tool-detail--coming-soon {
   background: #f5f5f7;
+  opacity: 0.7;
+  border: 2px dashed #e5e5e5;
 }
 
 .tool-detail__inner {

@@ -143,60 +143,77 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   <!-- Privacy Policy -->
   <section class="content-section policy-section" id="privacy">
     <div class="container container--narrow">
-      <h2>Privacy Policy</h2>
-      <p class="policy-updated">Last updated: September 2024</p>
+      <details class="policy-details" open>
+        <summary class="policy-summary">
+          <h2>Privacy Policy</h2>
+          <svg class="policy-chevron" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M6 9l6 6 6-6"/>
+          </svg>
+        </summary>
+        <div class="policy-content">
+          <p class="policy-updated">Last updated: September 2024</p>
 
-      <p>SAUFEX is committed to protecting your privacy and ensuring your personal data is handled responsibly. This policy explains how we collect, use, and protect your information.</p>
+          <p>SAUFEX is committed to protecting your privacy and ensuring your personal data is handled responsibly. This policy explains how we collect, use, and protect your information.</p>
 
-      <h3>Data We Collect</h3>
-      <ul>
-        <li><strong>Contact information</strong> (name, email) when you subscribe to newsletters or register for events</li>
-        <li><strong>IP addresses</strong> collected automatically for security and analytics</li>
-        <li><strong>Survey responses</strong> when you participate in our research</li>
-        <li><strong>Cookies</strong> for website functionality and preferences</li>
-      </ul>
+          <h3>Data We Collect</h3>
+          <ul>
+            <li><strong>Contact information</strong> (name, email) when you subscribe to newsletters or register for events</li>
+            <li><strong>IP addresses</strong> collected automatically for security and analytics</li>
+            <li><strong>Survey responses</strong> when you participate in our research</li>
+            <li><strong>Cookies</strong> for website functionality and preferences</li>
+          </ul>
 
-      <h3>How We Use Your Data</h3>
-      <ul>
-        <li>Communicate project news, events, and research findings</li>
-        <li>Process event registrations</li>
-        <li>Conduct research on information manipulation</li>
-        <li>Improve website functionality</li>
-        <li>Ensure security and prevent fraud</li>
-      </ul>
+          <h3>How We Use Your Data</h3>
+          <ul>
+            <li>Communicate project news, events, and research findings</li>
+            <li>Process event registrations</li>
+            <li>Conduct research on information manipulation</li>
+            <li>Improve website functionality</li>
+            <li>Ensure security and prevent fraud</li>
+          </ul>
 
-      <h3>Data Sharing</h3>
-      <p>We may share data with research partners, service providers (hosting, email), and public authorities when legally required. We do not sell personal data.</p>
+          <h3>Data Sharing</h3>
+          <p>We may share data with research partners, service providers (hosting, email), and public authorities when legally required. We do not sell personal data.</p>
 
-      <h3>Your Rights (GDPR)</h3>
-      <p>You have the right to access, correct, delete, or port your data, and to object to processing. Contact <a href="mailto:admin@saufex.eu">admin@saufex.eu</a> to exercise these rights.</p>
+          <h3>Your Rights (GDPR)</h3>
+          <p>You have the right to access, correct, delete, or port your data, and to object to processing. Contact <a href="mailto:admin@saufex.eu">admin@saufex.eu</a> to exercise these rights.</p>
 
-      <h3>Cookies</h3>
-      <p>We use essential, performance, and functional cookies. You can manage preferences through your browser settings.</p>
+          <h3>Cookies</h3>
+          <p>We use essential, performance, and functional cookies. You can manage preferences through your browser settings.</p>
 
-      <h3>Security</h3>
-      <p>We protect your data with encryption, secure servers, access controls, and regular security audits.</p>
+          <h3>Security</h3>
+          <p>We protect your data with encryption, secure servers, access controls, and regular security audits.</p>
+        </div>
+      </details>
     </div>
   </section>
 
   <!-- Data Management -->
   <section class="media-section policy-section" id="data-management">
     <div class="container container--narrow">
-      <h2>Data Management</h2>
+      <details class="policy-details" open>
+        <summary class="policy-summary">
+          <h2>Data Management</h2>
+          <svg class="policy-chevron" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M6 9l6 6 6-6"/>
+          </svg>
+        </summary>
+        <div class="policy-content">
+          <p>As a Horizon Europe funded project, SAUFEX follows EU guidelines for research data management and open science.</p>
 
-      <p>As a Horizon Europe funded project, SAUFEX follows EU guidelines for research data management and open science.</p>
+          <h3>Research Data</h3>
+          <p>Research outputs and datasets produced by SAUFEX are managed according to FAIR principles (Findable, Accessible, Interoperable, Reusable) where possible, while respecting privacy and security constraints.</p>
 
-      <h3>Research Data</h3>
-      <p>Research outputs and datasets produced by SAUFEX are managed according to FAIR principles (Findable, Accessible, Interoperable, Reusable) where possible, while respecting privacy and security constraints.</p>
+          <h3>Open Access</h3>
+          <p>Publications and deliverables are made openly accessible through our <a href="/research">Research page</a> and the EU research repository. Some datasets may have restricted access due to the sensitive nature of disinformation research.</p>
 
-      <h3>Open Access</h3>
-      <p>Publications and deliverables are made openly accessible through our <a href="/research">Research page</a> and the EU research repository. Some datasets may have restricted access due to the sensitive nature of disinformation research.</p>
+          <h3>Data Retention</h3>
+          <p>Research data is retained for the duration required by Horizon Europe guidelines (typically 5 years after project completion). Personal data is retained only as long as necessary for the stated purposes.</p>
 
-      <h3>Data Retention</h3>
-      <p>Research data is retained for the duration required by Horizon Europe guidelines (typically 5 years after project completion). Personal data is retained only as long as necessary for the stated purposes.</p>
-
-      <h3>Contact</h3>
-      <p>For questions about data management or to request access to research data, contact <a href="mailto:info@saufex.eu">info@saufex.eu</a>.</p>
+          <h3>Contact</h3>
+          <p>For questions about data management or to request access to research data, contact <a href="mailto:info@saufex.eu">info@saufex.eu</a>.</p>
+        </div>
+      </details>
     </div>
   </section>
 
@@ -442,5 +459,50 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     font-size: 0.85rem;
     color: var(--color-muted);
     margin-bottom: var(--space-lg);
+  }
+
+  /* Collapsible Policy Sections */
+  .policy-details {
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .policy-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-md) var(--space-lg);
+    cursor: pointer;
+    background: var(--color-light);
+    transition: background 0.2s;
+    list-style: none;
+  }
+
+  .policy-summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .policy-summary:hover {
+    background: rgba(107, 76, 230, 0.05);
+  }
+
+  .policy-summary h2 {
+    margin: 0;
+    font-size: clamp(1.25rem, 2.5vw, 1.5rem);
+  }
+
+  .policy-chevron {
+    color: var(--color-purple);
+    transition: transform 0.3s ease;
+    flex-shrink: 0;
+  }
+
+  .policy-details[open] .policy-chevron {
+    transform: rotate(180deg);
+  }
+
+  .policy-content {
+    padding: 0 var(--space-lg) var(--space-lg);
   }
 </style>
