@@ -8,9 +8,6 @@ learningPath: "Media Literacy Fundamentals"
 moduleNumber: 4
 estimatedTime: "7 minutes"
 ---
-# Module: Visual Literacy - Images and Video
-
-
 [screen 1]
 
 A dramatic photo shows devastation from a recent disaster. You share it to raise awareness. Later, you learn the image is from a different disaster years earlier.

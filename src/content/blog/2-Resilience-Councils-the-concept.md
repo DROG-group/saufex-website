@@ -6,9 +6,6 @@ date: "2024-07-30"
 updated: "2024-11-20"
 description: "Description of the original concept of what Resilience Councils are to be."
 ---
-# (2) Resilience Councils – the concept
-
-
 The SAUFEX project started with a detailed concept of what Resilience Councils (RCs) should be. In this blog post, I will describe this original concept. Over time, it will become clear how much of it will survive and how much will have been adapted to reality.  
 
 ## Steps

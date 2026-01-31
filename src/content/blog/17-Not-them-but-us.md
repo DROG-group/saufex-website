@@ -6,9 +6,6 @@ date: "2024-09-20"
 updated: "2024-11-27"
 description: "On the need to label people 'us' and not 'them'."
 ---
-# (17) Not ‘them’ but ‘us’
-
-
 Maybe the most important rule when involving less privileged individuals (see [blog post seven](/insights/7-Involving-citizens)) is to not perceive them as ‘them’. They are ‘us’. They are part of the same body we all are part of - society. And it is our society we are defending against FIMI, not ‘them’, and not ‘us’ (see [blog post four](/insights/4-Resilience)).  
 
 ## Effect of ‘them’

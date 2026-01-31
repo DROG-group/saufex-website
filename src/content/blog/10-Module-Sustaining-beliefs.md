@@ -6,9 +6,6 @@ date: "2024-09-21"
 updated: "2025-09-22"
 description: "The third module in the EMoD learning path 'Anatomy of mis- and disinformation'."
 ---
-# (10) Module: Sustaining beliefs
-
-
 \[screen 1\]
 
 This module builds on the levels presented in the module ‘How beliefs form’.

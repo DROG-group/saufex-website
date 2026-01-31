@@ -6,7 +6,6 @@ date: "2025-01-01"
 updated: "2025-01-01"
 description: "A brief description of the post (shown in blog listing)."
 ---
-
 Your content starts here. Write in markdown format.
 
 ## Section Heading

@@ -6,9 +6,6 @@ date: "2025-01-06"
 updated: "2025-01-23"
 description: "It is recommended that the European Union formally establish a European Resilience Council as a part of its ongoing efforts to combat FIMI and strengthen the resilience of its citizens."
 ---
-# (26) Policy proposal for the creation of a European Resilience Council
-
-
 ## Introduction
 
 In the face of increasing global challenges posed by Foreign Information Manipulation and Interference (FIMI), Europe must strengthen its democratic fabric and societal resilience against the evolving threats of misinformation and disinformation. The creation of a European Resilience Council (ERC) is critical to empower citizens, promote transparency, and ensure that Europe's democratic values are protected through inclusive, accountable, and effective responses to information threats.

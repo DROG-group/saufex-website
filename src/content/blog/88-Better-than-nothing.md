@@ -6,9 +6,6 @@ date: "2025-12-16"
 updated: "2025-12-16"
 description: "On adolescents and generative AIs."
 ---
-# (88) Better than nothing
-
-
 As my wife and I described earlier (e.g. in our [booklet](https://interdemocracy.wordpress.com/booklet/) and [book](https://interdemocracy.wordpress.com/interdemocracy-english-pdf/)), a significant number of adolescents lives in a state of partial dislocation: they have withdrawn to little islands of trust while keeping a distance to the vast ocean surrounding their islands. The inhabitants of the little islands, close friends and close relatives, can count on openness and spontaneity. Those not on the island cannot.
 
 We also found that this state is a prime candidate to understand a paradox we found in our research: while most adolescents have someone their own age and an adult with whom they can talk honestly, a majority feels lonely nevertheless. The clash between the real situation and the subjective experience of the situation could be caused by the smallness of the islands. A feeling of being cut off from the world is likely to emerge from their experience of being trapped on a restricted territory.

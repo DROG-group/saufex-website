@@ -6,9 +6,6 @@ date: "2025-04-02"
 updated: "2025-04-08"
 description: "The vision: enhancing adolescent resilience through didactics (Interdemocracy) and participation (Resilience Councils)."
 ---
-# (41) Enhancing adolescent individual and societal resilience (within education)
-
-
 ## Why
 
 ![undefined](https://cdn.cmsfly.com/637160f609b4890127a9cd59/images/1WHYpage0001-VmIi7.jpg)

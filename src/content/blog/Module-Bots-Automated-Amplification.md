@@ -8,9 +8,6 @@ learningPath: "AI and Hybrid Threats"
 moduleNumber: 4
 estimatedTime: "7 minutes"
 ---
-# Module: Bots and Automated Amplification
-
-
 [screen 1]
 
 A hashtag suddenly trends on Twitter with thousands of mentions. Politicians notice and respond. News outlets cover it. Millions see the story.

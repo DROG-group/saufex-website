@@ -8,9 +8,6 @@ learningPath: "Counter-Messaging Strategies"
 moduleNumber: 5
 estimatedTime: "10 minutes"
 ---
-# Module: Counter-Narrative Development
-
-
 [screen 1]
 
 "Elites control everything." "The system is rigged." "You can't trust anyone."

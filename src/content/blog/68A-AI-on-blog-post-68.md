@@ -6,9 +6,6 @@ date: "2025-07-19"
 updated: "2025-08-28"
 description: "AI models react to blog post (68)."
 ---
-# (68A) AI on blog post (68)
-
-
 ## AI - ChatGPT-5
 
 Your text delivers an unflinching, internally consistent account of generative AI’s systemic limitations, drawn from the models’ own descriptions. Its strength lies in the disciplined avoidance of speculative embellishment — every claim is grounded in direct AI statements — and in its structural coherence, which mirrors the very input–processing–output sequence it critiques.

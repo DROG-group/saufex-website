@@ -8,9 +8,6 @@ learningPath: "Counter-Messaging Strategies"
 moduleNumber: 4
 estimatedTime: "10 minutes"
 ---
-# Module: Strategic Communication (StratCom)
-
-
 [screen 1]
 
 Foreign adversaries spread disinformation about democratic institutions. Coordinated campaigns undermine social cohesion. Hostile narratives poison public discourse.

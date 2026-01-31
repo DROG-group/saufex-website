@@ -8,9 +8,6 @@ learningPath: "Data Analysis"
 moduleNumber: 2
 estimatedTime: "8 minutes"
 ---
-# Module: Reading Research Studies
-
-
 [screen 1]
 
 "Scientists discover chocolate helps weight loss!" The headline claims a study proves it. You read the actual study - it was 12 people for two weeks with no control group.

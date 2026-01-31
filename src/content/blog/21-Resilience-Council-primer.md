@@ -6,9 +6,6 @@ date: "2024-12-08"
 updated: "2024-12-18"
 description: "The why, the what, and the how of Resilience Councils."
 ---
-# (21) Resilience Council primer
-
-
 ## ?)Why install Resilience Councils (RCs)?
 
 Resilience Councils are essential to democratise dealing with Foreign Information Manipulation and Interference (FIMI) since RCs: 

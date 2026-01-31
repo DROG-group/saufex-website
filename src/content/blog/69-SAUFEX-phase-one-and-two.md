@@ -6,9 +6,6 @@ date: "2025-07-03"
 updated: "2025-10-11"
 description: "Phase two means involving the general public and taking opinions into account."
 ---
-# (69) SAUFEX phase one and two
-
-
 ## SAUFEX phase one
 
 A SAUFEX project's primary objective is to decentralize and democratize FIMI analysis and response capabilities. This begins with engaging NGOs and academic institutions in identifying, classifying, grading, and reporting FIMI incidents and campaigns, as well as in developing subsequent responses.

@@ -6,9 +6,6 @@ date: "2024-11-19"
 updated: "2024-11-25"
 description: ""
 ---
-# FIMI module: how do you know if it is foreign?
-
-
 ## Assess the Actor:
 
 A number of organizations are tasked with a mandate to address Foreign Information Manipulation Interference (FIMI). A critical part of this is assessing whether content is “foreign”. This document is meant as a guide of indicators to consider when assessing whether an online asset is derived from a foreign origin. This is not meant to be a comprehensive guide encompassing every element that might be considered and only showcases common indicators found online. 

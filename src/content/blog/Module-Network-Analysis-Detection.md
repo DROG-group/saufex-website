@@ -8,9 +8,6 @@ learningPath: "Detection and Verification"
 moduleNumber: 4
 estimatedTime: "9 minutes"
 ---
-# Module: Network Analysis for Detection
-
-
 [screen 1]
 
 A hundred accounts follow each other in circular patterns. A network of profiles consistently amplifies the same content within seconds. Central nodes coordinate peripheral amplifiers.

@@ -8,9 +8,6 @@ learningPath: "Data Analysis"
 moduleNumber: 1
 estimatedTime: "8 minutes"
 ---
-# Module: Understanding Basic Statistics
-
-
 [screen 1]
 
 "Average income rose 5% last year!" Sounds good - but if billionaires got massive raises while most people saw no change, the "average" hides the real story.

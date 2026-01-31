@@ -6,9 +6,6 @@ date: "2024-12-25"
 updated: "2025-01-03"
 description: "Approaching information resilience based on our strengths and aspirations."
 ---
-# (23) A constructive approach to information resilience
-
-
 ## Introduction
 
 Information resilience, as discussed in [blog post four](/insights/4-Resilience), refers to the systemic ability to withstand and adapt to information shocks. Traditionally, conversations around this concept adopt a defensive stance, focusing on the threats we must guard against. However, this post explores a more constructive perspective: what foundational elements of individual and societal information resilience are needed to equip us to withstand and adapt effectively to potential information shocks?

@@ -6,9 +6,6 @@ date: "2024-10-10"
 updated: "2024-10-15"
 description: "An overview of why the term FIMI came into use, why it is useful in some cases but still requires further refinement."
 ---
-# Module: Why FIMI?
-
-
 \[screen 1\]
 
 Out of all the problems online why go after Foreign Information Manipulation and Interference (FIMI)?

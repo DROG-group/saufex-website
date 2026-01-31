@@ -6,9 +6,6 @@ date: "2025-03-17"
 updated: "2025-03-17"
 description: "The mission of the Youth Resilience Council (YRC) is to enlarge resilience among youngsters."
 ---
-# (37) The mission of the Youth Resilience Council
-
-
 The mission of the Youth Resilience Council (YRC) is to enlarge resilience among youngsters. Anything that the YRC does or does not do should be guided by the mission.
 
 This mission consists of two parts: resisting anything that tries to undermine youngsters’ experiences of belonging, autonomy, achievement, and safety on the one hand and actively supporting youngsters’ positive experiences of belonging, autonomy, achievement, and safety on the other.

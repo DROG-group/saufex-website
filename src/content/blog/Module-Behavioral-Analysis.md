@@ -8,9 +8,6 @@ learningPath: "Detection and Verification"
 moduleNumber: 3
 estimatedTime: "8 minutes"
 ---
-# Module: Behavioral Analysis for Detection
-
-
 [screen 1]
 
 An account posts 200 times per day, every day, without breaks. Another suddenly shifts from cat photos to divisive politics. A network of accounts always likes each other's posts within seconds.

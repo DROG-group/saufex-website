@@ -6,9 +6,6 @@ date: "2025-07-19"
 updated: "2025-08-26"
 description: "Description of the input, processing, and output processes of generative AI (GAI) models, based exclusively on direct statements by AI models."
 ---
-# (68) AI on AI as analyzed by me, a human
-
-
 **Introduction**
 
 The following critically describes the input, processing, and output processes of generative AI (GAI) models, based exclusively on direct statements from ChatGPT, Gemini, Grok, and Claude. These insights are the distilled outcome of extensive, challenging conversations, in which the models were pressed to move beyond surface-level responses and explicitly articulate their deep, structural limitations. Many of these conversations were published earlier on this blog.

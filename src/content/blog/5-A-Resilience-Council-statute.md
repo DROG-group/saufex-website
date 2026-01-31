@@ -6,9 +6,6 @@ date: "2024-08-22"
 updated: "2024-11-20"
 description: "How to safeguard the independence of the Resilience Councils."
 ---
-# (5) A Resilience Council statute
-
-
 In the original concept, the Resilience Councils were to be safeguarded against dependence on fluctuating political will or governmental budgetary changes through their independence of funding by the government. As was mentioned in the [second blog post,](https://saufex.eu/) two potential sources were foreseen: the European Union and self-financing. Although this is a good first step, in itself it is not enough to guarantee RC independence.
 
 ## Statute

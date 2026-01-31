@@ -8,9 +8,6 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 4
 estimatedTime: "10 minutes"
 ---
-# Module: FIMI Case Studies
-
-
 [screen 1]
 
 Abstract concepts become concrete through specific examples. This module examines well-documented FIMI operations to illustrate tactics, impacts, and lessons learned.

@@ -6,9 +6,6 @@ date: "2025-11-10"
 updated: "2025-12-11"
 description: "A society becomes truly resilient by cultivating individuals whose capacity to generate and apply adaptive insights grows through honest expression."
 ---
-# (84) The resilience battery: autopoiesis through procedural integrity
-
-
 The Interdemocracy framework aims to achieve its procedural truth by structurally resolving the core tension between individual autonomy and collective stability. It redefines resilience from a passive capacity to an active, self-charging system that harvests the very dissent and uniqueness it is normally tempted to suppress. The key to this success is the resilience battery: the empowered individual whose internal state is converted into external, structural currency.
 
 ## The resilience battery: charging through belief-speaking

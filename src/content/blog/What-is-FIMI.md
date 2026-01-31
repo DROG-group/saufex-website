@@ -6,9 +6,6 @@ date: "2024-10-29"
 updated: "2024-11-22"
 description: "In this Module we review the definition of FIMI"
 ---
-# Module What is FIMI?
-
-
 FIMI was created because there was a problem the EEAS was faced with: there were many different terms for similar phenomena (fake news, disinformation, computational propaganda, coordinated inauthentic behavior). While each were useful they did not cover the exact problem the EEAS was mandated with dealing with. The EEAS had a mandate to counter influence from authoritarian countries who were using the internet to influence public discourse.
 
 The formal definition, according to the EEAS who first developed the [term](https://www.eeas.europa.eu/eeas/2nd-eeas-report-foreign-information-manipulation-and-interference-threats_en), is:

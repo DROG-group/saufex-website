@@ -6,9 +6,6 @@ date: "2025-06-05"
 updated: "2025-07-09"
 description: "To get AI to perform at its best, one has to operate at a higher level than the AI itself."
 ---
-# (58) AI as alien thinking
-
-
 I asked Claude to assess a presentation I drafted on program Interdemocracy. Claude’s assessment was furiously negative. I then, step by step, refuted its reaction, up to the point where I got it to ask me questions.
 
 ## Questions

@@ -6,9 +6,6 @@ date: "2024-09-04"
 updated: "2024-11-20"
 description: "Resilience Councils will need to involve citizens in their activities. Two options seem feasible: selecting citizens to engage with randomly or by initiating online communities."
 ---
-# (7) Involving citizens
-
-
 The Resilience Councils will have a third, major task besides gathering civil society input and cooperating with state organs to counter FIMI; they will need to involve citizens. Citizens are to be part of the research process, from developing research questions and hypotheses to interpreting and disseminating the project results. They are seen as separate from academia, policymakers, civil society organisations, and local and regional government officials.
 
 ## Boston potholes challenge

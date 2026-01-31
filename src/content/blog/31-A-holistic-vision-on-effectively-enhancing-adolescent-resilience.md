@@ -6,9 +6,6 @@ date: "2025-02-07"
 updated: "2025-02-12"
 description: "Adolescent \"partial dislocation\" has damaging implications for fundamental democratic freedoms among adolescents. Just as regarding disinformation, we need a holistic approach to deal with it."
 ---
-# (31) A holistic vision on effectively enhancing adolescent resilience
-
-
 In studies my wife and I conducted, focusing on adolescent attitudes among first-year students in Gdańsk secondary education, we observed a range of responses that were both expected and unexpected when compared with existing literature and societal concerns. To begin with, adolescents exhibited a neutral to negative stance toward new and challenging situations—an outcome that contrasts with findings in child developmental literature. They also maintained a positive view of themselves, which was surprising given the widespread fears about a mental health crisis among adolescents. Furthermore, their attitude toward communication with others was neutral to negative, which runs counter to common assumptions based on adolescents’ smartphone habits. And, despite these reservations, students appeared to be positively socially integrated. This finding, too, was unexpected in light of the prevalent worries about echo chambers, algorithm biases that radicalize, diminished face-to-face communication, and cyberbullying. Notably, these results were nearly identical across every class, regardless of school type or year of research (2022-2024).
 
 Our studies produced more results: a majority of adolescents reported experiencing loneliness, even though almost all had at least one peer and one adult with whom they could engage in honest conversation. And, most adolescents agreed—strongly in many cases—with the statement, “I have no meaning.”

@@ -8,9 +8,6 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 7
 estimatedTime: "10 minutes"
 ---
-# Module: The EU Response to FIMI
-
-
 [screen 1]
 
 The European Union faces sophisticated foreign information manipulation targeting its institutions, member states, and citizens. How is Europe responding?

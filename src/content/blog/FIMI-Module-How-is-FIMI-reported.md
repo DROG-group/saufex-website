@@ -6,9 +6,6 @@ date: "2024-11-25"
 updated: "2025-01-17"
 description: "A brief overview of how different organizations report FIMI incidents"
 ---
-# FIMI Module: How is FIMI reported?
-
-
 There are a number of groups producing reporting for FIMI often with different metrics of reporting. The more reporting is done in the same way, the more the data is similarly structured and more easily compared. Efforts to make reporting streamlined are advisable.
 
 #### Standardized reporting

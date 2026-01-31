@@ -6,9 +6,6 @@ date: "2025-05-17"
 updated: "2025-06-03"
 description: "Comparing student and AI recommendations."
 ---
-# (52) Recommendations (YRC reflection)
-
-
 The report presented in [blog post 50](/insights/50-AI-report-YRC-reflection) led to two student recommendations, drafted by the members of the Youth Resilience Council (YRC):
 
 ·       **Main Recommendation 1:** The majority of teenagers emphasizes greater digital awareness and digital education at school. They believe that psychological comfort, understanding, and space are key to increasing the significance of the school's role in the digital world. In their opinion, conversations, support, and showing empathy will also be useful, as well as information about threats and safety on the internet.

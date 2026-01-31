@@ -8,9 +8,6 @@ learningPath: "Data Analysis"
 moduleNumber: 4
 estimatedTime: "7 minutes"
 ---
-# Module: Data Visualization Best Practices
-
-
 [screen 1]
 
 Two charts show identical data. One makes the trend look dramatic and alarming. The other shows the same information accurately and clearly.

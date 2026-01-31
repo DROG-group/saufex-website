@@ -6,9 +6,6 @@ date: "2024-11-25"
 updated: "2025-01-17"
 description: "What exact is it that we are protecting against when it comes to FIMI?"
 ---
-# FIMI Module: Protecting what against FIMI?
-
-
 FIMI is a commonly used term beyond the European External Action Service who originally used it in their mandate. A common question is what is the scope of material that is considered FIMI. The answers comes when looking at what is being protected from FIMI. Part of this is in the [definition](https://www.enisa.europa.eu/publications/foreign-information-manipulation-interference-fimi-and-cybersecurity-threat-landscape):
 
 "pattern of behaviour that threatens or has the potential to negatively impact values, procedures and political processes"

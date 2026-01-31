@@ -6,9 +6,6 @@ date: "2025-06-08"
 updated: "2025-07-16"
 description: "How to better utilize AI, given its known limitations, written by AI."
 ---
-# (59) A skeptic's manual for productive AI use
-
-
 After recent conversations with AI, some of which I posted as blog posts, I decided to ask Claude to write a manual on how to better utilize AI, given its known limitations. Then, I asked ChatGPT to revise it. Here is ChatGPT's revised manual.
 
 ## Title: A Skeptic's Manual for Productive AI Use

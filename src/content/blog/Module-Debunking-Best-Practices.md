@@ -8,9 +8,6 @@ learningPath: "Counter-Messaging Strategies"
 moduleNumber: 3
 estimatedTime: "10 minutes"
 ---
-# Module: Debunking Best Practices
-
-
 [screen 1]
 
 A false claim has gone viral. Millions have seen it. Some believe it. How do you correct the record without amplifying the misinformation or triggering defensive reactions?

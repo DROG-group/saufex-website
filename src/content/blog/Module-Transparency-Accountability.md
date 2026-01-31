@@ -8,9 +8,6 @@ learningPath: "Platform Governance"
 moduleNumber: 5
 estimatedTime: "9 minutes"
 ---
-# Module: Transparency and Accountability
-
-
 [screen 1]
 
 A platform removes your post. Why? An algorithm recommends extreme content. How? A foreign operation spreads disinformation. Did the platform know?

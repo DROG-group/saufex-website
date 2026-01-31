@@ -6,9 +6,6 @@ date: "2025-10-11"
 updated: "2025-10-13"
 description: "AI’s imbalance: mass adoption through user alignment, force-feeding, and circular investments without technological maturity."
 ---
-# (75) The current AI imbalance
-
-
 ## Introduction
 
 Originally, I planned to write and publish the third part of my general trilogy on generative AI only after presenting the second part at the upcoming scientific conference in November 2025. However, a recent escalation of economic commentary on AI has prompted me to shift course. Building directly on part one (which explores how generative AIs describe themselves - latest version available [here](https://onnohansen.nl/saufex-blog-post-68-improved-version/)), you'll find part three below, focusing on the business dimensions of AI. A link to part two on the impact of GAIs on humans - that is awaiting presentation at the Understanding and Addressing Digital Inequalities conference in Florence - will follow soon.

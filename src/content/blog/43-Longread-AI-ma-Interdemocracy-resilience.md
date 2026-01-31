@@ -6,9 +6,6 @@ date: "2025-04-20"
 updated: "2025-04-20"
 description: "Exploring the relation between identities, belonging, AI, 'ma', Interdemocracy, and resilience."
 ---
-# (43) Longread: AI, 'ma', Interdemocracy, resilience
-
-
 The following text is a transcript of my conversation with ChatGPT and Grok, exploring the relation between identities, belonging, AI, 'ma', Interdemocracy (see: [blog post forty-one](/insights/41-Enhancing-adolescent-individual-and-societal-resilience)), and resilience.
 
 ## ChatGPT

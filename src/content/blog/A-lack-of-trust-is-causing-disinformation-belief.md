@@ -6,9 +6,6 @@ date: "2024-12-02"
 updated: "2025-01-20"
 description: "Disinformation originates from a lack of trust."
 ---
-# Trust module 1: Why believe disinformation? You can't trust anyone else
-
-
 \[screen 1\]
 
 #### “It is projected that the world’s GDP will grow by 3.2% next year”

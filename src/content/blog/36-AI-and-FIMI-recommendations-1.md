@@ -6,9 +6,6 @@ date: "2025-03-03"
 updated: "2025-03-11"
 description: "Levinas' ethical frame is a good fit for some FIMI stakeholders but not for all. For the non-fitting stakeholders a different ethical frame is needed."
 ---
-# (36) AI and FIMI recommendations (1)
-
-
 In the [previous blog post](/insights/35-AI-should-refrain-from-belief-speaking-recommendations) Levinas’ ethics of infinite responsibility toward the Other was introduced as a lens for evaluating the role of artificial intelligence in drafting recommendations. The blog post concerned a specific use case: translating adolescent students’ belief-speaking answers into recommendations. In this blog post I extend my inquiry to a more general use case: responses to Foreign Information Manipulation and Interference (FIMI) to assess whether AI should or should not be allowed to draft recommendations in this domain.
 
 Levinas’ approach is a solid fit with the adolescent students’ use case, as I will show below when I’ll be considering the aspects of of contextual viability, reciprocity potential, scale of impact, moral intuition, self-consistency, and existential risk. The fit renders Levinas’ ethical frame applicable and, by implication, is the reason why AI may not be used to draft recommendations. Next I will assess whether Levinas’ work is also a good fit for those in the FIMI domain, and what the implications of this assessment are for the role of AI in drafting recommendations.

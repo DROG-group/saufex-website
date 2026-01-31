@@ -6,9 +6,6 @@ date: "2024-09-20"
 updated: "2025-09-22"
 description: "The first module in the EMoD learning path 'Anatomy of mis- and disinformation'."
 ---
-# (8) Module: Outrageous beliefs
-
-
 As was announced in [blog post six](/insights/6-Creating-a-bottom-line), examples of the EMoD modules will be pre-published in this blog. Below is the first module in the learning path 'Anatomy of mis- and disinformation': Outrageous beliefs.
 
 EMoD modules consist of a series of texts of between thirty and sixty words that will consecutively be presented on your mobile screen. The short form is to make them ‘snackable’. The module Outrageous beliefs consists of nine screens.

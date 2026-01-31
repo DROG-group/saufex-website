@@ -6,9 +6,6 @@ date: "2025-03-25"
 updated: "2025-04-01"
 description: "An overview of the unique contributions Youth Resilience Councils can bring to Resilience Councils."
 ---
-# (40) Why Youth Resilience Councils are essential to Resilience Councils
-
-
 What are the unique contributions Youth Resilience Councils (YRCs) can bring to Resilience Councils (RCs) in terms of enhancing the effectiveness, legitimacy, and long-term resilience of the broader FIMI response strategy?
 
 ## Closing the generational vulnerability gap

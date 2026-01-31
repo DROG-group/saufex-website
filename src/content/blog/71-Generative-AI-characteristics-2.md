@@ -6,9 +6,6 @@ date: "2025-09-09"
 updated: "2025-10-11"
 description: "GAIs are about pattern reproduction, not reasoning."
 ---
-# (71) Generative AI characteristics (2)
-
-
 The following is a second fragment from a draft version of an academic paper I'm currently working on regarding text-based generative artificial intelligence (GAI)/ large language models (LLMs).
 
 ## Characteristic 2: pattern reproduction, not reasoning

@@ -8,9 +8,6 @@ learningPath: "Detection and Verification"
 moduleNumber: 7
 estimatedTime: "10 minutes"
 ---
-# Module: Professional Fact-Checking
-
-
 [screen 1]
 
 A politician makes a statistical claim. A viral post alleges a conspiracy. A meme distorts historical facts. Within hours, professional fact-checkers publish detailed investigations with evidence and ratings.

@@ -6,9 +6,6 @@ date: "2024-11-04"
 updated: "2024-11-20"
 description: "Imagining Resilience Councils on a local, national, and European level."
 ---
-# (14) Resilience Councils – A thought experiment
-
-
 ## Resilience Councils: Empowering citizens to deal with FIMI
 
 In an age in which Foreign Information Manipulations and Interference (FIMI) can influence public perception and sway policy, Resilience Councils (RCs) are to offer a fresh approach to dealing with disinformation. Rather than leaving FIMI management solely to government agencies, RCs aim to bring citizens into the fold, providing a framework for informed, non-political citizen engagement.

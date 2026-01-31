@@ -6,9 +6,6 @@ date: "2025-11-26"
 updated: "2025-12-11"
 description: "A raw, observational blog post on real students and why we should look at ourselves."
 ---
-# (85) AI and education
-
-
 This will be a raw blog post, an observation straight from the belly of our education system.
 
 Yesterday we provided an introduction on GAI for our students, like we did before. There were eight students in our class today. In contrast to other classes, a vast majority did not seem to care about what was being said.

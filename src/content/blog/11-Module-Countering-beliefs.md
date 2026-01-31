@@ -6,9 +6,6 @@ date: "2024-09-30"
 updated: "2025-09-22"
 description: "The fourth module in the EMoD learning path 'Anatomy of mis- and disinformation'."
 ---
-# (11) Module: Countering beliefs
-
-
 \[screen 1\]
 
 This module builds on the levels presented in the modules ‘How beliefs form’ and ‘Sustaining beliefs’.

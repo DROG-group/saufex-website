@@ -8,9 +8,6 @@ learningPath: "Understanding Disinformation Basics"
 moduleNumber: 5
 estimatedTime: "9 minutes"
 ---
-# Module: Echo Chambers and Filter Bubbles
-
-
 [screen 1]
 
 You scroll your social media feed. Every post seems to confirm what you already believe. Your friends share articles that align with your views. Opposing perspectives rarely appear.

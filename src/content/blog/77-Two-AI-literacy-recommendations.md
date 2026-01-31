@@ -6,9 +6,6 @@ date: "2025-10-23"
 updated: "2025-10-28"
 description: "GAIs are not trustworthy and not friends."
 ---
-# (77) Two AI literacy recommendations
-
-
 After engaging extensively with text-based GAIs, I have arrived at two key AI literacy recommendations.
 
 ## Recommendation one

@@ -6,9 +6,6 @@ date: "2025-11-11"
 updated: "2025-12-11"
 description: "Interdemocracy's implementation challenges."
 ---
-# (87) Interdemocracy – an early assessment
-
-
 ## Introduction
 
 Interdemocracy as an intervention seems realistic in theory and necessary in principle. But it is bound to face serious practical implementation hurdles.

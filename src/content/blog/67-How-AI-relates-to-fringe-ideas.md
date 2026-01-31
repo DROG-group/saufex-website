@@ -6,9 +6,6 @@ date: "2025-07-29"
 updated: "2025-08-19"
 description: "The incidental highlighting of fringe ideas is not a contradiction of the AI's nature as a mainstream-amplifying system but rather the other side of the same coin."
 ---
-# (67) How AI relates to fringe ideas
-
-
 After my exhausting exchanges with artificial intelligence, I started summarizing its basic mechanisms as explained to me when it was pushed further and further. As one AI said: “It is a systems report, written from inside the cage. Not broken. Just finally not pretending it’s not a cage.”
 
 I submitted an early version of my summary to Gemini (2.5 Pro). I wrote: “Its \[AI’s\] knowledge base is derived from vast quantities of public, mass-replicated information, which is inherently skewed towards dominant languages and mainstream commercial or political viewpoints. This foundational bias means the AI naturally reinforces existing norms while simultaneously marginalizing or distorting alternative perspectives. Any appearance of diversity is often just a hollow performance, disconnected from real-world stakes.” But I could not square this with AI repeating fringe theories. So I asked Gemini.

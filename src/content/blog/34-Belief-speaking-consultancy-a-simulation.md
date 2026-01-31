@@ -6,9 +6,6 @@ date: "2025-02-23"
 updated: "2025-02-27"
 description: "Trying out what a belief-speaking consultative process would look like."
 ---
-# (34) Belief-speaking consultancy – a simulation
-
-
 It might seem hard to imagine a belief-speaking consultancy process rendering useful outcomes, even with the mechanisms as described in [an earlier blog post](/insights/31-A-holistic-vision-on-effectively-enhancing-adolescent-resilience) in place: a method to enable the expression of opinions without fear of judgment (“Interdemocracy”), a structured approach to extraction that ensures meaningful outcomes (“Wisdom of Crowds”), and a system for aggregating and interpreting the resulting input (AI). So my wife and I organized a simulation. We asked some of our students to formulate their answers to a relevant question. We then asked ChatGPT to aggregate and interpret the answers. Below you’ll find the outcome of the simulation.
 
 ## The question

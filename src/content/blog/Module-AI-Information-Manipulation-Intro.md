@@ -8,8 +8,6 @@ learningPath: "AI and Hybrid Threats"
 moduleNumber: 1
 estimatedTime: "18 minutes"
 ---
-# Module: Introduction to AI and Information Manipulation
-
 **Purpose**: You'll learn what AI actually changes about information manipulation, distinguish genuine AI-enabled threats from hype, and develop frameworks for assessing AI-related claims.
 
 ---

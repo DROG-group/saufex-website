@@ -8,8 +8,6 @@ learningPath: "Disinfonomics"
 moduleNumber: 1
 estimatedTime: "12 minutes"
 ---
-# Module: The Market for Bad News
-
 **Purpose**: Shift the frame from "wrong beliefs" to "transactions that clear."
 
 **Output format**: Assessment → Confidence (low/med/high) → Next action

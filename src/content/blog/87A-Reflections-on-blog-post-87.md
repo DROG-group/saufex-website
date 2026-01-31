@@ -6,9 +6,6 @@ date: "2025-12-10"
 updated: "2025-12-12"
 description: "Reaffirming the original aspirations of Interdemocracy."
 ---
-# (87A) Reflections on blog post (87)
-
-
 In my previous blog post ([eighty-seven](/insights/87-Interdemocracy-an-early-assessment)), I returned to Interdemocracy basics. The whole concept started out as a facilitation of the self-creation and self-correction of individuals within a group setting. My wife and I stipulated that this autopoiesis on an individual level was a worthy goal in itself.
 
 ## Partial dislocation

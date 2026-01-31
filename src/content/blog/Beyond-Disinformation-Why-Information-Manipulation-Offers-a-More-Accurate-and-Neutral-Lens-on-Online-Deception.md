@@ -6,9 +6,6 @@ date: "2025-01-10"
 updated: "2025-01-14"
 description: "Why it's time to rethink the terms we use to describe disinformation"
 ---
-# Beyond Disinformation: Why "Information Manipulation" Offers a More Accurate and Neutral Lens on Online Deception
-
-
 In recent years due to overuse the term "disinformation" has emerged as a ubiquitous descriptor for deceptive online content. By deceptive I meant content that is designed to trick users into belief in a piece of false information, this can range from a false news article to a false phishing link. However, disinformation is entangled with debates about censorship which have rendered the term almost useless for understanding and addressing the problem of online deception. A more precise and neutral term, "information manipulation," could more effectively characterize a significant portion of the problem disinformation was meant to confront.
 
 The Problem with Disinformation: The term "disinformation," commonly understood to mean deliberately false information created to deceive. The term has become heavily laden with political meaning.

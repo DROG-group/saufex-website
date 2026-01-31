@@ -6,9 +6,6 @@ date: "2024-10-13"
 updated: "2025-11-21"
 description: "The first module in the EMoD learning path 'Organized countering of mis and disinformation'."
 ---
-# (29) Module: Countering information incidents
-
-
 Below you’ll find the first module of the learning path ‘Organized countering of mis and disinformation’.
 
 \[screen 1\]

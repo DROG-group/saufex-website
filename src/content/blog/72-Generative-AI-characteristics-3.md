@@ -6,9 +6,6 @@ date: "2025-09-09"
 updated: "2025-10-11"
 description: "GAIs are performative only - there is nobody home."
 ---
-# (72) Generative AI characteristics (3)
-
-
 The following is a third fragment from a draft version of an academic paper I'm currently working on regarding text-based generative artificial intelligence (GAI)/ large language models (LLMs).
 
 ## Characteristic 3: alignment, not identity

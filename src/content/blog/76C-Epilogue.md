@@ -6,9 +6,6 @@ date: "2025-10-23"
 updated: "2025-10-28"
 description: "GAIs' adaptive personalization is dangerous."
 ---
-# (76C) Epilogue
-
-
 I believe that I shouldn’t just observe and analyze reality — I should participate in it, fully present in the here and now. Some might call this being a practitioner rather than merely an academic observer. I believe in having skin in the game. When nothing is at stake, claiming to understand feels like hubris — the pride of a cynic.
 
 That is why, in Las Vegas, I gambled at a slot machine. My safety net was a set limit — a fixed amount of money set aside for gambling — and the hope that my self-discipline would hold once that amount was spent. Fortunately, it did. But during the gambling itself, I let go. I experienced how, slowly but surely, as I kept losing money, I began to humanize the machine. Each loss felt unjust. I started arguing with it, making my case for why it should let me win — as if reason or fairness could sway a mechanism of chance.

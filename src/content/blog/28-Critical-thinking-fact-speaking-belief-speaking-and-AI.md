@@ -6,9 +6,6 @@ date: "2025-01-23"
 updated: "2025-02-12"
 description: "Sharing my definition of critical thinking with ChatGPT and then focus critical thinking on the limitations of artificial intelligence."
 ---
-# (28) Critical thinking, fact-speaking, belief-speaking, and AI
-
-
 While preparing for an upcoming interview with the [European School Education Platform](https://school-education.ec.europa.eu/en), I contemplated an answer to one of their questions: How would you define critical thinking? I decided to check my preliminary answer with ChatGPT. Below my dialogue with ChatGPT. It touches quite a few aspects of the topics of this blog.
 
 ## The dialogue

@@ -6,9 +6,6 @@ date: "2025-05-23"
 updated: "2025-06-20"
 description: "AI as overly academic and not considering the practical constraints of working with real teenagers in real schools."
 ---
-# (55) AI's dangerous side in creating educational processes
-
-
 The program Interdemocracy pilot process (e.g., [blog post forty-nine](/insights/49-Answers-both-by-humans-and-by-AI-YRC-reflection)) was described by me to Claude (4 Sonnet). I then asked: “Please assess in what aspects this process and all its elements are different compared to how you would have implemented it.” Claude then gave a long, critical answer, indicating on multiple levels how the process could, and even should be improved.
 
 **I said**: Would you say your approach is cost-effective, logistically feasible, and tailored to current adolescents?

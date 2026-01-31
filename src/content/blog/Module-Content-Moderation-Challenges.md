@@ -8,9 +8,6 @@ learningPath: "Platform Governance"
 moduleNumber: 2
 estimatedTime: "9 minutes"
 ---
-# Module: Content Moderation Challenges
-
-
 [screen 1]
 
 Every minute, users upload 500 hours of video to YouTube. Facebook processes billions of posts daily. Twitter/X handles hundreds of millions of tweets.

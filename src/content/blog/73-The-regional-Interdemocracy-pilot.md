@@ -6,9 +6,6 @@ date: "2025-10-01"
 updated: "2025-10-11"
 description: "Conference perspectives on Interdemocracy by students, school leaders, teachers, and audience members."
 ---
-# (73) The regional Interdemocracy pilot
-
-
 How does one present a new approach?  This was the major challenge when organizing a conference for regional Polish school managers and teachers on Interdemocracy (see: [blog post fifty-three](/insights/53-Program-Interdemocracy-recap)). The conference is the starting point of a larger, regional pilot.
 
 ## Our approach

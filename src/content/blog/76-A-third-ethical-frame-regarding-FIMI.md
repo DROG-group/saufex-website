@@ -6,9 +6,6 @@ date: "2025-10-11"
 updated: "2025-10-28"
 description: "The theoretical framework guiding my contributions to Saufex."
 ---
-# (76) A third ethical frame regarding FIMI
-
-
 In earlier blog posts, I discussed the, in my view, main ethical frames that Western democracies rely on to make sense of the information sphere: the human rights approach by the European Union (see: [blog post 39](/insights/39-Human-rights-frame)) and an evolutionary psychology approach by the current US administration (see: [blog post 44](/insights/44-Evolutionary-psychology)). In this blog, I’ll outline a third, alternative frame. But before I do that, I’ll summarize the two earlier blog posts.
 
 ## Summary of the, in my view, dominant Western approaches

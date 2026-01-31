@@ -6,9 +6,6 @@ date: "2024-10-15"
 updated: "2024-11-20"
 description: "Fact checking can be a fraught enterprise. Here are the pit falls of fact checking and how they can be avoided."
 ---
-# Who Fact checks the fact checkers?
-
-
 Fact checking can be a fraught enterprise. Here are the pit falls of fact checking and how they can be avoided.
 
 **1\. Fact Checkers can be wrong**

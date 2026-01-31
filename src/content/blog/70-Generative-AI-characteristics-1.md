@@ -6,9 +6,6 @@ date: "2025-09-09"
 updated: "2025-10-11"
 description: "Text-based generative AI output should be treated as misinformation."
 ---
-# (70) Generative AI characteristics (1)
-
-
 The following is a fragment from a draft version of an academic paper I'm currently working on regarding text-based generative artificial intelligence (GAI)/ large language models (LLMs).
 
 ## Introduction

@@ -8,9 +8,6 @@ learningPath: "Detection and Verification"
 moduleNumber: 1
 estimatedTime: "8 minutes"
 ---
-# Module: Introduction to Detection and Verification
-
-
 [screen 1]
 
 A suspicious claim appears online. An account network behaves strangely. An image seems manipulated. A story spreads suspiciously fast.

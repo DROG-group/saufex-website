@@ -8,9 +8,6 @@ learningPath: "Media Literacy Fundamentals"
 moduleNumber: 3
 estimatedTime: "7 minutes"
 ---
-# Module: Understanding News Production
-
-
 [screen 1]
 
 You see "breaking news" on your phone. Within an hour, the story changes. Details are added, others removed. A correction appears.

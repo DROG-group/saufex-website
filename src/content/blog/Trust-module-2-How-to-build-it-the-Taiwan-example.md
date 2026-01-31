@@ -6,9 +6,6 @@ date: "2024-12-05"
 updated: "2025-01-20"
 description: "How to build trust, what they accomplished in Taiwan."
 ---
-# Trust module 2: How to build trust, the Taiwan example
-
-
 \[screen 1\]
 
 How Taiwan bridged the trust gap In the morning of March 18, 2014 a large crowd of protestors climbed over the fence and forced their way into the main legislature The government was massively unpopular with an approval rating of [less than](https://www.newscientist.com/article/mg26334980-600-the-hacker-turned-politician-using-digital-tech-to-reimagine-democracy/) 10%.

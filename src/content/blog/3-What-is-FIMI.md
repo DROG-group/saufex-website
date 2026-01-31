@@ -6,9 +6,6 @@ date: "2024-08-02"
 updated: "2024-11-20"
 description: "There are no generally accepted definitions or standards regarding FIMI."
 ---
-# (3) What is FIMI?
-
-
 It is clear what FIMI stands for: Foreign Information Manipulation and Interference. But, for someone starting to take an interest in the subject, it is less clear what FIMI is. To start with, for the European Union, FIMI seems to be about ‘behavior’, while for the US State Department, it seems to be about ‘information manipulation’.  
 
 ## Behavior versus information manipulation

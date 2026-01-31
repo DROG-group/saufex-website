@@ -6,9 +6,6 @@ date: "2025-06-19"
 updated: "2025-07-18"
 description: "AI systems may be most helpful to users who need them least, while potentially undermining the capabilities of those who need support most."
 ---
-# (60) How AI may amplify human inequality
-
-
 After an intense co-writing session, Claude and I started reflecting on a central assumption in human-AI communication: AI thinking as superior to human thinking. I then asked Claude to summarize our insights.
 
 ## The summary

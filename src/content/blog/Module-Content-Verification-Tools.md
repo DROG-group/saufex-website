@@ -8,9 +8,6 @@ learningPath: "Detection and Verification"
 moduleNumber: 5
 estimatedTime: "10 minutes"
 ---
-# Module: Content Verification Tools
-
-
 [screen 1]
 
 A dramatic photo accompanies a breaking news claim. A video shows alleged evidence of wrongdoing. A screenshot circulates claiming to show deleted content.

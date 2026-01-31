@@ -6,9 +6,6 @@ date: "2025-04-17"
 updated: "2025-04-23"
 description: "Exploring a second real-world FIMI approach: evolutionary psychology."
 ---
-# (44) Evolutionary psychology
-
-
 In this blog post, I’ll explore a second real-world FIMI approach: evolutionary psychology (the first was the human rights frame – see [blog post thirty-nine](/insights/39-Human-rights-frame)). After outlining its theoretical underpinnings, I’ll examine how this approach is reflected in real-world policies, and finally assess where it might fall on the Levinas-Hobbes ethical scale (see [blog post thirty-eight](/insights/38-AI-and-FIMI-recommendations-2)).
 
 ## Robert Kurzban

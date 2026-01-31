@@ -6,9 +6,6 @@ date: "2025-01-08"
 updated: "2025-01-21"
 description: "What to do to avoid the perception of being politically biased and inflicting censorship when dealing with information threats."
 ---
-# (25) Not undemocratic, not illiberal
-
-
 A U.S. perspective on the concept of disinformation is on the rise that is uncomfortable for all those who subscribe to the EU’s [Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R2065). The core claim of this perspective is that state-inspired initiatives to counteract disinformation are often politically biased and equal censorship. As an illustration of this perspective, I’ll present two recent examples.
 
 ## Two examples

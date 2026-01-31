@@ -6,9 +6,6 @@ date: "2025-05-17"
 updated: "2025-06-05"
 description: "An overview of the basics of program Interdemocracy."
 ---
-# (53) Program Interdemocracy – recap
-
-
 For those who want to acquaint themselves with the basics of program Interdemocracy, here’s a recap:
 
 ·  The underlying vision: [blog post forty-one](/insights/41-Enhancing-adolescent-individual-and-societal-resilience)

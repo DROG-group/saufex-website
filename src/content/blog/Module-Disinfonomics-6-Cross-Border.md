@@ -8,8 +8,6 @@ learningPath: "Disinfonomics"
 moduleNumber: 6
 estimatedTime: "14 minutes"
 ---
-# Module: Cross-Border — Disinfo Trades, Governance Doesn't
-
 **Purpose**: Build plans that survive jurisdiction mismatch and censorship optics.
 
 **Output format**: Assessment → Confidence (low/med/high) → Next action

@@ -8,9 +8,6 @@ learningPath: "Understanding Disinformation Basics"
 moduleNumber: 6
 estimatedTime: "10 minutes"
 ---
-# Module: Why People Believe - Cognitive Biases and Psychology
-
-
 [screen 1]
 
 "How could anyone believe that?" we ask when seeing people accept obvious disinformation. But believing false information isn't about intelligence - it's about how human brains work.

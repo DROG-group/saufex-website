@@ -6,9 +6,6 @@ date: "2025-10-04"
 updated: "2025-10-11"
 description: "A summary of best practices."
 ---
-# (74) Toolkit of escalating responses to mis-, disinformation, and FIMI aimed at the demand side
-
-
 ## Phase one: basics
 
 1\. **Build trust** – listen first, avoid negative judgments, then use tools. Consistently show that you are firstly defending and empowering people and only then institutions and procedures.

@@ -8,9 +8,6 @@ learningPath: "AI and Hybrid Threats"
 moduleNumber: 6
 estimatedTime: "8 minutes"
 ---
-# Module: Hybrid Threats - Definition and Examples
-
-
 [screen 1]
 
 In 2014, "little green men" - soldiers without insignia - appeared in Crimea. Russia denied involvement while simultaneously waging information campaigns, cyber attacks, and economic pressure. Crimea was annexed without traditional warfare.

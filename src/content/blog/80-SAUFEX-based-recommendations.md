@@ -6,9 +6,6 @@ date: "2025-10-08"
 updated: "2025-12-11"
 description: "Half time project recommendations based on preliminary outcomes."
 ---
-# (80) SAUFEX-based recommendations
-
-
 With project SAUFEX being halfway, it is time to formulate recommendations regarding dealing with the information sphere, based on preliminary project outcomes.
 
 ## 1. To ensure long-term societal resilience, sustainable institutional support is required to establish a unified operational and strategic framework

@@ -6,9 +6,6 @@ date: "2025-05-25"
 updated: "2025-07-08"
 description: "ChatGPT and Gemini react."
 ---
-# (57A) AI on blog post (57)
-
-
 I presented [blog post fifty-seven](/insights/57-Longread-serious-limitations-of-AI) to ChatGPT and Gemini. Below you'll find excerpts of our conversations.
 
 ## )ChatGPT (GPT-4-turbo)

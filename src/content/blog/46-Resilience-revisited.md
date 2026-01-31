@@ -6,9 +6,6 @@ date: "2025-05-01"
 updated: "2025-06-12"
 description: "Exploring potential positive interventions to enlarge resilience."
 ---
-# (46) Resilience revisited
-
-
 In [blog post four](/insights/4-Resilience), the concept of resilience was operationalised. This operationalisation was adopted by Robert Kupiecki and Tomasz Chłoń in their publication [_Towards FIMI Resilience Council in Poland. A Research and Progress Report_](https://ludzie.nauka.gov.pl/ln/profiles/uisqvHxs7do/publications/b7349836-d898-4f66-b3fb-41b6e0f4e80f).
 
 In the blog post, resilience was equated to the experience of psychosocial integration, both on an individual level and on a societal level. The text identified four basic needs that underly psychosocial integration: belonging, autonomy, achievement, and safety, while omitting a potentially fifth - contact with something higher.

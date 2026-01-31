@@ -6,9 +6,6 @@ date: "2024-12-11"
 updated: "2024-12-15"
 description: "A summary of what the upcoming EMoD learning platform will be."
 ---
-# (20) European Master of countering Disinformation primer
-
-
 The European Master of Disinformation (EMoD) platform will be an online learning environment to support professionals in tackling the challenges of the ever-shifting nature of online disinformation. As a one-stop online portal, it will provide up-to-date quality content created in collaboration with leading experts.  
 
 ## Learning paths

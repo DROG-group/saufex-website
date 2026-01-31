@@ -8,9 +8,6 @@ learningPath: "AI and Hybrid Threats"
 moduleNumber: 5
 estimatedTime: "7 minutes"
 ---
-# Module: AI for Detection and Defense
-
-
 [screen 1]
 
 If AI enables unprecedented disinformation, can AI also defend against it?

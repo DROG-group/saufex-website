@@ -6,9 +6,6 @@ date: "2025-06-12"
 updated: "2025-06-17"
 description: ""
 ---
-# The EU’s Disinformation Battle Is Missing Its Most Vital Ally: The Public
-
-
 A Technical Fight Against “FIMI” That Few Understand
 
 Brussels has ramped up its war on foreign disinformation – or “Foreign Information Manipulation and Interference (FIMI)” in EU jargon – with task forces, sanctions, and annual threat reports. The European External Action Service (EEAS) even touts a “whole-of-society” [toolbox](http://eeas.europa.eu) for countering FIMI. In practice, however, the EU’s response leans heavily on complex analyses and insider networks of CSOs. The official FIMI [reports](http://eeas.europa.eu) read like they’re written by and for data analysts, packed with technical frameworks and acronyms (from the “ABCDE” threat model to the “STIX” data-sharing format). These documents are goldmines for experts, but to everyday Europeans they are virtually impenetrable. The result is a growing gap between Brussels’ high-tech defenses and the public they aim to protect.

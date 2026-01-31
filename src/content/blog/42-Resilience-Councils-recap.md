@@ -6,9 +6,6 @@ date: "2025-04-11"
 updated: "2025-06-11"
 description: "\"An Answer for you?\" interrupted Deep Thought majestically. \"Yes, I have.\" /.../  \"Though I don't think,\" added Deep Thought. \"that you're going to like it.\" /.../ \"Forty-two,\" said Deep Thought, with infinite majesty and calm.” Douglas Adams, The Hitchhiker’s Guide to the Galaxy"
 ---
-# (42) Resilience Councils – recap
-
-
 For those who want to understand the basics of Resilience Councils, here’s a recap.
 
 ## General description

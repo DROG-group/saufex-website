@@ -6,9 +6,6 @@ date: "2025-02-11"
 updated: "2025-02-12"
 description: "The second module in the EMoD learning path 'Organized countering of mis and disinformation'."
 ---
-# (32) Module: Countering information campaigns
-
-
 \[screen 1\]
 
 We may use two types of action when countering anti-liberal democratic narratives: incapacitating myths and pushing positive narratives. Often these two go hand in hand.

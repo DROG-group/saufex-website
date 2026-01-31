@@ -6,9 +6,6 @@ date: "2025-03-14"
 updated: "2025-03-19"
 description: "Our ethical approach toward FIMI stakeholders can be placed on a spectrum ranging from Levinas to Hobbes."
 ---
-# (38) AI and FIMI recommendations (2)
-
-
 In the [previous blog post](/insights/36-AI-and-FIMI-recommendations-1) I showed that Levinas’ ethical approach, with its emphasis on infinite responsibility toward the vulnerable Other, provides a fitting framework for instances in which we take, or should take, responsibility for other individuals. As a result, in these instances a ban on AI-generated recommendations applies.
 
 The situation is different for other stakeholders in the FIMI domain: non-domestic citizens on the supply side of FIMI, domestic citizens tied up in their total roles, and entities like organizations and bots. For different reasons we do not have to or cannot accept responsibility for them. For them, we need to find a different ethical framework and establish whether this framework allows for AI-generated recommendations.

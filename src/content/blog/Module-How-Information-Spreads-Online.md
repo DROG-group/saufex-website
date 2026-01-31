@@ -8,8 +8,6 @@ learningPath: "Understanding Disinformation Basics"
 moduleNumber: 3
 estimatedTime: "18 minutes"
 ---
-# Module: How Information Spreads Online
-
 **Purpose**: You'll learn how content actually spreads online — the mechanics, not the mythology. This helps distinguish organic spread from coordinated amplification and avoids the "it went viral, therefore suspicious" trap.
 
 ---

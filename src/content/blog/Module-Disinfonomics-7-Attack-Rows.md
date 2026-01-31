@@ -8,8 +8,6 @@ learningPath: "Disinfonomics"
 moduleNumber: 7
 estimatedTime: "18 minutes"
 ---
-# Module: Attack the Rows — Externalities, Internalisation, and the "Solved Ledger"
-
 **Purpose**: Stop subsidising spillovers. Design rows that make dumping costs money.
 
 **Output format**: Assessment → Confidence (low/med/high) → Next action

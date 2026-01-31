@@ -6,9 +6,6 @@ date: "2024-12-06"
 updated: "2024-12-10"
 description: "Both fact-based an intuition-based narratives are needed to help Resilience Councils to decide what 'ought' to be done in response to mis- and disinformation."
 ---
-# (19) We need two types of discourses
-
-
 Generally speaking, truth seeking for us humans is less important than showing our in-group that we stand with them. A [recent study](https://www.science.org/doi/10.1126/science.adl2829) for instance found: “Interventions that solely emphasize sharing accurately may fail to curb misinformation because users may share outrageous, inaccurate content to signal their moral positions or loyalty to political groups.”
 
 ## Fact-speaking vs belief-speaking

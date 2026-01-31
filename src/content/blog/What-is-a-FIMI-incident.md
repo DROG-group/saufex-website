@@ -6,9 +6,6 @@ date: "2024-11-15"
 updated: "2024-11-22"
 description: "Here we discuss the difference between a FIMI Incident and a Campaign"
 ---
-# What is a FIMI incident versus a campaign?
-
-
 In the context of FIMI many organizations have adopted the terminology of Incident versus a campaign. This comes from the world of Cyber Security and in particular STIX (Structured Threat Information Expression). In [STIX](https://stixproject.github.io/documentation/idioms/campaign-v-actors/) terminology, an individual or group involved in malicious cyber activity is called a Threat Actor. A set of activity (Incidents) carried out by Threat Actors using specific techniques (TTP) for some particular purpose is called a Campaign. So for example every attempt to access a secure system would be an "incident" and the Incidents that use TTPs would collectively form a Campaign.
 
 According to [Viginum](https://github.com/VIGINUM-FR/Doctrine-OpenCTI) a French organization extensively involved in collecting data on FIMI:

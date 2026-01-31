@@ -6,9 +6,6 @@ date: "2025-05-11"
 updated: "2025-06-02"
 description: "Creating a clear structure in complex content through binary forking."
 ---
-# (51) Binary forking (YRC reflection)
-
-
 When we, as facilitators of the first Youth Resilience Council, prepared the session, we noticed how dense [the AI report](/insights/50-AI-report-YRC-reflection) had become. We then saw two options: either send the report to participants in advance or provide an extensive introduction to it during the session. Since attendance was voluntary and we didn’t know who would be present, we chose the second option.
 
 ## Introduction on content

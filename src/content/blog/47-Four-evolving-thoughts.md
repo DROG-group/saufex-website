@@ -6,9 +6,6 @@ date: "2025-05-07"
 updated: "2025-05-10"
 description: "Four thoughts that consistently return in my blog posts."
 ---
-# (47) Four evolving thoughts
-
-
 Reviewing my previous blog posts, I’ve noticed that certain thoughts consistently return. Together, they capture the unique selling points of the approach I propose in the blog posts thus far.
 
 ## 1\. Citizens first

@@ -6,9 +6,6 @@ date: "2025-04-28"
 updated: "2025-05-23"
 description: "Creating an all-society approach to dealing with FIMI through a system of interconnected RCs."
 ---
-# (45) A system of interconnected RCs
-
-
 The first step in setting up Resilience Councils to address FIMI is to establish an institution that brings together all organisations already active on the supply side of FIMI, such as fact-checkers and researchers. These organisations detect, analyse, and evaluate FIMI incidents and campaigns that might otherwise go unnoticed. Gathering their representatives in a single Resilience Council not only democratizes the handling of FIMI but also creates an opportunity to standardize a currently fragmented field. By opening communication channels and fostering cooperation among them, it becomes possible to introduce common standards, both conceptual and technological, for describing, classifying, and grading FIMI incidents and campaigns.
 
 ## Limitations

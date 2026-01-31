@@ -6,9 +6,6 @@ date: "2024-11-16"
 updated: "2024-11-20"
 description: "Where does the Polish Resilience Council currently stand?"
 ---
-# (15) The Polish Resilience Council(s)
-
-
 On November 15, the third informal meeting of the Polish Resilience Council (RC) took place after two earlier sessions in April and July. The next meeting, early 2025, will be the first formal, inaugural meeting.
 
 ## MFA

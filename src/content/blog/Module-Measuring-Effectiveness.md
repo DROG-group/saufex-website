@@ -8,9 +8,6 @@ learningPath: "Counter-Messaging Strategies"
 moduleNumber: 6
 estimatedTime: "11 minutes"
 ---
-# Module: Measuring Counter-Messaging Effectiveness
-
-
 [screen 1]
 
 You've launched a counter-messaging campaign. Thousands see it. Some engage. But did it work? Did beliefs change? Did behavior shift? Did it reduce harm?

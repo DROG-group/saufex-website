@@ -6,9 +6,6 @@ date: "2025-02-11"
 updated: "2025-02-23"
 description: "A description of the future European Resilience Council when taking Member States' responses to an earlier proposal into consideration."
 ---
-# (33) Proposal for the creation of the European Resilience Council - revisited
-
-
 When a proposal to establish a European Resilience Council (ERC) for addressing disinformation, FIMI, and hybrid threats was recently presented in Brussels, representatives from multiple Member States responded. Broad support was voiced for democratizing decision-making processes in this domain, expanding the legitimacy of existing mechanisms, adopting an all-of-society approach, and simplifying current toolboxes and implementations. At the same time, concerns were raised about potential duplication of efforts by existing entities, the added value of the ERC, the need to create a new organization as such, the need for additional funding, and possible interference with Member States’ sovereignty. In addition, delegations requested further details on the proposal's legal, financial, and technical dimensions and guidance on the next steps.
 
 The text below describes how an ERC could be structured when taking the Member States' responses into consideration.

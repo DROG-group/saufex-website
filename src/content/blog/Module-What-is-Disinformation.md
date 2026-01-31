@@ -8,9 +8,6 @@ learningPath: "Understanding Disinformation Basics"
 moduleNumber: 1
 estimatedTime: "8 minutes"
 ---
-# Module: What is Disinformation?
-
-
 [screen 1]
 
 "Fake news." "Propaganda." "Lies." We use many terms to describe false information, but precise definitions matter. If we want to address information manipulation, we must understand what we're fighting.

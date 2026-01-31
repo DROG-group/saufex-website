@@ -8,9 +8,6 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 5
 estimatedTime: "9 minutes"
 ---
-# Module: Attribution Challenges in FIMI
-
-
 [screen 1]
 
 An inauthentic network spreads divisive content. Researchers detect the coordination. Platforms remove the accounts. But who operated it?

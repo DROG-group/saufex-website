@@ -6,9 +6,6 @@ date: "2024-10-10"
 updated: "2024-11-25"
 description: ""
 ---
-# EMOD Module Template
-
-
 \[screen 1\]
 
 EMOD modules have different sections each one is 30-60 words because people are scared of long paragraphs. When you want to end a section put in the next section in brackets (eg. \[screen 1\])

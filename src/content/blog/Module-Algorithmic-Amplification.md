@@ -8,9 +8,6 @@ learningPath: "Platform Governance"
 moduleNumber: 3
 estimatedTime: "9 minutes"
 ---
-# Module: Algorithmic Amplification
-
-
 [screen 1]
 
 You open your social media feed. An algorithm has already decided what you'll see - not chronological order, but content predicted to keep you engaged.

@@ -8,9 +8,6 @@ learningPath: "Media Literacy Fundamentals"
 moduleNumber: 2
 estimatedTime: "8 minutes"
 ---
-# Module: Identifying Bias
-
-
 [screen 1]
 
 Two news outlets cover the same protest. One headline: "Peaceful Citizens Exercise Free Speech Rights." Another: "Disruptive Mob Blocks Traffic." Same event, different framing.

@@ -8,9 +8,6 @@ learningPath: "Data Analysis"
 moduleNumber: 5
 estimatedTime: "8 minutes"
 ---
-# Module: Open Data and Transparency
-
-
 [screen 1]
 
 A politician claims crime is rising. You check official statistics - crime is actually declining. Your ability to verify this depends on transparent public data.

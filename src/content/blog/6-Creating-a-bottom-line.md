@@ -6,9 +6,6 @@ date: "2024-09-04"
 updated: "2024-11-20"
 description: "Project SAUFEX aims to draft bottom-line conceptualizations and knowledge that can be used in all five stages of dealing with FIMI: identification, classification, grading, reporting, and countering. An important aspect will be creating a dynamic canon presented in short modules."
 ---
-# (6) Creating a bottom line
-
-
 As was mentioned in the [third blog post](/insights/3-What-is-FIMI), no consensus exists on what FIMI is. As a result, addressing FIMI in the European Union is disparate and unaligned. This fragmented approach creates a significant hurdle in dealing with FIMI, hindering the ability of Member States to counter FIMI actors or campaigns originating from state and non-state actors.  
 
 ## Bottom line

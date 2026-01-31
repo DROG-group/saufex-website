@@ -8,9 +8,6 @@ learningPath: "Media Literacy Fundamentals"
 moduleNumber: 6
 estimatedTime: "8 minutes"
 ---
-# Module: Fact-Checking Fundamentals
-
-
 [screen 1]
 
 A sensational claim appears in your feed. Before you invested five minutes checking, you would have shared it. Instead, you verified - and discovered it was false.

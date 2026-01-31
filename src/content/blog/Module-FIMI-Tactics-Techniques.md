@@ -8,9 +8,6 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 3
 estimatedTime: "9 minutes"
 ---
-# Module: FIMI Tactics and Techniques
-
-
 [screen 1]
 
 A divisive story appears simultaneously across dozens of seemingly unrelated accounts. Within hours, it trends on multiple platforms. Traditional media picks it up. By the time fact-checkers debunk it, millions have seen it.

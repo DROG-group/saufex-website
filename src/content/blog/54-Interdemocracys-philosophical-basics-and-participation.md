@@ -6,9 +6,6 @@ date: "2025-05-18"
 updated: "2025-06-11"
 description: "'Ma', Levinas, Interdemocracy, and participation."
 ---
-# (54) Interdemocracy's philosophical basics and participation
-
-
 In order to understand the implications of Program Interdemocracy (see: [blog post fifty-three](/insights/53-Program-Interdemocracy-recap)) within the framework of the proposed system of Resilience Councils (see: [blog post forty-five](/insights/45-A-system-of-interconnected-RCs)), in this blog post I will describe the more philosophical (e.g see: [blog post forty-three](/insights/43-Longread-AI-ma-Interdemocracy-resilience)) basics of the approach and derive implications for the proposed participation process.
 
 ## Philosophical basics: the convergence of “ma” and Levinasian ethics

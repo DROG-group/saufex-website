@@ -8,8 +8,6 @@ learningPath: "Disinfonomics"
 moduleNumber: 3
 estimatedTime: "15 minutes"
 ---
-# Module: Platforms as Auction Houses (Industrial Reach)
-
 **Purpose**: Stop calling platforms "public squares." They're auction systems for visibility.
 
 **Output format**: Assessment → Confidence (low/med/high) → Next action

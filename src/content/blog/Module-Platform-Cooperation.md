@@ -8,9 +8,6 @@ learningPath: "Platform Governance"
 moduleNumber: 6
 estimatedTime: "9 minutes"
 ---
-# Module: Platform Cooperation and Information Sharing
-
-
 [screen 1]
 
 A foreign influence operation is detected on Facebook. Does Twitter know to look for it? When researchers identify manipulation tactics, do platforms adapt? Can governments share threat intelligence with platforms effectively?

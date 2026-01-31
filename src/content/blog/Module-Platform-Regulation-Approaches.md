@@ -8,9 +8,6 @@ learningPath: "Platform Governance"
 moduleNumber: 4
 estimatedTime: "10 minutes"
 ---
-# Module: Platform Regulation Approaches
-
-
 [screen 1]
 
 Should platforms police themselves? Should governments mandate rules? Who decides what's acceptable online?

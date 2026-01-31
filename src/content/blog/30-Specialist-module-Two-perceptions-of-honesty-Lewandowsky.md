@@ -6,9 +6,6 @@ date: "2024-12-04"
 updated: "2025-02-12"
 description: "Introduction to Stephan Lewandowsky's work on 'fact-speaking' and 'belief-speaking'."
 ---
-# (30) Specialist module: Two perceptions of honesty - Lewandowsky
-
-
 \[screen 1\]
 
 Why do many voters still see politicians as honest, even when they spread lies?

@@ -6,9 +6,6 @@ date: "2024-11-08"
 updated: "2024-11-20"
 description: "Adaptation of the EMoD learning path 'Anatomy of mis- and disinformation' for use in high school classrooms."
 ---
-# (13) For high school students: the learning path 'Anatomy of mis- and disinformation'
-
-
 The EMoD learning path 'Anatomy of mis- and disinformation' has been adapted for use in the classroom. Within the pilot of the educational method and format _Interdemocracy_ \[later more on this\] the content constitutes the frame for discussing high school students' reflections based on their own experiences.
 
 A selection of student reflections will at a later stage be presented in this blog.  

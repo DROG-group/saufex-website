@@ -8,9 +8,6 @@ learningPath: "Counter-Messaging Strategies"
 moduleNumber: 1
 estimatedTime: "9 minutes"
 ---
-# Module: Introduction to Counter-Messaging
-
-
 [screen 1]
 
 False narratives spread. Disinformation campaigns target democracies. Foreign influence operations manipulate public opinion. Conspiracy theories undermine trust.

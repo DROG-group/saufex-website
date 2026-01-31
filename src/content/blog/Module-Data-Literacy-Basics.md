@@ -8,9 +8,6 @@ learningPath: "Media Literacy Fundamentals"
 moduleNumber: 5
 estimatedTime: "8 minutes"
 ---
-# Module: Data Literacy Basics
-
-
 [screen 1]
 
 A chart shows crime rates "skyrocketing." You share it, concerned. Later, you learn the vertical axis was manipulated to exaggerate the increase - actual change was minimal.

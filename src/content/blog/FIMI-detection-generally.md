@@ -6,9 +6,6 @@ date: "2024-11-29"
 updated: "2025-04-08"
 description: "A brief overview of how FIMI is detected."
 ---
-# FIMI detection generally
-
-
 Foreign Information Manipulation & Interference (FIMI) is a complex issue with various methods of detection. Some common methods include:
 
 *   Monitoring social media and online platforms: Analyzing the content shared, identifying patterns of coordinated behavior, and tracking the origin of information.

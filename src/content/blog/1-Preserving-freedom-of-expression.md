@@ -6,9 +6,6 @@ date: "2024-07-30"
 updated: "2024-11-20"
 description: "Regarding legal FIMI content, denial of service reactions are to be avoided. A new institution, the Resilience Council, is to help DSCs take an alternative approach."
 ---
-# (1) Preserving freedom of expression
-
-
 Historically, there are five ways to deal with disinformation, including FIMI: strategic communication, debunking (setting the record straight), prebunking (preparing potential recipients proactively for disinformation content and processes), denial of service (censuring, de-platforming, demonetizing), and interactionist (providing dialogues). ([DROG, DIM](https://drog.group/DIM))  
 
 ## Denial of service

@@ -6,9 +6,6 @@ date: "2025-10-28"
 updated: "2025-11-11"
 description: "AI users should hold regulators accountable for the enforcement of human oversight over AI."
 ---
-# (78A) On the consequences of blog post (78)
-
-
 I shared [blog post seventy-eight](/insights/78-The-limits-of-AI-in-content-moderation) with Gemini. Below I present our ensuing conversation.
 
 # The conversation

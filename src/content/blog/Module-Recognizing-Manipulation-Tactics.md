@@ -8,9 +8,6 @@ learningPath: "Understanding Disinformation Basics"
 moduleNumber: 5
 estimatedTime: "8 minutes"
 ---
-# Module: Recognizing Manipulation Tactics
-
-
 [screen 1]
 
 A headline screams: "They're Coming for Your Children!" Below is a story with just enough truth to seem credible, but twisted to provoke fear and outrage.

@@ -8,8 +8,6 @@ learningPath: "Media Literacy Fundamentals"
 moduleNumber: 1
 estimatedTime: "16 minutes"
 ---
-# Module: Evaluating Sources
-
 **Purpose**: You'll learn to assess source credibility quickly and accurately, distinguishing strong signals from weak ones, without falling into common evaluation traps.
 
 ---

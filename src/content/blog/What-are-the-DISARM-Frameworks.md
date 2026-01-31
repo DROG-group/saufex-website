@@ -6,9 +6,6 @@ date: "2025-10-13"
 updated: "2025-10-13"
 description: "Here we overview what the DISARM Frameworks are"
 ---
-# What are the DISARM Frameworks?
-
-
 The DISARM frameworks (Disinformation Analysis and Risk Management) are an open-source tool / taxonomy for describing, analyzing, and responding to disinformation (or information manipulation) campaigns, often in the context of influence operations. 
 
 ## Origins & Purpose

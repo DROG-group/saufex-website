@@ -6,9 +6,6 @@ date: "2024-12-02"
 updated: "2024-12-04"
 description: "Resilience Councils might require additional organisations for youngsters."
 ---
-# (18) What could be the place of young people in the Resilience Councils?
-
-
 The description of a multi-tier Resilience Council structure in [blog post fourteen](/insights/14-Resilience-Councils-A-thought-experiment) and the report on the upcoming actual Polish Resilience Council(s) in [blog post fifteen](/insights/15-The-Polish-Resilience-Councils) show that representation might be a challenge. There are serious hoops in place through which anyone must jump before potentially becoming engaged in Resilience Councils.
 
 ## Three hoops

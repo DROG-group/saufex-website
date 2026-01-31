@@ -8,9 +8,6 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 2
 estimatedTime: "8 minutes"
 ---
-# Module: State vs Non-State Actors in FIMI
-
-
 [screen 1]
 
 A network of accounts spreads divisive content. Are they state intelligence operatives? Commercial troll farms? Ideological activists? The lines are increasingly blurred.

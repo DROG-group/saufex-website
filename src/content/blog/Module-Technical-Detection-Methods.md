@@ -8,9 +8,6 @@ learningPath: "Detection and Verification"
 moduleNumber: 2
 estimatedTime: "9 minutes"
 ---
-# Module: Technical Detection Methods
-
-
 [screen 1]
 
 Every digital action leaves traces. Account creation uses IP addresses. Images carry metadata. Videos contain compression artifacts. Bot networks show timing patterns.

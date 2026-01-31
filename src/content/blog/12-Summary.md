@@ -6,9 +6,6 @@ date: "2024-09-30"
 updated: "2025-09-22"
 description: "The summary module in the EMoD learning path 'Anatomy of mis- and disinformation'."
 ---
-# (12) Summary
-
-
 \[screen 1\]
 
 People are capable of having outrageous beliefs.

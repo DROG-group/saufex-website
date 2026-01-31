@@ -8,9 +8,6 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 6
 estimatedTime: "9 minutes"
 ---
-# Module: Assessing FIMI Impact
-
-
 [screen 1]
 
 Did Russian interference change the outcome of the 2016 US election? Did FIMI operations affect the Brexit vote? Do COVID-19 disinformation campaigns cost lives?

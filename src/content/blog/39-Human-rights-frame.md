@@ -6,9 +6,6 @@ date: "2025-03-21"
 updated: "2025-03-26"
 description: "The human rights approach to FIMI - where does it fit on the Levinas-Hobbes spectrum?"
 ---
-# (39) Human rights frame
-
-
 After having described a[n ethical frame than runs from Levinas on one pole to Hobbes on the other pole](/insights/38-AI-and-FIMI-recommendations-2), I will start placing existing mainstream FIMI approaches on this ethical spectrum. Their assigned place on the spectrum will have consequences for the use of AI in drafting recommendations: at the Levinasian pole it should be banned when concerning those for whom we accept a responsibility, at the Hobbesian pole anything goes. I will take into account that the mainstream FIMI approaches may be differentiated in their approach to different target groups; for some target groups they may be more Levinasian, for other target groups more Hobbesian.
 
 ## Human rights FIMI approach

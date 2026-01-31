@@ -8,9 +8,6 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 1
 estimatedTime: "8 minutes"
 ---
-# Module: What is FIMI?
-
-
 [screen 1]
 
 In 2016, foreign actors interfered in multiple democratic elections through coordinated information manipulation. In 2020, they amplified pandemic conspiracies and health misinformation. In 2022, they justified military aggression through systematic falsification.

@@ -8,9 +8,6 @@ learningPath: "Data Analysis"
 moduleNumber: 3
 estimatedTime: "8 minutes"
 ---
-# Module: Understanding Polling
-
-
 [screen 1]
 
 "New poll shows candidate leading by 3 points!" Headlines treat this as meaningful. But with a ±3% margin of error, it's statistically a tie.

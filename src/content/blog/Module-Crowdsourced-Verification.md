@@ -8,9 +8,6 @@ learningPath: "Detection and Verification"
 moduleNumber: 6
 estimatedTime: "9 minutes"
 ---
-# Module: Crowdsourced Verification
-
-
 [screen 1]
 
 A missile strike occurs. Within hours, open-source investigators have geolocated the impact site, identified the weapon system, and verified video authenticity - all using publicly available information and collective intelligence.

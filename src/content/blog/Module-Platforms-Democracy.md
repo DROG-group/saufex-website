@@ -8,9 +8,6 @@ learningPath: "Platform Governance"
 moduleNumber: 1
 estimatedTime: "8 minutes"
 ---
-# Module: Platforms and Democracy
-
-
 [screen 1]
 
 Facebook has more users than any nation has citizens. Twitter shapes political discourse globally. YouTube is the world's second-largest search engine. TikTok influences youth culture across continents.

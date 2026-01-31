@@ -6,9 +6,6 @@ date: "2024-09-21"
 updated: "2025-09-22"
 description: "The second module in the EMoD learning path 'Anatomy of mis- and disinformation'."
 ---
-# (9) Module: How beliefs form
-
-
 \[screen 1\]
 
 Our beliefs are shaped on an individual level by our life experiences and on a social level by the groups that we are members of.

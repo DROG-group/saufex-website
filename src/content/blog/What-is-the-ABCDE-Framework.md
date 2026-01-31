@@ -6,8 +6,6 @@ date: "2025-10-13"
 updated: "2025-10-13"
 description: "Here we provide an overview of the ABCDE Framework"
 ---
-# What is the ABCDE Framework?
-
 The ABCDE framework is a structured model for analyzing disinformation or influence operations. It helps break down complex cases into manageable, comparable elements.
 
 Here's an overview:

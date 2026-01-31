@@ -6,9 +6,6 @@ date: "2025-05-25"
 updated: "2025-06-25"
 description: "Rather than asking or acknowledging uncertainty AI assumes."
 ---
-# (56) Flaws in AI critical thinking
-
-
 In this blog post, I’ll present a conversation with Claude on critical thinking. I triggered the conversation by introducing the Polish-language presentation we made to facilitate the second Youth Resilience Council in the recent pilot. I'll quote the conversation after Claude (4 Sonnet) has given its answer.
 
 **I said**: Thank you. There are quite a few assumptions in your reaction. And I noticed you do not ask questions when you are unsure how to interpret. Why is that?

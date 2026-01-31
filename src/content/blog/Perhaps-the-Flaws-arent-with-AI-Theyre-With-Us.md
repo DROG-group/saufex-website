@@ -6,9 +6,6 @@ date: "2025-10-14"
 updated: "2025-10-14"
 description: "I dive into existing issues that have become apparent with the widespread use of AI"
 ---
-# Perhaps the Flaws aren’t with AI, They’re With Us
-
-
 Now before you think this is paid for by a big tech and that I’m trying to let them off the hook. I’m not. AI is built and used irresponsibly from its carbon footprint to its complicity in user deaths. However, what I will argue is that the areas where we are seeing problems with people interacting with AI is where we already face genuine societal problems.
 
 ## Jobs

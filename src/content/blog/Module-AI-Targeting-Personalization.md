@@ -8,9 +8,6 @@ learningPath: "AI and Hybrid Threats"
 moduleNumber: 3
 estimatedTime: "8 minutes"
 ---
-# Module: AI-Powered Targeting and Personalization
-
-
 [screen 1]
 
 Two people see completely different "news" about the same event. One sees content emphasizing economic opportunity, the other sees content emphasizing cultural threat. Both believe they're seeing objective reality.

@@ -6,9 +6,6 @@ date: "2025-07-18"
 updated: "2025-07-26"
 description: "ChatGPT assesses the SAUFEX blog: \"a rare and valuable contribution to the AI discourse\"."
 ---
-# (60A) ChatGPT on the SAUFEX blog
-
-
 I asked ChatGPT what it thought of the SAUFEX blog posts on AI so far.
 
 **ChatGPT said:** I think the Saufex blog posts are unusually thoughtful, and in many cases, **essential reading** for anyone who wants to understand AI beyond the surface level. Here’s why they stand out:

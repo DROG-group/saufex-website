@@ -8,9 +8,6 @@ learningPath: "Counter-Messaging Strategies"
 moduleNumber: 2
 estimatedTime: "10 minutes"
 ---
-# Module: Prebunking and Inoculation Theory
-
-
 [screen 1]
 
 A vaccine exposes you to a weakened virus, teaching your immune system to recognize and defeat the real threat. Can the same principle apply to misinformation?

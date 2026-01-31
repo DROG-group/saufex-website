@@ -6,9 +6,6 @@ date: "2024-10-10"
 updated: "2024-11-01"
 description: "This post highlights how disaster is the most clear cut case for when disinformation presents a clear and present danger"
 ---
-# Disaster, when the danger of disinformation is clearest
-
-
 Often discussions around disinformation focus on the political effects of it eroding democracy. There is lively debate on what constitutes disinformation as some claim that the term is used by bad faith actors looking to censor people's opinions.
 
 It is indeed true that in some authoritarian countries laws on disinformation have been used to go after journalists. However it is also true that there are actors working in good faith who are trying to create an information environment that for lack of a better term, isn’t filled with bullshit.

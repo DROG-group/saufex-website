@@ -8,9 +8,6 @@ learningPath: "AI and Hybrid Threats"
 moduleNumber: 7
 estimatedTime: "8 minutes"
 ---
-# Module: Defending Against Hybrid Threats
-
-
 [screen 1]
 
 Hybrid threats are complex, adaptive, and multi-domain. Can they be defended against?

@@ -6,9 +6,6 @@ date: "2025-01-19"
 updated: "2025-01-21"
 description: "There are multiple roads to achieve credibility. Fact-speaking is just one of them."
 ---
-# (27) Achieving credibility
-
-
 According to me, it is possible to see [“fact-speaking” and “belief-speaking”](/insights/19-We-need-two-types-of-discourses) as complementary. To do so we need to take a step back and look at their function. Both modes of speaking aim to provide credibility to statements or narratives. Both modes do so using accuracy: “fact-speaking” strives at achieving accuracy in representing the outer world while “belief-speaking” does so in representing an inner world.
 
 ## Which mode to choose
