@@ -85,7 +85,7 @@ const canonicalURL = new URL(currentPath, Astro.site);
         <a href="/media" class:list={[{ active: currentPath === '/media' }]}>Media</a>
         <a href="/partners" class:list={[{ active: currentPath === '/partners' }]}>Partners</a>
         <a href="/about" class:list={[{ active: currentPath === '/about' }]}>About</a>
-        <a href="https://emod-platform.vercel.app" target="_blank" class="nav__emod">EMOD</a>
+        <a href="https://emod.saufex.eu" target="_blank" class="nav__emod">EMOD</a>
       </nav>
     </div>
   </header>
@@ -131,7 +131,7 @@ const canonicalURL = new URL(currentPath, Astro.site);
             <a href="/media">Media</a>
             <a href="/partners">Partners</a>
             <a href="/about">About</a>
-            <a href="https://emod-platform.vercel.app" target="_blank">EMOD Platform</a>
+            <a href="https://emod.saufex.eu" target="_blank">EMOD Platform</a>
           </div>
           <div class="footer__col">
             <h4>Connect</h4>
@@ -144,11 +144,16 @@ const canonicalURL = new URL(currentPath, Astro.site);
         </div>
       </div>
       <div class="footer__bottom">
-        <p class="footer__legal">
-          Funded by the European Union. Views expressed are those of the authors only.
-        </p>
         <div class="footer__eu">
           <img src="/images/eu-funded.svg" alt="Funded by the European Union">
+          <p class="footer__legal">
+            Funded by the European Union. Views expressed are those of the authors only.
+          </p>
+        </div>
+        <div class="footer__license">
+          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">
+            <img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="CC BY-NC-SA 4.0">
+          </a>
         </div>
       </div>
     </div>
