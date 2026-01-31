@@ -5,26 +5,26 @@ const publications = [
   {
     title: "SAUFEX: A Unified Framework for Building European Resilience Against Foreign Information Manipulation and Interference",
     type: "Journal Article",
-    url: "/insights/SAUFEX-Unified-Framework-European-FIMI-Resilience",
+    url: "#",
     author: "SAUFEX Consortium",
-    description: "Comprehensive theoretical framework presenting SAUFEX's approach to countering FIMI through standardization, knowledge consolidation, and coordinated governance. Published 2026.",
-    status: "published"
+    description: "Comprehensive theoretical framework presenting SAUFEX's approach to countering FIMI through standardization, knowledge consolidation, and coordinated governance.",
+    status: "planned"
   },
   {
     title: "Policy Pathways for Establishing European Resilience Councils: A Comparative Analysis and Implementation Framework",
     type: "Journal Article",
-    url: "/insights/Policy-Pathways-European-Resilience-Councils",
+    url: "#",
     author: "SAUFEX Consortium",
-    description: "Comparative analysis of institutional design and implementation of Resilience Councils, with case studies from Poland and Lithuania pilots. Published 2026.",
-    status: "published"
+    description: "Comparative analysis of institutional design and implementation of Resilience Councils, with case studies from Poland and Lithuania pilots.",
+    status: "planned"
   },
   {
     title: "AI-Augmented Disinformation: Challenges and Pathways for Democratic Resilience",
     type: "Journal Article",
-    url: "/insights/AI-Augmented-Disinformation-Democratic-Resilience",
+    url: "#",
     author: "SAUFEX Consortium",
-    description: "Analysis of generative AI's transformative effects on disinformation production and targeting, with multi-layered defense strategies for democratic societies. Published 2026.",
-    status: "published"
+    description: "Analysis of generative AI's transformative effects on disinformation production and targeting, with multi-layered defense strategies for democratic societies.",
+    status: "planned"
   },
   {
     title: "International Disinformation: A Handbook for Analysis and Response",
@@ -53,6 +53,20 @@ const publications = [
     type: "Booklet",
     url: "https://docs.saufex.eu/booklet%20(1).pdf",
     description: "Overview of the whole-of-society approach to building resilience.",
+    status: "published"
+  },
+  {
+    title: "OpenCTI E-Learning Course for FIMI Analysts",
+    type: "Training Guide",
+    url: "https://docs.saufex.eu/FINAL%20OpenCTI%20e-learning%20course%20for%20FIMI%20analysts%2009.02.pdf",
+    description: "Comprehensive e-learning course on using OpenCTI for FIMI detection and analysis.",
+    status: "published"
+  },
+  {
+    title: "State of FIMI: Current Landscape and Challenges",
+    type: "Working Paper",
+    url: "https://docs.saufex.eu/STATE-OF-FIMI-draft.pdf",
+    description: "Draft analysis of the current state of foreign information manipulation and interference in Europe.",
     status: "published"
   }
 ];
@@ -92,6 +106,13 @@ const deliverables = [
     status: "completed"
   },
   {
+    title: "Training Materials for FIMI Practitioners",
+    type: "Deliverable D2.1",
+    url: "https://docs.saufex.eu/D2.1%20Training%20Materials%20Document%20deliverable.pdf",
+    description: "Structured training materials and educational resources for FIMI detection and response.",
+    status: "completed"
+  },
+  {
     title: "FIMI Narrative Report",
     type: "Deliverable D3.1",
     url: "https://docs.saufex.eu/D3.1.%20FIMI%20narrative_FINAL.pdf",
@@ -106,20 +127,18 @@ const deliverables = [
     status: "completed"
   },
   {
-    title: "FIMI Course Field Handbook",
+    title: "Resilience Council Handbook",
     type: "Deliverable D5.3",
-    url: "#",
+    url: "https://docs.saufex.eu/resilience-council-handbookfinal%20(1).pdf",
     description: "Comprehensive guide for establishing Resilience Councils with best practices and operational procedures.",
-    status: "in-progress",
-    semester: "5"
+    status: "completed"
   },
   {
-    title: "Policy Briefs on FIMI Response",
+    title: "SAUFEX Policy Recommendations",
     type: "Deliverable D5.4",
-    url: "#",
-    description: "Two policy briefs synthesizing project findings and recommendations for policymakers.",
-    status: "planned",
-    semester: "5-6"
+    url: "https://docs.saufex.eu/Saufex%20Recommendations%20October%202025.pdf",
+    description: "Policy recommendations synthesizing project findings for policymakers.",
+    status: "completed"
   },
   {
     title: "EMOD: Societal Resilience through a Modular Action Plan",
@@ -154,27 +173,47 @@ const deliverables = [
 
       <div class="resource-list">
         {publications.map((pub) => (
-          <a href={pub.url} target="_blank" class="resource-item">
-            <div class="resource-item__icon">
-              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-                <polyline points="14,2 14,8 20,8"></polyline>
-              </svg>
+          pub.status === 'published' ? (
+            <a href={pub.url} target="_blank" class="resource-item">
+              <div class="resource-item__icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                  <polyline points="14,2 14,8 20,8"></polyline>
+                </svg>
+              </div>
+              <div class="resource-item__content">
+                <span class="resource-item__type">{pub.type}</span>
+                <h3 class="resource-item__title">{pub.title}</h3>
+                <p class="resource-item__description">{pub.description}</p>
+                {pub.author && <span class="resource-item__author">By {pub.author}</span>}
+              </div>
+              <div class="resource-item__arrow">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                  <polyline points="15 3 21 3 21 9"/>
+                  <line x1="10" y1="14" x2="21" y2="3"/>
+                </svg>
+              </div>
+            </a>
+          ) : (
+            <div class="resource-item resource-item--inactive">
+              <div class="resource-item__icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                  <polyline points="14,2 14,8 20,8"></polyline>
+                </svg>
+              </div>
+              <div class="resource-item__content">
+                <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+                  <span class="resource-item__type">{pub.type}</span>
+                  <span class="status-badge status-badge--planned">Planned</span>
+                </div>
+                <h3 class="resource-item__title">{pub.title}</h3>
+                <p class="resource-item__description">{pub.description}</p>
+                {pub.author && <span class="resource-item__author">By {pub.author}</span>}
+              </div>
             </div>
-            <div class="resource-item__content">
-              <span class="resource-item__type">{pub.type}</span>
-              <h3 class="resource-item__title">{pub.title}</h3>
-              <p class="resource-item__description">{pub.description}</p>
-              {pub.author && <span class="resource-item__author">By {pub.author}</span>}
-            </div>
-            <div class="resource-item__arrow">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
-                <polyline points="15 3 21 3 21 9"/>
-                <line x1="10" y1="14" x2="21" y2="3"/>
-              </svg>
-            </div>
-          </a>
+          )
         ))}
       </div>
     </div>
