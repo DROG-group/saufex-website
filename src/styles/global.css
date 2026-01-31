@@ -605,6 +605,32 @@ button:focus-visible {
   margin: 0 auto var(--space-lg);
 }
 
+.about-strip__graphics {
+  display: flex;
+  gap: var(--space-lg);
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: var(--space-xl) auto;
+  max-width: 1000px;
+}
+
+.about-strip__graphic {
+  max-width: 100%;
+  height: auto;
+  max-height: 300px;
+}
+
+@media (max-width: 768px) {
+  .about-strip__graphics {
+    flex-direction: column;
+  }
+
+  .about-strip__graphic {
+    max-height: 200px;
+  }
+}
+
 /* ============================================
    PARTNERS - Logo strip
    ============================================ */
@@ -743,9 +769,25 @@ button:focus-visible {
   max-width: 400px;
 }
 
+.footer__eu {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+
 .footer__eu img {
   height: 40px;
   opacity: 0.8;
+}
+
+.footer__license img {
+  height: 31px;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+
+.footer__license img:hover {
+  opacity: 1;
 }
 
 /* ============================================
@@ -914,6 +956,10 @@ button:focus-visible {
   .footer__bottom {
     flex-direction: column;
     text-align: center;
+  }
+
+  .footer__eu {
+    flex-direction: column;
   }
 
   /* Spotlight mobile */
