@@ -9,7 +9,7 @@ description: "My response to the current times that feel out of joint."
 # (81) Belief-speaking ‘in joint’
 
 
-In my view, what is most deeply human about belief-speaking (cf.  blog post [nineteen](https://saufex.eu/post/19-We-need-two-types-of-discourses)) is its essence as an organic, creative process. Nick Chater’s description of how the human mind works (see: blog posts [nine](https://saufex.eu/post/9-How-beliefs-form) to [twelve](https://saufex.eu/post/12-Summary); see also: the updated [EMoD learning path 'demand side'](https://onnohansen.nl/emod-learning-path-demand-side/)) resonates deeply with me.
+In my view, what is most deeply human about belief-speaking (cf.  blog post [nineteen](/insights/19-We-need-two-types-of-discourses)) is its essence as an organic, creative process. Nick Chater’s description of how the human mind works (see: blog posts [nine](/insights/9-How-beliefs-form) to [twelve](/insights/12-Summary); see also: the updated [EMoD learning path 'demand side'](https://onnohansen.nl/emod-learning-path-demand-side/)) resonates deeply with me.
 
 In Chater’s vision, our brain executes cycles of thoughts that try to come up with some output. The starting point of these cycles are previous cycles, so that a continuity is preserved. But at the same time, our brains improvise. They do not simple repeat the same cycles over and over but creatively add new elements.
 

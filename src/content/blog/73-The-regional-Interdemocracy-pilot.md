@@ -9,7 +9,7 @@ description: "Conference perspectives on Interdemocracy by students, school lead
 # (73) The regional Interdemocracy pilot
 
 
-How does one present a new approach?  This was the major challenge when organizing a conference for regional Polish school managers and teachers on Interdemocracy (see: [blog post fifty-three](https://saufex.eu/post/53-Program-Interdemocracy-recap)). The conference is the starting point of a larger, regional pilot.
+How does one present a new approach?  This was the major challenge when organizing a conference for regional Polish school managers and teachers on Interdemocracy (see: [blog post fifty-three](/insights/53-Program-Interdemocracy-recap)). The conference is the starting point of a larger, regional pilot.
 
 ## [](#Our-approach)Our approach
 

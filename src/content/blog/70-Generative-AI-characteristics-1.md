@@ -33,9 +33,9 @@ Coveney and Succi (2025) show that for the current GAI design “the scope for i
 
 The implication of this characteristic is profound. Since GAIs have a fundamental indifference towards truth, any truthfulness in their output is merely a byproduct of their processes, not a deliberate goal. It, therefore, follows that their output cannot be inherently trusted. The logical conclusion is that one's default stance should be to treat GAI output as if it were misinformation in the definition of the European Commission[\[1\]](#_ftn2) until it's proven otherwise. This doesn't mean the output is always wrong, but rather that one should adopt a ‘zero-trust’ policy towards it. Ultimately, it's on the user to verify GAIs’ claims by checking them against external, reliable sources.
 
-[Part (2)](https://saufex.eu/post/71-Generative-AI-characteristics-2)
+[Part (2)](/insights/71-Generative-AI-characteristics-2)
 
-[Part (3)](https://saufex.eu/post/72-Generative-AI-characteristics-3)
+[Part (3)](/insights/72-Generative-AI-characteristics-3)
 
 ## [](#Literature)Literature
 

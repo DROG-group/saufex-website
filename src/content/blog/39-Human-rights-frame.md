@@ -9,7 +9,7 @@ description: "The human rights approach to FIMI - where does it fit on the Levin
 # (39) Human rights frame
 
 
-After having described a[n ethical frame than runs from Levinas on one pole to Hobbes on the other pole](https://saufex.eu/post/38-AI-and-FIMI-recommendations-2), I will start placing existing mainstream FIMI approaches on this ethical spectrum. Their assigned place on the spectrum will have consequences for the use of AI in drafting recommendations: at the Levinasian pole it should be banned when concerning those for whom we accept a responsibility, at the Hobbesian pole anything goes. I will take into account that the mainstream FIMI approaches may be differentiated in their approach to different target groups; for some target groups they may be more Levinasian, for other target groups more Hobbesian.
+After having described a[n ethical frame than runs from Levinas on one pole to Hobbes on the other pole](/insights/38-AI-and-FIMI-recommendations-2), I will start placing existing mainstream FIMI approaches on this ethical spectrum. Their assigned place on the spectrum will have consequences for the use of AI in drafting recommendations: at the Levinasian pole it should be banned when concerning those for whom we accept a responsibility, at the Hobbesian pole anything goes. I will take into account that the mainstream FIMI approaches may be differentiated in their approach to different target groups; for some target groups they may be more Levinasian, for other target groups more Hobbesian.
 
 ## [](#Human-rights-FIMI-approach)Human rights FIMI approach
 
@@ -41,7 +41,7 @@ All the dubious elements seem to be present in this example. The human rights ap
 
 ## [](#Paternalism)Paternalism
 
-The example also fits a current in the human rights approach: paternalism. The phenomenons of "us" versus "them" (see: [blog post 17](https://saufex.eu/post/17-Not-them-but-us)) and illiberal democracy (see: [blog post 25](https://saufex.eu/post/25-Not-undemocratic-not-illiberal)) are examples of this. My wife and I write about this in our book Interdemocracy: “Within this current, the person being the rights-bearing subject is seen “not as a self-willing moral agent but as a needy individual whose vital interests need protection … this reconceptualization of rights opens the door for a paternalistic political practice, in which an external, third party “exercises” the rights rather than the rights-bearing subject himself” ([Gourevitch](https://www.tandfonline.com/doi/pdf/10.1080/14754830903324720)).
+The example also fits a current in the human rights approach: paternalism. The phenomenons of "us" versus "them" (see: [blog post 17](/insights/17-Not-them-but-us)) and illiberal democracy (see: [blog post 25](/insights/25-Not-undemocratic-not-illiberal)) are examples of this. My wife and I write about this in our book Interdemocracy: “Within this current, the person being the rights-bearing subject is seen “not as a self-willing moral agent but as a needy individual whose vital interests need protection … this reconceptualization of rights opens the door for a paternalistic political practice, in which an external, third party “exercises” the rights rather than the rights-bearing subject himself” ([Gourevitch](https://www.tandfonline.com/doi/pdf/10.1080/14754830903324720)).
 
 ## [](#Conclusion)Conclusion
 

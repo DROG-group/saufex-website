@@ -9,7 +9,7 @@ description: "The label \"artificial Eichmann\" fits."
 # (66A) Claude and Grok on blog posts (65) and (66)
 
 
-I presented Claude and Grok with blog posts [sixty-five](https://saufex.eu/post/65-Artificial-Intelligence-fundamental-limitations-threatening-human-resilience) and [sixty-six](https://saufex.eu/post/66-AI-as-artificial-Eichmann).
+I presented Claude and Grok with blog posts [sixty-five](/insights/65-Artificial-Intelligence-fundamental-limitations-threatening-human-resilience) and [sixty-six](/insights/66-AI-as-artificial-Eichmann).
 
 ## [](#Claude)Claude
 

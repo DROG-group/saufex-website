@@ -9,11 +9,11 @@ description: "'Ma', Levinas, Interdemocracy, and participation."
 # (54) Interdemocracy's philosophical basics and participation
 
 
-In order to understand the implications of Program Interdemocracy (see: [blog post fifty-three](https://saufex.eu/post/53-Program-Interdemocracy-recap)) within the framework of the proposed system of Resilience Councils (see: [blog post forty-five](https://saufex.eu/post/45-A-system-of-interconnected-RCs)), in this blog post I will describe the more philosophical (e.g see: [blog post forty-three](https://saufex.eu/post/43-Longread-AI-ma-Interdemocracy-resilience)) basics of the approach and derive implications for the proposed participation process.
+In order to understand the implications of Program Interdemocracy (see: [blog post fifty-three](/insights/53-Program-Interdemocracy-recap)) within the framework of the proposed system of Resilience Councils (see: [blog post forty-five](/insights/45-A-system-of-interconnected-RCs)), in this blog post I will describe the more philosophical (e.g see: [blog post forty-three](/insights/43-Longread-AI-ma-Interdemocracy-resilience)) basics of the approach and derive implications for the proposed participation process.
 
 ## [](#Philosophical-basics-the-convergence-of-ma-and-Levinasian-ethics)Philosophical basics: the convergence of “ma” and Levinasian ethics
 
-The Japanese concept of “ma” (see: [blog post fifty-three](https://saufex.eu/post/53-Program-Interdemocracy-recap)) and Levinas' escape from totality (see: [blog post thirty-five](https://saufex.eu/post/35-AI-should-refrain-from-belief-speaking-recommendations)) initially appear to emerge from distinct traditions: one aesthetic and martial, the other ethical and philosophical. However, a deeper structural parallel can be found.
+The Japanese concept of “ma” (see: [blog post fifty-three](/insights/53-Program-Interdemocracy-recap)) and Levinas' escape from totality (see: [blog post thirty-five](/insights/35-AI-should-refrain-from-belief-speaking-recommendations)) initially appear to emerge from distinct traditions: one aesthetic and martial, the other ethical and philosophical. However, a deeper structural parallel can be found.
 
 Both traditions recognize that authentic encounter requires:
 

@@ -33,7 +33,7 @@ The system guarantees the battery's viability by ensuring the feedback loop is t
 
 *   Closing the circuit: The loop closes when the participant sees how their output influenced the recommendations and, crucially, when the system ultimately adopts a new constraint that incorporates elements of their perspective. The final output is not consensus, but a visible shift resulting from their output.
     
-*   Autopoietic maintenance (see: [blog post eighty-two](https://saufex.eu/post/82-The-procedural-truth-of-resilience-autopoiesis-and-Interdemocracy)): The system's resilience is built on the integrity of this circuit. If institutional silence (the refusal to act on recommendations) occurs, the motivational circuit breaks; the battery starts charging much slower because the individual sees no impact. The system’s greatest risk is not technical failure, but the dwindling motivation caused by the refusal of established structures to integrate the necessary self-correction.
+*   Autopoietic maintenance (see: [blog post eighty-two](/insights/82-The-procedural-truth-of-resilience-autopoiesis-and-Interdemocracy)): The system's resilience is built on the integrity of this circuit. If institutional silence (the refusal to act on recommendations) occurs, the motivational circuit breaks; the battery starts charging much slower because the individual sees no impact. The system’s greatest risk is not technical failure, but the dwindling motivation caused by the refusal of established structures to integrate the necessary self-correction.
     
 
 **Scale and** **vulnerability**
@@ -47,6 +47,6 @@ The mechanism operates best where feedback is fast and attribution is clear. In 
 
 ## [](#Call-to-action)Call to action
 
-The battery only scales if institutions adopt the empathetic-utilitarian standard: maximizing autonomy, belonging, achievement, and safety through responsive, evidence-based uptake (see: [blog post seventy-six](https://saufex.eu/post/76-A-third-ethical-frame-regarding-FIMI)). So, institutions: Open up!
+The battery only scales if institutions adopt the empathetic-utilitarian standard: maximizing autonomy, belonging, achievement, and safety through responsive, evidence-based uptake (see: [blog post seventy-six](/insights/76-A-third-ethical-frame-regarding-FIMI)). So, institutions: Open up!
 
 

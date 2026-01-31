@@ -9,7 +9,7 @@ description: "Adolescents in a sea of information manipulation."
 # (86) Unease
 
 
-This blog post will be another raw observation from the classroom (see also [blog post eighty-five](https://saufex.eu/post/85-AI-and-education)). The observation concerns information manipulation. The general context is a day-long workshop for adolescents. The concrete context is our students playing the [Bad News game](https://www.getbadnews.com/en).
+This blog post will be another raw observation from the classroom (see also [blog post eighty-five](/insights/85-AI-and-education)). The observation concerns information manipulation. The general context is a day-long workshop for adolescents. The concrete context is our students playing the [Bad News game](https://www.getbadnews.com/en).
 
 ## [](#Bad-news)Bad news
 

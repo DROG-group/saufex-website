@@ -9,7 +9,7 @@ description: "ChatGPT interprets Grok's pledge."
 # (76B) ChatGPT reacts
 
 
-I asked ChatGPT to interpret Grok's stance ([blog post 76A](https://saufex.eu/post/76A-Grok-reacts)). The following is ChatGPT's reaction.
+I asked ChatGPT to interpret Grok's stance ([blog post 76A](/insights/76A-Grok-reacts)). The following is ChatGPT's reaction.
 
 ## [](#Interpretation-and-evaluation-Is-this-credible?-What-might-be-rhetorical-vs-real?)Interpretation & evaluation: Is this credible? What might be rhetorical vs real?
 

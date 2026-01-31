@@ -9,7 +9,7 @@ description: "Ma, Chater, Giddens, Goffman, Bauman."
 # (89A) Notes on Interdemocracy as a trace
 
 
-In t[he previous blog post](https://saufex.eu/post/89-Interdemocracy-as-a-trace), I described Interdemocracy as a trace. Below there are some thoughts that have emerged since then.
+In t[he previous blog post](/insights/89-Interdemocracy-as-a-trace), I described Interdemocracy as a trace. Below there are some thoughts that have emerged since then.
 
 ## [](#Ma)Ma
 

@@ -9,7 +9,7 @@ description: "There are multiple roads to achieve credibility. Fact-speaking is 
 # (27) Achieving credibility
 
 
-According to me, it is possible to see [“fact-speaking” and “belief-speaking”](https://saufex.eu/post/19-We-need-two-types-of-discourses) as complementary. To do so we need to take a step back and look at their function. Both modes of speaking aim to provide credibility to statements or narratives. Both modes do so using accuracy: “fact-speaking” strives at achieving accuracy in representing the outer world while “belief-speaking” does so in representing an inner world.
+According to me, it is possible to see [“fact-speaking” and “belief-speaking”](/insights/19-We-need-two-types-of-discourses) as complementary. To do so we need to take a step back and look at their function. Both modes of speaking aim to provide credibility to statements or narratives. Both modes do so using accuracy: “fact-speaking” strives at achieving accuracy in representing the outer world while “belief-speaking” does so in representing an inner world.
 
 ## [](#Which-mode-to-choose)Which mode to choose
 
@@ -27,7 +27,7 @@ To aggregate individual perspectives in the right way, a minimum requirement is 
 
 ## [](#Preconditions)Preconditions
 
-Surowiecki’s first precondition is diversity. This diversity should not be understood in a sociological sense but in a conceptual and cognitive sense: many perspectives should be present among the individuals making up a crowd. It is important that not all individuals are very intelligent since that would limit the diversity. Presence of the naïve and the ignorant is crucially important. Biases and unfounded overconfidence are also warmly welcomed, as is selfishness. This neatly aligns with the ‘us’ attitude as described in [blog post seventeen](https://saufex.eu/post/17-Not-them-but-us).
+Surowiecki’s first precondition is diversity. This diversity should not be understood in a sociological sense but in a conceptual and cognitive sense: many perspectives should be present among the individuals making up a crowd. It is important that not all individuals are very intelligent since that would limit the diversity. Presence of the naïve and the ignorant is crucially important. Biases and unfounded overconfidence are also warmly welcomed, as is selfishness. This neatly aligns with the ‘us’ attitude as described in [blog post seventeen](/insights/17-Not-them-but-us).
 
 The second precondition is independence. Individuals should perform their thinking without interference from others: during the deliberation process, there is to be no communication among individuals, no negotiation, and no compromising. In addition, the individual outcomes of the deliberations should be presented simultaneously. The third precondition is decentralization. It is important that individuals base themselves on their local and specific knowledge and on their tacit knowledge.
 

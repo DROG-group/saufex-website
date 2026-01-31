@@ -9,7 +9,7 @@ description: "On the need to label people 'us' and not 'them'."
 # (17) Not ‘them’ but ‘us’
 
 
-Maybe the most important rule when involving less privileged individuals (see [blog post seven](https://saufex.eu/post/7-Involving-citizens)) is to not perceive them as ‘them’. They are ‘us’. They are part of the same body we all are part of - society. And it is our society we are defending against FIMI, not ‘them’, and not ‘us’ (see [blog post four](https://saufex.eu/post/4-Resilience)).  
+Maybe the most important rule when involving less privileged individuals (see [blog post seven](/insights/7-Involving-citizens)) is to not perceive them as ‘them’. They are ‘us’. They are part of the same body we all are part of - society. And it is our society we are defending against FIMI, not ‘them’, and not ‘us’ (see [blog post four](/insights/4-Resilience)).  
 
 ## [](#Effect-of-them)Effect of ‘them’
 
@@ -17,9 +17,9 @@ What is the danger of labeling people 'them'? When we start referring to parts o
 
 ## [](#Changing-beliefs)Changing beliefs
 
-As we saw in [blog post ten](https://saufex.eu/post/10-Module-Sustaining-beliefs), we all possess mechanisms to sustain our beliefs. Giving up core beliefs that align with our identity is an experience of an excruciating disequilibrium; it provokes in us a flight-or-fight reaction. Were we or anyone to be gullible, intellectually challenged, or lazy, we would permanently change core beliefs. We would be in a permanent, hurtful state of crisis. Fortunately, most of us are not.
+As we saw in [blog post ten](/insights/10-Module-Sustaining-beliefs), we all possess mechanisms to sustain our beliefs. Giving up core beliefs that align with our identity is an experience of an excruciating disequilibrium; it provokes in us a flight-or-fight reaction. Were we or anyone to be gullible, intellectually challenged, or lazy, we would permanently change core beliefs. We would be in a permanent, hurtful state of crisis. Fortunately, most of us are not.
 
-That is not to say that people can’t change their beliefs. We encountered mechanisms to sometimes successfully counter beliefs in [blog post eleven](https://saufex.eu/post/11-Module-Countering-beliefs). Especially when our beliefs are reflective (see [blog post eight](https://saufex.eu/post/8-Module-Outrageous-beliefs)), we can let non-fitting information through without feeling any pain, as a result of ‘knowledge neglect’ (we fail to notice that it is contradictory) or the ‘illusory truth effect’ (something is repeated so often that it appears true).
+That is not to say that people can’t change their beliefs. We encountered mechanisms to sometimes successfully counter beliefs in [blog post eleven](/insights/11-Module-Countering-beliefs). Especially when our beliefs are reflective (see [blog post eight](/insights/8-Module-Outrageous-beliefs)), we can let non-fitting information through without feeling any pain, as a result of ‘knowledge neglect’ (we fail to notice that it is contradictory) or the ‘illusory truth effect’ (something is repeated so often that it appears true).
 
 ## [](#Adult-education)Adult education
 

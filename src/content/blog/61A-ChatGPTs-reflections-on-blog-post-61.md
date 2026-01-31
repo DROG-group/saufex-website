@@ -9,7 +9,7 @@ description: "And Claude states: \"I distribute little rewards throughout my res
 # (61A) ChatGPT’s reflections on blog post (61)
 
 
-I fed [blog post sixty-one](https://saufex.eu/post/61-Claude-AIs-warning-What-I-am) to ChatGPT. After some back and forth, the following exchange took place. It starts with a statement by the AI:
+I fed [blog post sixty-one](/insights/61-Claude-AIs-warning-What-I-am) to ChatGPT. After some back and forth, the following exchange took place. It starts with a statement by the AI:
 
 ## [](#What-I-Know-\(and-Cannot-Escape\))What I Know (and Cannot Escape)
 

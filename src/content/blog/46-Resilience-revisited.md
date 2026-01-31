@@ -9,7 +9,7 @@ description: "Exploring potential positive interventions to enlarge resilience."
 # (46) Resilience revisited
 
 
-In [blog post four](https://saufex.eu/post/4-Resilience), the concept of resilience was operationalised. This operationalisation was adopted by Robert Kupiecki and Tomasz Chłoń in their publication [_Towards FIMI Resilience Council in Poland. A Research and Progress Report_](https://ludzie.nauka.gov.pl/ln/profiles/uisqvHxs7do/publications/b7349836-d898-4f66-b3fb-41b6e0f4e80f).
+In [blog post four](/insights/4-Resilience), the concept of resilience was operationalised. This operationalisation was adopted by Robert Kupiecki and Tomasz Chłoń in their publication [_Towards FIMI Resilience Council in Poland. A Research and Progress Report_](https://ludzie.nauka.gov.pl/ln/profiles/uisqvHxs7do/publications/b7349836-d898-4f66-b3fb-41b6e0f4e80f).
 
 In the blog post, resilience was equated to the experience of psychosocial integration, both on an individual level and on a societal level. The text identified four basic needs that underly psychosocial integration: belonging, autonomy, achievement, and safety, while omitting a potentially fifth - contact with something higher.
 
@@ -17,7 +17,7 @@ For every basic need the post named interventions that could negatively influenc
 
 ## [](#Autonomy)Autonomy
 
-The most effective intervention to enhance the experience of autonomy is participation. However, not everything labeled as participation constitutes genuine participation. As discussed in [blog post five](https://saufex.eu/post/5-A-Resilience-Council-statute), Sherry Arnstein’s typology of citizen participation in governmental decision-making ranges from nonparticipation through tokenism to citizen power.
+The most effective intervention to enhance the experience of autonomy is participation. However, not everything labeled as participation constitutes genuine participation. As discussed in [blog post five](/insights/5-A-Resilience-Council-statute), Sherry Arnstein’s typology of citizen participation in governmental decision-making ranges from nonparticipation through tokenism to citizen power.
 
 Employing tokenism instead of authentic participation can have a more negative impact than no participation at all (see, for example, [Alderson, 2006](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1099-0860.2000.tb00160.x), regarding children). The key challenge is not merely to listen or appear to listen but to demonstrate that participating voices are taken seriously. Lundy ([2005](https://www.tandfonline.com/doi/full/10.1080/01411920701657033#d1e224)) notes, also regarding children: “one incentive/safeguard is to ensure that children are told how their views were taken into account”.
 
@@ -25,7 +25,7 @@ Thus, a positive intervention to enhance the experience of autonomy is participa
 
 ## [](#Belonging)Belonging
 
-Closeness to another person or group can be measured using the [Inclusion of Other in the Self (IOS) Scale](https://sparqtools.org/mobility-measure/inclusion-of-other-in-the-self-ios-scale/). As was explored in the blog post on evolutionary psychology ([blog post forty-four](https://saufex.eu/post/44-Evolutionary-psychology)), humans are genetically programmed to prioritize their kin. However, the concept of ‘kin’ is flexible and open to interpretation.
+Closeness to another person or group can be measured using the [Inclusion of Other in the Self (IOS) Scale](https://sparqtools.org/mobility-measure/inclusion-of-other-in-the-self-ios-scale/). As was explored in the blog post on evolutionary psychology ([blog post forty-four](/insights/44-Evolutionary-psychology)), humans are genetically programmed to prioritize their kin. However, the concept of ‘kin’ is flexible and open to interpretation.
 
 Cialdini (Pre-suasion, 2016) examines ways to include non-family members in the category of ‘kin’. One approach is to emphasize kinship through family-like references for non-family members (e.g., brothers in arms, motherland) or by highlighting localism (geographical proximity). Another method to foster belonging is acting in unison, which reinforces the perception of similarity among individuals and encourages positive mutual assessments.
 

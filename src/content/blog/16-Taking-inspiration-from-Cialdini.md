@@ -11,7 +11,7 @@ description: "Linking Cialdini's principles of persuasion to the levels describe
 
 ## [](#Introduction)Introduction
 
-While adapting the six levels identified in the learning path ‘Anatomy of mis- and disinformation’ to the high school classroom (see: [blog post thirteen](https://saufex.eu/post/13-For-high-school-students-the-learning-path-anatomy)), I decided that following six times the same structure would be too repetitive for students. As a result, I merged levels three and four and levels five and six.
+While adapting the six levels identified in the learning path ‘Anatomy of mis- and disinformation’ to the high school classroom (see: [blog post thirteen](/insights/13-For-high-school-students-the-learning-path-anatomy)), I decided that following six times the same structure would be too repetitive for students. As a result, I merged levels three and four and levels five and six.
 
 ## [](#Cialdini)Cialdini
 

@@ -9,7 +9,7 @@ description: "Project SAUFEX aims to draft bottom-line conceptualizations and kn
 # (6) Creating a bottom line
 
 
-As was mentioned in the [third blog post](https://saufex.eu/post/3-What-is-FIMI), no consensus exists on what FIMI is. As a result, addressing FIMI in the European Union is disparate and unaligned. This fragmented approach creates a significant hurdle in dealing with FIMI, hindering the ability of Member States to counter FIMI actors or campaigns originating from state and non-state actors.  
+As was mentioned in the [third blog post](/insights/3-What-is-FIMI), no consensus exists on what FIMI is. As a result, addressing FIMI in the European Union is disparate and unaligned. This fragmented approach creates a significant hurdle in dealing with FIMI, hindering the ability of Member States to counter FIMI actors or campaigns originating from state and non-state actors.  
 
 ## [](#Bottom-line)Bottom line
 
@@ -23,7 +23,7 @@ The starting point for reporting is the platform [OpenCTI](https://github.com/Op
 
 ## [](#Countering)Countering
 
-While the challenge of drafting bottom-line conceptualizations and knowledge for the first stages of dealing with FIMI is profound, tackling the final stage, countering FIMI, seems almost impossible. The existing attempts are often fragmented, paternalistic, outdated, simplistic, unpractical, boring, and ineffective. Nevertheless, also for this stage project SAUFEX will initiate a fundament to build on, focusing on alternatives for denial of service responses (see the [first blog post](https://saufex.eu/post/1-Preserving-freedom-of-expression)): Substance.
+While the challenge of drafting bottom-line conceptualizations and knowledge for the first stages of dealing with FIMI is profound, tackling the final stage, countering FIMI, seems almost impossible. The existing attempts are often fragmented, paternalistic, outdated, simplistic, unpractical, boring, and ineffective. Nevertheless, also for this stage project SAUFEX will initiate a fundament to build on, focusing on alternatives for denial of service responses (see the [first blog post](/insights/1-Preserving-freedom-of-expression)): Substance.
 
 ## [](#Substance)Substance
 

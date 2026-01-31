@@ -9,7 +9,7 @@ description: "The theoretical framework guiding my contributions to Saufex."
 # (76) A third ethical frame regarding FIMI
 
 
-In earlier blog posts, I discussed the, in my view, main ethical frames that Western democracies rely on to make sense of the information sphere: the human rights approach by the European Union (see: [blog post 39](https://saufex.eu/post/39-Human-rights-frame)) and an evolutionary psychology approach by the current US administration (see: [blog post 44](https://saufex.eu/post/44-Evolutionary-psychology)). In this blog, I’ll outline a third, alternative frame. But before I do that, I’ll summarize the two earlier blog posts.
+In earlier blog posts, I discussed the, in my view, main ethical frames that Western democracies rely on to make sense of the information sphere: the human rights approach by the European Union (see: [blog post 39](/insights/39-Human-rights-frame)) and an evolutionary psychology approach by the current US administration (see: [blog post 44](/insights/44-Evolutionary-psychology)). In this blog, I’ll outline a third, alternative frame. But before I do that, I’ll summarize the two earlier blog posts.
 
 ## [](#Summary-of-the,-in-my-view,-dominant-Western-approaches)Summary of the, in my view, dominant Western approaches
 
@@ -31,7 +31,7 @@ According to experimental psychologist, neuroscientist, and philosopher Joshua G
 
 ## [](#Resilience)Resilience
 
-Resilience (see blog posts [four](https://saufex.eu/post/4-Resilience) and [forty-six](https://saufex.eu/post/46-Resilience-revisited)) can be seen as the fulfillment of core human needs - experiences of autonomy, belonging, and achievement, alongside the basic condition of safety, and perhaps, following Jonathan Haidt, the sense of contact with something higher. As such, it can function as the bridge between the personal ethics following a metaphysical encounter and the systemic pursuit of well-being: it translates the subjective experience of care and responsibility into measurable conditions of collective flourishing.
+Resilience (see blog posts [four](/insights/4-Resilience) and [forty-six](/insights/46-Resilience-revisited)) can be seen as the fulfillment of core human needs - experiences of autonomy, belonging, and achievement, alongside the basic condition of safety, and perhaps, following Jonathan Haidt, the sense of contact with something higher. As such, it can function as the bridge between the personal ethics following a metaphysical encounter and the systemic pursuit of well-being: it translates the subjective experience of care and responsibility into measurable conditions of collective flourishing.
 
 ## [](#The-third-approach)The third approach
 
@@ -39,7 +39,7 @@ The third approach consists of the interlocking layers of care and responsibilit
 
 The third approach is valid only regarding humans, thus excluding bots and other synthetic entities. It applies to all humans from any group, no matter whether they are in-group or out-group.
 
-What the approach stipulates is that administrations should strive to bring about a maximum experience of autonomy, belonging, achievement, and safety for a maximum amount of people. This means both counteracting against those who undermine this experience - by promoting polarisation, alienation, learned helplessness, relativism, and nihilism, and that stress threats to our physical and psychological health (see: [blog post four](https://saufex.eu/post/4-Resilience)) – and implementing policies to promote inclusivity, a growth-oriented framing of ability and adversity, and predictable and responsive communication that avoids being judgmental (see: [blog post forty-six](https://saufex.eu/post/46-Resilience-revisited)). Both types of administration activities should be evaluated by measuring impact.
+What the approach stipulates is that administrations should strive to bring about a maximum experience of autonomy, belonging, achievement, and safety for a maximum amount of people. This means both counteracting against those who undermine this experience - by promoting polarisation, alienation, learned helplessness, relativism, and nihilism, and that stress threats to our physical and psychological health (see: [blog post four](/insights/4-Resilience)) – and implementing policies to promote inclusivity, a growth-oriented framing of ability and adversity, and predictable and responsive communication that avoids being judgmental (see: [blog post forty-six](/insights/46-Resilience-revisited)). Both types of administration activities should be evaluated by measuring impact.
 
 For individuals within administrations who enter an ethical sphere of encounter, an additional layer of personal responsibility and care arises. The meeting space provides a profound experience with something higher, thus enhancing a deeper layer of resilience, a layer that should not be touched by administrations in an ideological or religious way.
 

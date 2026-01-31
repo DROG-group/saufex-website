@@ -9,7 +9,7 @@ description: "Follow-up on blog post 86."
 # (86A) Another day, another group
 
 
-Today, we repeated yesterday's workshop (see [blog post eighty-six](https://saufex.eu/post/86-Unease)), but with a cohort two years older. In this older group, quite a few students experienced moral scruples while playing the Bad News game. These are their answers:
+Today, we repeated yesterday's workshop (see [blog post eighty-six](/insights/86-Unease)), but with a cohort two years older. In this older group, quite a few students experienced moral scruples while playing the Bad News game. These are their answers:
 
 · Sometimes the criticism, or rather the persuasions, of the leading bot could be a bit uncomfortable.
 

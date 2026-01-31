@@ -78,7 +78,7 @@ Defined responsibilities
 
 Decision-making mechanisms
 
-*   Harvest the insights of [both fact-speaking perspectives and belief-speaking perspectives](https://saufex.eu/post/19-We-need-two-types-of-discourses) by means of initiatives like Interdemocracy.
+*   Harvest the insights of [both fact-speaking perspectives and belief-speaking perspectives](/insights/19-We-need-two-types-of-discourses) by means of initiatives like Interdemocracy.
     
 *   Proceed from 'is' to 'ought'.
     
@@ -100,7 +100,7 @@ Task 2 and 3: 
     
 *   Competence and integrity testing mechanisms.
     
-*   Training modules by initiatives like the European Master of countering Disinformation ([EMoD](https://saufex.eu/post/20-European-Master-of-countering-Disinformation-primer)).
+*   Training modules by initiatives like the European Master of countering Disinformation ([EMoD](/insights/20-European-Master-of-countering-Disinformation-primer)).
     
 *   Practical accountability processes for RCs and members.
     

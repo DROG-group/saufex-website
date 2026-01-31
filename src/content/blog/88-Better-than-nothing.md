@@ -17,13 +17,13 @@ Support for this hypothesis comes from an overwhelming sense of lack of agency a
 
 ## [](#GAIs)GAIs
 
-And then came generative AI. GAIs flatter. GAIs are always there, they personalize, and they align as if they are friends (see: [blog post eighty-three](https://saufex.eu/post/83-Generative-AI-triggered-digital-inequality-Pathways-mechanisms-and-proposed-interventions)). They represent the big world, but without costs or judgments. They are external but do not seem to have any of the unpredictability, deceitfulness, cruelty, or demandingness of the real ocean. So, GAIs seem attractive and many adolescents turn to them, for support in school tasks, and for any other kind of support.
+And then came generative AI. GAIs flatter. GAIs are always there, they personalize, and they align as if they are friends (see: [blog post eighty-three](/insights/83-Generative-AI-triggered-digital-inequality-Pathways-mechanisms-and-proposed-interventions)). They represent the big world, but without costs or judgments. They are external but do not seem to have any of the unpredictability, deceitfulness, cruelty, or demandingness of the real ocean. So, GAIs seem attractive and many adolescents turn to them, for support in school tasks, and for any other kind of support.
 
-But then, as Polish adolescents in fourteen classes made clear in our current pilot (see: [blog post seventy-three](https://saufex.eu/post/73-The-regional-Interdemocracy-pilot)), GAIs turn out to be frequently unreliable too. They sometimes invent facts, do not check sources, misinterpret commands, and repeat this behavior even when corrected. This can lead adolescents, in their own words, into error, and causes them to lose trust in GAIs. It triggers in them a feeling of permanent irritation. In addition, as a result of the faults of GAIs, they see that their school results suffer seriously – again, according to a majority of students in our pilot.
+But then, as Polish adolescents in fourteen classes made clear in our current pilot (see: [blog post seventy-three](/insights/73-The-regional-Interdemocracy-pilot)), GAIs turn out to be frequently unreliable too. They sometimes invent facts, do not check sources, misinterpret commands, and repeat this behavior even when corrected. This can lead adolescents, in their own words, into error, and causes them to lose trust in GAIs. It triggers in them a feeling of permanent irritation. In addition, as a result of the faults of GAIs, they see that their school results suffer seriously – again, according to a majority of students in our pilot.
 
 ## [](#Hymn)Hymn
 
-This brings me to the horror described in [blog post eighty-five](https://saufex.eu/post/85-AI-and-education). When describing why they use GAIs, adolescents in our classroom told us: “_We take the risk.__” “It is better than nothing.__”_
+This brings me to the horror described in [blog post eighty-five](/insights/85-AI-and-education). When describing why they use GAIs, adolescents in our classroom told us: “_We take the risk.__” “It is better than nothing.__”_
 
 These words sound like a potential generational anthem of adolescents trapped on their islands and feeling compelled to do anything to make their island bigger; anything but jumping into the ocean. I’m curious which music style will put rhythm to these words. And, I hope I’m wrong.
 

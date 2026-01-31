@@ -23,7 +23,7 @@ The RC is to be an intermediary between state and non-state actors. Firstly, the
 
 Secondly, based on the input of civil society and the expertise of its members, the RC will formulate recommendations regarding evidence-informed policies, appropriate and proportional tactical and political responses, and communication strategies.  In theory, as a consequence of the RC’s information sharing and recommendations, a more coordinated, harmonized, and standardized approach to FIMI will emerge among national and international stakeholders.
 
-Thirdly, the RC will advise the Digital Services Coordinator (DSC), who is nationally responsible for enforcing the DSA. The support of the DSC by the RC goes beyond informing and recommending. It also involves providing the DSC with knowledge of media so that FIMI content can be effectively addressed without having to resort to censorship – see the [first blog post](https://saufex.eu/post/1-Preserving-freedom-of-expression).
+Thirdly, the RC will advise the Digital Services Coordinator (DSC), who is nationally responsible for enforcing the DSA. The support of the DSC by the RC goes beyond informing and recommending. It also involves providing the DSC with knowledge of media so that FIMI content can be effectively addressed without having to resort to censorship – see the [first blog post](/insights/1-Preserving-freedom-of-expression).
 
 ## [](#Impact)Impact
 

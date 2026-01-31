@@ -9,7 +9,7 @@ description: "Resilience Councils might require additional organisations for you
 # (18) What could be the place of young people in the Resilience Councils?
 
 
-The description of a multi-tier Resilience Council structure in [blog post fourteen](https://saufex.eu/post/14-Resilience-Councils-A-thought-experiment) and the report on the upcoming actual Polish Resilience Council(s) in [blog post fifteen](https://saufex.eu/post/15-The-Polish-Resilience-Councils) show that representation might be a challenge. There are serious hoops in place through which anyone must jump before potentially becoming engaged in Resilience Councils.
+The description of a multi-tier Resilience Council structure in [blog post fourteen](/insights/14-Resilience-Councils-A-thought-experiment) and the report on the upcoming actual Polish Resilience Council(s) in [blog post fifteen](/insights/15-The-Polish-Resilience-Councils) show that representation might be a challenge. There are serious hoops in place through which anyone must jump before potentially becoming engaged in Resilience Councils.
 
 ## [](#Three-hoops)Three hoops
 
@@ -25,7 +25,7 @@ The hoops mean that for the general public realistically only local RCs are an o
 
 ## [](#Knowledge-hoop)Knowledge hoop
 
-The knowledge hoop is not as straightforward as it seems. As I suggested in [blog post sixteen](https://saufex.eu/post/16-Taking-inspiration-from-Cialdini), since currently both authority and social proof are decentralised, facts as presented by scientists (and journalists) are not generally accepted anymore while data validating any position can be derived from any group of like-minded people found online.
+The knowledge hoop is not as straightforward as it seems. As I suggested in [blog post sixteen](/insights/16-Taking-inspiration-from-Cialdini), since currently both authority and social proof are decentralised, facts as presented by scientists (and journalists) are not generally accepted anymore while data validating any position can be derived from any group of like-minded people found online.
 
 While RCs are to increase trust in liberal democracy by means of broadened participation, that is, by enlarging the experience of agency, the knowledge hoop can have a divisive effect since it might be seen as a top-down requirement to collaborate with state-backed truths. That this ‘state-backed truths’ will also be hard to swallow for many governmental decision-makers is something that will probably not be taken into account.
 
@@ -35,7 +35,7 @@ That is why the knowledge hoop cannot be a mere transfer of facts. Philosopher M
 
 ## [](#Youngster-reception)Youngster reception
 
-The recent pilot for high school students based on EMoD content (see: [blog post thirteen](https://saufex.eu/post/13-For-high-school-students-the-learning-path-anatomy)) gave an insight into how young people might currently receive facts. In a small setting (four classes) and with the participation of a limited target group (first-year high school students at one school in Gdańsk, Poland, N=54-65) some interesting qualitative results were found.
+The recent pilot for high school students based on EMoD content (see: [blog post thirteen](/insights/13-For-high-school-students-the-learning-path-anatomy)) gave an insight into how young people might currently receive facts. In a small setting (four classes) and with the participation of a limited target group (first-year high school students at one school in Gdańsk, Poland, N=54-65) some interesting qualitative results were found.
 
 We asked the students four questions during so-called thought experiments (see below). One of the questions was: ‘Scientists and journalists present facts that may not align with your beliefs. Do such inconvenient facts inspire you to reconsider your beliefs? Why do you think so?’
 

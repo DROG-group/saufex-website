@@ -9,7 +9,7 @@ description: "A summary of AI's limitations as encountered in this blog so far."
 # (57) Longread: serious limitations of AI
 
 
-I presented Claude (4 Sonnet) with blog posts [forty-eight](https://saufex.eu/post/48-The-case-against-AI-simulated-empathy), [forty-nine](https://saufex.eu/post/49-Answers-by-humans-and-by-AI-YRC-reflection), [fifty-two](https://saufex.eu/post/52-Recommendations-YRC-reflection), [fifty-five](https://saufex.eu/post/55-AIs-dangerous-side-in-creating-educational-processes), and [fifty-six](https://saufex.eu/post/56-Flaws-in-AI-critical-thinking) and asked: "Please filter out from the document attached the aspects of artificial intelligence that are problematic." 
+I presented Claude (4 Sonnet) with blog posts [forty-eight](/insights/48-The-case-against-AI-simulated-empathy), [forty-nine](/insights/49-Answers-by-humans-and-by-AI-YRC-reflection), [fifty-two](/insights/52-Recommendations-YRC-reflection), [fifty-five](/insights/55-AIs-dangerous-side-in-creating-educational-processes), and [fifty-six](/insights/56-Flaws-in-AI-critical-thinking) and asked: "Please filter out from the document attached the aspects of artificial intelligence that are problematic." 
 
 ## [](#Claudes-analysis)Claude's analysis
 

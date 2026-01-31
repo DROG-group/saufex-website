@@ -17,7 +17,7 @@ The Polish Resilience Council is linked to the Polish Ministry of Foreign Affair
 
 ## [](#Member-selection)Member selection
 
-Within the structure of my [recent thought experiment](https://saufex.eu/post/14-Resilience-Councils-A-thought-experiment), the Polish RC is to be a national advisory RC composed of experts, in this case, representatives of NGOs and public academic institutions.
+Within the structure of my [recent thought experiment](/insights/14-Resilience-Councils-A-thought-experiment), the Polish RC is to be a national advisory RC composed of experts, in this case, representatives of NGOs and public academic institutions.
 
 The selection of the members is implemented step by step. First, NGOs and public academic institutions could express their interest in the RC on the MFA website – over 100 organisations did so. Then, they were then invited to send representatives to the third informal meeting, both offline and online. The next step is these organisations proposing a physical person as a candidate member, filling out a form, and fulfilling the requirement of having the support of at least five relevant organisations, of which a minimum of one is to be a public academic institution. The support claim needs to be backed up by documents signed by a person legally authorized to represent the organisation. The deadline for submitting the form is December 15. After the deadline, those who have fulfilled the requirements and have passed a security check will be installed as members of the RC.
 

@@ -9,7 +9,7 @@ description: "AI users should hold regulators accountable for the enforcement of
 # (78A) On the consequences of blog post (78)
 
 
-I shared [blog post seventy-eight](https://saufex.eu/post/78-The-limits-of-AI-in-content-moderation) with Gemini. Below I present our ensuing conversation.
+I shared [blog post seventy-eight](/insights/78-The-limits-of-AI-in-content-moderation) with Gemini. Below I present our ensuing conversation.
 
 # [](#The-conversation)The conversation
 

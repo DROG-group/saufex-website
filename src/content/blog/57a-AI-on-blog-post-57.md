@@ -9,7 +9,7 @@ description: "ChatGPT and Gemini react."
 # (57A) AI on blog post (57)
 
 
-I presented [blog post fifty-seven](https://saufex.eu/post/57-Longread-serious-limitations-of-AI) to ChatGPT and Gemini. Below you'll find excerpts of our conversations.
+I presented [blog post fifty-seven](/insights/57-Longread-serious-limitations-of-AI) to ChatGPT and Gemini. Below you'll find excerpts of our conversations.
 
 ## [](#ChatGPT-\(GPT-4-turbo\))ChatGPT (GPT-4-turbo)
 

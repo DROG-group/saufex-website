@@ -11,7 +11,7 @@ description: "Exploring the other ground for creating, presenting, and dissemina
 
 At Drog, a longstanding interest exists in the economic and transactional nature of information threats. Although “economic gain” is mentioned in European Union policy documents as a ground for creating, presenting, and disseminating disinformation, the focus is often on the other perceived major ground: the intent to deceive the public.
 
-In the SAUFEX project, Drog is currently creating an [EMoD](https://saufex.eu/post/20-European-Master-of-countering-Disinformation-primer) module on disinfonomics - the economics of information threats. The module will focus heavily on the transactional nature of disinfonomics, thereby presenting an approach for better dealing with economically motivated information threats. Below, I will provide a complimentary take on the economic aspect of producing information threats.
+In the SAUFEX project, Drog is currently creating an [EMoD](/insights/20-European-Master-of-countering-Disinformation-primer) module on disinfonomics - the economics of information threats. The module will focus heavily on the transactional nature of disinfonomics, thereby presenting an approach for better dealing with economically motivated information threats. Below, I will provide a complimentary take on the economic aspect of producing information threats.
 
 ## [](#Big-Data)Big Data
 

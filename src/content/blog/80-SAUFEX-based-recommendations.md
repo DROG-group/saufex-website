@@ -35,6 +35,6 @@ Countries adopt varied approaches to managing the information sphere. To promote
 
 ## [](#Second-half)Second half
 
-Recommendations on AI and other relevant topics will be drafted in the second half of the project. Preliminary recommendations on AI were published in [blog post seventy-seven](https://saufex.eu/post/77-Two-AI-literacy-recommendations).
+Recommendations on AI and other relevant topics will be drafted in the second half of the project. Preliminary recommendations on AI were published in [blog post seventy-seven](/insights/77-Two-AI-literacy-recommendations).
 
 

@@ -9,7 +9,7 @@ description: "Why AI should not show empathy to humans."
 # (48) The case against AI simulated empathy
 
 
-In earlier blog posts (e.g. [twenty-eight](https://saufex.eu/post/28-Critical-thinking-fact-speaking-belief-speaking-and-AI), [forty-one](https://saufex.eu/post/41-Enhancing-adolescent-individual-and-societal-resilience)), I've argued against AI simulating empathy towards humans. The topic is often on my mind, especially since noticing the ubiquity of AI use by adolescents in our classrooms. So, I've started discussing the subject with AI apps ever more often.
+In earlier blog posts (e.g. [twenty-eight](/insights/28-Critical-thinking-fact-speaking-belief-speaking-and-AI), [forty-one](/insights/41-Enhancing-adolescent-individual-and-societal-resilience)), I've argued against AI simulating empathy towards humans. The topic is often on my mind, especially since noticing the ubiquity of AI use by adolescents in our classrooms. So, I've started discussing the subject with AI apps ever more often.
 
 Below is a blog post I co-wrote with Claude after an intense back-and-forth. Once it was finished, I shared it with Grok. The follow-up conversation turned out to be unexpectedly insightful, at least from my perspective. I’ll include that exchange after the blog post.
 

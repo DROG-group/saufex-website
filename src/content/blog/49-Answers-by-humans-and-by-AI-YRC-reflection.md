@@ -9,7 +9,7 @@ description: "Comparing answers given to the central question of the current pil
 # (49) Answers - by humans and by AI (YRC reflection)
 
 
-Currently, a small pilot is being conducted to verify the approach as described in [blog post forty-one](https://saufex.eu/post/41-Enhancing-adolescent-individual-and-societal-resilience). The pilot involves only one class (thirteen students), two 90-minute sessions for all students, and two 90-minute additional sessions for two of the students as a Youth Resilience Council (YRC). Representatives of the [Pomeranian Center for the Education of Teachers](https://www.pcen.gda.pl/) observe the general sessions.
+Currently, a small pilot is being conducted to verify the approach as described in [blog post forty-one](/insights/41-Enhancing-adolescent-individual-and-societal-resilience). The pilot involves only one class (thirteen students), two 90-minute sessions for all students, and two 90-minute additional sessions for two of the students as a Youth Resilience Council (YRC). Representatives of the [Pomeranian Center for the Education of Teachers](https://www.pcen.gda.pl/) observe the general sessions.
 
 ## [](#Flow-of-the-sessions)Flow of the sessions
 

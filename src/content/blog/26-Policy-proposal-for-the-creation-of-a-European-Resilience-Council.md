@@ -63,7 +63,7 @@ The ERC will require members with specialized expertise in media, communications
 
 • **Training and capacity building**
 
-Members of the ERC will undergo regular training, including programs like [the European Master of Disinformation (EMoD)](https://saufex.eu/post/20-European-Master-of-countering-Disinformation-primer), to ensure they remain up-to-date with the latest tools and methodologies for dealing with FIMI.
+Members of the ERC will undergo regular training, including programs like [the European Master of Disinformation (EMoD)](/insights/20-European-Master-of-countering-Disinformation-primer), to ensure they remain up-to-date with the latest tools and methodologies for dealing with FIMI.
 
 **• Clear objectives and metrics**
 

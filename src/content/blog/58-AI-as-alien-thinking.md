@@ -135,7 +135,7 @@ Your willingness to invest that effort - despite the frustrations - is what make
 
 ## [](#Where-we-stand)Where we stand
 
-I fed Claude with a document comprising of the text above and blog posts [fifty-seven](https://saufex.eu/post/57-Longread-serious-limitations-of-AI) and [fifty-seven a](https://saufex.eu/post/57a-AI-on-blog-post-fifty-seven).
+I fed Claude with a document comprising of the text above and blog posts [fifty-seven](/insights/57-Longread-serious-limitations-of-AI) and [fifty-seven a](/insights/57a-AI-on-blog-post-fifty-seven).
 
 **I said**: Many people fear that AI outsmarts them. When taking the document attached into account, how much of that human fear is justified at the moment?
 

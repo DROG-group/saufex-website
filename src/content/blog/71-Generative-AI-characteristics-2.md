@@ -21,7 +21,7 @@ This means that GAIs fail to develop generalizable reasoning capacities (Shojaee
 
 Just as the first characteristic necessitates a ‘zero-trust' policy toward GAI outputs due to their indifference towards truth, the second characteristic demands a zero-trust stance toward their cognitive depth. Users must verify GAI outputs not only for factual accuracy but also for applicability, using human reasoning to evaluate whether the responses are suitable, relevant, and effective for the specific problem or context at hand.
 
-[Part (3)](https://saufex.eu/post/72-Generative-AI-characteristics-3)
+[Part (3)](/insights/72-Generative-AI-characteristics-3)
 
 ## [](#Literature)Literature
 
