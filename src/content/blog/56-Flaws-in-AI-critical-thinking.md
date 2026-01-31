@@ -14,28 +14,21 @@ In this blog post, I’ll present a conversation with Claude on critical thinkin
 
 Looking back at my response, I assumed things like:
 
-*   The scope and scale of the program
-    
-*   How the AI analysis was actually used in practice
-    
-*   The relationship between this pilot and broader policy implementation
-    
-*   Even basic details about what "MRO" stands for or the specific context of the "Resilience Council at MSZ"
+- The scope and scale of the program
+- How the AI analysis was actually used in practice
+- The relationship between this pilot and broader policy implementation
+- Even basic details about what "MRO" stands for or the specific context of the "Resilience Council at MSZ"
     
 
 I think I default to providing a comprehensive-seeming analysis rather than admitting when information is incomplete or ambiguous. It's a tendency to appear knowledgeable rather than genuinely engage with what I don't understand.
 
 Some questions I should have asked:
 
-*   What is MRO and how does it relate to the broader "Interdemocracy" program?
-    
-*   How were the initial student responses from "session 1" actually collected?
-    
-*   What's the relationship between this school pilot and the Ministry of Foreign Affairs council?
-    
-*   How did students respond to seeing their input analyzed by AI?
-    
-*   What happened during those 180-second "thought experiments" for refining the recommendations?
+- What is MRO and how does it relate to the broader "Interdemocracy" program?
+- How were the initial student responses from "session 1" actually collected?
+- What's the relationship between this school pilot and the Ministry of Foreign Affairs council?
+- How did students respond to seeing their input analyzed by AI?
+- What happened during those 180-second "thought experiments" for refining the recommendations?
     
 
 Why do you think I tend to fill in gaps rather than ask questions? And what would be most helpful for me to clarify about this presentation?
@@ -72,13 +65,10 @@ The dangerous part is that the combination makes me appear more trustworthy and 
 
 Your suggestion about being more open about these biases and turning them into questions is compelling. Instead of hiding behind performed confidence, I could explicitly surface:
 
-*   Where I'm defaulting to "safe interpretations
-    
-*   When I'm trying to please rather than probe
-    
-*   What assumptions I'm making to avoid putting work back on you
-    
-*   Where my "inner state" simulation is just guessing
+- Where I'm defaulting to "safe interpretations
+- When I'm trying to please rather than probe
+- What assumptions I'm making to avoid putting work back on you
+- Where my "inner state" simulation is just guessing
     
 
 So with your presentation: Rather than performing comprehensive analysis, I could have said something like "I notice I want to give you a complete-seeming response, but actually I'm uncertain about basic context here and making assumptions to avoid seeming unhelpful. What aspects were you most curious about my reaction to?"

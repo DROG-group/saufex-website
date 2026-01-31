@@ -14,31 +14,26 @@ Interdemocracy as an intervention seems realistic in theory and necessary in pri
 
 Traditional, centralized solutions are failing. The intervention takes a different path; it seeks to treat the vulnerability (low resilience) rather than just the pathogen (FIMI/GAI).
 
-*   FIMI: The most effective defense against FIMI is not censorship, but a citizenry structurally secure in their autonomy, belonging, and achievement. If citizens are isolated or disenfranchised, they are more open to confirm divisive narratives.
-    
-*   GAI: A strong defense against cognitive debt and weakened individual resilience caused by AI is proactively strengthening human cognitive and psychosocial functions.
-    
-*   The underlying logic: If the system can consistently charge the citizen’s "resilience battery," it makes both external manipulation and internal technological decay less potent. As a result, this approach moves beyond the limitations of reactive interventions or top-down regulation.
+- FIMI: The most effective defense against FIMI is not censorship, but a citizenry structurally secure in their autonomy, belonging, and achievement. If citizens are isolated or disenfranchised, they are more open to confirm divisive narratives.
+- GAI: A strong defense against cognitive debt and weakened individual resilience caused by AI is proactively strengthening human cognitive and psychosocial functions.
+- The underlying logic: If the system can consistently charge the citizen’s "resilience battery," it makes both external manipulation and internal technological decay less potent. As a result, this approach moves beyond the limitations of reactive interventions or top-down regulation.
     
 
 ## Autopoiesis and adaptability
 
 The theoretical core of the intervention is autopoiesis (self-creation/self-correction) based on an empathetic-utilitarian approach that dictates policy must maximize the core human needs of autonomy, belonging, achievement, and safety..
 
-*   The proposal views society as a dynamic, self-regulating system that must constantly adjust to threats.
-    
-*   Since FIMI and GAI are rapidly evolving threats, no fixed, top-down law can keep pace. Interdemocracy is proposed as a feedback loop that uses the public's "belief-speaking" - their lived experiences and perspectives - to co-create security policies.
-    
-*   A mechanism that inherently adapts seems the most realistic approach for modern, complex, and accelerating threats.
+- The proposal views society as a dynamic, self-regulating system that must constantly adjust to threats.
+- Since FIMI and GAI are rapidly evolving threats, no fixed, top-down law can keep pace. Interdemocracy is proposed as a feedback loop that uses the public's "belief-speaking" - their lived experiences and perspectives - to co-create security policies.
+- A mechanism that inherently adapts seems the most realistic approach for modern, complex, and accelerating threats.
     
 
 ## Shift from expert control to societal agency
 
 The intervention bypasses the inherent limitations of expert-only policy-making:
 
-*   It corrects the bias of expert consensus by adding the vital "public perspective". Experts know what is evidence-informed, but citizens know what is experienced and what is acceptable, and therefore implementable.
-    
-*   By making the individual an active participant in resilience planning - not just a passive recipient of government protection - it structurally embeds a sense of belonging, autonomy, and achievement, which are themselves the components of resilience.
+- It corrects the bias of expert consensus by adding the vital "public perspective". Experts know what is evidence-informed, but citizens know what is experienced and what is acceptable, and therefore implementable.
+- By making the individual an active participant in resilience planning - not just a passive recipient of government protection - it structurally embeds a sense of belonging, autonomy, and achievement, which are themselves the components of resilience.
     
 
 ## Implementation challenges

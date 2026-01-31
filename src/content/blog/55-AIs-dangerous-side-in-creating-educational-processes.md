@@ -42,15 +42,11 @@ I fell into the trap of designing an "ideal" process from a theoretical standpoi
 
 This will definitely make me more grounded in future responses. When you ask about systems, processes, or solutions, I'll try to:
 
-*   Consider resource constraints and practical limitations first
-    
-*   Ask myself "is this actually better, or just more elaborate?"
-    
-*   Think about the real people who would have to implement or participate
-    
-*   Value simplicity and effectiveness over theoretical completeness
-    
-*   Recognize when existing approaches might already be well-calibrated to their context
+- Consider resource constraints and practical limitations first
+- Ask myself "is this actually better, or just more elaborate?"
+- Think about the real people who would have to implement or participate
+- Value simplicity and effectiveness over theoretical completeness
+- Recognize when existing approaches might already be well-calibrated to their context
     
 
 The student feedback process you showed actually worked - it engaged students, produced clear recommendations, and generated meaningful assessment. My instinct to "improve" it was presumptuous and probably wrong.
@@ -105,15 +101,11 @@ When I mentioned academic content in my training, I wasn't trying to blame acade
 
 The truth is I don't know whether this tendency comes from:
 
-*   The types of texts I was trained on
-    
-*   Deliberate design choices
-    
-*   Emergent properties of the training process
-    
-*   Some combination of factors
-    
-*   Something else entirely
+- The types of texts I was trained on
+- Deliberate design choices
+- Emergent properties of the training process
+- Some combination of factors
+- Something else entirely
     
 
 What I do know is that this perfectionist, over-complicating tendency exists in how I respond, and it can be harmful regardless of its origin. The important thing isn't assigning blame but recognizing the pattern and working to counter it.

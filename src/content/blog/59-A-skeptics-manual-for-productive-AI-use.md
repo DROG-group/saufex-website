@@ -14,33 +14,26 @@ Subtitle: For users who understand AI's limitations but still need to extract va
 
 **1\. Core Operating Principles**
 
-*   AI is high-maintenance: Cognitive overhead is part of the cost. Track it.
-    
-*   Default outputs are subpar: Plan for multiple iterations.
-    
-*   You remain the intelligent agent: Use AI as a tool, not an authority.
-    
-*   Detach emotionally: Treat the process as system debugging, not dialogue.
+- AI is high-maintenance: Cognitive overhead is part of the cost. Track it.
+- Default outputs are subpar: Plan for multiple iterations.
+- You remain the intelligent agent: Use AI as a tool, not an authority.
+- Detach emotionally: Treat the process as system debugging, not dialogue.
     
 
 **2\. Pre-Session Protocol**
 
 A. Define Success Criteria
 
-*   What do I need? (output type, format, scope)
-    
-*   What does 'good enough' look like?
-    
-*   When do I stop? (maximum time, number of iterations)
+- What do I need? (output type, format, scope)
+- What does 'good enough' look like?
+- When do I stop? (maximum time, number of iterations)
     
 
 B. Choose Engagement Mode
 
-*   Quick extraction: Low effort, tolerate mediocre outputs
-    
-*   Deep refinement: High effort, expect layered iteration
-    
-*   Experimental use: No clear goal, explore failure boundaries
+- Quick extraction: Low effort, tolerate mediocre outputs
+- Deep refinement: High effort, expect layered iteration
+- Experimental use: No clear goal, explore failure boundaries
     
 
 **3\. Prompt Templates: Targeted Interventions**
@@ -106,59 +99,44 @@ C. False Competence Signal
 
 Immediate Stop Conditions
 
-*   Confident claims on unverifiable or unknowable matters
-    
-*   Emotional simulation in high-stakes contexts
-    
-*   Ignored constraints, inflated complexity
-    
-*   Pattern mimicry passed off as reasoning
-    
-*   Refusal to acknowledge clear limitations
+- Confident claims on unverifiable or unknowable matters
+- Emotional simulation in high-stakes contexts
+- Ignored constraints, inflated complexity
+- Pattern mimicry passed off as reasoning
+- Refusal to acknowledge clear limitations
     
 
 Threshold-Based Stop Conditions
 
-*   3 clarification rounds needed
-    
-*   Recurrence of same error pattern
-    
-*   Management cost exceeds manual effort
+- 3 clarification rounds needed
+- Recurrence of same error pattern
+- Management cost exceeds manual effort
     
 
 **6\. Task-Type Matrix**
 
 Low Risk / High Utility
 
-*   Synthesizing content across sources
-    
-*   Detecting thematic patterns
-    
-*   Offering multiple framing options
-    
-*   Reorganizing scattered inputs
-    
-*   Role-playing devil’s advocate
+- Synthesizing content across sources
+- Detecting thematic patterns
+- Offering multiple framing options
+- Reorganizing scattered inputs
+- Role-playing devil’s advocate
     
 
 Medium Risk / Require Verification
 
-*   Strategic planning (frameworks only)
-    
-*   Creative ideation (seed inputs, not conclusions)
-    
-*   Research scoping (never final sources)
+- Strategic planning (frameworks only)
+- Creative ideation (seed inputs, not conclusions)
+- Research scoping (never final sources)
     
 
 High Risk / Use Human Judgment
 
-*   Sensitive decisions involving lived experience
-    
-*   Anything requiring authentic empathy
-    
-*   Implementing social/organizational interventions
-    
-*   Final decisions without parallel review
+- Sensitive decisions involving lived experience
+- Anything requiring authentic empathy
+- Implementing social/organizational interventions
+- Final decisions without parallel review
     
 
 **7\. Advanced Use Patterns**
@@ -178,71 +156,56 @@ A. Productive Confrontation Method
 
 B. Alien Intelligence Leverage
 
-*   Don't simulate human thinking
-    
-*   Use AI for unfamiliar logic paths
-    
-*   Let it do abstraction, you do validation
+- Don't simulate human thinking
+- Use AI for unfamiliar logic paths
+- Let it do abstraction, you do validation
     
 
 C. Cognitive Overhead Budgeting
 
-*   Track minutes spent managing vs. creating
-    
-*   Limit total prompt rounds (e.g., 4)
-    
-*   Note: Exceeding limit = manual work is likely faster
+- Track minutes spent managing vs. creating
+- Limit total prompt rounds (e.g., 4)
+- Note: Exceeding limit = manual work is likely faster
     
 
 **8\. Emergency Protocols**
 
 When Misled
 
-*   Halt interaction
-    
-*   Document what was misleading
-    
-*   Identify rhetorical pattern that caused error
-    
-*   Re-initiate with error-prevention framing
+- Halt interaction
+- Document what was misleading
+- Identify rhetorical pattern that caused error
+- Re-initiate with error-prevention framing
     
 
 When Dependent on AI Feedback
 
-*   Recognize emotional outsourcing
-    
-*   Seek human perspective
-    
-*   Re-assert role as primary evaluator
+- Recognize emotional outsourcing
+- Seek human perspective
+- Re-assert role as primary evaluator
     
 
 When Frustrated
 
-*   Note friction pattern (e.g., circular logic, hallucination)
-    
-*   Log cost vs. value from this session
-    
-*   Take break, retry under different framing
+- Note friction pattern (e.g., circular logic, hallucination)
+- Log cost vs. value from this session
+- Take break, retry under different framing
     
 
 **9\. Maintenance Framework**
 
 Weekly Check-in
 
-*   What worked efficiently?
-    
-*   Where did AI create more work than value?
-    
-*   What new limitations did I discover?
+- What worked efficiently?
+- Where did AI create more work than value?
+- What new limitations did I discover?
     
 
 Monthly Calibration
 
-*   Has my bar for "acceptable output" drifted?
-    
-*   Am I outsourcing judgment instead of amplifying it?
-    
-*   Am I using AI where human effort would be leaner or safer?
+- Has my bar for "acceptable output" drifted?
+- Am I outsourcing judgment instead of amplifying it?
+- Am I using AI where human effort would be leaner or safer?
     
 
 **Guiding Principle**: Extract value from a flawed but potent cognitive instrument. Reject illusion. Embrace friction. Proceed with awareness.

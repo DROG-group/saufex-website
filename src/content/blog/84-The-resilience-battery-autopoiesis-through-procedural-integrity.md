@@ -26,18 +26,16 @@ The system is engineered to minimize temporal lag in the analytical steps while 
 
 The system guarantees the battery's viability by ensuring the feedback loop is tight, visible, and continuous.
 
-*   Closing the circuit: The loop closes when the participant sees how their output influenced the recommendations and, crucially, when the system ultimately adopts a new constraint that incorporates elements of their perspective. The final output is not consensus, but a visible shift resulting from their output.
-    
-*   Autopoietic maintenance (see: [blog post eighty-two](/insights/82-The-procedural-truth-of-resilience-autopoiesis-and-Interdemocracy)): The system's resilience is built on the integrity of this circuit. If institutional silence (the refusal to act on recommendations) occurs, the motivational circuit breaks; the battery starts charging much slower because the individual sees no impact. The system’s greatest risk is not technical failure, but the dwindling motivation caused by the refusal of established structures to integrate the necessary self-correction.
+- Closing the circuit: The loop closes when the participant sees how their output influenced the recommendations and, crucially, when the system ultimately adopts a new constraint that incorporates elements of their perspective. The final output is not consensus, but a visible shift resulting from their output.
+- Autopoietic maintenance (see: [blog post eighty-two](/insights/82-The-procedural-truth-of-resilience-autopoiesis-and-Interdemocracy)): The system's resilience is built on the integrity of this circuit. If institutional silence (the refusal to act on recommendations) occurs, the motivational circuit breaks; the battery starts charging much slower because the individual sees no impact. The system’s greatest risk is not technical failure, but the dwindling motivation caused by the refusal of established structures to integrate the necessary self-correction.
     
 
 **Scale and** **vulnerability**
 
 The mechanism operates best where feedback is fast and attribution is clear. In small groups (like a classroom), a single rewritten rule can be directly traced to specific sentences, thus providing a sense of agency, and the battery charges efficiently.
 
-*   The challenge of scale: At larger scales (hundreds or thousands), the direct link weakens, and individual contribution becomes statistical. While clustering still surfaces strong patterns, the sense of agency dilutes. Scalability requires the reflection phase to explicitly reconnect specific inputs to outcomes, ensuring the individual still feels the impact, even if that impact is aggregated.
-    
-*   The bottom line: The resilience battery is fragile to the extent that its charge depends on consistent, visible institutional responsiveness. However, between those bounds, it offers a quiet, distributed form of readiness: a society equipped with individuals who keep their adaptive capacity alive because they have learned, cycle by cycle, that their authentic voice is one of the few things the system cannot do without, even when their particular individual voice is not always (visibly) present in the outcome.
+- The challenge of scale: At larger scales (hundreds or thousands), the direct link weakens, and individual contribution becomes statistical. While clustering still surfaces strong patterns, the sense of agency dilutes. Scalability requires the reflection phase to explicitly reconnect specific inputs to outcomes, ensuring the individual still feels the impact, even if that impact is aggregated.
+- The bottom line: The resilience battery is fragile to the extent that its charge depends on consistent, visible institutional responsiveness. However, between those bounds, it offers a quiet, distributed form of readiness: a society equipped with individuals who keep their adaptive capacity alive because they have learned, cycle by cycle, that their authentic voice is one of the few things the system cannot do without, even when their particular individual voice is not always (visibly) present in the outcome.
     
 
 ## Call to action

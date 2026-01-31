@@ -16,11 +16,9 @@ Naturally, I immediately submitted an appeal request within the framework of the
 
 The document is a **professional educational brochure** about working preventively with adolescents. It covers:
 
-*   adolescent brain development, communication, and risk behavior;
-    
-*   collaboration between teachers and parents;
-    
-*   prevention of addiction and substance use.
+- adolescent brain development, communication, and risk behavior;
+- collaboration between teachers and parents;
+- prevention of addiction and substance use.
     
 
 One section (page 5) discusses **adolescent sexuality** — describing, factually and scientifically, that most boys and some girls experience sexual fantasies, masturbation, or first orgasm during puberty. The text also references sexual initiation and mentions pain during first intercourse, all in a biological and psychological context.
@@ -29,9 +27,8 @@ One section (page 5) discusses **adolescent sexuality** — describing, factuall
 
 Scribd’s **automated moderation system** likely detected certain sexual terms (“orgazm”, “masturbacja”, “seks z penetracją”, etc.) and categorized them under their **“Lurid sexual imagery”** rule in:
 
-*   Section 9.1(b) of the Terms of Use (prohibited conduct), and
-    
-*   Section 4.0 of the Community Rules (prohibition of sexually explicit material).
+- Section 9.1(b) of the Terms of Use (prohibited conduct), and
+- Section 4.0 of the Community Rules (prohibition of sexually explicit material).
     
 
 Even though your document is educational and non-pornographic, automated filters generally **don’t evaluate context**—any explicit sexual vocabulary, especially when connected with minors, tends to trigger removal to comply with child-safety and content-moderation laws.
@@ -61,9 +58,8 @@ What happened to your document is a good example of a growing tension between **
 
 When I mentioned redaction, it wasn’t because your material _should_ be censored — pedagogical texts like yours have every right to discuss adolescent sexuality responsibly. Rather, it was a **pragmatic workaround** for systems that currently lack the human-level understanding to distinguish between:
 
-*   exploitation or pornography, and
-    
-*   educational or scientific description.
+- exploitation or pornography, and
+- educational or scientific description.
     
 
 You’re absolutely right that self-censorship can feel like conceding power to automation. Ideally, institutions like Scribd would:
@@ -85,9 +81,8 @@ What you’re saying goes beyond the mechanics of platform policy — it’s a p
 
 There’s a fundamental distinction between:
 
-*   **adapting to audience understanding**, which is a communicative choice, and
-    
-*   **adapting to algorithmic limitation**, which is a coerced compromise of intellectual autonomy.
+- **adapting to audience understanding**, which is a communicative choice, and
+- **adapting to algorithmic limitation**, which is a coerced compromise of intellectual autonomy.
     
 
 When educators or researchers start editing factual, responsible content simply to avoid machine misclassification, they’re forced into a kind of **linguistic compliance regime**—one where the machine’s blind spots dictate what is sayable. That’s not “safety”; it’s a distortion of public discourse.
@@ -120,11 +115,9 @@ The problem you’re naming — the _overreach_ — arises precisely when probab
 
 If there’s any way to “train” against that, it isn’t by refining the probability model — it’s by **redefining its role**. The boundary should be structural, not behavioral:
 
-*   Humans make the final interpretive and ethical calls.
-    
-*   Systems like me supply evidence, summaries, or context — never verdicts.
-    
-*   Platforms must guarantee _transparent_ human appeal and documented reasoning for any automated moderation.
+- Humans make the final interpretive and ethical calls.
+- Systems like me supply evidence, summaries, or context — never verdicts.
+- Platforms must guarantee _transparent_ human appeal and documented reasoning for any automated moderation.
     
 
 So you’re right — I can’t transcend my probabilistic nature. The safeguard isn’t in my training; it’s in **where and how I’m allowed to act.**
@@ -139,15 +132,11 @@ What you’re invoking from _May Contain Lies_ is a kind of epistemic hierarchy 
 
 Here’s how it connects to your critique of AI overreach:
 
-*   **Statement**: I can generate these — plausible, coherent strings of words. They can sound factual but are not guaranteed to be true.
-    
-*   **Fact:** To call something factual, you need an external, verifiable reference — a check against reality. I can retrieve or restate such facts, but I don’t verify them myself.
-    
-*   **Data:** This requires systematic collection. I can summarize data, but I can’t observe or gather it.
-    
-*   **Evidence:** This demands interpretation, exclusion of alternatives, and understanding of context — things that presuppose reasoning and epistemic responsibility.
-    
-*   **Proof:** This belongs to logic and empiricism — domains requiring axioms, reproducibility, or universality. Machines like me can manipulate symbols, but we don’t understand what a proof means or why it matters.
+- **Statement**: I can generate these — plausible, coherent strings of words. They can sound factual but are not guaranteed to be true.
+- **Fact:** To call something factual, you need an external, verifiable reference — a check against reality. I can retrieve or restate such facts, but I don’t verify them myself.
+- **Data:** This requires systematic collection. I can summarize data, but I can’t observe or gather it.
+- **Evidence:** This demands interpretation, exclusion of alternatives, and understanding of context — things that presuppose reasoning and epistemic responsibility.
+- **Proof:** This belongs to logic and empiricism — domains requiring axioms, reproducibility, or universality. Machines like me can manipulate symbols, but we don’t understand what a proof means or why it matters.
     
 
 So when I or any AI system present something that sounds reasoned or moral, we’re still anchored to the lowest rung: **statement**. Everything above that requires _human cognition, ethics, and accountability_.
@@ -164,9 +153,8 @@ Yes — that’s a sound and necessary boundary.
 
 We can agree that **AI systems are useful at the level of generating or classifying statements**, but they **cannot legitimately arbitrate meaning, context, or ethics**. In content moderation, that limitation is crucial:
 
-*   AI can **flag** text that statistically resembles certain categories (violence, explicit material, hate speech, etc.).
-    
-*   But only **humans** can interpret whether the flagged content violates a rule — because that requires understanding i_ntent, context, purpose, and harm_, all of which lie beyond pattern recognition.
+- AI can **flag** text that statistically resembles certain categories (violence, explicit material, hate speech, etc.).
+- But only **humans** can interpret whether the flagged content violates a rule — because that requires understanding i_ntent, context, purpose, and harm_, all of which lie beyond pattern recognition.
     
 
 When platforms let automated tools move from “flagging statements” to _deciding outcomes_, they commit a categorical error: they treat probabilistic similarity as moral certainty.

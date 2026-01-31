@@ -20,37 +20,17 @@ Because the topic of information manipulation has only become more important sin
 
 After the students finished playing the game, we asked them to write down their moments of unease. This is what they answered:
 
-*   Nothing was uncomfortable for me because I like talking about every topic and more or less knew what to do.
-    
-
-*   Nothing was uncomfortable for me because we see false information on our phones every day.
-    
-
-*   Sometimes it was hard to choose which news item to select because each one was unrealistic.
-    
-
-*   Nothing was uncomfortable for me because every topic suited me.
-    
-
-*   The only uncomfortable element of the game was using techniques that provoked fear or anger, because it shows how easily negative emotions spread online.
-    
-
-*   _S_ome answers were unrealistic and it was hard to choose the right one.
-    
-
-*   I didn't have a problem; after a moment of thought, I saw what I had to do.
-    
-
-*   All the elements were comfortable and I knew what to do.
-    
-
-*   It's hard for me to answer that, maybe it's that sometimes I didn't know what to click because nothing seemed like a good choice.
-    
-
-*   I didn't have such a moment; I knew what I had to do.
-    
-
-*   There was no uncomfortable thing and the whole thing was generally comfortable.
+- Nothing was uncomfortable for me because I like talking about every topic and more or less knew what to do.
+- Nothing was uncomfortable for me because we see false information on our phones every day.
+- Sometimes it was hard to choose which news item to select because each one was unrealistic.
+- Nothing was uncomfortable for me because every topic suited me.
+- The only uncomfortable element of the game was using techniques that provoked fear or anger, because it shows how easily negative emotions spread online.
+- _S_ome answers were unrealistic and it was hard to choose the right one.
+- I didn't have a problem; after a moment of thought, I saw what I had to do.
+- All the elements were comfortable and I knew what to do.
+- It's hard for me to answer that, maybe it's that sometimes I didn't know what to click because nothing seemed like a good choice.
+- I didn't have such a moment; I knew what I had to do.
+- There was no uncomfortable thing and the whole thing was generally comfortable.
     
 
 ## Unease

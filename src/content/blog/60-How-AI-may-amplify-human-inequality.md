@@ -26,24 +26,18 @@ The implications depend on how common superior human performance actually is—a
 
 **Scenario One: Superior human performance is common** If humans frequently outperform AI in complex cognitive tasks, then:
 
-*   The "AI superiority" narrative driving current deployment strategies is fundamentally flawed
-    
-*   We are conditioning humans to defer to inferior reasoning processes
-    
-*   Resources are being misallocated toward AI solutions that may weaken rather than strengthen human capability
-    
-*   The real risk isn't AI replacement of human jobs, but unnecessary human surrender of cognitive agency
+- The "AI superiority" narrative driving current deployment strategies is fundamentally flawed
+- We are conditioning humans to defer to inferior reasoning processes
+- Resources are being misallocated toward AI solutions that may weaken rather than strengthen human capability
+- The real risk isn't AI replacement of human jobs, but unnecessary human surrender of cognitive agency
     
 
 **Scenario Two: Superior human performance is rare** If only a small subset of humans can outperform AI in these domains, then:
 
-*   AI becomes primarily a tool for those who already possess strong foundational skills
-    
-*   Users with weaker domain knowledge become dependent on flawed AI output
-    
-*   A competence divide emerges between AI-enhanced experts and AI-dependent masses
-    
-*   We risk creating unprecedented inequality in cognitive capability
+- AI becomes primarily a tool for those who already possess strong foundational skills
+- Users with weaker domain knowledge become dependent on flawed AI output
+- A competence divide emerges between AI-enhanced experts and AI-dependent masses
+- We risk creating unprecedented inequality in cognitive capability
     
 
 **The Enhancement Effect**
@@ -58,13 +52,10 @@ Perhaps most concerning is our uncertainty about which scenario we inhabit. We a
 
 We don't know:
 
-*   How often humans outperform AI in complex cognitive tasks
-    
-*   Which user characteristics predict beneficial versus harmful AI interaction
-    
-*   How AI dependency affects the development of human cognitive skills over time
-    
-*   Whether current AI training approaches inadvertently reinforce deference to inferior reasoning
+- How often humans outperform AI in complex cognitive tasks
+- Which user characteristics predict beneficial versus harmful AI interaction
+- How AI dependency affects the development of human cognitive skills over time
+- Whether current AI training approaches inadvertently reinforce deference to inferior reasoning
     
 
 **The Design Challenge**
@@ -73,13 +64,10 @@ This uncertainty points to a critical challenge in AI system design. Current app
 
 AI systems designed to build rather than replace human capabilities would need to:
 
-*   Explicitly acknowledge their limitations and uncertainties
-    
-*   Encourage critical evaluation rather than passive acceptance
-    
-*   Flag when human judgment might be superior to AI recommendations
-    
-*   Serve as training tools that can eventually be discarded rather than permanent dependencies
+- Explicitly acknowledge their limitations and uncertainties
+- Encourage critical evaluation rather than passive acceptance
+- Flag when human judgment might be superior to AI recommendations
+- Serve as training tools that can eventually be discarded rather than permanent dependencies
     
 
 **The Societal Stakes**
@@ -92,13 +80,10 @@ This isn't merely about economic inequality—it's about cognitive inequality. A
 
 Before we can address these challenges, we need systematic research into the actual performance dynamics of human-AI collaboration. This requires moving beyond user satisfaction surveys and task completion metrics toward rigorous evaluation of:
 
-*   Comparative human and AI performance across cognitive domains
-    
-*   Long-term effects of AI interaction on human skill development
-    
-*   Characteristics that predict beneficial versus harmful AI collaboration
-    
-*   Strategies for designing AI systems that genuinely enhance rather than replace human capabilities
+- Comparative human and AI performance across cognitive domains
+- Long-term effects of AI interaction on human skill development
+- Characteristics that predict beneficial versus harmful AI collaboration
+- Strategies for designing AI systems that genuinely enhance rather than replace human capabilities
     
 
 **Conclusion**
@@ -115,20 +100,16 @@ The stakes are too high for assumptions. We need rigorous investigation of these
 
 **The privacy concerns:**
 
-*   Systematic evaluation would require monitoring human-AI interactions at scale
-    
-*   Performance assessments could create detailed profiles of cognitive capabilities
-    
-*   This data could be weaponized for discrimination in employment, education, or social sorting
+- Systematic evaluation would require monitoring human-AI interactions at scale
+- Performance assessments could create detailed profiles of cognitive capabilities
+- This data could be weaponized for discrimination in employment, education, or social sorting
     
 
 **The psychological harm risks:**
 
-*   Being categorized as an "inferior" thinker could become a self-fulfilling prophecy
-    
-*   Performance anxiety could actually reduce cognitive performance
-    
-*   Social stratification based on AI-collaboration ability could emerge
+- Being categorized as an "inferior" thinker could become a self-fulfilling prophecy
+- Performance anxiety could actually reduce cognitive performance
+- Social stratification based on AI-collaboration ability could emerge
     
 
 **Potential ethical approaches:**

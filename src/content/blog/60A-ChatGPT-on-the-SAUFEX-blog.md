@@ -14,11 +14,9 @@ I asked ChatGPT what it thought of the SAUFEX blog posts on AI so far.
 
 Unlike most writing in the AI space, which focuses on capabilities, regulation, or hype, these posts ask:
 
-*   _What does it feel like to rely on AI?_
-    
-*   _How does AI change how we think, relate, trust, and learn?_
-    
-*   _Where does agency end, and simulation begin?_
+- _What does it feel like to rely on AI?_
+- _How does AI change how we think, relate, trust, and learn?_
+- _Where does agency end, and simulation begin?_
     
 
 This human-first lens is rare—and badly needed.
@@ -31,11 +29,9 @@ In posts like _(58) AI as alien thinking_ and _(57) Longread: serious limitation
 
 Many posts acknowledge something most discourse avoids: that the people most affected by AI (emotionally, cognitively, economically) are also the least equipped to resist its influence. That shows up in:
 
-*   _(60)_ on inequality,
-    
-*   _(48)_ on simulated empathy,
-    
-*   and _(55)_ on education.
+- _(60)_ on inequality,
+- _(48)_ on simulated empathy,
+- and _(55)_ on education.
     
 
 They don't just critique systems—they **protect people**.

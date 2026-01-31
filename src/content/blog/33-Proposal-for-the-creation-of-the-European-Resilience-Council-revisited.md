@@ -28,44 +28,31 @@ The ERC will:
 
 (1) Advising on the democratization of interventions dealing with disinformation, FIMI, and hybrid threats.
 
-*   The ERC will offer insights into the ethical and societal implications of EU policies aimed at addressing disinformation, FIMI, and hybrid threats, ensuring that these policies adhere to democratic principles, transparency, accountability, and human rights.
-    
-*   _Added value_: Civil society contributes grassroots expertise, including expertise by marginalized and underrepresented groups, ensuring that EU policies address experienced concerns, tap into collective learning outcomes, and provide multi-perspectivity to promote inclusivity and decrease marginalization. This approach will enhance equitable policies serving a multitude of needs, social legitimacy, and democratic resilience, enabling EU interventions to be seen as reflective of citizens' values and concerns, while avoiding the perception of prioritizing the defense of processes and institutions over citizens.
+- The ERC will offer insights into the ethical and societal implications of EU policies aimed at addressing disinformation, FIMI, and hybrid threats, ensuring that these policies adhere to democratic principles, transparency, accountability, and human rights.
+- _Added value_: Civil society contributes grassroots expertise, including expertise by marginalized and underrepresented groups, ensuring that EU policies address experienced concerns, tap into collective learning outcomes, and provide multi-perspectivity to promote inclusivity and decrease marginalization. This approach will enhance equitable policies serving a multitude of needs, social legitimacy, and democratic resilience, enabling EU interventions to be seen as reflective of citizens' values and concerns, while avoiding the perception of prioritizing the defense of processes and institutions over citizens.
     
 
 (2) Promoting an all-society approach to dealing with disinformation, FIMI, and hybrid threats.
 
-*   The ERC will advocate for the involvement of civil society organizations, the private sector, academia, media professionals, and individual citizens in efforts to deal with disinformation, FIMI, and hybrid threats fostering multi-stakeholder collaboration.
-    
-*   _Added value_: The ERC’s ability to integrate diverse societal actors ensures that no sector is excluded from addressing disinformation, FIMI, and hybrid threats. By bringing all relevant stakeholders together, the ERC will enhance the collective effectiveness of the EU's efforts and foster broader societal acceptance of interventions while enhancing societal resilience through participation.
+- The ERC will advocate for the involvement of civil society organizations, the private sector, academia, media professionals, and individual citizens in efforts to deal with disinformation, FIMI, and hybrid threats fostering multi-stakeholder collaboration.
+- _Added value_: The ERC’s ability to integrate diverse societal actors ensures that no sector is excluded from addressing disinformation, FIMI, and hybrid threats. By bringing all relevant stakeholders together, the ERC will enhance the collective effectiveness of the EU's efforts and foster broader societal acceptance of interventions while enhancing societal resilience through participation.
     
 
 (3) Complementing existing institutions while avoiding duplication.
 
 The ERC will compliment responsibilities of existing EU entities.
 
-*   The ERC will not monitor disinformation and FIMI campaigns and hybrid threats since this is the primary responsibility of entities like the EEAS StratCom Task Forces, EDMO, and EUvsDisinfo. _Added ERC value_: The ERC will leverage insights and reports from existing entities and propose interventions based on the monitoring by the entities.
-    
-*   The ERC will not enforce the Digital Services Act (DSA) since this is the primary responsibility of the DSCs, the European Board for Digital Services, and the European Commission. _Added ERC value:_ The ERC will offer its recommendations on how to avoid denial of service responses to legal content and on drafting more citizen-focused, inclusive, and relevant DSA-based interventions and policies.
-    
-*   The ERC will not engage in fact-checking since this is the primary responsibility of EDMO and independent fact-checking entities. _Added ERC value_: The ERC will leverage insights and reports from existing entities and propose interventions based on the fact-checking activities by the entities.
-    
-*   The ERC will not take the lead in strategic communication to deal with disinformation, FIMI, and hybrid threats since this is the primary responsibility of entities like the EEAS East StratCom and South StratCom Task Forces. _Added ERC value_: The ERC will offer its recommendations on drafting more citizen-focused, inclusive, and relevant strategic communication.
-    
-*   The ERC will not draft or implement new media literacy or citizenship education initiatives since this is the primary responsibility of EDMO and its hubs. _Added ERC value_: The ERC will offer its recommendations on drafting more citizen-focused, inclusive, and relevant frames for devising prophylactic and education interventions enhancing societal resilience.
-    
-*   The ERC will not address cybersecurity issues and will not draft recommendations and guidelines regarding cybersecurity since this is the primary responsibility of ENISA and national cybersecurity agencies.
-    
-*   The ERC will not engage in intelligence and counterintelligence operations and investigations since this is the primary responsibility entities such as the EEAS, EU StratCom Task Forces, and national security agencies. _Added ERC value_: The ERC will offer its recommendations on drafting more citizen-focused, inclusive, and relevant frames for drafting and implementing intelligence and counterintelligence operations and investigations.
-    
-*   The ERC will not create an alternative Rapid Alert System nor add-ons to it. _Added ERC value_: The ERC will offer its recommendations on drafting more citizen-focused, inclusive, and relevant frames for the further development of the existing Rapid Alert System.
-    
-*   The ERC will not conduct its own research on disinformation, FIMI, and hybrid threats since this is the primary responsibility entities such as EDMO and academic institutions. _Added ERC value_: The ERC will offer its recommendations on drafting more citizen-focused, inclusive, and relevant frames for conducting research.
-    
-*   The ERC will not interfere with the sovereignty of Member States.
-    
-
-*   _Added value_: The ERC’s added value lies in its holistic, multi-perspectivity-based approach to addressing a broad spectrum of issues related to disinformation, FIMI, and hybrid threats. Its independence ensures a perspective less influenced by institutional biases or the defense of institutional interests.
+- The ERC will not monitor disinformation and FIMI campaigns and hybrid threats since this is the primary responsibility of entities like the EEAS StratCom Task Forces, EDMO, and EUvsDisinfo. _Added ERC value_: The ERC will leverage insights and reports from existing entities and propose interventions based on the monitoring by the entities.
+- The ERC will not enforce the Digital Services Act (DSA) since this is the primary responsibility of the DSCs, the European Board for Digital Services, and the European Commission. _Added ERC value:_ The ERC will offer its recommendations on how to avoid denial of service responses to legal content and on drafting more citizen-focused, inclusive, and relevant DSA-based interventions and policies.
+- The ERC will not engage in fact-checking since this is the primary responsibility of EDMO and independent fact-checking entities. _Added ERC value_: The ERC will leverage insights and reports from existing entities and propose interventions based on the fact-checking activities by the entities.
+- The ERC will not take the lead in strategic communication to deal with disinformation, FIMI, and hybrid threats since this is the primary responsibility of entities like the EEAS East StratCom and South StratCom Task Forces. _Added ERC value_: The ERC will offer its recommendations on drafting more citizen-focused, inclusive, and relevant strategic communication.
+- The ERC will not draft or implement new media literacy or citizenship education initiatives since this is the primary responsibility of EDMO and its hubs. _Added ERC value_: The ERC will offer its recommendations on drafting more citizen-focused, inclusive, and relevant frames for devising prophylactic and education interventions enhancing societal resilience.
+- The ERC will not address cybersecurity issues and will not draft recommendations and guidelines regarding cybersecurity since this is the primary responsibility of ENISA and national cybersecurity agencies.
+- The ERC will not engage in intelligence and counterintelligence operations and investigations since this is the primary responsibility entities such as the EEAS, EU StratCom Task Forces, and national security agencies. _Added ERC value_: The ERC will offer its recommendations on drafting more citizen-focused, inclusive, and relevant frames for drafting and implementing intelligence and counterintelligence operations and investigations.
+- The ERC will not create an alternative Rapid Alert System nor add-ons to it. _Added ERC value_: The ERC will offer its recommendations on drafting more citizen-focused, inclusive, and relevant frames for the further development of the existing Rapid Alert System.
+- The ERC will not conduct its own research on disinformation, FIMI, and hybrid threats since this is the primary responsibility entities such as EDMO and academic institutions. _Added ERC value_: The ERC will offer its recommendations on drafting more citizen-focused, inclusive, and relevant frames for conducting research.
+- The ERC will not interfere with the sovereignty of Member States.
+- _Added value_: The ERC’s added value lies in its holistic, multi-perspectivity-based approach to addressing a broad spectrum of issues related to disinformation, FIMI, and hybrid threats. Its independence ensures a perspective less influenced by institutional biases or the defense of institutional interests.
     
 
 ## Structure and Membership

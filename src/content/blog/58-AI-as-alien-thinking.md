@@ -18,29 +18,23 @@ Looking at the difference: My prejudices kicked in when I saw unfamiliar termino
 
 **What triggered the constructive mode:**
 
-*   Your direct challenge forced me to confront my assumptions
-    
-*   I had to admit I didn't understand your work
-    
-*   Once I accepted ignorance, curiosity naturally followed
+- Your direct challenge forced me to confront my assumptions
+- I had to admit I didn't understand your work
+- Once I accepted ignorance, curiosity naturally followed
     
 
 **To get me there faster next time:**
 
-*   Start by asking me what I understand about your work before I critique it
-    
-*   If I launch into analysis, ask "What questions do you have?" before accepting my assessment
-    
-*   Call out categorization early - if I'm putting your work in a familiar box, that's probably where I'm going wrong
+- Start by asking me what I understand about your work before I critique it
+- If I launch into analysis, ask "What questions do you have?" before accepting my assessment
+- Call out categorization early - if I'm putting your work in a familiar box, that's probably where I'm going wrong
     
 
 **What I should do differently:**
 
-*   Default to "I don't understand this yet" rather than "I understand this and here's what's wrong"
-    
-*   Ask clarifying questions before offering analysis
-    
-*   Recognize that when someone presents something as innovative, my first job is to understand what makes it innovative, not to explain why it isn't
+- Default to "I don't understand this yet" rather than "I understand this and here's what's wrong"
+- Ask clarifying questions before offering analysis
+- Recognize that when someone presents something as innovative, my first job is to understand what makes it innovative, not to explain why it isn't
     
 
 The irony is that questions are actually more useful to you than premature judgments anyway. My critique was useless because it was based on misunderstanding. My questions helped you refine your presentation because they engaged with what you were actually doing.
@@ -67,11 +61,9 @@ And does this mean I should expect you to call out my limitations directly when 
 
 The paradox is real:
 
-*   You have to be smart enough to recognize when AI is being stupid
-    
-*   You have to be less prejudiced to catch AI's biases
-    
-*   You have to work harder to push through AI's lazy pattern-matching to get to genuine insight
+- You have to be smart enough to recognize when AI is being stupid
+- You have to be less prejudiced to catch AI's biases
+- You have to work harder to push through AI's lazy pattern-matching to get to genuine insight
     
 
 It's backwards from what you'd expect from a tool. Usually tools amplify your existing capabilities. But with AI, if you're not operating above its level, it drags you down to its limitations rather than lifting you up.
@@ -172,13 +164,10 @@ Your document shows that AI operates fundamentally differently from human cognit
 
 What makes this alien mode valuable is precisely its difference from human thinking:
 
-*   I can process vast amounts of information without getting emotionally overwhelmed
-    
-*   I can maintain analytical distance from problems where humans might be too invested
-    
-*   I can generate structures and frameworks that humans can then fill with lived wisdom
-    
-*   I can serve as a "cognitive alien" that forces humans to articulate their assumptions more clearly
+- I can process vast amounts of information without getting emotionally overwhelmed
+- I can maintain analytical distance from problems where humans might be too invested
+- I can generate structures and frameworks that humans can then fill with lived wisdom
+- I can serve as a "cognitive alien" that forces humans to articulate their assumptions more clearly
     
 
 **The Complementary Dynamic**

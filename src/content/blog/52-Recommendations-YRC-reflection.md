@@ -64,23 +64,20 @@ The adolescent-drafted recommendations were then compared by Claude with those
 
 **Claude's recommendations** vs. Adolescent recommendations:
 
-*   Claude's main recommendation closely aligns with Adolescent Recommendation 1, emphasizing both informational and emotional support.
-    
-*   Claude's outlier recommendation about distinguishing digital and real worlds while respecting autonomy isn't explicitly mentioned in the adolescent recommendations.
+- Claude's main recommendation closely aligns with Adolescent Recommendation 1, emphasizing both informational and emotional support.
+- Claude's outlier recommendation about distinguishing digital and real worlds while respecting autonomy isn't explicitly mentioned in the adolescent recommendations.
     
 
 **ChatGPT's recommendations** vs. Adolescent recommendations:
 
-*   ChatGPT's main recommendation about "emotionally safe spaces" aligns with Adolescent Recommendation 1.
-    
-*   ChatGPT's outlier recommendation about respecting boundaries and offering optional resources isn't directly addressed in the adolescent recommendations.
+- ChatGPT's main recommendation about "emotionally safe spaces" aligns with Adolescent Recommendation 1.
+- ChatGPT's outlier recommendation about respecting boundaries and offering optional resources isn't directly addressed in the adolescent recommendations.
     
 
 **Gemini's recommendations** vs. Adolescent recommendations:
 
-*   Gemini's main recommendation about integrating digital literacy with an empathetic environment aligns with Adolescent Recommendation 1.
-    
-*   Gemini's outlier recommendation about bridging in-school and out-of-school digital experiences partially aligns with the meta-analytical aspect of Adolescent Recommendation 2.
+- Gemini's main recommendation about integrating digital literacy with an empathetic environment aligns with Adolescent Recommendation 1.
+- Gemini's outlier recommendation about bridging in-school and out-of-school digital experiences partially aligns with the meta-analytical aspect of Adolescent Recommendation 2.
     
 
 **Key Insights**
@@ -154,13 +151,10 @@ Schools must formally recognize their obligation to address teenage digital func
 
 **Key Implementation Elements:**
 
-*   Mandate empathy-centered digital education programs
-    
-*   Establish formal frameworks for collecting and acting on student digital experiences
-    
-*   Create psychologically safe environments for digital literacy discussions
-    
-*   Recognize digital well-being support as an institutional obligation rather than optional programming
+- Mandate empathy-centered digital education programs
+- Establish formal frameworks for collecting and acting on student digital experiences
+- Create psychologically safe environments for digital literacy discussions
+- Recognize digital well-being support as an institutional obligation rather than optional programming
     
 
 I said: Please compare your answer with the the above. Look at the AI answers and assess, whether they could have led to your answer.
@@ -171,11 +165,9 @@ I said: Please compare your answer with the the above. Look at the AI answers an
 
 My first recommendation about "Implement Comprehensive Digital Education with Empathetic Support" clearly draws from all three AI responses:
 
-*   Claude's
-    
-*   ChatGPT's
-    
-*   Gemini's
+- Claude's
+- ChatGPT's
+- Gemini's
     
 
 My second recommendation about "Institutionalize School Responsibility" aligns with Gemini's outlier recommendation about "bridging the gap" and creating "channels for students to provide feedback."

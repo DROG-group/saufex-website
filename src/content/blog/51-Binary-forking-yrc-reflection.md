@@ -28,9 +28,8 @@ When content is seemingly overwhelming, forking is a way to uncover a deeper sem
 
 In relation with the thirteen answers given by the students that formed the basis of the AI report, two rounds of binary forking proved to be enough. I constructed the following questions:
 
-*   Should school play a role in the process of helping the teenager function better in the digital world?
-    
-*   Should school engage in a pure transfer of information about risks, data security, and behavioural consequences, or should ideal principles apply, such as teacher empathy, understanding of the teenager’s digital reality, non-judgment, and provision of real support?
+- Should school play a role in the process of helping the teenager function better in the digital world?
+- Should school engage in a pure transfer of information about risks, data security, and behavioural consequences, or should ideal principles apply, such as teacher empathy, understanding of the teenager’s digital reality, non-judgment, and provision of real support?
     
 
 ## AI binary forking
@@ -43,16 +42,14 @@ This is what ChatGPT came up with:
 
 Binary Fork 1: School's Influence on Digital Life
 
-*   School has no influence
-    
-*   School should have influence
+- School has no influence
+- School should have influence
     
 
 Binary Fork 2: What Schools Should Provide
 
-*   Knowledge and awareness
-    
-*   Safe space and understanding"
+- Knowledge and awareness
+- Safe space and understanding"
     
 
 ChatGPT's answer convinced me that binary forking should be added to the AI report, and therefore to the prompt provided to the AI app when requested to generate the report.

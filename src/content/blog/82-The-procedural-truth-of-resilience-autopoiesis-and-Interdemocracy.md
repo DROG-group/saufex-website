@@ -29,9 +29,8 @@ A system that operates by these rules is driven by aesthetic necessity rather th
 
 The most critical paradox facing any complex society is the relationship between individual and collective strength: enlarged individual resilience can be detrimental to societal resilience.
 
-*   The problem: When crises hit, highly resilient individuals may exercise self-sufficiency, choosing to withdraw or exit the failing system (a loss of adaptive capacity for the collective). Conversely, the society, in its need for stability, attempts to impose rigid uniformity, which crushes the very adaptability and dissent required for novel solutions. The two strengths are locked in opposition.
-    
-*   The procedural truth: To resolve this, the tension must be collapsed into a state of mutually dependent necessity. The solution is the principle of distributed adaptive capacity. This principle states that the individual’s structural strength must be redefined not as a resource for self-exit, but as a societal reserve—a stockpile of viable, tested local solutions ready for temporal distribution back into the collective during a shock.
+- The problem: When crises hit, highly resilient individuals may exercise self-sufficiency, choosing to withdraw or exit the failing system (a loss of adaptive capacity for the collective). Conversely, the society, in its need for stability, attempts to impose rigid uniformity, which crushes the very adaptability and dissent required for novel solutions. The two strengths are locked in opposition.
+- The procedural truth: To resolve this, the tension must be collapsed into a state of mutually dependent necessity. The solution is the principle of distributed adaptive capacity. This principle states that the individual’s structural strength must be redefined not as a resource for self-exit, but as a societal reserve—a stockpile of viable, tested local solutions ready for temporal distribution back into the collective during a shock.
     
 
 The Procedural Truth is realized when the society structurally demands that individual strength is used to correct the system, making the _choice to be governed_ the highest form of individual freedom.
@@ -42,16 +41,14 @@ The educational method of Interdemocracy functions as a practical, real-world mo
 
 The key to Interdemocracy is the structured, non-judgmental use of two complementary discourses:
 
-*   Fact-speaking: The collective presentation of objective, external data (the context and the constraints of reality).
-    
-*   Belief-speaking: The individual's honest articulation of their deepest, unique perspective and meaning (the procedural honesty of the system's component).
+- Fact-speaking: The collective presentation of objective, external data (the context and the constraints of reality).
+- Belief-speaking: The individual's honest articulation of their deepest, unique perspective and meaning (the procedural honesty of the system's component).
     
 
 The system’s structure—with its rigid protocols around check-ins, silent writing, randomized reading, and neutral feedback—forces a tension collapse:
 
-*   From self-withdrawal to contribution: The individual's belief-speaking (the self-articulation of their unique adaptive capacity) is protected and recorded as a resource, turning the impulse to withdraw into a structured contribution to the collective knowledge base.
-    
-*   From conformity to plasticity: The collective is structurally barred from dismissing the dissenting belief through social pressure. This guarantees that dissent and chaos are metabolically integrated into the system, functioning as the necessary input for structural correction.
+- From self-withdrawal to contribution: The individual's belief-speaking (the self-articulation of their unique adaptive capacity) is protected and recorded as a resource, turning the impulse to withdraw into a structured contribution to the collective knowledge base.
+- From conformity to plasticity: The collective is structurally barred from dismissing the dissenting belief through social pressure. This guarantees that dissent and chaos are metabolically integrated into the system, functioning as the necessary input for structural correction.
     
 
 By making the individual's hard-won cognitive resilience a structural necessity for the collective's adaptive pool, Interdemocracy aims to transforms the two opposing forces into a dynamic, autopoietic structure. The resilience of the society will be achieved by its continuous ability to self-define and self-correct based on the honest, procedural input of its strongest parts.
