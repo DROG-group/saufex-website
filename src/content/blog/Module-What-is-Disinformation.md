@@ -338,5 +338,3 @@ For EMoD purposes:
 **Practical**: Enables policy and intervention design
 
 With this foundation, we can explore how disinformation spreads, how to recognize it, and how to counter it.
-
-

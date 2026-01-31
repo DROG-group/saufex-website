@@ -315,5 +315,3 @@ As users and citizens, you can support effective cooperation by:
 - Understanding cooperation complexity (not just demanding perfect solutions)
 
 Effective defense requires whole-of-society approach. Individual contributions create collective resilience.
-
-

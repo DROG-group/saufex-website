@@ -9,17 +9,17 @@ description: "Approaching information resilience based on our strengths and aspi
 # (23) A constructive approach to information resilience
 
 
-## [](#Introduction)Introduction
+## Introduction
 
 Information resilience, as discussed in [blog post four](/insights/4-Resilience), refers to the systemic ability to withstand and adapt to information shocks. Traditionally, conversations around this concept adopt a defensive stance, focusing on the threats we must guard against. However, this post explores a more constructive perspective: what foundational elements of individual and societal information resilience are needed to equip us to withstand and adapt effectively to potential information shocks?
 
-## [](#Establishing-the-current-state-of-is)Establishing the current state of 'is'
+## Establishing the current state of 'is'
 
 For individuals, understanding the current information reality is paramount. This requires key skills and capacities, such as knowing relevant facts and narratives, constructing logical and causal narratives based on these facts, and deconstructing existing narratives.
 
 On a personal level, this understanding depends on certain preconditions. Individuals must possess basic fact-checking and debunking skills and grasp the value and limitations of facts, narratives, science, and scientific methods. Beyond the individual, collective efforts are essential. Policies should support these individual skills while also fostering the best epistemic frame—a robust framework for generating, interpreting, and evaluating knowledge.
 
-## [](#Formulating-individual-oughts)Formulating individual 'oughts'
+## Formulating individual 'oughts'
 
 Another critical aspect of resilience is the ability to define personal aspirations or 'oughts.' These principles should stem from personal experiences and remain free from the fear of external judgment.
 
@@ -27,7 +27,7 @@ Achieving this requires individuals to master the art of expressing inner states
 
 At a collective level, policies should bolster these individual capacities while creating an environment where autonomy, belonging, achievement, and safety are experienced by the widest possible group while no one experiences dislocation.
 
-## [](#Reaching-a-common-ought-through-common-effort)Reaching a common 'ought' through common effort
+## Reaching a common 'ought' through common effort
 
 Building societal resilience also involves individuals proactively working together to establish shared aspirations. This process hinges on skills like dialogue, negotiation, mutual understanding, and conflict management and resolution—what Zygmunt Bauman refers to as "citizen skills”.
 
@@ -35,8 +35,6 @@ Individually, this demands curiosity about others' aspirations, the ability to w
 
 Collectively, policies must ensure robust representation and effective systems of checks and balances. These frameworks are indispensable for creating the conditions where a common 'ought' can emerge and thrive.
 
-## [](#Beyond-anxiety)Beyond anxiety
+## Beyond anxiety
 
 By emphasizing the constructive dimensions of individual and societal information resilience, we can move beyond a defensive stance that looks outward with anxiety and cultivate an approach to the information landscape based on our strengths and aspirations.
-
-

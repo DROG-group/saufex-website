@@ -13,7 +13,7 @@ This will be a raw blog post, an observation straight from the belly of our educ
 
 Yesterday we provided an introduction on GAI for our students, like we did before. There were eight students in our class today. In contrast to other classes, a vast majority did not seem to care about what was being said.
 
-## [](#Students-on-AI-\(1\))Students on AI (1)
+## )Students on AI (1)
 
 After some initial interactions, the students started opening up and started explaining the positive sides of GAI. They were so persistent in stressing the upsides that I asked them to write these down, by means of our method. This is their list:
 
@@ -35,7 +35,7 @@ After some initial interactions, the students started opening up and started exp
 
 The answers do not reflect well on the support our educational system provides them. But do they also reflect poorly on the students?
 
-## [](#Students-on-AI-\(2\))Students on AI (2)
+## )Students on AI (2)
 
 I asked the students to write down their thoughts the following topic: if GAI is so great, wouldn’t it not make sense for them to be allowed to use AI during exams? These are their answers:
 
@@ -57,7 +57,7 @@ I asked the students to write down their thoughts the following topic: if GAI is
 
 What is obvious, other than the apparent conformism, is that these students do not embrace GAI wholeheartedly and uncritically. They know that it is a subpar tool.
 
-## [](#Paradox)Paradox
+## Paradox
 
 It seems paradoxical: on the one hand, GAI is described as a useful tool; on the other, when it actually matters at school, it is described as flawed. I asked the students to help me understand how these two descriptions fit together. After an initial silence and a few “I don’t know” responses, two answers about using AI to support their schoolwork made me shiver:
 
@@ -66,5 +66,3 @@ It seems paradoxical: on the one hand, GAI is described as a useful tool; on the
 ·       _It is better than nothing._
 
 Yes, we should worry about the potential harms of AI. But we should worry even more about the potential harm caused by the position we put our students in.
-
-

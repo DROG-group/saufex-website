@@ -11,7 +11,7 @@ description: "An overview of the unique contributions Youth Resilience Councils 
 
 What are the unique contributions Youth Resilience Councils (YRCs) can bring to Resilience Councils (RCs) in terms of enhancing the effectiveness, legitimacy, and long-term resilience of the broader FIMI response strategy?
 
-## [](#Closing-the-generational-vulnerability-gap)Closing the generational vulnerability gap
+## Closing the generational vulnerability gap
 
 Argument: Adolescents and young adults are prime targets of FIMI campaigns, yet they are often absent from decision-making.
 
@@ -31,7 +31,7 @@ o Identify new, youth-specific manipulation tactics that older experts might ove
 
 o Help adapt RC recommendations to real-world digital behaviors.
 
-## [](#Strengthening-societal-resilience-by-reducing-dislocation)Strengthening societal resilience by reducing dislocation
+## Strengthening societal resilience by reducing dislocation
 
 Argument: Adolescents experience “partial dislocation” (isolation from public life), which increases their vulnerability to FIMI. YRCs counteract this.
 
@@ -51,7 +51,7 @@ o They ensure that youth develop critical thinking and agency in public discours
 
 o They bridge the gap between their personal experiences and national policymaking.
 
-## [](#Enhancing-the-legitimacy-of-RC-decisions)Enhancing the legitimacy of RC decisions
+## Enhancing the legitimacy of RC decisions
 
 Argument: For RCs to be broadly accepted, their decisions must reflect society as a whole—including youth perspectives.
 
@@ -71,7 +71,7 @@ o They increase public trust in RC outcomes, making policies harder to dismiss a
 
 o They provide peer-to-peer influence—youth are more likely to trust messages when they come from other youth.
 
-## [](#Future-proofing-dealing-with-FIMI)Future-proofing dealing with FIMI
+## Future-proofing dealing with FIMI
 
 Argument: FIMI threats evolve rapidly, and the most effective long-term strategy is ensuring that future generations are equipped to counter them.
 
@@ -89,7 +89,7 @@ o Ensure that counter-FIMI strategies are not just top-down but organically embe
 
 o Provide a feedback loop—as FIMI tactics evolve, new youth participants continue updating RC strategies.
 
-## [](#Operational-benefits-youth-as-early-warning-sensors)Operational benefits: youth as early warning sensors
+## Operational benefits: youth as early warning sensors
 
 Argument: YRCs act as real-time monitoring networks, detecting emerging FIMI trends faster than traditional RC structures.
 
@@ -108,5 +108,3 @@ o Act as early warning systems, flagging new threats before they escalate.
 o Offer real-time feedback on the effectiveness of RC strategies in countering youth-targeted FIMI.
 
 o Help tailor interventions for maximum impact in digital-native communities.
-
-

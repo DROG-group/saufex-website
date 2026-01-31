@@ -13,7 +13,7 @@ Below you’ll find the first module of the learning path ‘Organized counterin
 
 \[screen 1\]
 
-## [](#Introduction)Introduction
+## Introduction
 
 Countering mis and disinformation is about protecting liberal democracy — defending both the autonomy and agency of individuals, as well as the institutions and processes that support these.
 
@@ -25,7 +25,7 @@ One method to protect liberal democracy is by disproving incorrect anti-liberal 
 
 \[screen 3\]
 
-## [](#Information-incident-level-dealing-with-statements-\(level-1\))Information incident level - dealing with statements (level 1)
+## )Information incident level - dealing with statements (level 1)
 
 Fact-checking on an information incident level means addressing individual, verifiable mis and disinformation statements that legitimize and empower anti-liberal democratic confirmation biases. It consists of the following steps: identifying, source checking, contextual analysis, comparing with existing knowledge, and logical evaluation.
 
@@ -57,5 +57,3 @@ Inspired by President Trump and Elon Musk, interventions such as fact-checking a
 \[screen 9\]
 
 In conclusion, fact-checking either serves as a moral duty, reserved for priority cases that justify the use of resources, or could function as part of a broader strategy that addresses challenges more comprehensively but it should avoid appearing biased or interfering with freedom of speech.
-
-

@@ -38,5 +38,3 @@ With a more clearly defined scope actions directed at the problem could be more 
 \[screen 6\]
 
 However, FIMI is an evolving term, and it is not the perfect solution towards all the problems we see online. For example, when actors are being deceptive it can be difficult to tell whether they are foreign or domestic. This is why there is still active debate on the term and where to apply it.
-
-

@@ -187,5 +187,3 @@ Remember: Statistics are used rhetorically, not just scientifically. The same da
 - Cherry-picking data points
 
 Critical statistical literacy isn't about advanced math - it's about asking which choices were made in presenting data and why.
-
-

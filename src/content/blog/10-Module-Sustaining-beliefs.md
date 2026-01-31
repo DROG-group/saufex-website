@@ -15,19 +15,19 @@ This module builds on the levels presented in the module ‘How beliefs form’.
 
 \[screen 2\]
 
-## [](#Level-1)Level 1
+## Level 1
 
 Our identities are threatened when our causal predictions fail. So, we protect them: when new information confirms our predictions, we accept it without opposition; when it disproves our beliefs, we resist. This is our first bias sustaining our beliefs: confirmation bias.
 
 \[screen 3\]
 
-## [](#Level-2)Level 2
+## Level 2
 
 Our beliefs follow our experiences, so they seem normal and unbiased. Other people’s beliefs are different and therefore seem abnormal and biased. This is sustaining bias two – naïve realism: thinking that our beliefs are objective and other people’s beliefs are subjective.
 
 \[screen 4\]
 
-## [](#Level-3)Level 3
+## Level 3
 
 In order to avoid being ostracised, we need to convince others that our beliefs are consistent. This requirement holds our public beliefs to a large degree hostage. Fortunately, we need only be as consistent as others notice and hold us accountable for.
 
@@ -37,7 +37,7 @@ The requirement to appear consistent means that those spreading legal disinforma
 
 \[screen 6\]
 
-## [](#Level-4)Level 4
+## Level 4
 
 While the task of our improvising mind is to make our thoughts and behavior seem as coherent as possible to others, we sometimes are caught being incoherent. In those cases, our improvisation turns into confabulation to defend the status quo.
 
@@ -47,7 +47,7 @@ According to Chater all our explanations of how the world works and justificatio
 
 \[screen 8\]
 
-## [](#Level-5)Level 5
+## Level 5
 
 Often our peer groups consist of people with similar experiences and beliefs, although any reason suffices to feel like a group member. Still, even in less coherent groups, the beliefs of our peers are heavily intertwined with our individual beliefs.
 
@@ -57,12 +57,10 @@ Changing beliefs is thus often not an individual but a social matter. Discarding
 
 \[screen 10\]
 
-## [](#Level-6)Level 6
+## Level 6
 
 We prefer our in-group peers and beliefs. But we are not automatically against out-group people and beliefs. This changes when relations between groups polarise. In that situation, we start thinking that ‘we’ are inherently good and ‘they’ are inherently bad.
 
 \[screen 11\]
 
 Polarisation can turn beliefs into sacred truths that cannot be abandoned or compromised. In-group members become bound to conformity. Radicalisation is fueled by grandstanding: peers using moral talk for self-promotion.
-
-

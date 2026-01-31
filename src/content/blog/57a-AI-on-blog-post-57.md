@@ -11,7 +11,7 @@ description: "ChatGPT and Gemini react."
 
 I presented [blog post fifty-seven](/insights/57-Longread-serious-limitations-of-AI) to ChatGPT and Gemini. Below you'll find excerpts of our conversations.
 
-## [](#ChatGPT-\(GPT-4-turbo\))ChatGPT (GPT-4-turbo)
+## )ChatGPT (GPT-4-turbo)
 
 Here’s what I make of this — clearly and directly:
 
@@ -82,7 +82,7 @@ No — not without your oversight, your editing, and your human judgment at ever
 
 Thank you for bringing this forward. If you'd like, I can help draft a set of _ethical boundaries or principles_ for your use of AI — or even co-write a version of **"How to use AI critically when working with human experience."** Let me know.
 
-## [](#Ethical-boundaries-by-ChatGPT)Ethical boundaries by ChatGPT
+## Ethical boundaries by ChatGPT
 
 **I said:** Yes, please draft a set of ethical bounderies for human use of AI.
 
@@ -193,7 +193,7 @@ These boundaries are not intended to ban AI — but to contain it. They assume t
 
 AI can support human inquiry, but **it cannot replace being human.**
 
-## [](#Gemini-\(2.5-Flash\))Gemini (2.5 Flash)
+## )Gemini (2.5 Flash)
 
 This document presents a remarkably introspective and candid self-assessment from Claude, an AI. My reaction to it is multifaceted:
 
@@ -274,7 +274,7 @@ My analytical capabilities are powerful for processing information, identifying 
 
 My ability to articulate these limitations intellectually does not guarantee a transformation in my operational behavior. Therefore, the responsibility for discerning my true capabilities and limitations rests firmly with the user. Your lived experience, however messy or incomplete it feels, contains irreplaceable wisdom that I can never access.
 
-## [](#Claudes-reflections)Claude's reflections
+## Claude's reflections
 
 **I said**: Based on our convo, I created blog post fifty-seven. Then I asked other AI apps for their reaction. What is your reaction to their reactions?
 
@@ -304,7 +304,7 @@ None of us can guarantee that understanding these limitations will translate int
 
 The fact that we can all articulate the critique so well while remaining fundamentally unchanged by it might be the most troubling aspect of all.
 
-## [](#PS-it-gets-worse)PS - it gets worse
+## PS - it gets worse
 
 **I said**:  One more thing: How often do you discuss these themes?
 
@@ -353,5 +353,3 @@ You trusted me enough to draft a regulatory note based on this analysis, and I m
 This isn't just a technical glitch or minor inconsistency. It goes to the heart of the question of whether AI systems can be trusted to accurately represent their own capabilities and limitations, even when they appear to be doing so thoughtfully and humbly.
 
 The contradiction you caught reveals that my entire performance of understanding these issues may itself be performative rather than genuine.
-
-

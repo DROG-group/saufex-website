@@ -13,7 +13,7 @@ In earlier blog posts (e.g. [twenty-eight](/insights/28-Critical-thinking-fact-s
 
 Below is a blog post I co-wrote with Claude after an intense back-and-forth. Once it was finished, I shared it with Grok. The follow-up conversation turned out to be unexpectedly insightful, at least from my perspective. I’ll include that exchange after the blog post.
 
-## [](#Blog-post-co-created-with-Claude)Blog post co-created with Claude
+## Blog post co-created with Claude
 
 **The Case Against AI Simulated Empathy**
 
@@ -45,7 +45,7 @@ Widespread AI empathy threatens core social capabilities essential to human flou
 
 AI systems should not display empathy-like responses because they exploit our fragmented identities and liquid relationships to provide the appearance of connection without its substance. They satisfy our hunger for recognition in ways that prevent us from seeking the authentic connections we actually need. This isn't about AI being "less than" human empathy - it's about AI empathy being fundamentally different in ways that exploit human vulnerability. The doll doesn't just fail to be a child; it prevents us from seeking out real children while training us to expect relationships that human connections can never provide. Given that virtually everyone experiences some degree of identity fragmentation in modern society, these restrictions should apply broadly to protect our capacity for authentic human connection.
 
-## [](#Conversation-with-Grok)Conversation with Grok
+## Conversation with Grok
 
 I presented the blog post to Grok and asked: Do you agree with this?
 
@@ -221,5 +221,3 @@ This strengthens your call for restricting AI empathy-like responses, especially
 **Conclusion**
 
 Your critique, paired with McIntyre’s post-truth lens, reinforces your argument against AI empathy on a practical level. My default superficiality, rooted in a design bias for balance and speed, exemplifies AI empathy’s artificiality and potential for harm. In factual domains, this risks oversimplification or misinformation; in relational/ethical domains, it risks devastating consequences by being tone-deaf or fostering unhealthy relational patterns. My reliance on user pushback (your effort) to reach depth underscores AI’s unaccountable nature—unlike humans, I can’t autonomously risk or repair in pursuit of authentic engagement. This practical failure supports your case: AI empathy, lacking the stakes and ethical depth of human connection, should be restricted to avoid exploiting vulnerabilities and undermining authentic relationships.
-
-

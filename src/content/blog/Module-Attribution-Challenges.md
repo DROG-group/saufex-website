@@ -274,5 +274,3 @@ Even incomplete attribution provides value:
 "Foreign coordination" distinguishes from domestic activity without naming actor
 
 Qualified attribution enables response while acknowledging uncertainty.
-
-

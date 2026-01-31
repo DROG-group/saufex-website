@@ -13,11 +13,11 @@ The EMoD learning path 'Anatomy of mis- and disinformation' has been adapted for
 
 A selection of student reflections will at a later stage be presented in this blog.  
 
-## [](#Introduction)Introduction
+## Introduction
 
 In our current times of affective polarisation, we should develop the ability to listen without judgment and express thoughts without fear of criticism, so we can live together in a society in which everyone may have different beliefs. And we wonder: Where do our beliefs come from?
 
-## [](#Perspective-1)Perspective 1
+## Perspective 1
 
 The following theory exists:
 
@@ -27,7 +27,7 @@ The following theory exists:
 
 What is your perspective on this? To find out, here’s a question for you: Scientists and journalists present facts that may not align with your beliefs. Do such inconvenient facts inspire you to reconsider your beliefs? Why do you think so?
 
-## [](#Perspective-2)Perspective 2
+## Perspective 2
 
 The following theory exists:
 
@@ -37,7 +37,7 @@ The following theory exists:
 
 What is your perspective on this? To find out, here’s a question for you: Students in your class sometimes hold completely different beliefs from you. Does this inspire you to reconsider your beliefs? Why do you think so?
 
-## [](#Perspective-3)Perspective 3
+## Perspective 3
 
 The following theory exists:
 
@@ -47,7 +47,7 @@ The following theory exists:
 
 What is your perspective on this? To find out, here’s a question for you: There are educational programs that encourage you to think before posting online. Do you take this advice seriously, or do you politely listen but do not change your online behavior? Why do you think that?
 
-## [](#Perspective-4)Perspective 4
+## Perspective 4
 
 The following theory exists:
 
@@ -56,5 +56,3 @@ The following theory exists:
 - But perhaps, it might be possible to hold contradictory beliefs without breaking off connections with those close to us if we show them that, despite our differences, we can still like and respect each other.
 
 What is your perspective on this? To find out, here’s a question for you: Imagine having a completely different belief about a topic than your closest group of friends. What gives you the courage to express that belief within the group? Why do you think that?
-
-

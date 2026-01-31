@@ -11,7 +11,7 @@ description: "Here we overview what the DISARM Frameworks are"
 
 The DISARM frameworks (Disinformation Analysis and Risk Management) are an open-source tool / taxonomy for describing, analyzing, and responding to disinformation (or information manipulation) campaigns, often in the context of influence operations. 
 
-## [](#Origins-and-Purpose)Origins & Purpose
+## Origins & Purpose
 
 *   DISARM was inspired by cybersecurity frameworks (in particular, MITRE’s ATT&CK) and seeks to adapt those ideas to the information domain (i.e. disinformation, propaganda, influence operations).
     
@@ -20,7 +20,7 @@ The DISARM frameworks (Disinformation Analysis and Risk Management) are an open-
 *   It is maintained by the DISARM Foundation as an open, community-led project.
     
 
-## [](#Structure-Red-and-Blue-Frameworks)Structure: Red & Blue Frameworks
+## Structure: Red & Blue Frameworks
 
 DISARM comprises two complementary “sides” (analogous to offense/defense in cybersecurity):
 
@@ -42,7 +42,7 @@ Countermeasures / defensive responses
 
 Catalog possible responses, mitigations, and interventions that defenders can take against influence operations. Alliance4Europe+3GitHub+3disarmframework.herokuapp.com+3
 
-### [](#Red-side-—-tactics,-techniques,-procedures)Red side — tactics, techniques, procedures
+### Red side — tactics, techniques, procedures
 
 *   Tactics are higher-level objectives or phases (e.g. “Develop Narratives”, “Maximise Reach/Exposure”) that an adversary may aim for in an influence operation.
     
@@ -53,7 +53,7 @@ Catalog possible responses, mitigations, and interventions that defenders can ta
 
 Thus, one can break down an observed disinformation incident (or campaign) into component tactics, the techniques deployed, and the way they’re combined (procedurally).
 
-### [](#Blue-side-—-countermeasures)Blue side — countermeasures
+### Blue side — countermeasures
 
 *   The Blue side provides a taxonomy of responses one might apply at different stages (or tactics) of a campaign.
     
@@ -62,7 +62,7 @@ Thus, one can break down an observed disinformation incident (or campaign) into 
 *   There's caution advised: because context, ethics, legality, and proportionality matter, not all countermeasures in Blue are suitable in all settings.
     
 
-## [](#Technical-/-Data-Aspects-and-Integration)Technical / Data Aspects & Integration
+## Technical / Data Aspects & Integration
 
 *   DISARM is designed to be compatible with information security / threat intelligence standards. For example, it uses STIX (Structured Threat Information eXpression) templates for DISARM objects, so that disinformation events, actors, techniques, etc. can be encoded in machine-readable form.
     
@@ -71,7 +71,7 @@ Thus, one can break down an observed disinformation incident (or campaign) into 
 *   The framework’s objects include not only tactics / techniques but also incidents, actor types, playbooks, and more—supporting both qualitative and structured analysis.
     
 
-## [](#Applications-and-Use-Cases)Applications & Use Cases
+## Applications & Use Cases
 
 *   Incident documentation & analysis: Analysts can take a disinformation event (e.g. a misleading narrative spread during an election) and break it down using DISARM’s taxonomy. This helps with clarity, comparability, and pattern-detection.
     
@@ -82,6 +82,3 @@ Thus, one can break down an observed disinformation incident (or campaign) into 
 *   Training, capacity building & policy: Organizations and governments can train their analysts using DISARM, and embed it into policy workflows or response protocols.
     
 *   Hybrid threat / cognitive warfare analysis: DISARM is also used in academic or policy research to analyze the nexus of disinformation, cyber operations, and cognitive influence (e.g. in the context of foreign interference).
-    
-
-

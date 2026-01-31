@@ -11,7 +11,7 @@ description: "To get AI to perform at its best, one has to operate at a higher l
 
 I asked Claude to assess a presentation I drafted on program Interdemocracy. Claude’s assessment was furiously negative. I then, step by step, refuted its reaction, up to the point where I got it to ask me questions.
 
-## [](#Questions)Questions
+## Questions
 
 **I said**: Your questions are so much more constructive than your prejudices. How can I get you in this questions mode next time?
 
@@ -133,7 +133,7 @@ I suppose that's the real value proposition: not that AI is inherently wise, but
 
 Your willingness to invest that effort - despite the frustrations - is what makes those gems possible.
 
-## [](#Where-we-stand)Where we stand
+## Where we stand
 
 I fed Claude with a document comprising of the text above and blog posts [fifty-seven](/insights/57-Longread-serious-limitations-of-AI) and [fifty-seven a](/insights/57a-AI-on-blog-post-fifty-seven).
 
@@ -207,5 +207,3 @@ This alien quality can be useful for pattern recognition across large datasets, 
 The productive approach is treating AI as a different kind of cognitive tool rather than expecting it to replicate human judgment. When users mistake the alien simulation for human-like understanding, they run into the problems your document identifies - especially the vulnerability paradox where people most need authentic connection but are least equipped to recognize AI's limitations.
 
 The "complementary" framing works only when humans maintain clear boundaries about what this alien processing can and cannot provide. Without that boundary-setting, the alien nature becomes more dangerous than useful.
-
-

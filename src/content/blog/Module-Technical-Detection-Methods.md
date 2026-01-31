@@ -333,5 +333,3 @@ You don't need to be a technician to use basic technical detection:
 - Basic timing pattern observation
 
 More sophisticated analysis requires expertise, but anyone can start with basics.
-
-

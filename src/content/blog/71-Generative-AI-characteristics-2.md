@@ -11,7 +11,7 @@ description: "GAIs are about pattern reproduction, not reasoning."
 
 The following is a second fragment from a draft version of an academic paper I'm currently working on regarding text-based generative artificial intelligence (GAI)/ large language models (LLMs).
 
-## [](#Characteristic-2-pattern-reproduction,-not-reasoning)Characteristic 2: pattern reproduction, not reasoning
+## Characteristic 2: pattern reproduction, not reasoning
 
 Wolfram (2023) found that ChatGPT is „just saying things that “sound right” based on what things “sounded like” in its training material”. GAIs have the capacity to build upon their training data, but only up to a certain extent. When confronted with high-complexity tasks, GAIs collapse[\[1\]](#_ftn1). (Shojaee, 2025) Even adding nonsense texts to prompts seriously undermines GAIs’ performance. (Rajeev et al., 2025)
 
@@ -23,7 +23,7 @@ Just as the first characteristic necessitates a ‘zero-trust' policy toward GAI
 
 [Part (3)](/insights/72-Generative-AI-characteristics-3)
 
-## [](#Literature)Literature
+## Literature
 
 ·        Bishop, J. (2021). Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It. _Front. Psychol._ [https://doi.org/10.3389/fpsyg.2020.513474](https://doi.org/10.3389/fpsyg.2020.513474)
 
@@ -45,10 +45,8 @@ Just as the first characteristic necessitates a ‘zero-trust' policy toward GAI
 
 ·        Zhao, C. et al. (2025). Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens. _ArXiv_. [https://arxiv.org/abs/2508.01191](https://arxiv.org/abs/2508.01191)
 
-## [](#Footnotes)Footnotes
+## Footnotes
 
 [\[1\]](#_ftnref1) As do more specialized Large Reasoning Models (LRMs).
 
 [\[2\]](#_ftnref2) Chain-of-Thought (CoT) entails complex reasoning through intermediate reasoning steps.
-
-

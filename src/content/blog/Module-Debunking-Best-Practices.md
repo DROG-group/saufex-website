@@ -407,5 +407,3 @@ Recognize debunking limitations:
 **Focus**: Persuadable audiences, correctable beliefs
 
 Debunking is one tool, not the only tool.
-
-

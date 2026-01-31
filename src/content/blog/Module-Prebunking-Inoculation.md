@@ -428,5 +428,3 @@ Growing recognition driving adoption:
 **Vision**: Prebunking as routine public health measure, like vaccines. Prevention as standard, not afterthought.
 
 From reactive to proactive information defense.
-
-

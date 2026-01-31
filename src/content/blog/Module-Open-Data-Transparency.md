@@ -258,5 +258,3 @@ But there are also challenges:
 - Capacity constraints in poorer countries
 
 The trajectory toward greater transparency continues, but progress is uneven. Citizens demanding and using open data strengthens the transparency movement.
-
-

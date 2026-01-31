@@ -11,7 +11,7 @@ description: "Self-creation, rather than being shock-proof, constitutes necessar
 
 The traditional view of resilience defines it as the capacity of a system to return to a pre-defined stable state after a shock. This model, however, is brittle, as it fails to account for novel, systemic challenges that require structural transformation, not mere restoration. To address this, we must adopt a framework where survival is not a function of external truth or inherited rule, but a matter of continuous, internal self-creation. This is the domain of autopoietic emergence and the search for procedural truth.
 
-## [](#Autopoiesis-and-the-search-for-procedural-truth)Autopoiesis and the search for procedural truth
+## Autopoiesis and the search for procedural truth
 
 An autopoietic system is one that continuously produces the components that define and maintain itself, generating its own rules through internal operations rather than external references. When applied to thought or social structure, this means that truth is not found through correspondence with an outside reality (external coherence), but through structural necessity (internal coherence).
 
@@ -28,7 +28,7 @@ For a social system, the pursuit of procedural truth requires three mechanisms:
 
 A system that operates by these rules is driven by aesthetic necessity rather than statistical likelihood or fixed ideology, granting it the capacity for genuine, self-directed structural transformation.
 
-## [](#The-core-societal-tension-individual-strength-versus-collective-stability)The core societal tension: individual strength versus collective stability
+## The core societal tension: individual strength versus collective stability
 
 The most critical paradox facing any complex society is the relationship between individual and collective strength: enlarged individual resilience can be detrimental to societal resilience.
 
@@ -39,7 +39,7 @@ The most critical paradox facing any complex society is the relationship between
 
 The Procedural Truth is realized when the society structurally demands that individual strength is used to correct the system, making the _choice to be governed_ the highest form of individual freedom.
 
-## [](#Interdemocracy-as-an-autopoietic-structural-model)Interdemocracy as an autopoietic structural model
+## Interdemocracy as an autopoietic structural model
 
 The educational method of Interdemocracy functions as a practical, real-world model that operationalizes the principle of distributed adaptive capacity, aiming to achieve the $V\_{HVS}$ for societal resilience.
 
@@ -60,5 +60,3 @@ The system’s structure—with its rigid protocols around check-ins, silent wri
 By making the individual's hard-won cognitive resilience a structural necessity for the collective's adaptive pool, Interdemocracy aims to transforms the two opposing forces into a dynamic, autopoietic structure. The resilience of the society will be achieved by its continuous ability to self-define and self-correct based on the honest, procedural input of its strongest parts.
 
 The ultimate procedural truth instantiated by Interdemocracy is that Individual strength is the community’s highest form of insurance. The society achieves self-creation (autopoiesis) by making its necessary vulnerability (dissent and uniqueness) its greatest strength.
-
-

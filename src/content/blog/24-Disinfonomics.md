@@ -13,11 +13,11 @@ At Drog, a longstanding interest exists in the economic and transactional nature
 
 In the SAUFEX project, Drog is currently creating an [EMoD](/insights/20-European-Master-of-countering-Disinformation-primer) module on disinfonomics - the economics of information threats. The module will focus heavily on the transactional nature of disinfonomics, thereby presenting an approach for better dealing with economically motivated information threats. Below, I will provide a complimentary take on the economic aspect of producing information threats.
 
-## [](#Big-Data)Big Data
+## Big Data
 
 Seth Stephens-Davidowitz turns to Big Data when trying to answer relevant questions. In his book _Don’t Trust Your Gut_ (2022) he analyses for instance what Big Data can tell us about getting rich. His general answer is: “The majority of wealthy Americans /…/ own a business”. His more specific answer is that businesses with the best chances of producing wealth “have a path to avoid ruthless price competition” and “have a path to avoid being dominated by a global behemoth”. As for business owners with the best chances to become rich, they are, contrary to conventional wisdom, those who “spend many years learning the ins and outs of a field”, end up “being among the best-paid employees”, and only then start their businesses.
 
-## [](#Avoiding-ruthless-competition)Avoiding ruthless competition
+## Avoiding ruthless competition
 
 The production of information threats for economic gain would lose its appeal in so-called zero-profit conditions. Stephens-Davidowitz explains: “Price competition will continue until the profits are driven down to zero.” Protection against this situation can come by law, by scale, or by building a well-loved brand. The field of information threats seems to be protected by two of these factors: by scale and by brand.
 
@@ -25,14 +25,12 @@ Protection by scale occurs when a product is really hard to produce or when a de
 
 The protection by brand exists when information specialists build on their fame or reputation. In that case, fans “will pay more for their work”. Especially in affectively polarized societies, information specialists can capitalize on their fame and reputation.
 
-## [](#Avoiding-being-dominated-by-a-global-behemoth)Avoiding being dominated by a global behemoth
+## Avoiding being dominated by a global behemoth
 
 Some markets are dominated by enormous global players, such as the sneaker business or the tech industry. Protection against this type of market emerging comes from the law, but especially from the need for localization. In some markets, it is all about knowing local conditions and entertaining personal relationships with clients to be successful. This is very hard for huge enterprises.  
 
 The field of information threats seems to be at least partially protected by the need for localization. While nation-states and international organizations can act as global information behemoths, a cultural adaptation of information threats seems pivotal for achieving an impact, and therefore, economic gain.
 
-## [](#Dealing-with-information-threats)Dealing with information threats
+## Dealing with information threats
 
 Taking Stephens-Dawidowitz’s Big Data-based analyses to heart, I think it would make sense in the legal realm to concentrate on how to strengthen instruments that hold information threat entrepreneurs accountable on legal grounds, naturally without limiting legislation protecting freedom of speech, and to simplify legal action against transnational or foreign entrepreneurs. In the non-legal realm, it seems advisable to counteract affective polarization by focusing on more inclusiveness and more real participation and to more often localize activities dealing with information threats.
-
-

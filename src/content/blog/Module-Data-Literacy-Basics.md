@@ -181,5 +181,3 @@ You don't need advanced statistics to evaluate data claims. Basic critical quest
 - What context is missing?
 
 As data becomes central to public discourse, these questions become essential citizenship skills. Data literacy isn't about math - it's about critical thinking applied to numbers.
-
-

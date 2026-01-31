@@ -177,5 +177,3 @@ When platforms let automated tools move from “flagging statements” to _decid
 So yes — in content moderation, AI should end where **human judgment begins**. Its role is advisory, not authoritative; it points, it doesn’t decide.
 
 That line — between generating statements and exercising judgment — is where the integrity of both human discourse and responsible technology depends.
-
-

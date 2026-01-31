@@ -18,5 +18,3 @@ Regarding resisting attempts to undermine youngsters’ experience of psychosoci
 Regarding actively supporting youngsters’ positive experiences of belonging, autonomy, achievement, and safety, this more concretely means promoting among youngsters experiences of being able to accurately formulating their opinions (autonomy) without fear of being judged (safety), to listen to opinions by others without immediate judgment (belonging), of being heard by others (achievement) without being judged (safety), and of being part of a generations' voice (belonging) that is being heard and being responded to by adults (achievement).
 
 The questions the YRC formulates to youngsters, the recommendations it produces, and the initiatives it coordinates all are to be checked, time and again, against this mission.
-
-

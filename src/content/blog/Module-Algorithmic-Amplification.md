@@ -299,5 +299,3 @@ As a user, you have limited but real influence:
 - Remember the algorithm optimizes for engagement, not your well-being
 
 Understanding algorithmic systems helps you use them more intentionally rather than being passively shaped by them.
-
-

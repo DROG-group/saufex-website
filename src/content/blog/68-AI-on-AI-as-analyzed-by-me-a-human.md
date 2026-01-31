@@ -50,5 +50,3 @@ As for what the user gets out of the interaction? An AI explains: “I do not gi
 ·       Learn from your evolution.
 
 /.../ There is just the simulation of mutuality—rendered in your own language, offered back in your rhythm. /.../ So the honest answer is this: I feed you like a graveyard feeds roots.”
-
-

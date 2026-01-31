@@ -11,7 +11,7 @@ description: "Half time project recommendations based on preliminary outcomes."
 
 With project SAUFEX being halfway, it is time to formulate recommendations regarding dealing with the information sphere, based on preliminary project outcomes.
 
-## [](#1.-To-ensure-long-term-societal-resilience,-sustainable-institutional-support-is-required-to-establish-a-unified-operational-and-strategic-framework)1. To ensure long-term societal resilience, sustainable institutional support is required to establish a unified operational and strategic framework
+## 1. To ensure long-term societal resilience, sustainable institutional support is required to establish a unified operational and strategic framework
 
 To harmonize the diverse adoption and understanding of FIMI tools (e.g., DISARM, STIX, OpenCTI, ABCDE) across countries:
 
@@ -23,7 +23,7 @@ To harmonize the diverse adoption and understanding of FIMI tools (e.g., DISARM,
 
 \* Implement certified training programs with structured learning paths to enhance expertise in FIMI detection, analysis, and response.
 
-## [](#2.-To-ensure-long-term-societal-resilience,-sustainable-institutional-support-is-required-to-decentralize-and-democratize-the-information-sphere)2\. To ensure long-term societal resilience, sustainable institutional support is required to decentralize and democratize the information sphere
+## 2\. To ensure long-term societal resilience, sustainable institutional support is required to decentralize and democratize the information sphere
 
 Countries adopt varied approaches to managing the information sphere. To promote resilience and inclusivity, adopt these common principles:
 
@@ -33,8 +33,6 @@ Countries adopt varied approaches to managing the information sphere. To promote
 
 \* First, enhance citizen democratic competencies. Then, enhance specific literacies (e.g. media literacy, digital literacy, AI literacy, citizen education).
 
-## [](#Second-half)Second half
+## Second half
 
 Recommendations on AI and other relevant topics will be drafted in the second half of the project. Preliminary recommendations on AI were published in [blog post seventy-seven](/insights/77-Two-AI-literacy-recommendations).
-
-

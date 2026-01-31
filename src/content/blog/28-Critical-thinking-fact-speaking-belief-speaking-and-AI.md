@@ -11,7 +11,7 @@ description: "Sharing my definition of critical thinking with ChatGPT and then f
 
 While preparing for an upcoming interview with the [European School Education Platform](https://school-education.ec.europa.eu/en), I contemplated an answer to one of their questions: How would you define critical thinking? I decided to check my preliminary answer with ChatGPT. Below my dialogue with ChatGPT. It touches quite a few aspects of the topics of this blog.
 
-## [](#The-dialogue)The dialogue
+## The dialogue
 
 **I said:**  
 
@@ -270,5 +270,3 @@ Does this clarify how my training shapes my responses and the collaborative role
 **I said:**
 
 Yes, thank you.
-
-

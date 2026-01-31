@@ -224,5 +224,3 @@ Data visualizations increasingly shape public understanding of important issues:
 Being able to evaluate visualization integrity is essential citizenship. Bad visualizations spread quickly on social media, shaping opinions through manipulation rather than information.
 
 Demanding honest, clear visualizations - and creating them yourself when needed - strengthens public discourse.
-
-

@@ -150,5 +150,3 @@ The best defense against bias is consuming diverse sources:
 - Compare coverage of the same event across outlets
 
 Over time, consuming diverse perspectives helps you identify patterns of bias and arrive at more nuanced understanding.
-
-

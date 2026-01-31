@@ -13,11 +13,11 @@ When a proposal to establish a European Resilience Council (ERC) for addressing 
 
 The text below describes how an ERC could be structured when taking the Member States' responses into consideration.
 
-## [](#Introduction)Introduction
+## Introduction
 
 In response to the increasing threats posed by disinformation, foreign information manipulation and interference (FIMI), and hybrid threats, the European Union has developed a range of initiatives to address these challenges. To ensure the long-term effectiveness and inclusivity of these efforts and to fundamentally enhance societal resilience, it is essential to incorporate civil society perspectives and foster an all-society approach to dealing with disinformation, FIMI, and hybrid threats. The proposed European Resilience Council (ERC) will serve as a vital advisory body to EU institutions, strengthening the democratization of policy-making, bolstering legitimacy, transparency and accountability, and ensuring that EU responses to disinformation, FIMI, and hybrid threats are more relevant, citizen-focused, and coordinated. The ERC will add value to existing EU structures by providing civil society expertise while avoiding duplication and ensuring respect for Member States' competencies. The Council will also diminish distrust and affective polarization among certain segments of citizens and reinforce the protection of the fundamental right to freedom of speech.
 
-## [](#Objectives-of-the-European-Resilience-Council)Objectives of the European Resilience Council
+## Objectives of the European Resilience Council
 
 The ERC will:
 
@@ -27,7 +27,7 @@ The ERC will:
 - Enhance the coherence of existing toolboxes dealing with disinformation, FIMI, and hybrid threats while simplifying them by providing holistic and experience-informed recommendations.
 - Respect Member States' national sovereignty.
 
-## [](#Key-responsibilities)Key responsibilities
+## Key responsibilities
 
 (1) Advising on the democratization of interventions dealing with disinformation, FIMI, and hybrid threats.
 
@@ -71,16 +71,14 @@ The ERC will compliment responsibilities of existing EU entities.
 *   _Added value_: The ERC’s added value lies in its holistic, multi-perspectivity-based approach to addressing a broad spectrum of issues related to disinformation, FIMI, and hybrid threats. Its independence ensures a perspective less influenced by institutional biases or the defense of institutional interests.
     
 
-## [](#Structure-and-Membership)Structure and Membership
+## Structure and Membership
 
 - The ERC will consist of representatives of civil society organizations, the private sector, academia, media professionals, and individual citizens.
 - Each Member State will delegate one ERC member. Member States are responsible for creating a national structure for selecting their delegate based on the criteria of relevant expertise, track record, and the ability to represent diverse societal perspectives including perspectives by marginalized and underrepresented groups.
 - The ERC will be chaired by the member representing the rotating Presidency of the Council.
 
-## [](#Conclusion)Conclusion
+## Conclusion
 
 The establishment of the European Resilience Council will play a critical role in enhancing the EU’s approach to disinformation, FIMI, and hybrid threats by integrating civil society in many aspects of the EU’s decision-making processes. This will increase the legitimacy of EU policies, foster an all-society approach, and complement the functioning of existing EU bodies, thus ultimately strengthening the EU’s ability to deal with disinformation, FIMI, and hybrid threats while respecting the national sovereignty of Member States.
 
 The creation of the European Resilience Council will be an essential element in the EU’s strategy to strengthen societal resilience against disinformation, FIMI, and hybrid threats.
-
-

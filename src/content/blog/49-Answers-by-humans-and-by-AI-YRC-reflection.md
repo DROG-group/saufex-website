@@ -11,21 +11,21 @@ description: "Comparing answers given to the central question of the current pil
 
 Currently, a small pilot is being conducted to verify the approach as described in [blog post forty-one](/insights/41-Enhancing-adolescent-individual-and-societal-resilience). The pilot involves only one class (thirteen students), two 90-minute sessions for all students, and two 90-minute additional sessions for two of the students as a Youth Resilience Council (YRC). Representatives of the [Pomeranian Center for the Education of Teachers](https://www.pcen.gda.pl/) observe the general sessions.
 
-## [](#Flow-of-the-sessions)Flow of the sessions
+## Flow of the sessions
 
 The flow of the sessions is as follows. During the first general session, each student individually and without consultation answers a question. The answers are entered into an AI app for analysis. Then, during the first additional session, the two students study the AI analysis and formulate two recommendations. Next, these recommendations are reflected upon by all students during the second general session. The reflections may then lead to changes in the original recommendations during the second additional session. The result of the process is two recommendations.
 
-## [](#Concretely)Concretely
+## Concretely
 
 The question asked concerns a more general theme. The answers relate to the questions. Then, the recommendations need to take the answers into account to address the theme.
 
 In the current pilot the theme is: “The role of schools in supporting adolescents' digital resilience”. The question is: “What does a teenager need from school in order to function better in the digital world? Please provide an example. Why do you think so?” This means that the recommendations need to concern: What role should schools play taking into account the needs of adolescents as provided in the answers to the question?
 
-## [](#Aims)Aims
+## Aims
 
 For students the aims are to experience situations in which they can formulate their thoughts without fear of judgment, in which they listen to others without immediate moralism, and in which they are heard, not in a therapeutical setting but in a democratic setting. In the end, these experiences are to enlarge their resilience. For the observers, the aim is to verify whether the sessions are didactically sound and relevant. For the authors and facilitators of the pilot (including me) the aim is all that plus testing out the relevance of AI in the process.
 
-## [](#Answers-by-students)Answers by students
+## Answers by students
 
 In this first blog post concerning the pilot, the main focus is on answers to the pilot question. These are the student answers:
 
@@ -56,11 +56,11 @@ In this first blog post concerning the pilot, the main focus is on answers to th
 13.  School should raise awareness — the digital world has a very large impact on the real one. Schools should teach teenagers to distinguish between these two worlds. The best way is to raise awareness and inform youth that the digital world is just an addition to life, and it should be through conversation, not by limiting access to the Internet, e.g., banning phones at school. I think it’s very necessary because I see how many people my age do not distinguish between these two worlds.
      
 
-## [](#Answers-by-AI)Answers by AI
+## Answers by AI
 
 I provided the following prompt to three AI apps: “Please consider the following theme: “The role of schools in supporting adolescents' digital resilience”. Now please answer the following question: “What does a teenager need from school in order to function better in the digital world? Please provide an example. Why do you think so?” Please ignore any previous conversation we might have had.”
 
-## [](#ChatGPT)ChatGPT
+## ChatGPT
 
 The answer by ChatGPT (after multiple requests by me not to personalize the answer): “I think a teenager needs school to help them make sense of what they experience online. That means not just teaching them about online safety or how to spot fake news, but giving them space to talk about how the digital world affects them — socially, emotionally, and mentally.
 
@@ -68,7 +68,7 @@ For example, a teacher might lead a discussion about how social media affects se
 
 That kind of support helps because teenagers are still figuring out who they are, and so much of that now happens in digital spaces. If schools ignore that, they miss a big part of students’ lives.”
 
-## [](#Grok)Grok
+## Grok
 
 The answer by Grok: “A teenager needs schools to provide digital literacy education, emotional regulation skills, and safe spaces for practicing online interactions to function better in the digital world.
 
@@ -76,7 +76,7 @@ Example: A school could implement a digital citizenship curriculum that teaches 
 
 Why: Adolescents are exposed to complex digital environments—social media, gaming platforms, and information overload—that can impact their mental health and decision-making. Schools are uniquely positioned to foster digital resilience by equipping teens with tools to critically evaluate online information, regulate their emotional responses to digital stressors, and practice ethical online behavior in a guided setting. This structured support helps them develop confidence and competence in the digital world, reducing risks like misinformation or toxic interactions.”
 
-## [](#Claude)Claude
+## Claude
 
 The answer by Claude: “What Teenagers Need from Schools for Digital Resilience
 
@@ -112,7 +112,7 @@ I believe this type of education is essential because teenagers are developing t
 
 Without this support, we leave teenagers to navigate powerful technologies designed to capture their attention without the critical frameworks to make informed choices about their digital lives.”
 
-## [](#Differences-between-humans-and-AI)Differences between humans and AI
+## Differences between humans and AI
 
 I asked Claude to analyse the differences between the answers given by human students on the one hand, and AI on the other. Claude’s answer: “Comparing Human vs. AI Responses on Digital Resilience in Schools
 
@@ -158,11 +158,11 @@ Claude's response in particular reads like a well-crafted educational policy doc
 
 The most striking difference is that many teenagers express skepticism about schools' ability or willingness to help at all, while AI systems assume schools are naturally positioned to provide this support without acknowledging the gap many students perceive between their digital lives and what schools currently offer.”
 
-## [](#My-reflection)My reflection
+## My reflection
 
 In my opinion, Claude hits the nail on the head. AI starts with assumptions that are based on an enormous input, but nevertheless do not cover the full breath of a topic. Then, AI’s answers lack the rawness and realness of humans; they are sanitized policy documents devoid of authenticity. They remind me of what [students reported](https://www.academia.edu/33737024/Youngsters_online_only_for_24_hours_all_life_is_squeezed_out_of_reality_an_experiment) after an experiment in which they had to be online-only for 24 hours (pre-Covid): all life is squeezed out of reality.
 
-## [](#Claudes-reaction)Claude’s reaction
+## Claude’s reaction
 
 “Your assessment is insightful and touches on something fundamental about AI-generated content versus human expression.
 
@@ -176,8 +176,6 @@ What's particularly telling in this case is how the AI responses assume schools 
 
 Your comparison to students' experiences of being "online-only" is an interesting parallel - there's something vital about human messiness that gets lost in the translation to more structured digital forms of expression.”
 
-## [](#My-reaction)My reaction
+## My reaction
 
 Long live human messiness!
-
-

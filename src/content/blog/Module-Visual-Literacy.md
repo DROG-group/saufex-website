@@ -179,5 +179,3 @@ As AI-generated and manipulated visuals become more sophisticated, verification 
 - Don't rely on visual content alone for important claims
 
 Visual literacy is increasingly critical as manipulation technology advances. Healthy skepticism and verification habits are your best defense.
-
-

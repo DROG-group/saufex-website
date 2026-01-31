@@ -279,5 +279,3 @@ These cases inform defense strategies:
 - Education builds long-term resilience
 
 Each case provides lessons that strengthen collective defense against future operations.
-
-

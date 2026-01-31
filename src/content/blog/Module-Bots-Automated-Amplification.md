@@ -117,5 +117,3 @@ While platforms bear primary responsibility for bot detection, you can protect y
 - Report suspicious accounts to platforms
 
 Understanding bot manipulation helps you evaluate information more critically.
-
-

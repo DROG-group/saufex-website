@@ -32,5 +32,3 @@ For those who want to acquaint themselves with the basics of program Interdemoc
 ·  Youth Resilience Council meeting, pilot two, session two: [LinkedIn post](https://www.linkedin.com/posts/onnohansen_interdemocracy-yrc-activity-7332741763616477185-ZlY0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAHXJ8B_um4hYEapaMkpA3GAEINp-3S1vI)
 
 ·  Recommendations, pilot two: [blog post fifty-two](/insights/52-Recommendations-YRC-reflection)
-
-

@@ -23,7 +23,7 @@ Forming, sustaining, and countering beliefs takes place on six levels: (1) infor
 
 \[screen 3\]
 
-## [](#Level-1-Information-incidents)Level 1 - Information incidents
+## Level 1 - Information incidents
 
 \- After birth, our brain develops from perceiving noise to recognizing subjective causal patterns. This recognition involves formulating and testing causal predictions.
 
@@ -33,7 +33,7 @@ Forming, sustaining, and countering beliefs takes place on six levels: (1) infor
 
 \[screen 4\]
 
-## [](#Level-2-Information-campaigns)Level 2 - Information campaigns
+## Level 2 - Information campaigns
 
 \- Our experiences fuel the patterns we perceive. The patterns gradually form broader belief systems.
 
@@ -43,7 +43,7 @@ Forming, sustaining, and countering beliefs takes place on six levels: (1) infor
 
 \[screen 5\]
 
-## [](#Level-3-Rationality)Level 3 - Rationality
+## Level 3 - Rationality
 
 \- The brain consists of semi-autonomous modules, resulting in potential inconsistencies within our belief systems.
 
@@ -59,7 +59,7 @@ Forming, sustaining, and countering beliefs takes place on six levels: (1) infor
 
 \[screen 7\]
 
-## [](#Level-4-Meta-cognition)Level 4 - Meta-cognition
+## Level 4 - Meta-cognition
 
 \- Based on our past experiences our brain improvises in the now to produce seemingly coherent beliefs.
 
@@ -69,7 +69,7 @@ Forming, sustaining, and countering beliefs takes place on six levels: (1) infor
 
 \[screen 8\]
 
-## [](#Level-5-Prophylactics)Level 5 - Prophylactics
+## Level 5 - Prophylactics
 
 \- We often fill gaps in our belief systems with beliefs borrowed from others.
 
@@ -85,7 +85,7 @@ Forming, sustaining, and countering beliefs takes place on six levels: (1) infor
 
 \[screen 10\]
 
-## [](#Level-6-\(De-\)radicalisation)Level 6 - (De-)radicalisation
+## radicalisation)Level 6 - (De-)radicalisation
 
 \- We belong to multiple groups, each of which influences and shapes our beliefs.
 
@@ -95,7 +95,7 @@ Forming, sustaining, and countering beliefs takes place on six levels: (1) infor
 
 \[screen 11\]
 
-## [](#Selected-literature)Selected literature
+## Selected literature
 
 \- Nick Chater – The mind is flat (2018)
 
@@ -108,5 +108,3 @@ Forming, sustaining, and countering beliefs takes place on six levels: (1) infor
 \- Dan Sperber - Intuitive and reflective beliefs (article, 1997)
 
 \- Jay Van Bavel & Dominic Packer – The power of us (2021)
-
-

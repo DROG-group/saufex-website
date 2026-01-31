@@ -403,5 +403,3 @@ Understanding biases is first step:
 **Humility**: Recognize everyone is vulnerable, including you
 
 Understanding why people believe disinformation - including ourselves - is essential for effective counter-messaging. Not "those foolish people" but "we humans with predictable vulnerabilities." Empathy and understanding enable better responses than condemnation.
-
-

@@ -411,5 +411,3 @@ They won't disappear - how to cope:
 **Acceptance**: Perfect information diversity impossible; better information diversity achievable
 
 Understanding echo chambers and filter bubbles is first step to addressing them. With awareness comes agency - you can choose to diversify your information environment even when algorithms don't.
-
-

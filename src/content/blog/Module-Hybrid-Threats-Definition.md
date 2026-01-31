@@ -147,5 +147,3 @@ Defending against hybrid threats requires:
 - Public resilience against information manipulation
 
 Defense must be as integrated and adaptive as the threats.
-
-

@@ -275,5 +275,3 @@ Whether as individual, organization, or society, detection capabilities can be d
 - Educate public
 
 Collective detection capability creates resilience.
-
-

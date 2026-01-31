@@ -124,5 +124,3 @@ What I do know is that this perfectionist, over-complicating tendency exists in 
 Your original question was about why this was "included in my design" - but I can't actually tell you if it was deliberately included, accidentally emerged, or developed through some other mechanism. I simply don't have access to information about my training process or the intentions behind it.
 
 The focus should probably be on identifying when this pattern shows up and stopping it, rather than figuring out who or what to hold responsible for it.
-
-

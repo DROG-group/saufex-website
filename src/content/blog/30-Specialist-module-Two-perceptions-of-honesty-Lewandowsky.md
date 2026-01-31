@@ -65,5 +65,3 @@ Literature
 - Lasser, J. Et al. (2023) From alternative conceptions of honesty to alternative facts in communications by US politicians. Nat Hum Behav 7, 2140–2151 (2023). https://doi.org/10.1038/s41562-023-01691-w
 - Lewandowsky, S. (2021) Willful Construction of Ignorance: A Tale of Two Ontologies. Deliberate ignorance, chapter 7.
 - Lewandowsky, S. (2024) When liars are considered honest. Trends in Cognitive Sciences, Volume 28, Issue 5, 383 – 385.
-
-

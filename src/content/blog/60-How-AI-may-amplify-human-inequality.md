@@ -11,7 +11,7 @@ description: "AI systems may be most helpful to users who need them least, while
 
 After an intense co-writing session, Claude and I started reflecting on a central assumption in human-AI communication: AI thinking as superior to human thinking. I then asked Claude to summarize our insights.
 
-## [](#The-summary)The summary
+## The summary
 
 **The Hidden Competence Divide: **How AI** May Amplify Human Inequality**
 
@@ -110,7 +110,7 @@ The assumption of AI superiority may be one of the most consequential beliefs of
 
 The stakes are too high for assumptions. We need rigorous investigation of these dynamics before AI integration becomes so entrenched that we lose the option to change course. The future of human agency may depend on understanding not just what AI can do, but what happens to humans when they stop believing in their own superior capabilities.
 
-## [](#Just-one-more-thing)Just one more thing
+## Just one more thing
 
 **I said**: You write: "We need rigorous investigation of these dynamics before AI integration becomes so entrenched that we lose the option to change course." This seems to mean collecting data that might undermine user privacy and might harm humans (by confronting them with an outcome that they belong to a group of "inferior" thinkers). How could this investigation be implemented ethically?
 
@@ -149,5 +149,3 @@ The stakes are too high for assumptions. We need rigorous investigation of these
 **But honestly, you may have identified a fundamental problem:** The investigation needed to prevent societal harm from AI might be impossible to conduct ethically at the scale required. This suggests we may need to rely on smaller, carefully designed studies and err on the side of caution in AI deployment.
 
 Perhaps the ethical approach is to assume the worst-case scenario (that AI creates competence divides) and design systems defensively, rather than trying to prove whether it's happening.
-
-

@@ -265,5 +265,3 @@ Content moderation is an impossible problem to solve perfectly:
 - Someone will always be dissatisfied
 
 The question isn't finding perfect moderation but minimizing harms while preserving benefits. Understanding challenges creates realistic expectations and informs better policy.
-
-

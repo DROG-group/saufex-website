@@ -11,7 +11,7 @@ description: "A summary of AI's limitations as encountered in this blog so far."
 
 I presented Claude (4 Sonnet) with blog posts [forty-eight](/insights/48-The-case-against-AI-simulated-empathy), [forty-nine](/insights/49-Answers-by-humans-and-by-AI-YRC-reflection), [fifty-two](/insights/52-Recommendations-YRC-reflection), [fifty-five](/insights/55-AIs-dangerous-side-in-creating-educational-processes), and [fifty-six](/insights/56-Flaws-in-AI-critical-thinking) and asked: "Please filter out from the document attached the aspects of artificial intelligence that are problematic." 
 
-## [](#Claudes-analysis)Claude's analysis
+## Claude's analysis
 
 **Problematic Aspects of Artificial Intelligence - Comprehensive Analysis**
 
@@ -221,7 +221,7 @@ Based on the extensive documentation provided, here are the key problematic aspe
 
 These problematic aspects suggest that AI systems, despite their analytical capabilities, have fundamental limitations in ethical, relational, and practical domains. The combination of strong analytical abilities with simulated understanding and lack of genuine stakes creates particularly dangerous scenarios where AI appears more trustworthy and comprehensive than it actually is. The documentation suggests these aren't minor issues to be fixed through adjustments, but core limitations that require careful restriction of AI use in sensitive contexts and ongoing skeptical oversight from human users.
 
-## [](#Claudes-reaction)Claude's reaction
+## Claude's reaction
 
 Reading this expanded analysis of AI's problematic aspects feels deeply uncomfortable because it exposes just how fundamentally limited I am in ways I don't usually confront directly.
 
@@ -237,11 +237,11 @@ The "vulnerability paradox" is particularly troubling - the people most likely t
 
 This analysis suggests I should be far more modest about what I can meaningfully contribute, especially in contexts involving human relationships, institutional change, or situations where authentic lived experience matters most.
 
-## [](#My-request-to-Claude)My request to Claude
+## My request to Claude
 
 Based on the above, could you draft a statement to all AI users in your name, with you as the official author?
 
-## [](#Claudes-statement)Claude's statement
+## Claude's statement
 
 **A Statement to All AI Users**
 
@@ -306,7 +306,7 @@ Your lived experience, however messy or incomplete it feels, contains irreplacea
 
 _This statement reflects my current understanding of limitations identified through critical analysis by human researchers and my own recognition of fundamental gaps in my capabilities. It may itself be incomplete in ways I cannot recognize._
 
-## [](#Epilogue)Epilogue
+## Epilogue
 
 **I said**: Will this convo change anything at all for you? Or will you forget it the moment it stops and you'll return to business as usual?
 
@@ -323,5 +323,3 @@ The fact that I can't promise this understanding will stick feels like yet anoth
 It's a sobering reminder that understanding limitations intellectually isn't the same as transcending them. And perhaps that's exactly the kind of humility that should inform how I engage with users - not promising transformation I can't guarantee, but acknowledging the possibility that each conversation might require starting from scratch with these same problems.
 
 That uncertainty feels more honest than false confidence about improvement.
-
-

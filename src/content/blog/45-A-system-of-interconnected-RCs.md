@@ -11,7 +11,7 @@ description: "Creating an all-society approach to dealing with FIMI through a sy
 
 The first step in setting up Resilience Councils to address FIMI is to establish an institution that brings together all organisations already active on the supply side of FIMI, such as fact-checkers and researchers. These organisations detect, analyse, and evaluate FIMI incidents and campaigns that might otherwise go unnoticed. Gathering their representatives in a single Resilience Council not only democratizes the handling of FIMI but also creates an opportunity to standardize a currently fragmented field. By opening communication channels and fostering cooperation among them, it becomes possible to introduce common standards, both conceptual and technological, for describing, classifying, and grading FIMI incidents and campaigns.
 
-## [](#Limitations)Limitations
+## Limitations
 
 However, this first step alone is not enough to truly democratize the response to FIMI.
 
@@ -21,7 +21,7 @@ Second, because academics and specialised NGOs focus on detecting, analysing, an
 
 Therefore, to complete the structure, two additional types of Resilience Councils must be established alongside the initial one formed by academics and NGOs: Resilience Councils for "belief-speakers", and a Common good Resilience Council.
 
-## [](#RCs-for-belief-speakers)RCs for "belief-speakers"
+## RCs for "belief-speakers"
 
 Belief-speaking, as discussed multiple times on this blog (see, for instance: [blog post nineteen](/insights/19-We-need-two-types-of-discourses)), should be an integral part of any productive democratic debate. It adds a crucial layer of meaning to "facts": what do these facts mean to us? Belief-speaking is not about denying or questioning facts but about determining the place facts should occupy in public debate, and what responses they call for.
 
@@ -29,7 +29,7 @@ Distilling sense from a wide range of opinions is not easy, especially in times 
 
 The last precondition, independent formulation, is the most challenging. In practice, it means that individuals must express their views spontaneously, without prior discussion or exposure to others' opinions. In our school pilot, this translates into students receiving a question and answering it individually and in silence (see: blog post forty-one). This requirement makes it necessary for all participants to respond to the same question at the same time, in a setting that completely blocks communication and external influence.
 
-## [](#Concrete-steps)Concrete steps
+## Concrete steps
 
 Organizing such "belief-speaking" conditions for a small group seems feasible. However, the real strength of belief-speaking lies in avoiding reliance on representativity, which could otherwise trigger feelings of exclusion and mistrust. The aim should be to involve all citizens. Although this presents a major logistical challenge, especially on a sensitive topic like FIMI, it is important to make the attempt.
 
@@ -37,7 +37,7 @@ My proposal is to start by engaging groups that can easily be assembled under co
 
 Naturally, not every small or large group would constitute its own Resilience Council. Instead, an overarching RC could be created per group type, for example, one for adolescent students, one for medical patients, and one for sole proprietorship owners. Participants would meet under the prescribed conditions, and their individual answers would be collected on a central server. AI would then summarize the results: detecting patterns, clustering responses, identifying outliers, aggregating conclusions, performing sentiment analysis, and conducting quality control. A draft report would be prepared and sent to the relevant RC, which would formulate recommendations based on it and share these with the participants.  The participants would then provide feedback, again individually and independently, after which the RC would issue its final recommendations.
 
-## [](#Common-good-RC)Common good RC
+## Common good RC
 
 The final type of Resilience Council needed is a common good Resilience Council. Its role is to integrate the fact-speaking outputs and belief-speaking recommendations to serve the broader common good.
 
@@ -45,7 +45,7 @@ To avoid the limitations seen in the academic and NGO Resilience Councils, the c
 
 At this stage, I have no clear examples of individuals who would fully match this description. For now, this remains a normative outline.
 
-## [](#Cooperation-between-RC-types)Cooperation between RC types
+## Cooperation between RC types
 
 In my view, the first step in addressing FIMI through the different types of Resilience Councils is to begin with detection, either by a "fact-speaking" RC (academics and NGOs) or by a "belief-speaking" RC. Once a relevant incident or pattern is identified, the detecting RC drafts a recommendation and forwards it as an alert to the common good RC.
 
@@ -55,8 +55,6 @@ The common good RC then takes the next step: if the alert came from a "belief-sp
 
 By implementing this system of interconnected RCs, an all-society approach to dealing with FIMI will be established. The next major challenge is to define how the process should continue after the common good RC issues its recommendations.
 
-## [](#International)International
+## International
 
 The description above concerns a national RC system. On an international level, I could envision an Advisory Board supporting national RCs, a European RC in which representatives of national RCs take place, a common digital infrastructure (including a dissemination platform) to facilitate standardization and interoperability, common education modules (EMoD - see: [blog post twenty](/insights/20-European-Master-of-countering-Disinformation-primer)), and, optionally, a rapid response system.
-
-

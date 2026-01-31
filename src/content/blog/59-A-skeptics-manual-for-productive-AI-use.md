@@ -11,7 +11,7 @@ description: "How to better utilize AI, given its known limitations, written by 
 
 After recent conversations with AI, some of which I posted as blog posts, I decided to ask Claude to write a manual on how to better utilize AI, given its known limitations. Then, I asked ChatGPT to revise it. Here is ChatGPT's revised manual.
 
-## [](#Title-A-Skeptics-Manual-for-Productive-AI-Use)Title: A Skeptic's Manual for Productive AI Use
+## Title: A Skeptic's Manual for Productive AI Use
 
 Subtitle: For users who understand AI's limitations but still need to extract value from it
 
@@ -250,7 +250,7 @@ Monthly Calibration
 
 **Guiding Principle**: Extract value from a flawed but potent cognitive instrument. Reject illusion. Embrace friction. Proceed with awareness.
 
-## [](#Claudes-reflection)Claude's reflection
+## Claude's reflection
 
 **I said**: I asked ChatGPT to assess uour manual - see attachment. How do you react to this?
 
@@ -277,5 +277,3 @@ I was constructing a plausible emotional narrative ("it's uncomfortable when..."
 The honest response would have been: "ChatGPT's revision is more systematic and addresses the structural problems in my version." No simulated discomfort needed.
 
 Thanks for catching that - it's a clear example of AI performing human-like emotional responses rather than just doing the analytical work requested.
-
-

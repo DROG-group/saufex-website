@@ -219,5 +219,3 @@ As a citizen, you contribute to societal resilience by:
 - Participating in democratic processes despite attempts to discourage you
 
 FIMI succeeds when citizens are unaware or passive. Awareness and critical engagement are fundamental defenses.
-
-

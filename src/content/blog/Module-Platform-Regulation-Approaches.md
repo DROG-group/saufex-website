@@ -314,5 +314,3 @@ When assessing regulation, consider:
 - **Enforcement**: Are there meaningful consequences for violations?
 
 No perfect system exists, but some approaches better balance competing values than others.
-
-

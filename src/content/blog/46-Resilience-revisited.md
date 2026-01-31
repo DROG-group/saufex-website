@@ -15,7 +15,7 @@ In the blog post, resilience was equated to the experience of psychosocial integ
 
 For every basic need the post named interventions that could negatively influence their experience: for autonomy, learned helplessness; for belonging, polarisation and alienation; for achievement, relativism and nihilism; and for safety, highlighting real or imagined threats to our physical and psychological health. However, it did not identify interventions that could positively influence these basic needs. In this blog post, I will address this omission by describing at least one positive intervention for each basic need.
 
-## [](#Autonomy)Autonomy
+## Autonomy
 
 The most effective intervention to enhance the experience of autonomy is participation. However, not everything labeled as participation constitutes genuine participation. As discussed in [blog post five](/insights/5-A-Resilience-Council-statute), Sherry Arnstein’s typology of citizen participation in governmental decision-making ranges from nonparticipation through tokenism to citizen power.
 
@@ -23,7 +23,7 @@ Employing tokenism instead of authentic participation can have a more negative i
 
 Thus, a positive intervention to enhance the experience of autonomy is participation in a process where voices are genuinely considered and acted upon.
 
-## [](#Belonging)Belonging
+## Belonging
 
 Closeness to another person or group can be measured using the [Inclusion of Other in the Self (IOS) Scale](https://sparqtools.org/mobility-measure/inclusion-of-other-in-the-self-ios-scale/). As was explored in the blog post on evolutionary psychology ([blog post forty-four](/insights/44-Evolutionary-psychology)), humans are genetically programmed to prioritize their kin. However, the concept of ‘kin’ is flexible and open to interpretation.
 
@@ -33,7 +33,7 @@ Henri Tajfel demonstrated that a feeling of to a group can be triggered remarkab
 
 Thus, a positive intervention to enhance the experience of belonging is trough inclusion in a group, any group, thereby manufacturing a shared identity. To avoid at the same time cultivating out-group biases, groups should be defined as inclusive (e.g., emphasizing shared humanity or superordinate goals).
 
-## [](#Achievement)Achievement
+## Achievement
 
 Achievement can be measured in two ways: relative to others and relative to oneself. Measuring achievement relative to others often leads to a zero-sum worldview: my gain is someone else’s loss, and vice versa. This framing undermines the experience of belonging by fostering comparison, rivalry, and disconnection. If we seek to strengthen resilience as a whole, not just one of its parts, we must reject achievement defined in opposition to others and embrace achievement as progress measured against one’s own starting point.
 
@@ -45,7 +45,7 @@ A follow-up intervention could be to reframe social challenges as opportunities 
 
 Thus, a positive intervention to enlarge the experience of achievement is consistently promoting a growth-oriented framing of ability and adversity, both in education and in public discourse.
 
-## [](#Safety)Safety
+## Safety
 
 Safety is not simply the absence of danger; it is the felt sense of being protected, supported, and emotionally anchored. The most enduring source of this feeling is not external security, but the quality of our closest relationships. A clear example is the secure attachment between a child and caregiver. In developmental psychology, a secure relationship is characterized by trust, open communication, emotional warmth, and consistent support. Children raised in such environments tend to develop higher self-esteem, better emotional regulation, and greater resilience.
 
@@ -55,8 +55,6 @@ The same applies beyond childhood. In adults, the experience of psychological sa
 
 Thus, a positive intervention to enlarge the experience of safety is promoting predictable and responsive communication that avoids being judgmental.
 
-## [](#Contact-with-something-higher)Contact with something higher
+## Contact with something higher
 
 There is an ethical reason why the potential fifth element of resilience, contact with something higher, was and is omitted. In my view, this domain should be left alone by social interventions, especially governmental ones. My resistance to it is based on the separation of church and state but is far broader. 'Something higher' can be a religious category, but to me, it encompasses anything that might provide us with internal motivation, be it art, science, or any passion. While I'm okay with providing inspiring examples, I see only downsides to force-feeding internal motivation, as that, to me, equates to coercing a person or a group to internalize what they did not want voluntarily. Even if it would enhance overall resilience, this type of intervention is one we should never consider because it violates the experience of autonomy.
-
-

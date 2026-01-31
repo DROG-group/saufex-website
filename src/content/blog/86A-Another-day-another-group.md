@@ -27,11 +27,11 @@ Today, we repeated yesterday's workshop (see [blog post eighty-six](/insights/86
 
 · A sense of such morality and righteousness. It was uncomfortable to do it against my own will/beliefs.
 
-## [](#More-differences)More differences
+## More differences
 
 The differing responses to the Bad News game were not the only difference between the groups. In a subsequent task (finding and confidently presenting debunks of the Doppelganger campaign) the younger group excelled, demonstrating competence, while the older group struggled.
 
-## [](#My-hypotheses)My hypotheses
+## My hypotheses
 
 Naturally, it is tempting to claim that the difference stems from two years of experiencing our specific form of education: two years in which their authenticity was facilitated to shine through more clearly, both regarding resistance to external expectations and pressure and openness about their weaknesses and uncertainties.
 
@@ -41,8 +41,6 @@ A third option, naturally, is that the sample sizes are too small to conclude an
 
 To me, today’s and yesterday’s observations reflect the state of wonder that I experience in the classroom every time. That is what I try to share in the last blogs. Consider these observations an invitation to wonder alongside me.
 
-## [](#PS)PS
+## PS
 
 Could there be an inverted relation between affective empathy and 'cold' online cognition? The core idea could then be this. The online environment provides an impoverished human experience. Cold cognition thrives because it can fill the missing parts with projection; affective empathy struggles because important clues are missing.
-
-

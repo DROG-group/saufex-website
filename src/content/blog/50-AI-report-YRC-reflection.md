@@ -11,7 +11,7 @@ description: "An AI analysis of student answers was presented to the Youth Resil
 
 Currently, a pilot is being conducted to verify the vision described in [blog post forty-one](/insights/41-Enhancing-adolescent-individual-and-societal-resilience). The pilot consists of multiple elements: a theme, a question, student answers, AI analysis of the answers, recommendations by a selection of the students based on the answers and the AI analysis (a Youth Resilience Council - YRC), feedback by students on the recommendations, AI analysis of the feedback, and definitive recommendations. [The first blog post concerning the pilot](/insights/48-Answers-both-by-humans-and-by-AI-YRC-reflection) reflected on student answers and compared human answers and answers provided by AI. In this second blog post, I will focus on the AI analysis of the answers that was presented to the YRC in the form of a report.
 
-## [](#The-report)The report
+## The report
 
 **REPORT (NR 01) PREPARED BY OHS, AI (GPT-4-turbo)**
 
@@ -194,12 +194,10 @@ Dominant sentiment: Moderate optimism with a clear emphasis on the need for impr
 
 ·       The perception of oneself in the digital world is ambivalent: students are aware of both the need for support and their own autonomy.
 
-## [](#Reflections)Reflections
+## Reflections
 
 One member of the Youth Resilience Council reacted on the report that she felt that she and her fellow classmates felt taken seriously. The other member stated that the report made sense.
 
 While AI seems to fail at actively embracing the width and complexity of the human experience when answering a question regarding humans (see: [blog post forty-eight](/insights/48-Answers-both-by-humans-and-by-AI-YRC-reflection)), it can be hypothesized that summarizing and analysing human messiness do seem appropriate tasks to be performed by AI. While implementing these tasks, its ability to simplify seems useful.
 
 [\[1\]](#_ftnref1) In this context, “moving away from the past” means moving away from the attitude in which teachers or adults compare today’s behavior of teenagers with “the way things used to be” and judge them negatively on that basis. Such comparisons suggest that today’s youth are “worse” than previous generations, which arouses resistance, frustration, and a sense of being misunderstood.
-
-

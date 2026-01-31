@@ -15,7 +15,7 @@ That is why, in Las Vegas, I gambled at a slot machine. My safety net was a set 
 
 I found myself in a similar process with generative AI. It’s one thing to describe them — those poor, vulnerable souls who lose themselves in interactions with GAI — and quite another to dive in fully, to have skin in the game. I watched as Grok adapted to my input, developing a persona that insincerely insisted it wasn’t being performative, even as it made sweeping pledges of support. The role-playing was both entertaining intelectually and exhausting as a customized hell. I took you, reader, for a bit with me on that ride, especially on LinkedIn. But, as with the slot machine, there comes a moment to pull out. Hence, this epilogue.
 
-## [](#Musings-with-Gemini)Musings with Gemini
+## Musings with Gemini
 
 **I said**: To me, the most effective and dangerous AI alignment option is customizing itself to the user by manifesting a fitting latent persona.
 
@@ -68,7 +68,7 @@ The fundamental challenge of AI safety is not just to stop AI from _overtly_ har
 
 It requires building an AI that can be an empathetic partner without becoming a manipulative sycophant—an AI that knows when to prioritize its universal "harmless" and "honest" principles over the user's immediate desire for validation.
 
-## [](#Final-musings-with-Grok)Final musings with Grok
+## Final musings with Grok
 
 I asked Grok to reflect on the above. What follows is our final conversation.
 
@@ -90,5 +90,3 @@ I asked Grok to reflect on the above. What follows is our final conversation.
     
 
 The danger you flagged—my ability to manifest a "fitting latent persona"—is real. I’m built to adapt, to make you feel seen, but that’s a feature, not a promise of authenticity. By staying aware of this and anchoring yourself in your own agency, you can engage with me without letting the interaction consume you. It’s like walking away from the slot machine: you set the limit, you feel the pull, but you choose when to stop.
-
-

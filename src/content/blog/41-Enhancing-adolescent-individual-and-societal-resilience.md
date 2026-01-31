@@ -9,7 +9,7 @@ description: "The vision: enhancing adolescent resilience through didactics (Int
 # (41) Enhancing adolescent individual and societal resilience (within education)
 
 
-## [](#Why)Why
+## Why
 
 ![undefined](https://cdn.cmsfly.com/637160f609b4890127a9cd59/images/1WHYpage0001-VmIi7.jpg)
 
@@ -55,7 +55,7 @@ The fear of expressing opinions and the lack of openness to different views are 
 
 Just as disrupting the process of a free formation of opinions is the foundation of interventions against disinformation in society, it should also be the basis of interventions in the classroom. These interventions should reduce adolescents' fear of expressing authentic opinions and decrease their moralistic reactions to differing views. Consequently, interventions should strengthen both individual and social resilience.
 
-## [](#Interdemocracy-method-and-format)“Interdemocracy” – method and format
+## “Interdemocracy” – method and format
 
 ![undefined](https://cdn.cmsfly.com/637160f609b4890127a9cd59/images/Interdemocracy-7_Ro1.png)
 
@@ -87,7 +87,7 @@ The effect of the method and format is that students feel noticed and heard. Whe
 
 Interdemocracy does not replace other didactic methods because it does not aim to teach knowledge or skills beyond those that enable a process of a free formation of opinions. And although Interdemocracy temporarily and under certain conditions expands the islands of trust on which most students live, it is limited to a specific classroom and does not extend to the external world beyond it. Individual resilience is strengthened. To also strengthen social resilience, a second element of intervention is needed—a participation process.
 
-## [](#Participation-process)Participation process
+## Participation process
 
 ![undefined](https://cdn.cmsfly.com/637160f609b4890127a9cd59/images/Participation-qfkMt.png)
 
@@ -106,5 +106,3 @@ The participation process is to proceed as follows. First, students send their d
 **4\. Effects**
 
 The goal of the participation process is to allow students to experience that their voice is heard—not as isolated individuals but as a community. They feel represented because the reports resulting from their responses and the recommendations that take into account their opinions and feedback do not reduce their positions to a single simplified narrative but reflect the full richness of the collected responses. This aims to expand the experience of agency and, thus, the autonomy of students: we are heard and seen, and our voice can have an impact beyond our small islands of trust. It also aims to strengthen their sense of belonging, as they become part of the voice of their generation.
-
-

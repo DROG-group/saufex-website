@@ -25,6 +25,4 @@ Further negative impact is measured in a few spheres:
 
 The definition of FIMI has received some criticism as  exact scope of what could be protected is subject to interpretation. For example all of the "values" of the EU would be difficult to summarize. As another example if individuals and their reputations are to be protected does this include [deepfake](https://www.euronews.com/next/2023/10/20/generative-ai-fueling-spread-of-deepfake-pornography-across-the-internet) pornographic videos which are exceedingly prevalent and so far under addressed as an issue.
 
-However it is important to note that this definition is the product of an attempt to clarify the exact mandate of an organization, the European External Action Service. Other organizations need to be explicit about who they are protecting and hopefully use terms that allow for specific and measurable results for effective accountability. 
-
-
+However it is important to note that this definition is the product of an attempt to clarify the exact mandate of an organization, the European External Action Service. Other organizations need to be explicit about who they are protecting and hopefully use terms that allow for specific and measurable results for effective accountability.

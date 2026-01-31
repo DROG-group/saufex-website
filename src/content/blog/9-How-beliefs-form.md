@@ -15,7 +15,7 @@ Our beliefs are shaped on an individual level by our life experiences and on a s
 
 \[screen 2\]
 
-## [](#Level-1)Level 1
+## Level 1
 
 “For brains, everything is noise at first.”
 
@@ -23,13 +23,13 @@ Science journalist David McRaney summarizes how beliefs form. Surrounded by nois
 
 \[screen 3\]
 
-## [](#Level-2)Level 2
+## Level 2
 
 Based on our experiences, we construct broader beliefs about how things work. Out of noise, we create a predictable order. Since everybody experiences different life situations, everyone’s beliefs are different. This is hard for us to understand because our beliefs feel normal.
 
 \[screen 4\]
 
-## [](#Level-3)Level 3
+## Level 3
 
  “\[Brain\] modules /…/ can simultaneously hold different, mutually contradictory views”.
 
@@ -41,7 +41,7 @@ The modularity of our brain causes our beliefs to be inconsistent. This inconsis
 
 \[screen 6\]
 
-## [](#Level-4)Level 4
+## Level 4
 
 “Our brains are /…/ relentless and compelling improvisers, creating the mind, moment by moment.”
 
@@ -55,7 +55,7 @@ In effect, Chater tells us that we continually reinvent ourselves.
 
 \[screen 8\]
 
-## [](#Level-5)Level 5
+## Level 5
 
 “\[P\]eople are surprisingly ignorant, more ignorant than they think.”
 
@@ -67,7 +67,7 @@ We don’t know how ignorant we are, because we don’t notice how heavily our b
 
 \[screen 10\]
 
-## [](#Level-6)Level 6
+## Level 6
 
 “\[T\]he groups people belong to are often fundamental to their /.../ understanding of who they are”
 
@@ -76,5 +76,3 @@ According to psychologists Jay Van Bavel and Dominic Packer, we are members of m
 \[screen 11\]
 
 When activated each social identity has a profound effect on us. Each social identity co-shapes our perception and interpretation of the world.
-
-

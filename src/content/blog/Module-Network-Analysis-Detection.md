@@ -352,5 +352,3 @@ You can conduct basic network analysis:
 - Machine learning for pattern detection
 
 Start simple; sophistication comes with practice and tools.
-
-

@@ -262,5 +262,3 @@ Impact assessment uncertainty doesn't mean inaction:
 - Democratic values justify defending information space even without perfect impact metrics
 
 Impact assessment informs strategy, but defense doesn't require certainty about past effects - reasonable concern about potential harm suffices.
-
-

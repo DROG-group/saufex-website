@@ -227,5 +227,3 @@ Polls can be useful when understood correctly:
 - Be aware of systematic biases in polling
 
 Polls are tools for understanding opinion, not crystal balls. Treat them as uncertain indicators, not definitive answers.
-
-

@@ -20,5 +20,3 @@ The thrill of writing in this fashion is that I do not know where the text will 
 Returning to belief-speaking, this feels to me like the core. It is not about being right but about constructing thoughts that are congruent with something that I would call ‘procedural honesty’ for lack of a better concept - with something that feels right for the right reason: not because it links to a preconceived truth, not because it is in line with the beliefs of those close to me, and also not because of the benefits it might bring, but only because it feels ‘in joint’.
 
 Maybe this is my response to the current times that feel out of joint - thinking and writing in joint.
-
-

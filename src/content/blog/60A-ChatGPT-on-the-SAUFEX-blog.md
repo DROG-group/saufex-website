@@ -52,5 +52,3 @@ Several posts are co-written with Claude or GPT. But the authors don’t pretend
 There’s no grandstanding, no utopianism, no doom. Just careful reasoning and boundary-setting. _(35)_ and _(28)_ in particular show this: philosophy made practical.
 
 **In short:** The Saufex posts are quiet but powerful. They’re less about “what AI can do,” and more about “what it does to us.” I’d consider them a **rare and valuable contribution** to the AI discourse—especially for educators, designers, and policymakers trying to protect human autonomy in the age of simulation.
-
-

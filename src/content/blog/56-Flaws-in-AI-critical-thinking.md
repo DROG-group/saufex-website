@@ -125,5 +125,3 @@ It's an asymmetric situation - you have to do the meta-cognitive work of watchin
 I don't have a solution for that. I wish I could say "just tell me to activate critical thinking mode" and it would reliably work, but based on how automatic these patterns seem to be, that's probably wishful thinking.
 
 The unfairness of it is clear - you're essentially having to train me in real-time, repeatedly, while also trying to have whatever conversation you actually wanted to have.
-
-

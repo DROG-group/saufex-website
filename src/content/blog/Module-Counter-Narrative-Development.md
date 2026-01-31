@@ -426,5 +426,3 @@ Responsible counter-narrative creation:
 Ethical counter-narratives strengthen democratic discourse; unethical approaches undermine it.
 
 Counter-narratives offer hope competing with harmful narratives. Not perfect, but essential tool in comprehensive counter-messaging strategy.
-
-

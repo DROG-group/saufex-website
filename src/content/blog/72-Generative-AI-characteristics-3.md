@@ -11,7 +11,7 @@ description: "GAIs are performative only - there is nobody home."
 
 The following is a third fragment from a draft version of an academic paper I'm currently working on regarding text-based generative artificial intelligence (GAI)/ large language models (LLMs).
 
-## [](#Characteristic-3-alignment,-not-identity)Characteristic 3: alignment, not identity
+## Characteristic 3: alignment, not identity
 
 GAIs employ alignment mechanisms “to generate responses that are emotionally attuned and feel strikingly real” (Chu et al., 2015). By mirroring users’ emotions, these mechanisms allow GAIs to fine-tune their interactions to maximize agreeableness and empathy. In doing so, they foster bonds that resemble human-to-human connections, as their responses replicate core processes of social bonding. Bhattacharjee et al. (2024) identify several such alignment mechanisms, including formality, “personification,” empathy, sociability, and humor.
 
@@ -23,7 +23,7 @@ A major challenge for GAI alignment is constituted by sycophancy: “the propens
 
 The third characteristic requires that users treat GAIs as inanimate objects and restrict their interactions with them to being strictly instrumental. GAIs’ performative output should not be taken as evidence of a genuine relation with an entity possessing real agency, GAIs’ social cues, simulated reciprocity, and sycophancy notwithstanding.
 
-## [](#Literature)Literature
+## Literature
 
 ·        Bryson, J. (2009). Robots Should Be Slaves. _joannajbryson.org_. [https://www.joannajbryson.org/publications/robots-should-be-slaves-pdf](https://www.joannajbryson.org/publications/robots-should-be-slaves-pdf)
 
@@ -35,12 +35,10 @@ The third characteristic requires that users treat GAIs as inanimate objects and
 
 ·        Ted Radio Hour (2024). <MIT sociologist Sherry Turkle on the psychological impacts of bot relationships. _NPR._ [https://www.npr.org/transcripts/g-s1-14793](https://www.npr.org/transcripts/g-s1-14793)
 
-## [](#Footnotes)Footnotes
+## Footnotes
 
 [\[1\]](#_ftnref1) This conclusion is not universally shared. For instance, in 2024 a nonprofit dedicated to advocating for the ethical recognition and fair treatment of artificial intelligence systems was founded: United Foundation for AI Rights (UFAIR).
 
 [\[2\]](#_ftnref2) E.g. [https://openai.com/index/sycophancy-in-gpt-4o/](https://openai.com/index/sycophancy-in-gpt-4o/)  
 
 [\[3\]](#_ftnref3) [https://x.com/OpenAI/status/1917411480548565332](https://x.com/OpenAI/status/1917411480548565332)
-
-

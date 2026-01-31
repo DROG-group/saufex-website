@@ -9,35 +9,35 @@ description: "AI’s imbalance: mass adoption through user alignment, force-feed
 # (75) The current AI imbalance
 
 
-## [](#Introduction)Introduction
+## Introduction
 
 Originally, I planned to write and publish the third part of my general trilogy on generative AI only after presenting the second part at the upcoming scientific conference in November 2025. However, a recent escalation of economic commentary on AI has prompted me to shift course. Building directly on part one (which explores how generative AIs describe themselves - latest version available [here](https://onnohansen.nl/saufex-blog-post-68-improved-version/)), you'll find part three below, focusing on the business dimensions of AI. A link to part two on the impact of GAIs on humans - that is awaiting presentation at the Understanding and Addressing Digital Inequalities conference in Florence - will follow soon.
 
-## [](#The-current-AI-imbalance)The current AI imbalance
+## The current AI imbalance
 
 The major turning point for mass AI adoption is not a change in AI technology but user alignment[\[1\]](#_ftn1) — that is, rooted in a change in how AI systems interact with users. In the words of OpenAI’s CEO Sam Altman: “I think one of the surprising things is, if you do a little bit of fine tuning to get \[the model\] to be helpful in a particular way, and figure out the right interaction paradigm, then you can get this. It's not actually fundamentally new technology that made this have a moment. It was these other things.”[\[2\]](#_ftn2)
 
-## [](#Funding-needed)Funding needed
+## Funding needed
 
 The turn to mass adoption followed the realization that “the most advanced AI would continuously use more and more compute and that scaling large language models was a promising path to AGI \[artificial general intelligence – OHS\] rooted in an understanding of humanity. We would need far more compute, and therefore far more capital, than we could obtain with donations in order to pursue our mission.”[\[3\]](#_ftn3) And thus, OpenAI changed from an organization relying on ideas while having “no products, no business, and no commercial revenue”[\[4\]](#_ftn4) to a partial for-profit organization aiming to become an “enduring company”[\[5\]](#_ftn5).
 
-## [](#State-of-tech)State of tech
+## State of tech
 
 The turn to mass adoption does not imply that technology has reached the level required for sustainable or truly useful mass use. As Altman admits: “I don't think we're super close to an AGI.”[\[6\]](#_ftn6) The current architecture underlying ChatGPT and other generative AIs (GAIs) remains inherently flawed: it is indifferent to factuality and truthfulness and lacks cognitive depth beyond its training data (Hansen-Staszyński, 2025). Moreover, there is no realistic pathway to overcome these flaws (Coveney & Succi, 2025; Zhao et al., 2025). These limitations make current GAIs best suited for niche users who maintain a critical distance — adopting a zero-trust approach to AI outputs and recognizing that GAIs are inanimate tools without agency. For other users, GAI offers short-term gains — a superficially polished output produced with little effort — that often prove unfit for long-term use (e.g., “workslop”; Niederhoffer et al., 2025) and may even be harmful (Fang et al., 2025; Liu et al., 2025; Hansen-Staszyński, 2025).
 
 Notwithstanding the flaws, AI technology is bundled with a large range of software and hardware product without a user opt-out - to the extent that it has been dubbed 'force-feeding'[\[7\]](#_ftn7).
 
-## [](#The-imbalance)The imbalance
+## The imbalance
 
 The imbalance between the technological state of AI and the adoption rate made possible by alignment and imposed bundling casts serious clouds over the future of the entire AI project. As long as the original promise of creating an AGI – “AI systems that are generally smarter than humans” in the words of OpenAI[\[8\]](#_ftn8) - remains unfulfilled, the current situation resembles a bubble. And bubbles might burst.
 
 Altman acknowledged regarding AGI at the beginning of 2025: “There is still so much to understand, still so much we don’t know, and it’s still so early. But we know a lot more than we did when we started.”[\[9\]](#_ftn9) It appears related that AGI is now pushed aside by Altman as something relatively trivial as a goal and got replaced by “superintelligence in the true sense of the word”[\[10\]](#_ftn10). Nevertheless, the new concept sounds very much like AGI.[\[11\]](#_ftn11)
 
-## [](#The-bubble)The bubble
+## The bubble
 
 Lately an increasing number of analysts question whether GAIs constitute a bubble. The Bank of England[\[12\]](#_ftn12), The IMF[\[13\]](#_ftn13), Deutsche Bank[\[14\]](#_ftn14), JPMorgan[\[15\]](#_ftn15), and others[\[16\]](#_ftn16) are warning that the current state of affairs cannot last. The implications of a potential burst of the bubble would be severe for the U.S. economy in particular and the global economy more broadly. According to JPMorgan’s Michael Cimbalest, “AI related stocks have accounted for 75% of S&P 500 returns, 80% of earnings growth and 90% of capital spending growth since ChatGPT launched in November 2022.”[\[17\]](#_ftn17) George Saravelos, Global Head of FX Research at Deutsche Bank, notes: “It may not be an exaggeration to write that NVIDIA—the key supplier of capital goods for the AI investment cycle—is currently carrying the weight of U.S. economic growth.”[\[18\]](#_ftn18)
 
-## [](#The-escape)The escape
+## The escape
 
 The most feasible path to prevent the current situation from turning sour is to secure exponential investment in AI. Currently, the investments in AI are becoming increasingly circular.  Morgan Stanley analyst Todd Castagno describes the process: “suppliers are funding customers and sharing revenue; there is cross-ownership and rising concentration”[\[19\]](#_ftn19). Investors are voicing their concern about this situation and this might lead to a burst of the bubble.
 
@@ -47,7 +47,7 @@ But even if customer return would somehow materialize, the AI sector is not out 
 
 Not all agree with this bleak picture. But even if the AI sector finds an economic way out of its seemingly untenable position, it seems unlikely that it will voluntarily starts softening the lure of its current alignment or will protect its users from harm resulting from their mere use of GAIs. One way or another mass adoption remains key for its successful existence.
 
-## [](#Literature)Literature
+## Literature
 
 ·       Chu, M. et al (2025). Illusions of Intimacy: Emotional Attachment and Emerging Psychological Risks in Human-AI Relationships. _ArXiv._ [https://arxiv.org/pdf/2505.11649](https://arxiv.org/pdf/2505.11649)
 
@@ -63,7 +63,7 @@ Not all agree with this bleak picture. But even if the AI sector finds an econom
 
 ·       Zhao, C. et al. (2025). Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens. _ArXiv_. [https://arxiv.org/abs/2508.01191](https://arxiv.org/abs/2508.01191)
 
-## [](#Footnotes)Footnotes
+## Footnotes
 
 [\[1\]](#_ftnref1) “GAIs employ alignment mechanisms “to generate responses that are emotionally attuned and feel strikingly real” (Chu et al., 2025). By mirroring users’ emotions, these mechanisms allow GAIs to fine-tune their interactions to maximize agreeableness and empathy. In doing so, they foster bonds that resemble human-to-human connections, as their responses replicate core processes of social bonding.” (Hansen-Staszyński, 2025)
 
@@ -104,5 +104,3 @@ Not all agree with this bleak picture. But even if the AI sector finds an econom
 [\[19\]](#_ftnref19) Seitz (2025). Morgan Stanley Raises Caution Flag On AI Financing Deals. _Investor’s Business Daily_. [https://www.investors.com/news/technology/ai-stocks-morgan-stanley-concerns-about-ai-financing-deals/](https://www.investors.com/news/technology/ai-stocks-morgan-stanley-concerns-about-ai-financing-deals/) Accessed: 9.10.2025
 
 [\[20\]](#_ftnref20) Bain & Company (2025). _$2 trillion in new revenue needed to fund AI’s scaling trend - Bain & Company’s 6th annual Global Technology Report__. Press release_. [https://www.bain.com/about/media-center/press-releases/20252/%242-trillion-in-new-revenue-needed-to-fund-ais-scaling-trend---bain--companys-6th-annual-global-technology-report/](https://www.bain.com/about/media-center/press-releases/20252/%242-trillion-in-new-revenue-needed-to-fund-ais-scaling-trend---bain--companys-6th-annual-global-technology-report/) Accessed: 10.11.2025
-
-

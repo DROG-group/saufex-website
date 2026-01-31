@@ -229,5 +229,3 @@ You don't need to become a scientist to evaluate research claims:
 - Look for systematic reviews over single studies
 
 Science is a cumulative process. Individual studies are pieces of larger puzzles, not definitive answers. Media literacy requires understanding this distinction.
-
-

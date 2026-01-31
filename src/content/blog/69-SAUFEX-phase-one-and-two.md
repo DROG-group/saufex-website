@@ -9,7 +9,7 @@ description: "Phase two means involving the general public and taking opinions i
 # (69) SAUFEX phase one and two
 
 
-## [](#SAUFEX-phase-one)SAUFEX phase one
+## SAUFEX phase one
 
 A SAUFEX project's primary objective is to decentralize and democratize FIMI analysis and response capabilities. This begins with engaging NGOs and academic institutions in identifying, classifying, grading, and reporting FIMI incidents and campaigns, as well as in developing subsequent responses.
 
@@ -21,7 +21,7 @@ Concretely, this means that FIMI incidents are reported by NGOs, in time using S
 
 ![undefined](https://cdn.cmsfly.com/637160f609b4890127a9cd59/images/Flowphaseone-NUcxt.jpg)
 
-## [](#SAUFEX-phase-two)SAUFEX phase two
+## SAUFEX phase two
 
 While Resilience Councils represent meaningful progress toward a whole-of-society approach, they constitute only the foundation of a much broader approach. Resilience Councils for NGOs and academia lack two essential whole-of-society elements. First, though these councils engage important societal stakeholders, they exclude a crucial actor: the general public. Second, they focus on evidence gathering, interpretation, and response formulation, but neglect what Stephan Lewandowsky identifies as intuition-based conceptions of truth: "belief-speaking".
 
@@ -34,5 +34,3 @@ Opinions by the general public are gathered by the second type of Resilience Cou
 By providing the option to the general public to provide their opinions and having a mechanism in place to influence policy-making, the level of societal resilience is expected to rise. This enhanced societal resilience, in turn, is expected to lead to less impact of the FIMI incidents.
 
 ![undefined](https://cdn.cmsfly.com/637160f609b4890127a9cd59/images/Flowphaseoneandtwo-X_X_D.jpg)
-
-

@@ -178,5 +178,3 @@ When evaluating news, ask:
 - Is there editorial oversight (not just one person publishing)?
 
 Understanding production processes helps you distinguish professional journalism from content designed to deceive.
-
-

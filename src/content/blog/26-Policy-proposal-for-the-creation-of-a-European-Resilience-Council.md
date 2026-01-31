@@ -9,13 +9,13 @@ description: "It is recommended that the European Union formally establish a Eur
 # (26) Policy proposal for the creation of a European Resilience Council
 
 
-## [](#Introduction)Introduction
+## Introduction
 
 In the face of increasing global challenges posed by Foreign Information Manipulation and Interference (FIMI), Europe must strengthen its democratic fabric and societal resilience against the evolving threats of misinformation and disinformation. The creation of a European Resilience Council (ERC) is critical to empower citizens, promote transparency, and ensure that Europe's democratic values are protected through inclusive, accountable, and effective responses to information threats.
 
 This proposal advocates for the establishment of the ERC to provide a structured, citizen-centered approach to addressing FIMI, thereby enhancing Europe’s collective ability to withstand and adapt to information threats.
 
-## [](#Why-initiate-a-European-Resilience-Council?)Why initiate a European Resilience Council?
+## Why initiate a European Resilience Council?
 
 - **Promoting transparency and inclusivity**
 
@@ -33,7 +33,7 @@ The ERC will empower citizens to feel seen, heard, and valued. This inclusivity 
 
 The ERC will enhance accountability by distributing responsibilities among a broad network of stakeholders. This collaborative approach will minimize biases and ensure that all voices are heard. By contributing to initiatives like the European Democracy Shield and the Digital Services Act (DSA), the ERC will reinforce Europe’s commitment to democracy, human rights, and the rule of law.
 
-## [](#What-will-the-European-Resilience-Council-do?)What will the European Resilience Council do?
+## What will the European Resilience Council do?
 
 - **Task 1: Identifying FIMI campaigns**
 
@@ -51,7 +51,7 @@ The ERC will provide expert advice on European strategies to counter FIMI, inclu
 
 A central role of the ERC will be coordinating initiatives that enhance citizens’ resilience to information threats, while safeguarding their autonomy, belonging, and safety. This will include designing and supporting programs that empower citizens to critically evaluate the value and limitations of facts, narratives, and scientific methods, to form and formulate beliefs rooted in personal experience without fear of judgment, to withhold immediate judgment when encountering others' beliefs, and to expand skills in dialogue, negotiation, and conflict resolution.
 
-## [](#Preconditions-for-effective-execution-of-the-European-Resilience-Council)Preconditions for effective execution of the European Resilience Council
+## Preconditions for effective execution of the European Resilience Council
 
 **• Legal framework**
 
@@ -69,7 +69,7 @@ Members of the ERC will undergo regular training, including programs like [the E
 
 To ensure that the ERC operates efficiently and delivers measurable results, clear objectives and goals are to be established for each of its tasks. Regular evaluations will ensure that progress is made, and course corrections are implemented as needed.
 
-## [](#Implications-of-creating-the-European-Resilience-Council)Implications of creating the European Resilience Council
+## Implications of creating the European Resilience Council
 
 **• Strengthened Europe’s role in the global information ecosystem**
 
@@ -83,12 +83,10 @@ The ERC’s approach empowers individuals and communities to take an active role
 
 The creation of the ERC introduces new legal and ethical dimensions to the handling of FIMI. The ERC will advocate for policies that respect both freedom of speech and the need to safeguard society from information threats.
 
-## [](#Conclusion)Conclusion
+## Conclusion
 
 The European Resilience Council (ERC) represents a constructive, inclusive, and transparent approach to safeguarding European democracy and resilience against FIMI. By promoting collective action, enhancing societal dialogue, and fostering a sense of shared responsibility, the ERC will enable Europe to navigate the challenges of the modern information age with confidence, ensuring that democratic values remain intact in the face of evolving threats.
 
-## [](#Recommendations)Recommendations
+## Recommendations
 
 It is recommended that the European Union formally establish the ERC as a part of its ongoing efforts to combat FIMI and strengthen the resilience of its citizens. By empowering individuals and communities, promoting transparency, and ensuring accountability, the ERC will serve as a cornerstone for Europe’s efforts to preserve its democratic integrity in the digital age.
-
-

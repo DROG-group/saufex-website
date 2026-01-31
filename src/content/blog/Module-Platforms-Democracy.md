@@ -241,5 +241,3 @@ As a platform user and democratic citizen, you have multiple stakes:
 - **Participant**: Your voice matters in governance debates
 
 Understanding platform governance helps you engage constructively in debates about how these powerful institutions should operate.
-
-

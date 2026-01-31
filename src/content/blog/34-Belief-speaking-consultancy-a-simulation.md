@@ -11,13 +11,13 @@ description: "Trying out what a belief-speaking consultative process would look 
 
 It might seem hard to imagine a belief-speaking consultancy process rendering useful outcomes, even with the mechanisms as described in [an earlier blog post](/insights/31-A-holistic-vision-on-effectively-enhancing-adolescent-resilience) in place: a method to enable the expression of opinions without fear of judgment (“Interdemocracy”), a structured approach to extraction that ensures meaningful outcomes (“Wisdom of Crowds”), and a system for aggregating and interpreting the resulting input (AI). So my wife and I organized a simulation. We asked some of our students to formulate their answers to a relevant question. We then asked ChatGPT to aggregate and interpret the answers. Below you’ll find the outcome of the simulation.
 
-## [](#The-question)The question
+## The question
 
 Freedom of speech is a hot button topic on the moment. President Trump signs executive orders to restore his interpretation of freedom of speech (for instance his [executive order dated January 20, 2025](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/)). European Commissioner Henna Virkkunen gave her interpretation during her [confirmation hearing](https://hearings.elections.europa.eu/documents/virkkunen/virkkunen_verbatimreporthearing-original.pdf): “freedom of speech is one of our fundamental rights in Europe and we want to make sure that we are protecting this important right for all our citizens. But, of course, then there has to be also balance”.
 
 My wife and I chose to present the issue to our students according to the mechanisms, within a frame rooted in their daily lives. We began with a brief introduction, stating that while freedom of speech is not absolute, the boundaries of this freedom are not always clear. Then we asked them for their take on it: “What is the limit of what can be said in the classroom? Why do you think so?”
 
-## [](#The-answers)The answers
+## The answers
 
 - “I believe that the limit depends on the subject. One must always be aware that everything we say may be used somewhere someday. We must always remember what we say and to whom, and not trust many people—only those closest to us.”
 - “If the class is close-knit and does not judge one another, then one can talk about practically anything, as long as it does not hurt others. I think this way because our class is close-knit, and we can talk freely with each other.”
@@ -29,7 +29,7 @@ My wife and I chose to present the issue to our students according to the mechan
 - “I think the most important limits of speaking in class involve thinking first and then speaking while maintaining respect. One must consider the sensitivity of others and whether the words spoken are truthful. When speaking, not just in class, we should remain courteous and take into account what others are saying without interrupting, shouting over them, or behaving in a way that causes discomfort to another person.”
 - “The invisible limit of what can be said in class is very difficult to define due to its flexibility and the fact that it is not visible, as there are no strict rules on what can and cannot be said. In my opinion, we can say anything that does not harm another person; we can have different opinions and discuss them, but the limit begins where we cause harm or hurt someone. The problem is that this is often not visible either.”
 
-## [](#ChatGPTs-interpretation)ChatGPT’s interpretation
+## ChatGPT’s interpretation
 
 We fed the students' answers to ChatGPT. We asked it to provide pattern detection, clustering, outlier identification, aggregation of insights, sentiment analysis, and quality control. It provided us with the following output:
 
@@ -86,10 +86,8 @@ Recurring themes across the responses:
 - Repetitiveness: Some responses reiterate similar ideas in different words.
 - Depth of Thought: Response 4 stands out for its nuanced take on criticism versus offensive speech.”
 
-## [](#Conclusion)Conclusion
+## Conclusion
 
 The simulation outcomes look promising. What needs to be established next is the form in which the AI output should be presented to the Youth Resilience Council (YRC) so that the YRC can start to formulate its recommendations.
 
 We cannot wait to test the belief-speaking consultative process in a large-scale pilot that also includes an actual YRC.
-
-

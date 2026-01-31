@@ -28,5 +28,3 @@ Finally "**Manipulative, intentional, and coordinated**" covers the use of [dec
 In total FIMI [encompasses](https://www.disinfo.eu/publications/fimi-towards-a-european-redefinition-of-foreign-interference/) threat actors that: (1) use deception, (2) intent to harm, (3) can be identified as groups or entities, and (4) follow patterns.
 
 This is the brief definition of FIMI. As you'll notice it contains many parts some of which can be left open to interpretation (such as how are "values" determined?). The definition suited the EEAS's mandate for what they were tasked with accomplishing
-
-

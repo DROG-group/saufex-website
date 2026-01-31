@@ -9,7 +9,7 @@ description: "A summary of best practices."
 # (74) Toolkit of escalating responses to mis-, disinformation, and FIMI aimed at the demand side
 
 
-## [](#Phase-one-basics)Phase one: basics
+## Phase one: basics
 
 1\. **Build trust** – listen first, avoid negative judgments, then use tools. Consistently show that you are firstly defending and empowering people and only then institutions and procedures.
 
@@ -27,8 +27,6 @@ description: "A summary of best practices."
 
 8\. **Alternative belonging** – offer healthier communities for those deep in fringe groups.
 
-## [](#Phase-two-follow-up)Phase two: follow-up
+## Phase two: follow-up
 
 Enhance specific literacies, e.g. media literacy, digital literacy, AI literacy, citizen education.
-
-

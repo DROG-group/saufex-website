@@ -275,5 +275,3 @@ FIMI techniques exploit fundamental features of information ecosystems:
 - **Decreasing trust**: Institutional skepticism creates information vacuum
 
 Understanding why tactics work helps design countermeasures that address root vulnerabilities.
-
-

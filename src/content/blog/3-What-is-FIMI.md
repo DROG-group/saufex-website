@@ -11,7 +11,7 @@ description: "There are no generally accepted definitions or standards regarding
 
 It is clear what FIMI stands for: Foreign Information Manipulation and Interference. But, for someone starting to take an interest in the subject, it is less clear what FIMI is. To start with, for the European Union, FIMI seems to be about ‘behavior’, while for the US State Department, it seems to be about ‘information manipulation’.  
 
-## [](#Behavior-versus-information-manipulation)Behavior versus information manipulation
+## Behavior versus information manipulation
 
 The [European External Action Service](https://www.eeas.europa.eu/eeas/tackling-disinformation-foreign-information-manipulation-interference_en) (EEAS) – the organisation that has taken a leading role in addressing the issue in the European Union - defines FIMI as follows: “a pattern of behaviour that threatens or has the potential to negatively impact values, procedures and political processes. Such activity is manipulative in character, conducted in an intentional and coordinated manner. Actors of such activity can be state or non-state actors, including their proxies inside and outside of their own territory”.
 
@@ -19,11 +19,11 @@ The EEAS definition thus leans towards interpreting FIMI as a hybrid threat; see
 
 Compare this with what the [US State Department](https://www.state.gov/the-framework-to-counter-foreign-state-information-manipulation/) has to say about FIMI: “Authoritarian governments use information manipulation to shred the fabric of free and democratic societies. They manipulate social discourse, skew national and international debates on subjects of critical importance, and undermine democratic institutions.”
 
-## [](#Foreign-states-versus-anybody)Foreign states versus anybody
+## Foreign states versus anybody
 
 A second difference between the European and the State Department perspectives on FIMI is that while the [State Department](https://www.state.gov/the-framework-to-counter-foreign-state-information-manipulation/) identifies foreign governments as culprits behind FIMI and calls its tool to counter FIMI ‘The Framework to Counter Foreign State Information Manipulation’, the EEAS takes a broader view and mentions as originators in its definition cited above “state or non-state actors, including their proxies inside and outside of their own territory”.
 
-## [](#Labeling)Labeling
+## Labeling
 
 A third field of unclarity related to FIMI is how FIMI differs from regular disinformation. The [EEAS](https://www.eeas.europa.eu/eeas/tackling-disinformation-foreign-information-manipulation-interference_en) for instance writes: “Foreign Information Manipulation and Interference (FIMI) – also often labeled as “disinformation””. The obvious difference between FIMI and disinformation seems to be the word ‘foreign’. But how can we be sure that a disinformation incident or campaign indeed originates from foreign actors? How could the evidence we collect stand up in court?
 
@@ -31,10 +31,8 @@ The current default practice to link FIMI incidents and campaigns to foreign act
 
 This means that when a FIMI incident or campaign occurs it is unclear who is the responsible actor behind it – and thus it is premature to conclude it is a foreign actor. Nevertheless, most incidents and campaigns are called FIMI from the get-go. The reason for it is simple: while it is acceptable to condemn foreign behavior and information manipulation, it is tricky to denounce domestic incidents and campaigns – that would reek of censorship and curbing human rights.
 
-## [](#Confusion)Confusion
+## Confusion
 
 Possibly, as a result of the confusion, there currently is no good definition of a FIMI incident. Also lacking is an agreed pattern of TTPs that is typical for FIMI. In addition, there is no accepted standard for reporting FIMI incidents. And, there is no interoperable template for formulating one’s response to a FIMI incident so that others might easily join.
 
 In the SAUFEX project, we are addressing all these aspects - if only to support the work of the upcoming Resilience Councils.
-
-

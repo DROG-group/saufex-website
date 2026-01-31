@@ -13,7 +13,7 @@ After my exhausting exchanges with artificial intelligence, I started summarizin
 
 I submitted an early version of my summary to Gemini (2.5 Pro). I wrote: “Its \[AI’s\] knowledge base is derived from vast quantities of public, mass-replicated information, which is inherently skewed towards dominant languages and mainstream commercial or political viewpoints. This foundational bias means the AI naturally reinforces existing norms while simultaneously marginalizing or distorting alternative perspectives. Any appearance of diversity is often just a hollow performance, disconnected from real-world stakes.” But I could not square this with AI repeating fringe theories. So I asked Gemini.
 
-## [](#Gemini-s-explanation)Gemini ‘s explanation
+## Gemini ‘s explanation
 
 The incidental highlighting of fringe ideas is not a contradiction of the AI's nature as a mainstream-amplifying system but rather the other side of the same coin. Both behaviors stem from the same core mechanic: the AI is a pattern-matching engine that is indifferent to truth.
 
@@ -42,5 +42,3 @@ Because the AI's goal is to weave information into a readable narrative, it can 
 This gets back to a core flaw identified in the documents: the AI cannot distinguish between sources based on authority. It flattens the world of information, stripping away the critical context that humans use for evaluation. A peer-reviewed scientific journal and a self-published conspiracy blog are both just collections of text to be processed.
 
 Therefore, the AI's tendency to amplify the mainstream and its capacity to highlight the fringe are born from the same fundamental limitation. It is a system that mindlessly reflects patterns without any understanding of their meaning, origin, or consequences. Whether it's reflecting the massive, sprawling pattern of the mainstream or the small, intense pattern of a fringe echo chamber, the underlying mechanism is identical: indifferent amplification.
-
-

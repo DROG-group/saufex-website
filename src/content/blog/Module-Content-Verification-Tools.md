@@ -403,5 +403,3 @@ Verification tools aren't perfect:
 - Access restrictions limit some tools
 
 **Best practice**: Use multiple tools and methods. Converging evidence increases confidence. When uncertain, express uncertainty rather than false certainty.
-
-

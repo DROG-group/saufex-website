@@ -248,5 +248,3 @@ Identifying who is behind operations enables:
 - **Strategic understanding**: Analyzing adversary tactics and objectives
 
 But attribution is technically and politically challenging - covered in detail in Module 5.
-
-

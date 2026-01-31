@@ -23,5 +23,3 @@ Foreign Information Manipulation & Interference (FIMI) is a complex issue with v
     
 
 It's important to note that detecting FIMI is an ongoing challenge, as adversaries constantly adapt their tactics. Therefore, a multi-layered approach is necessary to effectively identify and counter these threats.
-
-

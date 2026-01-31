@@ -9,7 +9,7 @@ description: ""
 # FIMI module: how do you know if it is foreign?
 
 
-## [](#Assess-the-Actor)Assess the Actor:
+## Assess the Actor:
 
 A number of organizations are tasked with a mandate to address Foreign Information Manipulation Interference (FIMI). A critical part of this is assessing whether content is “foreign”. This document is meant as a guide of indicators to consider when assessing whether an online asset is derived from a foreign origin. This is not meant to be a comprehensive guide encompassing every element that might be considered and only showcases common indicators found online. 
 
@@ -47,5 +47,3 @@ Behavioral indicators
     
 
 However these may not be definitive indicators that a campaign is foreign in nature. A combination of indicators are usually required to make can lead to an attribution to a likely actor.
-
-

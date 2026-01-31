@@ -300,5 +300,3 @@ Effective accountability requires multiple mechanisms:
 - **Financial consequences**: Meaningful penalties for violations
 
 No single mechanism suffices - comprehensive accountability needs layers.
-
-

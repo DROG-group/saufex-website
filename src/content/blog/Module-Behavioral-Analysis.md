@@ -298,5 +298,3 @@ Most effective detection combines approaches:
 **Attribution** determines who's responsible
 
 Convergence of multiple indicators increases confidence in detection.
-
-

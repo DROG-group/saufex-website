@@ -427,5 +427,3 @@ Trajectory suggests growing importance:
 **Vision**: Crowdsourced verification as essential component of information ecosystem resilience, complementing professional journalism and academic research.
 
 Collective intelligence countering collective deception.
-
-

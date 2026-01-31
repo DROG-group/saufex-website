@@ -437,5 +437,3 @@ Likely trajectories:
 - AI-generated misinformation scale
 
 **Vision**: Fact-checking as permanent infrastructure in healthy information ecosystems, but only one component of comprehensive defense.
-
-

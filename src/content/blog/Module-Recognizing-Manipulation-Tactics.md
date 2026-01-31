@@ -139,5 +139,3 @@ When you encounter persuasive content, ask:
 - Can I verify this independently?
 
 Recognition is the first step to resistance. The more you practice identifying these tactics, the more automatic it becomes.
-
-

@@ -34,5 +34,3 @@ Finally, diplomatic and political responses play a crucial role in countering FI
 We will need a wide approach
 
 Just as the definition of FIMI is multifaceted, so too must be the interventions designed to counter it. A comprehensive approach that combines technical measures, resilience building, platform accountability, legal frameworks, and diplomatic efforts is essential for effectively addressing this complex and evolving threat.
-
-

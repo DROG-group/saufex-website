@@ -452,5 +452,3 @@ Integrating evaluation into practice:
 Evidence-based counter-messaging requires measurement infrastructure and culture. Not perfect, but continuously improving understanding of what works, for whom, under what conditions.
 
 **Conclusion**: Congratulations on completing the EMoD Detection and Verification and Counter-Messaging learning paths. You now have comprehensive understanding of detecting manipulation and effectively countering it. Apply this knowledge to build more resilient information ecosystems.
-
-

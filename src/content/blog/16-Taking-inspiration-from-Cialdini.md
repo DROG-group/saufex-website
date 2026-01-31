@@ -9,11 +9,11 @@ description: "Linking Cialdini's principles of persuasion to the levels describe
 # (16) Taking inspiration from Cialdini
 
 
-## [](#Introduction)Introduction
+## Introduction
 
 While adapting the six levels identified in the learning path ‘Anatomy of mis- and disinformation’ to the high school classroom (see: [blog post thirteen](/insights/13-For-high-school-students-the-learning-path-anatomy)), I decided that following six times the same structure would be too repetitive for students. As a result, I merged levels three and four and levels five and six.
 
-## [](#Cialdini)Cialdini
+## Cialdini
 
 When reformulating the now four levels, that I dubbed perspectives, I started to see a link between the suggested methods of countering beliefs on these levels and Cialdini’s principles of persuasion.
 
@@ -29,7 +29,7 @@ When considering the original six levels instead of the simplified four perspect
 
 The principles that seem to fit the two remaining levels without correspondence with Cialdini's principles – three regarding our approach to reality and five regarding our autonomy – seem to be ‘logic’ for level three and ‘resilience’ for level five.
 
-## [](#Reflection)Reflection
+## Reflection
 
 I started thinking about the consequences of the correspondence with Cialdini’s principles that nevertheless seem to be there for four of the six levels.
 
@@ -43,12 +43,10 @@ And then there is the driving force of ‘liking’ that is seemingly linked to 
 
 As a result, liking in liberal democracies essentially seems to be outside of the realm of government. Liking seems to have become an outcome of entertainment. I've often wondered whether our dissolving relations with family and friends are compensated by adopting TV and Internet stars as surrogates, just as prisoners choose surrogate family members when locked away. The stars of providing alternative liking in the field of dealing with disinformation are NGOs (such as Fryhuset and Utgång).
 
-## [](#Roles-of-governmental-organisations)Roles of governmental organisations
+## Roles of governmental organisations
 
 In a situation in which authority and social proof have deeply decentralised, in which our consistency has become a public thing and liking is not within the governmental sphere, only a few avenues of influence seem open for governmental organisations. While they may nevertheless try to recentralise authority and social proof by supporting media and academics and by censoring and nudging for instance, it is doubtful whether that will bend the trends. They may try to regulate social media, embrace being entertaining, and support preferred NGOs as suppliers of liking but they are up against a rigged demand side and a rigged supply side.
 
 What seems to be open to governmental organisations are the drivers seemingly linked to level three – ’rationality’ – and level five – ’autonomy’. Level three can be serviced by the educational system. Hence the flurry of government-sponsored media education and citizenship initiatives. Level five touches on one of the core elements of liberal democracies and opens up the way for initiatives that empower ’resilience’.
 
 Still, even these levels should not be left to governmental organisations alone, in line with the democratic concept of keeping power in check. Enter project SAUFEX.
-
-

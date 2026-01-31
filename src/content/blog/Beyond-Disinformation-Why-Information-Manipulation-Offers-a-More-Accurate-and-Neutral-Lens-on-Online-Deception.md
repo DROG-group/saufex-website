@@ -36,5 +36,3 @@ Clarity and Precision: It allows for a more nuanced and accurate understanding o
 Broader Perspective: It encourages a focus on the full spectrum of manipulative tactics, moving beyond just deliberately false content.
 
 The fight against online deception requires a clear and neutral vocabulary. By embracing the term "information manipulation," we can move beyond the politicized debates surrounding "disinformation" and focus on addressing the root causes of the problem and empowering individuals to navigate the online world more effectively. It's time to shift our focus from simply labeling content as "disinformation" to understanding the sophisticated techniques of "information manipulation" that shape our online world.
-
-

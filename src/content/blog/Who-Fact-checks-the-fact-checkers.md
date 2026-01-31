@@ -36,5 +36,3 @@ When fact checkers go after people who are belief speaking they risk missing the
 Fact checkers risk looking biased if they nitpick mistakes made by people who believe they are conveying correct sentiments. Being overly pedantic does not clarify issues but rather demonstrates bias.
 
 **How to fix this:** Fact checking needs to address facts when that is under contention. A fact checker cannot in good faith claim to fact check a belief and instead must use different terminology about how beliefs interact with reality and other viewpoints from what the person believes. Not "they are incorrect" but rather "we should consider other factors".
-
-

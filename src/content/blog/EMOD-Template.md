@@ -30,5 +30,3 @@ Also if you cite someone else please [link](https://saufex.eu/) to their work 
 \[screen 5\]
 
 last thing: have fun!
-
-

@@ -11,7 +11,7 @@ description: "Project SAUFEX aims to draft bottom-line conceptualizations and kn
 
 As was mentioned in the [third blog post](/insights/3-What-is-FIMI), no consensus exists on what FIMI is. As a result, addressing FIMI in the European Union is disparate and unaligned. This fragmented approach creates a significant hurdle in dealing with FIMI, hindering the ability of Member States to counter FIMI actors or campaigns originating from state and non-state actors.  
 
-## [](#Bottom-line)Bottom line
+## Bottom line
 
 Project SAUFEX aims to draft bottom-line conceptualizations and knowledge that can be used in all five stages of dealing with FIMI: identification, classification, grading, reporting, and countering.
 
@@ -21,17 +21,17 @@ Points of reference for the stage of grading are individual state actors that ha
 
 The starting point for reporting is the platform [OpenCTI](https://github.com/OpenCTI-Platform/opencti) (Open Cyber Threat Intelligence) which enables the structuring of data based on STIX and allows for the use of DISARM TTP classifications.
 
-## [](#Countering)Countering
+## Countering
 
 While the challenge of drafting bottom-line conceptualizations and knowledge for the first stages of dealing with FIMI is profound, tackling the final stage, countering FIMI, seems almost impossible. The existing attempts are often fragmented, paternalistic, outdated, simplistic, unpractical, boring, and ineffective. Nevertheless, also for this stage project SAUFEX will initiate a fundament to build on, focusing on alternatives for denial of service responses (see the [first blog post](/insights/1-Preserving-freedom-of-expression)): Substance.
 
-## [](#Substance)Substance
+## Substance
 
 Substance is to be the outcome of a curation process of existing relevant insights, theories, and research outcomes. It is to become a dynamic canon of knowledge and skills related to countering FIMI incidents and campaigns.
 
 The canon will be presented in ‘snackable’ short modules that will be both surprising and concrete. While basing themselves on cutting-edge literature, research, and practical good practices, they are to trigger reflection and be useful. When following a learning path, sets of short modules will add up to complete certified learning courses.
 
-## [](#Resilience-Councils)Resilience Councils
+## Resilience Councils
 
 The aspiring members of the Resilience Councils will be the first to be served a set of modules under the name of European Master of countering Disinformation (EMoD). Four EMoD learning paths are planned so far:
 
@@ -44,5 +44,3 @@ The aspiring members of the Resilience Councils will be the first to be served a
 \- Learning path Institutional countering mis- and disinformation consisting of modules describing individual instruments such as fact-checking/ debunking, prebunking, stratcom, and denial of service.
 
 Examples of the EMoD modules will be pre-published in this blog.
-
-

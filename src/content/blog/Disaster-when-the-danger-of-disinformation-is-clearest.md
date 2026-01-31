@@ -20,5 +20,3 @@ Within crisis, disasters are a situations where quick access to accurate informa
  Recently during the hurricanes in North Carolina according to the Infoepi Lab there was a deluge of [false content propagated](https://infoepi.org/posts/2024/10/07-militia-groups-exploit-disaster-helene-milton-hurricane-fema.html) by foreign and domestic actors in the US trying to disrupt the disaster response by FEMA. This is a clear example of why we need infrastructure in place to ensure that comms are not hijacked in emergency situations.
 
 In crisis communications are already jammed with a deluge of disjointed information as people are trying to make sense of what they need to do. Accurate information can be a lifesaving commodity as people try to locate safe shelters and sources of food and water. Disinformation in this context is not only a distraction but can lead to decreased ability of responders to do their job effectively.
-
-

@@ -222,5 +222,3 @@ Every time you verify before sharing, you:
 - Practice and strengthen verification skills
 
 Fact-checking isn't about being suspicious of everyone. It's about taking responsibility for information quality in your sphere of influence. Small individual efforts create collective resilience.
-
-

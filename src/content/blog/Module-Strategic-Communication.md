@@ -436,5 +436,3 @@ How institutions develop StratCom capabilities:
 **Continuous**: Training, learning, adaptation
 
 StratCom capability is infrastructure for democratic resilience.
-
-

@@ -31,12 +31,10 @@ The European External Action service uses a standardized means of reporting on F
 
 The EEAS is not the only group that is reporting on FIMI. There are a number of groups that use similar reporting systems with slight differences. Whether that is the breakout [scale](https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/) instead of measuring severity, or other threat intelligence platforms other than Open CTI. Different organizations have different capacities for reporting and may not be able to dedicate the same resources to the task. Other groups focus more on dealing with the more narrative or content portions of FIMI rather than the behaviors. Another large point of difference is where organizations store their data.
 
-## [](#Storing-the-data)Storing the data
+## Storing the data
 
 Reports are often structure in a way that is meant to be compatible with a database. Some reporting takes places in excel files or documents and these are either manually entered into databases or they are uploaded via structured templates that are automatically read by python scripts.
 
 Overall the majority of the field uses Open CTI as a database however some organizations use other means of storing data from reporting.
 
 The benefit of a database is that you can more easily examine the details of FIMI cases, have a record of assets used by FIMI actors to make them easier to find. Additionally you can have an overview of what techniques are most commonly used so that you can prioritize what to counter.
-
-

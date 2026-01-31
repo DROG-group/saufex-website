@@ -16,5 +16,3 @@ There is a genuine issue here that warrants investigation. We need to pose the q
 For those addressing populism, trying to achieve factual discourse is the wrong move. Populism is an emotional response to institutions that don’t listen to people. Facts can always be debated and many of the facts we hold in our everyday lives are gross simplifications of exceedingly complex issues. No one is immune from belief in falsehoods. However populism isn't about falsehoods it's about trying to change the institutions that people no longer see as trustworthy or in step with everyday life. The only response to populism that works is to give a reason for people to trust institutions, to make institutions responsive. Which is a separate issue.
 
 If this enterprise is going to be at all worth pursuing nuance in what counts as disinformation needs to be promoted. We should start with actors online using technical means to manipulate people. Other issues such as the type of rhetoric used on people needs to be addressed via separate mechanisms.
-
-

@@ -42,5 +42,3 @@ We forget that making voting accessible to people has been a fight for hundred o
 \[screen 6\]
 
 The answer to disinformation is not to shove more facts at people but rather to give people an incentive to want to believe in the system. We need to give people [agency](https://www.plurality.net/). In Taiwan they developed an ingenious solution.
-
-

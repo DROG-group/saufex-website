@@ -111,5 +111,3 @@ While you can't completely escape AI targeting, you can reduce vulnerability:
 - Limit data exposure through privacy settings
 
 Awareness of personalization is your first line of defense.
-
-

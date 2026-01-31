@@ -315,5 +315,3 @@ As a European citizen or resident, you contribute by:
 - Supporting evidence-based policy responses
 
 EU defense isn't just institutional - it requires engaged, aware citizens. Individual actions create collective resilience.
-
-

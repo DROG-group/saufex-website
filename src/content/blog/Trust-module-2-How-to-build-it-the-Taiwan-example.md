@@ -24,5 +24,3 @@ They moved to make the government more transparent and more accessible through d
 \[screen 5\]
 
 While these may seem utopian it happened. The solution to protecting democracy is not to protect people from bad ideas from the outside but rather to double down on the democracy and fundamental belief that when people are given agency, they will make the right decisions.
-
-

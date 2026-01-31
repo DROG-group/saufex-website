@@ -11,17 +11,17 @@ description: "A summary of what the upcoming EMoD learning platform will be."
 
 The European Master of Disinformation (EMoD) platform will be an online learning environment to support professionals in tackling the challenges of the ever-shifting nature of online disinformation. As a one-stop online portal, it will provide up-to-date quality content created in collaboration with leading experts.  
 
-## [](#Learning-paths)Learning paths
+## Learning paths
 
 The platform will feature short and easy-to-understand modules. The modules will be organised in learning paths.
 
 The first four planned learning paths are: How to understand and address FIMI; Dealing with FIMI on Large Online Platforms; How to understand belief systems in FIMI reception; and How to deal with FIMI and when.
 
-## [](#Personalisation)Personalisation
+## Personalisation
 
 In the near future, a smart testing feature will be added to the platform that will personalise content selection and module sequencing for individual users based on their personal needs and their specific challenges.
 
-## [](#Objectives)Objectives
+## Objectives
 
 EMoD seeks to:
 
@@ -30,7 +30,7 @@ EMoD seeks to:
 - Create a one-stop dynamic, modular platform that adapts to evolving disinformation tactics and specific user needs.
 - Foster cross-sectoral collaboration and knowledge sharing to strengthen societalresilience.
 
-## [](#Target-audiences)Target audiences
+## Target audiences
 
 EMoD targets a broad range of professionals, including:
 
@@ -41,9 +41,3 @@ EMoD targets a broad range of professionals, including:
 - Civil society advocates.
 
 Additionally, it aims to engage individuals who may not traditionally see themselves as dealing with disinformation but can significantly contribute to mitigation efforts, such as healthcare professionals.
-
-## [](#SAUFEX)SAUFEX
-
-EMoD is part of the HORIZON-funded SAUFEX project. This project takes place from February 2024 to January 2027.
-
-

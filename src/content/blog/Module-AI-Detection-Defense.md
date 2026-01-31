@@ -154,5 +154,3 @@ Rather than relying on technological solutions alone, effective defense requires
 - Multi-stakeholder collaboration across sectors
 
 Technology is part of the solution, but only part.
-
-

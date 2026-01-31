@@ -11,11 +11,11 @@ description: "Text-based generative AI output should be treated as misinformatio
 
 The following is a fragment from a draft version of an academic paper I'm currently working on regarding text-based generative artificial intelligence (GAI)/ large language models (LLMs).
 
-## [](#Introduction)Introduction
+## Introduction
 
 It is uncommon to find a concise yet comprehensive overview of the characteristics of generatiuve AI, arguably because there is no known set of universal laws that govern all AI and machine learning (Meert et al., 2025). Most research and scientific literature instead focus on specialized subdomains. Nevertheless, the following section highlights on of three broader characteristics of GAI, structured around its input, processing, and output processes.
 
-## [](#Characteristic-1-probability,-not-certainty)Characteristic 1: probability, not certainty
+## Characteristic 1: probability, not certainty
 
 GAIs’ knowledge base is derived from vast quantities of digital data. GAIs use “reams of available text and probability calculations, constructing a massive statistical model that associates each word with a vector which locates it in a high-dimensional abstract space, then establishes similarity, and next choosing randomly among the more likely words.” (Hicks et al., 2024) According to Wolfram (2023), ChatGPT for instance searches continuously for a “reasonable continuation” of the text it is creating as an answer to a prompt.
 
@@ -37,7 +37,7 @@ The implication of this characteristic is profound. Since GAIs have a fundamenta
 
 [Part (3)](/insights/72-Generative-AI-characteristics-3)
 
-## [](#Literature)Literature
+## Literature
 
 ·        Bishop, J. (2021). Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It. _Front. Psychol._ [https://doi.org/10.3389/fpsyg.2020.513474](https://doi.org/10.3389/fpsyg.2020.513474)
 
@@ -61,8 +61,6 @@ The implication of this characteristic is profound. Since GAIs have a fundamenta
 
 ·        Wolfram, S. (2023). What Is ChatGPT Doing … and Why Does It Work? stephenwolfram.com. [https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
-## [](#Footnote)Footnote
+## Footnote
 
 [\[1\]](#_ftnref2) E.g. _Tackling online disinformation_: “Misinformation is false or misleading content shared without harmful intent though the effects can be still harmful.” [https://digital-strategy.ec.europa.eu/en/policies/online-disinformation](https://digital-strategy.ec.europa.eu/en/policies/online-disinformation)
-
-

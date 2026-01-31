@@ -9,7 +9,7 @@ description: "The why, the what, and the how of Resilience Councils."
 # (21) Resilience Council primer
 
 
-## [](#Why-install-Resilience-Councils-\(RCs\)?)Why install Resilience Councils (RCs)?
+## ?)Why install Resilience Councils (RCs)?
 
 Resilience Councils are essential to democratise dealing with Foreign Information Manipulation and Interference (FIMI) since RCs: 
 
@@ -30,7 +30,7 @@ Resilience Councils are essential to democratise dealing with Foreign Informatio
 *   Foster legitimacy: they reinforce the European Democracy Shield initiative as well as the DSA.
     
 
-## [](#What-do-Resilience-Councils-do?)What do Resilience Councils do?
+## What do Resilience Councils do?
 
 RCs focus on four primary tasks: 
 
@@ -62,7 +62,7 @@ Task 3: Formulate advice on FIMI strategy, StratCom, InfoOps
 
 Task 4: Coordinate initiatives to enlarge citizen resilience  
 
-## [](#Preconditions-for-effective-execution)Preconditions for effective execution
+## Preconditions for effective execution
 
 To ensure RC success, the following must be in place: 
 
@@ -83,7 +83,7 @@ Decision-making mechanisms
 *   Proceed from 'is' to 'ought'.
     
 
-## [](#Quality-control-measures)Quality control measures
+## Quality control measures
 
 Task 1: 
 
@@ -112,6 +112,3 @@ Task 4:
 *   Measurable goals.
     
 *   Standardised measurement mechanisms.
-    
-
-
