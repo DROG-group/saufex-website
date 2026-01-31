@@ -25,15 +25,11 @@ Modern discourse is saturated with data: charts, statistics, polls, studies. The
 
 This makes data a powerful manipulation tool:
 
-• Statistics are perceived as objective facts
-
-• Most people struggle to evaluate data critically
-
-• Visualizations can mislead even when numbers are accurate
-
-• Small sample studies are presented as definitive
-
-• Correlation is confused with causation
+- Statistics are perceived as objective facts
+- Most people struggle to evaluate data critically
+- Visualizations can mislead even when numbers are accurate
+- Small sample studies are presented as definitive
+- Correlation is confused with causation
 
 [screen 3]
 
@@ -71,15 +67,11 @@ Always check axes, scales, and timeframes before accepting visual data.
 
 Not all surveys are equal. Key questions:
 
-• **Sample size**: How many people? (Larger is generally better)
-
-• **Sampling method**: Random selection or self-selected respondents?
-
-• **Margin of error**: How much statistical uncertainty?
-
-• **Question wording**: Leading questions produce biased results
-
-• **Response rate**: What percentage completed the survey?
+- **Sample size**: How many people? (Larger is generally better)
+- **Sampling method**: Random selection or self-selected respondents?
+- **Margin of error**: How much statistical uncertainty?
+- **Question wording**: Leading questions produce biased results
+- **Response rate**: What percentage completed the survey?
 
 "A poll shows..." means little without this context.
 
@@ -115,13 +107,10 @@ Research findings often cite "statistical significance" - but what does this mea
 
 It means the result is unlikely due to random chance alone. It does NOT mean:
 
-• The effect is large or important
-
-• The study proves causation
-
-• The finding will replicate in other studies
-
-• The result has practical real-world significance
+- The effect is large or important
+- The study proves causation
+- The finding will replicate in other studies
+- The result has practical real-world significance
 
 "Statistically significant" has a specific technical meaning often misunderstood by media.
 
@@ -131,15 +120,11 @@ It means the result is unlikely due to random chance alone. It does NOT mean:
 
 When media reports "a study shows...":
 
-• **Who funded it?** Tobacco-funded studies downplayed smoking risks
-
-• **Peer-reviewed?** Published in credible journals or just press released?
-
-• **Sample size and duration?** Small, short studies are preliminary
-
-• **Replicated?** Single studies are just starting points
-
-• **Conflicts of interest?** Researchers with financial stakes in results
+- **Who funded it?** Tobacco-funded studies downplayed smoking risks
+- **Peer-reviewed?** Published in credible journals or just press released?
+- **Sample size and duration?** Small, short studies are preliminary
+- **Replicated?** Single studies are just starting points
+- **Conflicts of interest?** Researchers with financial stakes in results
 
 Treat single studies as suggestive, not definitive.
 
@@ -189,15 +174,11 @@ Before accepting data claims:
 
 You don't need advanced statistics to evaluate data claims. Basic critical questions suffice:
 
-• Does the visualization fairly represent the numbers?
-
-• Is the sample representative and large enough?
-
-• Are alternative explanations possible?
-
-• Who benefits from this interpretation?
-
-• What context is missing?
+- Does the visualization fairly represent the numbers?
+- Is the sample representative and large enough?
+- Are alternative explanations possible?
+- Who benefits from this interpretation?
+- What context is missing?
 
 As data becomes central to public discourse, these questions become essential citizenship skills. Data literacy isn't about math - it's about critical thinking applied to numbers.
 

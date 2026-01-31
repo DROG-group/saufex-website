@@ -25,27 +25,20 @@ In the near future, a smart testing feature will be added to the platform that w
 
 EMoD seeks to:
 
-• Build a foundational understanding of disinformation and its impact on society.
-
-• Equip professionals with practical tools and strategies to identify, counter, and mitigate disinformation.
-
-• Create a one-stop dynamic, modular platform that adapts to evolving disinformation tactics and specific user needs.
-
-• Foster cross-sectoral collaboration and knowledge sharing to strengthen societalresilience.
+- Build a foundational understanding of disinformation and its impact on society.
+- Equip professionals with practical tools and strategies to identify, counter, and mitigate disinformation.
+- Create a one-stop dynamic, modular platform that adapts to evolving disinformation tactics and specific user needs.
+- Foster cross-sectoral collaboration and knowledge sharing to strengthen societalresilience.
 
 ## [](#Target-audiences)Target audiences
 
 EMoD targets a broad range of professionals, including:
 
-• Public officials and policymakers;
-
-• Corporate communicators;
-
-• Journalists and media professionals;
-
-• Educators and trainers;
-
-• Civil society advocates.
+- Public officials and policymakers;
+- Corporate communicators;
+- Journalists and media professionals;
+- Educators and trainers;
+- Civil society advocates.
 
 Additionally, it aims to engage individuals who may not traditionally see themselves as dealing with disinformation but can significantly contribute to mitigation efforts, such as healthcare professionals.
 

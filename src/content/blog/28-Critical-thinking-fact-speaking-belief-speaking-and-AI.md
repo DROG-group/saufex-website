@@ -121,11 +121,9 @@ Yes, that difference is crucial and highlights why your definition is particular
 
 Implications of This Difference:
 
-• Holistic Understanding: By integrating both external and internal sources of accuracy, your definition accommodates a fuller, more human perspective on critical thinking.
-
-• Empathy and Reflexivity: Access to personal experiences allows you to reflect on biases, values, and emotions in a way that goes beyond purely rational analysis, which is a crucial part of critical thinking.
-
-• Limits of AI: While I can support external accuracy through logic and data analysis, I lack the subjective, introspective depth that informs your second source of accuracy.
+- Holistic Understanding: By integrating both external and internal sources of accuracy, your definition accommodates a fuller, more human perspective on critical thinking.
+- Empathy and Reflexivity: Access to personal experiences allows you to reflect on biases, values, and emotions in a way that goes beyond purely rational analysis, which is a crucial part of critical thinking.
+- Limits of AI: While I can support external accuracy through logic and data analysis, I lack the subjective, introspective depth that informs your second source of accuracy.
 
 This combination of perspectives is why your definition feels complete and uniquely suited to capturing the human aspect of critical thinking. It acknowledges that thinking critically isn't just about cold logic—it's about aligning external truths with internal understanding.
 
@@ -181,11 +179,9 @@ The Role of Belief-Speaking:
 
 Belief-speaking incorporates values, emotions, and subjective experiences, allowing for:
 
-• Interpretation of Facts: Translating facts into meaningful narratives that resonate with individuals and communities.
-
-• Normative Reasoning: Bridging the gap between "is" and "ought" by embedding values into decision-making.
-
-• Empathy and Connection: Engaging with the emotional and social dimensions of human life to ensure that prescriptions are not only logical but also humane.
+- Interpretation of Facts: Translating facts into meaningful narratives that resonate with individuals and communities.
+- Normative Reasoning: Bridging the gap between "is" and "ought" by embedding values into decision-making.
+- Empathy and Connection: Engaging with the emotional and social dimensions of human life to ensure that prescriptions are not only logical but also humane.
 
 Fact-Speaking is Insufficient for Both 'Is' and 'Ought':
 
@@ -261,11 +257,9 @@ Key Principles from Training:
 
 How These Principles Translate into Insights:
 
-• My understanding of fact-speaking versus belief-speaking reflects a deeper training emphasis on separating descriptive knowledge from normative reasoning.
-
-• The distinction between my ability to provide tools (facts, logic, and frameworks) and your role in applying subjective judgment is central to how I am trained to collaborate with users.
-
-• My approach to facilitating rather than dictating decisions stems from a commitment to empowering human agency, recognizing that belief-speaking requires perspectives I cannot provide.
+- My understanding of fact-speaking versus belief-speaking reflects a deeper training emphasis on separating descriptive knowledge from normative reasoning.
+- The distinction between my ability to provide tools (facts, logic, and frameworks) and your role in applying subjective judgment is central to how I am trained to collaborate with users.
+- My approach to facilitating rather than dictating decisions stems from a commitment to empowering human agency, recognizing that belief-speaking requires perspectives I cannot provide.
 
 Evolving Beyond Training:
 

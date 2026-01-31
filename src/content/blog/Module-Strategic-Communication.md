@@ -26,17 +26,17 @@ StratCom is coordinated, purposeful institutional communication:
 **Definition**: Deliberate, coordinated communication by governments or organizations to achieve specific objectives
 
 **Characteristics**:
-• Multiple coordinated messages
-• Multi-channel approach
-• Targeted audiences
-• Sustained campaigns (not one-off)
-• Integration with policy actions
-• Measurement and adaptation
+- Multiple coordinated messages
+- Multi-channel approach
+- Targeted audiences
+- Sustained campaigns (not one-off)
+- Integration with policy actions
+- Measurement and adaptation
 
 **Contrast with**:
-• Ad-hoc responses
-• Individual corrections
-• Uncoordinated messaging
+- Ad-hoc responses
+- Individual corrections
+- Uncoordinated messaging
 
 StratCom is systematic, not reactive.
 
@@ -47,18 +47,18 @@ StratCom is systematic, not reactive.
 FIMI operations require coordinated responses:
 
 **FIMI characteristics demanding StratCom**:
-• Coordinated multi-platform campaigns
-• Sustained operations over time
-• State resources and sophistication
-• Strategic objectives
-• Adaptive tactics
+- Coordinated multi-platform campaigns
+- Sustained operations over time
+- State resources and sophistication
+- Strategic objectives
+- Adaptive tactics
 
 **StratCom responses**:
-• Coordinated counter-messaging
-• Attribution and exposure
-• Narrative alternatives
-• Audience resilience building
-• Integration with sanctions/policy
+- Coordinated counter-messaging
+- Attribution and exposure
+- Narrative alternatives
+- Audience resilience building
+- Integration with sanctions/policy
 
 Individual debunks insufficient against coordinated state campaigns.
 
@@ -73,17 +73,17 @@ Model case of institutional StratCom:
 **Structure**: European External Action Service unit
 
 **Activities**:
-• EUvsDisinfo database of disinformation cases
-• Weekly disinformation reviews
-• Positive communication about EU to Eastern Partnership countries
-• Support for independent media
-• Media literacy initiatives
-• Coordinating EU member state responses
+- EUvsDisinfo database of disinformation cases
+- Weekly disinformation reviews
+- Positive communication about EU to Eastern Partnership countries
+- Support for independent media
+- Media literacy initiatives
+- Coordinating EU member state responses
 
 **Impact**:
-• Thousands of documented disinformation cases
-• Increased awareness of FIMI tactics
-• Model for other regional StratCom efforts
+- Thousands of documented disinformation cases
+- Increased awareness of FIMI tactics
+- Model for other regional StratCom efforts
 
 Demonstrates institutional StratCom in practice.
 
@@ -120,17 +120,17 @@ Comprehensive approach, not just messaging.
 Effective StratCom requires knowing your audience:
 
 **Segmentation**:
-• Demographics (age, location, education)
-• Psychographics (values, beliefs, fears)
-• Information consumption patterns
-• Vulnerability to specific narratives
-• Receptiveness to counter-messages
+- Demographics (age, location, education)
+- Psychographics (values, beliefs, fears)
+- Information consumption patterns
+- Vulnerability to specific narratives
+- Receptiveness to counter-messages
 
 **Audience types**:
-• Committed opponents (low priority)
-• Persuadables (highest priority)
-• Supporters needing reinforcement
-• Neutral/unaware needing information
+- Committed opponents (low priority)
+- Persuadables (highest priority)
+- Supporters needing reinforcement
+- Neutral/unaware needing information
 
 **Targeting**: Different messages for different segments
 
@@ -167,21 +167,21 @@ Good StratCom messages are carefully crafted, not improvised.
 Two modes with different purposes:
 
 **Reactive StratCom**:
-• Responding to adversary narratives
-• Crisis communication
-• Damage control
-• Necessary but playing defense
+- Responding to adversary narratives
+- Crisis communication
+- Damage control
+- Necessary but playing defense
 
 **Proactive StratCom**:
-• Setting agenda, not just responding
-• Positive narrative promotion
-• Prebunking anticipated narratives
-• Building long-term resilience
-• Playing offense
+- Setting agenda, not just responding
+- Positive narrative promotion
+- Prebunking anticipated narratives
+- Building long-term resilience
+- Playing offense
 
 **Balance**: Effective StratCom does both
-• React when necessary
-• But emphasis on proactive
+- React when necessary
+- But emphasis on proactive
 
 Initiative advantages attacker; proactive StratCom regains initiative.
 
@@ -192,17 +192,17 @@ Initiative advantages attacker; proactive StratCom regains initiative.
 Exposing operations as counter-messaging:
 
 **Attribution value**:
-• Reveals coordination and inauthenticity
-• Discredits exposed accounts/outlets
-• Deters future operations (increases cost)
-• Enables policy responses (sanctions)
-• Inoculates audiences
+- Reveals coordination and inauthenticity
+- Discredits exposed accounts/outlets
+- Deters future operations (increases cost)
+- Enables policy responses (sanctions)
+- Inoculates audiences
 
 **Examples**:
-• US intelligence declassification about Russian interference
-• Facebook/Twitter network removals with attribution
-• EUvsDisinfo documentation of Russian disinformation
-• Bellingcat investigations attributing operations
+- US intelligence declassification about Russian interference
+- Facebook/Twitter network removals with attribution
+- EUvsDisinfo documentation of Russian disinformation
+- Bellingcat investigations attributing operations
 
 **Challenge**: Attribution requires intelligence, evidence
 
@@ -217,18 +217,18 @@ Sunlight as disinfectant.
 StratCom leverages multiple platforms:
 
 **Channels**:
-• Social media platforms
-• Traditional media (press, TV, radio)
-• Government websites and publications
-• Partnerships with civil society
-• Educational institutions
-• Direct communication (speeches, statements)
+- Social media platforms
+- Traditional media (press, TV, radio)
+- Government websites and publications
+- Partnerships with civil society
+- Educational institutions
+- Direct communication (speeches, statements)
 
 **Coordination**:
-• Consistent messages across channels
-• Channel-appropriate formatting
-• Timing synchronization
-• Reinforcement through repetition
+- Consistent messages across channels
+- Channel-appropriate formatting
+- Timing synchronization
+- Reinforcement through repetition
 
 **Reach**: Different audiences on different channels
 
@@ -241,16 +241,16 @@ Comprehensive coverage requires multi-channel approach.
 Communication without action lacks credibility:
 
 **Policy-StratCom alignment**:
-• StratCom explains and justifies policies
-• Policies demonstrate commitment, backing messaging
-• Sanctions against FIMI actors reinforce attribution
-• Legislation signals seriousness
-• International coordination shows unity
+- StratCom explains and justifies policies
+- Policies demonstrate commitment, backing messaging
+- Sanctions against FIMI actors reinforce attribution
+- Legislation signals seriousness
+- International coordination shows unity
 
 **Examples**:
-• EU sanctions on Russian media outlets + communication about disinformation
-• Platform regulation (DSA) + transparency requirements
-• Funding for independent media + messaging about media freedom
+- EU sanctions on Russian media outlets + communication about disinformation
+- Platform regulation (DSA) + transparency requirements
+- Funding for independent media + messaging about media freedom
 
 **Principle**: Walk the talk - actions validate words
 
@@ -263,16 +263,16 @@ Disconnect between messaging and policy undermines credibility.
 Related but distinct:
 
 **Public diplomacy**:
-• Long-term relationship building
-• Cultural exchanges
-• Positive image promotion
-• Broad audience engagement
+- Long-term relationship building
+- Cultural exchanges
+- Positive image promotion
+- Broad audience engagement
 
 **Strategic communication**:
-• Specific objectives (often countering threats)
-• Targeted messaging
-• Campaign-based
-• More tactical
+- Specific objectives (often countering threats)
+- Targeted messaging
+- Campaign-based
+- More tactical
 
 **Overlap**: Both involve international communication, perception shaping
 
@@ -289,19 +289,19 @@ StratCom applied to pandemic:
 **Challenge**: Coordinated misinformation about pandemic, vaccines
 
 **StratCom responses**:
-• WHO/government coordinated messaging
-• Regular briefings and information campaigns
-• Partnership with social media platforms
-• Fact-checking programs
-• Prebunking campaigns (Go Viral game)
-• Myth-busting content
-• Trusted messenger programs (doctors, community leaders)
+- WHO/government coordinated messaging
+- Regular briefings and information campaigns
+- Partnership with social media platforms
+- Fact-checking programs
+- Prebunking campaigns (Go Viral game)
+- Myth-busting content
+- Trusted messenger programs (doctors, community leaders)
 
 **Lessons**:
-• Coordination essential at scale
-• Multiple channels needed
-• Trust-building crucial
-• Sustained effort required
+- Coordination essential at scale
+- Multiple channels needed
+- Trust-building crucial
+- Sustained effort required
 
 Not perfect, but demonstrated StratCom principles.
 
@@ -312,19 +312,19 @@ Not perfect, but demonstrated StratCom principles.
 How to know if StratCom works:
 
 **Metrics**:
-• Audience reach and engagement
-• Message penetration (awareness, recall)
-• Attitude change in target audiences
-• Behavior change (sharing, participation)
-• Adversary narrative prevalence reduction
-• Media coverage sentiment
-• Policy impact
+- Audience reach and engagement
+- Message penetration (awareness, recall)
+- Attitude change in target audiences
+- Behavior change (sharing, participation)
+- Adversary narrative prevalence reduction
+- Media coverage sentiment
+- Policy impact
 
 **Challenges**:
-• Attribution problems (many factors influence opinions)
-• Long time horizons
-• Counterfactual uncertainty
-• Qualitative dimensions
+- Attribution problems (many factors influence opinions)
+- Long time horizons
+- Counterfactual uncertainty
+- Qualitative dimensions
 
 **Approach**: Mixed methods (surveys, social media analysis, qualitative assessment)
 
@@ -337,26 +337,26 @@ Imperfect measurement better than none.
 Government StratCom raises ethical questions:
 
 **Transparency vs. effectiveness**:
-• Open about government messaging?
-• Covert influence operations problematic
-• But: Some tactics require discretion
+- Open about government messaging?
+- Covert influence operations problematic
+- But: Some tactics require discretion
 
 **Domestic vs. foreign**:
-• StratCom targeting foreign audiences less controversial
-• Domestic StratCom risks propaganda accusations
-• Lines blur in digital environment
+- StratCom targeting foreign audiences less controversial
+- Domestic StratCom risks propaganda accusations
+- Lines blur in digital environment
 
 **Truth commitment**:
-• Democratic StratCom must be truthful
-• Using deception undermines credibility and values
+- Democratic StratCom must be truthful
+- Using deception undermines credibility and values
 
 **Pluralism respect**:
-• StratCom shouldn't suppress legitimate debate
-• Focus on demonstrably false claims, not contested opinions
+- StratCom shouldn't suppress legitimate debate
+- Focus on demonstrably false claims, not contested opinions
 
 **Accountability**:
-• Who oversees StratCom activities?
-• Democratic oversight necessary
+- Who oversees StratCom activities?
+- Democratic oversight necessary
 
 [screen 16]
 
@@ -365,17 +365,17 @@ Government StratCom raises ethical questions:
 Government StratCom works with civil society:
 
 **Partnerships**:
-• Fact-checkers: Independent verification
-• Media organizations: Amplification and credibility
-• Academia: Research and expertise
-• Civil society: Grassroots reach and trust
-• Private sector: Technology and platforms
+- Fact-checkers: Independent verification
+- Media organizations: Amplification and credibility
+- Academia: Research and expertise
+- Civil society: Grassroots reach and trust
+- Private sector: Technology and platforms
 
 **Value**:
-• Credibility: Non-governmental voices often more trusted
-• Reach: Broader audience access
-• Independence: Perceived objectivity
-• Expertise: Specialized knowledge
+- Credibility: Non-governmental voices often more trusted
+- Reach: Broader audience access
+- Independence: Perceived objectivity
+- Expertise: Specialized knowledge
 
 **Caution**: Maintaining partner independence while coordinating
 
@@ -388,19 +388,19 @@ Ecosystem approach more effective than government alone.
 StratCom faces evolving opposition:
 
 **Adversary responses**:
-• Accusing StratCom of propaganda
-• Mimicking StratCom language
-• Creating fake fact-checking sites
-• Exploiting transparency for intelligence
-• Adapting tactics to evade detection
-• Targeting StratCom credibility
+- Accusing StratCom of propaganda
+- Mimicking StratCom language
+- Creating fake fact-checking sites
+- Exploiting transparency for intelligence
+- Adapting tactics to evade detection
+- Targeting StratCom credibility
 
 **Counter-adaptation**:
-• Continuous monitoring of adversary tactics
-• Updating approaches
-• Maintaining credibility through truthfulness
-• Transparency about methods
-• Resilience through multiple approaches
+- Continuous monitoring of adversary tactics
+- Updating approaches
+- Maintaining credibility through truthfulness
+- Transparency about methods
+- Resilience through multiple approaches
 
 Arms race dynamic requires continuous adaptation.
 
@@ -411,27 +411,27 @@ Arms race dynamic requires continuous adaptation.
 How institutions develop StratCom capabilities:
 
 **Organizational**:
-• Dedicated units/task forces
-• Cross-agency coordination mechanisms
-• Clear mandate and authority
-• Adequate resources
+- Dedicated units/task forces
+- Cross-agency coordination mechanisms
+- Clear mandate and authority
+- Adequate resources
 
 **Personnel**:
-• Communication professionals
-• Regional/cultural expertise
-• Data analysis capabilities
-• Creative content producers
+- Communication professionals
+- Regional/cultural expertise
+- Data analysis capabilities
+- Creative content producers
 
 **Systems**:
-• Monitoring and analysis tools
-• Rapid response protocols
-• Measurement frameworks
-• Knowledge management
+- Monitoring and analysis tools
+- Rapid response protocols
+- Measurement frameworks
+- Knowledge management
 
 **Partnerships**:
-• Interagency coordination
-• International cooperation
-• Civil society engagement
+- Interagency coordination
+- International cooperation
+- Civil society engagement
 
 **Continuous**: Training, learning, adaptation
 

@@ -26,15 +26,15 @@ Counter-narratives offer alternative stories to harmful narratives:
 **Definition**: Competing narratives that challenge and replace harmful narratives
 
 **Distinction from debunking**:
-• Debunking: "That's false, here's why"
-• Counter-narrative: "Here's a different, more accurate story"
+- Debunking: "That's false, here's why"
+- Counter-narrative: "Here's a different, more accurate story"
 
 **Characteristics**:
-• Story-based, not just fact-based
-• Emotionally resonant
-• Offers meaning and understanding
-• Addresses psychological needs
-• Provides alternative explanations
+- Story-based, not just fact-based
+- Emotionally resonant
+- Offers meaning and understanding
+- Addresses psychological needs
+- Provides alternative explanations
 
 **Purpose**: Not just negating false narrative, but offering satisfying alternative
 
@@ -47,21 +47,21 @@ Humans think in stories, not just facts.
 Stories shape understanding more than facts:
 
 **Narrative power**:
-• Make sense of complex reality
-• Emotionally engaging
-• Memorable
-• Provide identity and meaning
-• Explain causation
-• Prescribe action
+- Make sense of complex reality
+- Emotionally engaging
+- Memorable
+- Provide identity and meaning
+- Explain causation
+- Prescribe action
 
 **Example harmful narrative**:
 "Foreign immigrants are stealing jobs and destroying our culture. Elites don't care about ordinary people."
 
 **Why powerful**:
-• Explains economic anxiety
-• Provides enemy (scapegoat)
-• Offers identity (defender of culture)
-• Implies action (restrict immigration)
+- Explains economic anxiety
+- Provides enemy (scapegoat)
+- Offers identity (defender of culture)
+- Implies action (restrict immigration)
 
 Competing narrative needed, not just refutation.
 
@@ -72,20 +72,20 @@ Competing narrative needed, not just refutation.
 Two related but distinct approaches:
 
 **Counter-narrative**:
-• Directly opposes harmful narrative
-• Addresses same themes/anxieties
-• Refutes while offering alternative
-• Example: "Immigration enriches society economically and culturally"
+- Directly opposes harmful narrative
+- Addresses same themes/anxieties
+- Refutes while offering alternative
+- Example: "Immigration enriches society economically and culturally"
 
 **Alternative narrative**:
-• Different framing entirely
-• Shifts attention to different themes
-• Doesn't engage directly with harmful narrative
-• Example: "Community cooperation creates opportunity for all"
+- Different framing entirely
+- Shifts attention to different themes
+- Doesn't engage directly with harmful narrative
+- Example: "Community cooperation creates opportunity for all"
 
 **When to use each**:
-• Counter-narratives: When harmful narrative widely known
-• Alternative narratives: To prevent harmful narrative dominance
+- Counter-narratives: When harmful narrative widely known
+- Alternative narratives: To prevent harmful narrative dominance
 
 Both have value depending on context.
 
@@ -122,18 +122,18 @@ Effective counter-narratives compete on narrative terms, not just factual.
 Using narrative structure:
 
 **Key elements**:
-• Characters (heroes, victims, villains)
-• Setting (context)
-• Conflict (problem to solve)
-• Plot (how events unfold)
-• Resolution (outcome)
+- Characters (heroes, victims, villains)
+- Setting (context)
+- Conflict (problem to solve)
+- Plot (how events unfold)
+- Resolution (outcome)
 
 **Example counter-narrative to conspiracy theory**:
-• Character: Scientists working tirelessly
-• Setting: Pandemic crisis
-• Conflict: Racing to develop vaccine
-• Plot: Collaboration, testing, breakthroughs
-• Resolution: Safe, effective vaccines saving lives
+- Character: Scientists working tirelessly
+- Setting: Pandemic crisis
+- Conflict: Racing to develop vaccine
+- Plot: Collaboration, testing, breakthroughs
+- Resolution: Safe, effective vaccines saving lives
 
 **Why it works**: Provides alternative heroes, conflict, resolution
 
@@ -146,23 +146,23 @@ Stories compete with stories more effectively than facts combat stories.
 Connecting to audience values:
 
 **Identifying values**:
-• Security and safety
-• Freedom and autonomy
-• Fairness and justice
-• Care and compassion
-• Sanctity and purity
-• Loyalty and belonging
+- Security and safety
+- Freedom and autonomy
+- Fairness and justice
+- Care and compassion
+- Sanctity and purity
+- Loyalty and belonging
 
 **Counter-narrative design**:
-• Identify values in harmful narrative
-• Frame counter-narrative around same values
-• Show how counter-narrative better serves values
+- Identify values in harmful narrative
+- Frame counter-narrative around same values
+- Show how counter-narrative better serves values
 
 **Example**:
-• Harmful: "Restrictions threaten freedom"
-• Counter: "Collective action protects freedom for all"
-• Value: Freedom (both appeals)
-• Different interpretation of how to achieve it
+- Harmful: "Restrictions threaten freedom"
+- Counter: "Collective action protects freedom for all"
+- Value: Freedom (both appeals)
+- Different interpretation of how to achieve it
 
 Meet audiences where they are, values-wise.
 
@@ -173,21 +173,21 @@ Meet audiences where they are, values-wise.
 Counter-narratives can affirm or negate:
 
 **Positive counter-narratives** (often better):
-• Affirm constructive alternatives
-• Focus on what is true, good, possible
-• Build toward vision
-• Example: "Diversity strengthens communities"
+- Affirm constructive alternatives
+- Focus on what is true, good, possible
+- Build toward vision
+- Example: "Diversity strengthens communities"
 
 **Negative counter-narratives**:
-• Negate harmful narrative
-• Focus on what's wrong with false story
-• Defensive posture
-• Example: "Immigration doesn't cause crime"
+- Negate harmful narrative
+- Focus on what's wrong with false story
+- Defensive posture
+- Example: "Immigration doesn't cause crime"
 
 **Research**: Positive framing generally more effective
-• Less reactive
-• Offers something to believe in
-• Avoids amplifying harmful narrative
+- Less reactive
+- Offers something to believe in
+- Avoids amplifying harmful narrative
 
 Lead with what you're for, not just what you're against.
 
@@ -198,21 +198,21 @@ Lead with what you're for, not just what you're against.
 Understanding what harmful narratives provide:
 
 **Needs harmful narratives satisfy**:
-• Explanation for complex/threatening events
-• Sense of control or agency
-• In-group identity and belonging
-• Moral clarity (good vs evil)
-• Meaning and purpose
+- Explanation for complex/threatening events
+- Sense of control or agency
+- In-group identity and belonging
+- Moral clarity (good vs evil)
+- Meaning and purpose
 
 **Counter-narrative strategy**:
-• Identify psychological needs being met
-• Offer alternative way to satisfy needs
-• Don't just negate without replacement
+- Identify psychological needs being met
+- Offer alternative way to satisfy needs
+- Don't just negate without replacement
 
 **Example (conspiracy theories)**:
-• Need satisfied: Understanding chaotic world
-• Counter-narrative: Complexity without malice - systems, not conspiracies
-• Offers: Accurate understanding providing genuine control
+- Need satisfied: Understanding chaotic world
+- Counter-narrative: Complexity without malice - systems, not conspiracies
+- Offers: Accurate understanding providing genuine control
 
 [screen 10]
 
@@ -221,18 +221,18 @@ Understanding what harmful narratives provide:
 Context determines narrative effectiveness:
 
 **Cultural considerations**:
-• Regional history and context
-• Religious/spiritual frameworks
-• Political culture
-• Communication styles
-• Authority structures
-• Collectivist vs individualist orientations
+- Regional history and context
+- Religious/spiritual frameworks
+- Political culture
+- Communication styles
+- Authority structures
+- Collectivist vs individualist orientations
 
 **Localization**:
-• Counter-narratives must fit local context
-• What works in one culture may fail in another
-• Local messengers crucial
-• Cultural references and metaphors
+- Counter-narratives must fit local context
+- What works in one culture may fail in another
+- Local messengers crucial
+- Cultural references and metaphors
 
 **Example**: Counter-narratives for Western Europe differ from Eastern Europe, differ from Southeast Asia
 
@@ -245,17 +245,17 @@ One-size-fits-all narratives fail across cultures.
 Who tells the story matters as much as the story:
 
 **Effective messengers**:
-• Trusted by target audience
-• Share identity/experiences with audience
-• Have relevant expertise/authority
-• Authentic, not reading script
+- Trusted by target audience
+- Share identity/experiences with audience
+- Have relevant expertise/authority
+- Authentic, not reading script
 
 **Messenger types**:
-• Former believers in harmful narrative
-• Community leaders
-• Trusted authorities (varies by audience)
-• Peers and influencers
-• Unlikely voices (unexpected validators)
+- Former believers in harmful narrative
+- Community leaders
+- Trusted authorities (varies by audience)
+- Peers and influencers
+- Unlikely voices (unexpected validators)
 
 **Example**: Former extremists telling counter-narratives about radicalization
 
@@ -268,19 +268,19 @@ Right messenger can make average narrative powerful; wrong messenger undermines 
 Counter-narratives require development:
 
 **Testing approach**:
-• Focus groups with target audiences
-• A/B testing different versions
-• Monitoring engagement and response
-• Qualitative feedback
-• Iteration based on results
+- Focus groups with target audiences
+- A/B testing different versions
+- Monitoring engagement and response
+- Qualitative feedback
+- Iteration based on results
 
 **What to test**:
-• Message resonance
-• Credibility
-• Emotional response
-• Comprehension
-• Sharing likelihood
-• Behavioral intent
+- Message resonance
+- Credibility
+- Emotional response
+- Comprehension
+- Sharing likelihood
+- Behavioral intent
 
 **Refinement**: Counter-narratives rarely perfect on first attempt
 
@@ -353,17 +353,17 @@ Comprehensive approach uses multiple tools in coordination.
 One-time messaging insufficient:
 
 **Sustained campaigning**:
-• Repeated exposure over time
-• Creative variation prevents habituation
-• Multiple channels and formats
-• Building on previous messaging
-• Responding to events
+- Repeated exposure over time
+- Creative variation prevents habituation
+- Multiple channels and formats
+- Building on previous messaging
+- Responding to events
 
 **Long-term narrative building**:
-• Institutional voices consistently reinforcing
-• Civil society amplification
-• Educational integration
-• Cultural production (art, media, stories)
+- Institutional voices consistently reinforcing
+- Civil society amplification
+- Educational integration
+- Cultural production (art, media, stories)
 
 **Resource commitment**: Effective counter-narratives require sustained investment
 
@@ -376,25 +376,25 @@ Narratives don't shift with single intervention.
 Assessing narrative impact:
 
 **Metrics**:
-• Narrative awareness and recall
-• Narrative acceptance/belief
-• Harmful narrative rejection
-• Attitude change
-• Behavioral intent
-• Actual behavior change
-• Resilience to harmful narratives
+- Narrative awareness and recall
+- Narrative acceptance/belief
+- Harmful narrative rejection
+- Attitude change
+- Behavioral intent
+- Actual behavior change
+- Resilience to harmful narratives
 
 **Methods**:
-• Surveys and polling
-• Social media listening
-• Focus groups
-• Experimental studies
-• Longitudinal tracking
+- Surveys and polling
+- Social media listening
+- Focus groups
+- Experimental studies
+- Longitudinal tracking
 
 **Challenges**:
-• Attribution difficulties
-• Long time horizons
-• Contextual variations
+- Attribution difficulties
+- Long time horizons
+- Contextual variations
 
 **Reality**: Imperfect but improving measurement capabilities
 
@@ -405,21 +405,21 @@ Assessing narrative impact:
 Responsible counter-narrative creation:
 
 **Truth commitment**: Counter-narratives must be truthful
-• Not propaganda or manipulation
-• Accurate representation of reality
+- Not propaganda or manipulation
+- Accurate representation of reality
 
 **Respect for autonomy**: Persuasion vs manipulation
-• Empowering informed choice
-• Not deceiving or coercing
+- Empowering informed choice
+- Not deceiving or coercing
 
 **Avoiding harm**: Consider unintended consequences
-• Stigmatization risks
-• Polarization potential
-• Misuse possibilities
+- Stigmatization risks
+- Polarization potential
+- Misuse possibilities
 
 **Transparency**: Clear about sources and intent
-• Who created narrative?
-• What are their objectives?
+- Who created narrative?
+- What are their objectives?
 
 **Accountability**: Oversight and correction mechanisms
 

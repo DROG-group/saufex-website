@@ -23,15 +23,11 @@ The difference? Design choices that either inform or manipulate. Understanding v
 
 Good visualizations serve clear purposes:
 
-• Reveal patterns and trends not visible in raw numbers
-
-• Enable comparison across categories or time
-
-• Communicate findings efficiently
-
-• Make complex data accessible
-
-• Support accurate interpretation
+- Reveal patterns and trends not visible in raw numbers
+- Enable comparison across categories or time
+- Communicate findings efficiently
+- Make complex data accessible
+- Support accurate interpretation
 
 Bad visualizations obscure truth through design choices that mislead, whether intentionally or through incompetence.
 
@@ -117,15 +113,11 @@ Poor color choices make visualizations inaccessible or misleading.
 
 "Chart junk" refers to visual elements that don't represent data:
 
-• Unnecessary 3D effects
-
-• Decorative images that distort
-
-• Excessive gridlines
-
-• Redundant labels
-
-• Non-functional textures and patterns
+- Unnecessary 3D effects
+- Decorative images that distort
+- Excessive gridlines
+- Redundant labels
+- Non-functional textures and patterns
 
 Edward Tufte's principle: Maximize the data-ink ratio. Every visual element should represent data or aid interpretation. Remove everything else.
 
@@ -173,15 +165,11 @@ Before trusting a visualization:
 
 Digital media enables interactive visualizations:
 
-• Filtering and selection
-
-• Zooming and detail on demand
-
-• Animated transitions showing change
-
-• Multiple views of same data
-
-• User-driven exploration
+- Filtering and selection
+- Zooming and detail on demand
+- Animated transitions showing change
+- Multiple views of same data
+- User-driven exploration
 
 Done well, interactivity enhances understanding. Done poorly, it overwhelms or enables cherry-picking desired perspectives.
 
@@ -191,25 +179,16 @@ Done well, interactivity enhances understanding. Done poorly, it overwhelms or e
 
 If you create visualizations:
 
-• Start axes at zero for quantities
-
-• Use appropriate chart types
-
-• Provide clear titles and labels
-
-• Cite data sources
-
-• Show uncertainty (error bars, confidence intervals)
-
-• Avoid unnecessary decoration
-
-• Test with intended audience
-
-• Make accessible to color-blind users
-
-• Provide data tables as alternative
-
-• Question if design choices serve clarity or narrative
+- Start axes at zero for quantities
+- Use appropriate chart types
+- Provide clear titles and labels
+- Cite data sources
+- Show uncertainty (error bars, confidence intervals)
+- Avoid unnecessary decoration
+- Test with intended audience
+- Make accessible to color-blind users
+- Provide data tables as alternative
+- Question if design choices serve clarity or narrative
 
 [screen 13]
 
@@ -218,15 +197,15 @@ If you create visualizations:
 Creating quality visualizations doesn't require expensive software:
 
 **Free tools:**
-• Datawrapper (journalist-friendly)
-• RAWGraphs (open source)
-• Flourish (templates)
-• Google Charts
+- Datawrapper (journalist-friendly)
+- RAWGraphs (open source)
+- Flourish (templates)
+- Google Charts
 
 **Learning resources:**
-• "The Visual Display of Quantitative Information" (Edward Tufte)
-• Data visualization courses (Coursera, Khan Academy)
-• "How to Lie with Statistics" (Darrell Huff)
+- "The Visual Display of Quantitative Information" (Edward Tufte)
+- Data visualization courses (Coursera, Khan Academy)
+- "How to Lie with Statistics" (Darrell Huff)
 
 The principles matter more than the tools.
 
@@ -236,15 +215,11 @@ The principles matter more than the tools.
 
 Data visualizations increasingly shape public understanding of important issues:
 
-• COVID-19 pandemic tracking
-
-• Climate change trends
-
-• Economic indicators
-
-• Election forecasting
-
-• Public health statistics
+- COVID-19 pandemic tracking
+- Climate change trends
+- Economic indicators
+- Election forecasting
+- Public health statistics
 
 Being able to evaluate visualization integrity is essential citizenship. Bad visualizations spread quickly on social media, shaping opinions through manipulation rather than information.
 

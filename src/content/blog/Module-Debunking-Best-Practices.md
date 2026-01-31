@@ -26,10 +26,10 @@ Debunking corrects false information after it spreads:
 **Definition**: Providing evidence and explanation that refutes a false claim
 
 **When necessary**:
-• False claim already widely circulated
-• Prebunking wasn't possible or insufficient
-• Belief correction needed
-• Harm reduction urgent
+- False claim already widely circulated
+- Prebunking wasn't possible or insufficient
+- Belief correction needed
+- Harm reduction urgent
 
 **Challenge**: Working against cognitive biases that favor false belief persistence
 
@@ -90,9 +90,9 @@ Debunking creates explanatory void - fill it:
 **Problem**: Simply negating false explanation leaves people without alternative
 
 **Example**:
-• False: "Vaccines cause autism"
-• Weak debunk: "No they don't"
-• Better: "Vaccines don't cause autism. The study suggesting this was fraudulent and retracted. Multiple large studies show no link. Autism signs appear around same age as routine vaccines, creating coincidental timing but not causation."
+- False: "Vaccines cause autism"
+- Weak debunk: "No they don't"
+- Better: "Vaccines don't cause autism. The study suggesting this was fraudulent and retracted. Multiple large studies show no link. Autism signs appear around same age as routine vaccines, creating coincidental timing but not causation."
 
 **Principle**: Provide alternative causal explanation
 
@@ -113,14 +113,14 @@ Complexity advantages misinformation:
 **Problem**: Asymmetry favors falsehood
 
 **Solution**:
-• Core correction in one sentence
-• Supporting details available but secondary
-• Visual aids to simplify
-• Analogies for complex issues
+- Core correction in one sentence
+- Supporting details available but secondary
+- Visual aids to simplify
+- Analogies for complex issues
 
 **Example**:
-• Weak: "Climate models incorporate multiple forcing factors..."
-• Better: "97% of climate scientists agree humans cause climate change"
+- Weak: "Climate models incorporate multiple forcing factors..."
+- Better: "97% of climate scientists agree humans cause climate change"
 
 **Caveat**: Don't oversimplify to the point of inaccuracy
 
@@ -133,16 +133,16 @@ Simplicity increases effectiveness without sacrificing truth.
 Who delivers correction affects reception:
 
 **Trusted sources more effective**:
-• Domain experts (scientists for health claims)
-• Nonpartisan fact-checkers
-• In-group members (shared identity)
-• Previously trusted sources
+- Domain experts (scientists for health claims)
+- Nonpartisan fact-checkers
+- In-group members (shared identity)
+- Previously trusted sources
 
 **Source considerations**:
-• Match source to audience
-• Conservatives trust different sources than liberals
-• Local voices often more trusted than distant authorities
-• Peer correction sometimes most effective
+- Match source to audience
+- Conservatives trust different sources than liberals
+- Local voices often more trusted than distant authorities
+- Peer correction sometimes most effective
 
 **Caution**: Even trusted sources face limits with identity-central beliefs
 
@@ -157,9 +157,9 @@ Reduce defensive processing:
 **Technique**: Affirm audience values before presenting correction
 
 **Examples**:
-• "I know you care about protecting children..." [before vaccine facts]
-• "We all want secure elections..." [before debunking fraud claims]
-• "Like you, I want to understand the truth..." [before correction]
+- "I know you care about protecting children..." [before vaccine facts]
+- "We all want secure elections..." [before debunking fraud claims]
+- "Like you, I want to understand the truth..." [before correction]
 
 **Why it works**: Reduces threat to identity, makes correction less defensive
 
@@ -178,14 +178,14 @@ Make corrections less politically charged:
 **Problem**: Framing correction in partisan terms triggers motivated reasoning
 
 **Better approach**:
-• Present as shared values issue
-• Use nonpartisan sources
-• Avoid political language
-• Focus on facts, not ideology
+- Present as shared values issue
+- Use nonpartisan sources
+- Avoid political language
+- Focus on facts, not ideology
 
 **Example**:
-• Weak: "Trump's false claim about..."
-• Better: "Analysis of election data shows..."
+- Weak: "Trump's false claim about..."
+- Better: "Analysis of election data shows..."
 
 **Limitation**: Some issues inherently partisan; complete neutrality impossible
 
@@ -200,16 +200,16 @@ Misinformation often emotionally resonant:
 **Problem**: Purely factual corrections miss emotional dimension
 
 **Approach**:
-• Acknowledge emotional appeal of false claim
-• Provide emotionally satisfying truth
-• Validate concerns while correcting facts
-• Appropriate emotional tone
+- Acknowledge emotional appeal of false claim
+- Provide emotionally satisfying truth
+- Validate concerns while correcting facts
+- Appropriate emotional tone
 
 **Example** (vaccine hesitancy):
-• Acknowledge: "I understand the fear for your child's safety"
-• Validate: "Protecting children is paramount"
-• Correct: "Vaccines are thoroughly tested for safety"
-• Satisfy: "Vaccination protects your child from serious diseases"
+- Acknowledge: "I understand the fear for your child's safety"
+- Validate: "Protecting children is paramount"
+- Correct: "Vaccines are thoroughly tested for safety"
+- Satisfy: "Vaccination protects your child from serious diseases"
 
 **Balance**: Engage emotion without manipulation
 
@@ -220,16 +220,16 @@ Misinformation often emotionally resonant:
 Images increase effectiveness:
 
 **Why visuals help**:
-• Processing fluency
-• Memorability
-• Engagement
-• Simplification of complex information
+- Processing fluency
+- Memorability
+- Engagement
+- Simplification of complex information
 
 **Visual debunking approaches**:
-• Infographics showing true vs false
-• Side-by-side comparisons
-• Annotated images pointing out manipulation
-• Charts and graphs for data
+- Infographics showing true vs false
+- Side-by-side comparisons
+- Annotated images pointing out manipulation
+- Charts and graphs for data
 
 **Caution**: Poor visuals can confuse or bore
 
@@ -246,7 +246,7 @@ Even when debunking, use inoculation:
 **Technique**: Explain manipulation technique while correcting specific claim
 
 **Example**:
-• "This image uses emotional manipulation - showing suffering to bypass critical thinking. Here's what actually happened..."
+- "This image uses emotional manipulation - showing suffering to bypass critical thinking. Here's what actually happened..."
 
 **Value**: Teaches technique recognition, builds future resistance
 
@@ -287,15 +287,15 @@ Avoiding mistakes as important as applying best practices.
 When to debunk affects effectiveness:
 
 **Immediate debunking** (within hours):
-• Prevents belief crystallization
-• Reaches people before deep exposure
-• Can prevent viral spread
+- Prevents belief crystallization
+- Reaches people before deep exposure
+- Can prevent viral spread
 
 **Delayed debunking** (days/weeks later):
-• Beliefs more entrenched
-• Wider audience already exposed
-• Backfire risks higher
-• But: Still valuable
+- Beliefs more entrenched
+- Wider audience already exposed
+- Backfire risks higher
+- But: Still valuable
 
 **Continuous correction**: Persistent false narratives require sustained response
 
@@ -312,25 +312,25 @@ Earlier usually better, but quality matters.
 Different platforms require different approaches:
 
 **Twitter/X**:
-• Concise corrections
-• Thread format for detail
-• Quote-tweet carefully (can amplify)
-• Direct replies vs public debunks
+- Concise corrections
+- Thread format for detail
+- Quote-tweet carefully (can amplify)
+- Direct replies vs public debunks
 
 **Facebook**:
-• Fact-checker labels
-• Group corrections for community norms
-• Personal relationships enable peer correction
+- Fact-checker labels
+- Group corrections for community norms
+- Personal relationships enable peer correction
 
 **YouTube**:
-• Video debunks for video claims
-• Community notes
-• Collaborative debunking channels
+- Video debunks for video claims
+- Community notes
+- Collaborative debunking channels
 
 **TikTok**:
-• Short, engaging format
-• Stitch/duet features for direct response
-• Visual creativity matters
+- Short, engaging format
+- Stitch/duet features for direct response
+- Visual creativity matters
 
 Meet audiences on their platforms with appropriate formats.
 
@@ -341,18 +341,18 @@ Meet audiences on their platforms with appropriate formats.
 Correcting friends and family:
 
 **Unique challenges**:
-• Relationship preservation matters
-• Identity threats heightened
-• More receptiveness (existing trust)
-• Ongoing interactions, not one-time
+- Relationship preservation matters
+- Identity threats heightened
+- More receptiveness (existing trust)
+- Ongoing interactions, not one-time
 
 **Best practices**:
-• Private message > public correction
-• Questions > assertions ("Where did you see that?")
-• Empathy and respect
-• Shared values emphasis
-• Patience - not expecting immediate change
-• Preserving relationship > winning argument
+- Private message > public correction
+- Questions > assertions ("Where did you see that?")
+- Empathy and respect
+- Shared values emphasis
+- Patience - not expecting immediate change
+- Preserving relationship > winning argument
 
 **When to disengage**: If correction harms relationship disproportionately
 
@@ -365,19 +365,19 @@ Personal debunking requires extra care.
 How to know if debunking worked:
 
 **Individual level**:
-• Belief change (immediate, delayed)
-• Sharing behavior change
-• Openness to future corrections
+- Belief change (immediate, delayed)
+- Sharing behavior change
+- Openness to future corrections
 
 **Network level**:
-• Reduced false content sharing
-• Decreased engagement with false content
-• Increased accurate information sharing
+- Reduced false content sharing
+- Decreased engagement with false content
+- Increased accurate information sharing
 
 **Societal level**:
-• Polling on belief prevalence
-• Information quality metrics
-• Misinformation impact reduction
+- Polling on belief prevalence
+- Information quality metrics
+- Misinformation impact reduction
 
 **Reality**: Perfect measurement difficult; improvement over baseline shows value
 
@@ -390,17 +390,17 @@ Track what you can; don't let perfect be enemy of good.
 Recognize debunking limitations:
 
 **When debunking fails**:
-• Identity-central beliefs
-• Extreme motivated reasoning
-• Closed information ecosystems
-• Cult-like group dynamics
+- Identity-central beliefs
+- Extreme motivated reasoning
+- Closed information ecosystems
+- Cult-like group dynamics
 
 **Alternatives to debunking**:
-• Prebunking for prevention
-• Structural interventions (platform design)
-• Reducing exposure to false sources
-• Building media literacy
-• Addressing underlying conditions (anxiety, distrust)
+- Prebunking for prevention
+- Structural interventions (platform design)
+- Reducing exposure to false sources
+- Building media literacy
+- Addressing underlying conditions (anxiety, distrust)
 
 **Acceptance**: Not every false belief correctable
 

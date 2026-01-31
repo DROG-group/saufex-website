@@ -15,17 +15,15 @@ The Interdemocracy framework aims to achieve its procedural truth by structurall
 
 A society becomes truly resilient not through rigid planning, but by cultivating individuals whose capacity to generate and apply adaptive insights grows through authentic expression. This individual is the resilience battery, and the process of belief-speaking is the charging mechanism.
 
-• The charging process: In a structured setting (silent writing, reading aloud, non-interaction, neutral reception) a participant articulates an ever more authentic view without the corruption of social pressure. The neutral protocol simulates a non-totalitarian encounter, free of judgment, open to responsibility. The output by individuals is swiftly processed and clustered with the output of others.
-
-• The internal motivation: The reward for the participants is not praise, but both experience and evidence. On the one hand, there is the experience of enhanced autonomy and a temporal experience of procedural belonging. On the other hand, there is the experience of achievement; there is proof that their internal tension helped push forward a structural shift. This evidence accumulates over multiple cycles. Speaking authentically becomes a gratifying, direct way to affect the system the participants live in, creating a powerful, internal motivation that causes them to return voluntarily to the act of expressing themselves.
+- The charging process: In a structured setting (silent writing, reading aloud, non-interaction, neutral reception) a participant articulates an ever more authentic view without the corruption of social pressure. The neutral protocol simulates a non-totalitarian encounter, free of judgment, open to responsibility. The output by individuals is swiftly processed and clustered with the output of others.
+- The internal motivation: The reward for the participants is not praise, but both experience and evidence. On the one hand, there is the experience of enhanced autonomy and a temporal experience of procedural belonging. On the other hand, there is the experience of achievement; there is proof that their internal tension helped push forward a structural shift. This evidence accumulates over multiple cycles. Speaking authentically becomes a gratifying, direct way to affect the system the participants live in, creating a powerful, internal motivation that causes them to return voluntarily to the act of expressing themselves.
 
 ## [](#Temporal-optimization-speed-and-lag)Temporal optimization: speed and lag
 
 The system is engineered to minimize temporal lag in the analytical steps while preserving the necessary time for human commitment to maintain output quality.
 
-• Acceleration: Generative AI is deployed for speed, rapidly clustering the diverse belief-speaking outputs to identify the major differing perspectives and feed a resilience council to swiftly draft two (or more) alternative policy recommendations. This accelerates the process from weeks to minutes, giving the system necessary temporal relevance.
-
-• Protection of fidelity: The time saved is strategically redirected to the human-centric stages: the initial, authentic articulation (belief-speaking) and the subsequent reflection cycle. This ensures the process is not compromised by speed but is supported by thoughtful deliberation and conviction, although the process can be implemented quickly if needed - within a handful of hours.
+- Acceleration: Generative AI is deployed for speed, rapidly clustering the diverse belief-speaking outputs to identify the major differing perspectives and feed a resilience council to swiftly draft two (or more) alternative policy recommendations. This accelerates the process from weeks to minutes, giving the system necessary temporal relevance.
+- Protection of fidelity: The time saved is strategically redirected to the human-centric stages: the initial, authentic articulation (belief-speaking) and the subsequent reflection cycle. This ensures the process is not compromised by speed but is supported by thoughtful deliberation and conviction, although the process can be implemented quickly if needed - within a handful of hours.
 
 **Structural** **integrity:** **the** **closed** **loop**
 

@@ -21,11 +21,9 @@ In our current times of affective polarisation, we should develop the ability to
 
 The following theory exists:
 
-• We are all born without beliefs. As we grow, we try to understand the world, and our experiences shape our beliefs.
-
-• When we encounter information that contradicts our beliefs, we feel threatened. As a result, we tend to ignore it while readily accepting information that confirms our beliefs.
-
-• But perhaps, hard-to-refute facts presented by scientists and journalists can make us question our beliefs.
+- We are all born without beliefs. As we grow, we try to understand the world, and our experiences shape our beliefs.
+- When we encounter information that contradicts our beliefs, we feel threatened. As a result, we tend to ignore it while readily accepting information that confirms our beliefs.
+- But perhaps, hard-to-refute facts presented by scientists and journalists can make us question our beliefs.
 
 What is your perspective on this? To find out, here’s a question for you: Scientists and journalists present facts that may not align with your beliefs. Do such inconvenient facts inspire you to reconsider your beliefs? Why do you think so?
 
@@ -33,11 +31,9 @@ What is your perspective on this? To find out, here’s a question for you: Scie
 
 The following theory exists:
 
-• Since our beliefs are shaped by our personal experiences, we feel that they are normal and natural.
-
-• Therefore, beliefs that differ from ours appear abnormal and unnatural, and we view people with such beliefs as mistaken.
-
-• But perhaps, when no one thinks like us and even people who are similar to us hold different beliefs, we might start to have doubts.
+- Since our beliefs are shaped by our personal experiences, we feel that they are normal and natural.
+- Therefore, beliefs that differ from ours appear abnormal and unnatural, and we view people with such beliefs as mistaken.
+- But perhaps, when no one thinks like us and even people who are similar to us hold different beliefs, we might start to have doubts.
 
 What is your perspective on this? To find out, here’s a question for you: Students in your class sometimes hold completely different beliefs from you. Does this inspire you to reconsider your beliefs? Why do you think so?
 
@@ -45,11 +41,9 @@ What is your perspective on this? To find out, here’s a question for you: Stud
 
 The following theory exists:
 
-• Our brain is made of different parts, some forming their own beliefs. Not all of these beliefs are logical or rational—some are for instance intuitive. This can lead to us holding different beliefs in various situations.
-
-• Other people may think we are unreliable if our beliefs change depending on the situation and may consider us insincere. Therefore, we pretend that our beliefs are consistent. And when we are caught being inconsistent, we try to justify it by providing some logical explanation.
-
-• But perhaps, if we would only think logically and rationally rather than intuitively, we would have more consistent beliefs and look better in the eyes of others.
+- Our brain is made of different parts, some forming their own beliefs. Not all of these beliefs are logical or rational—some are for instance intuitive. This can lead to us holding different beliefs in various situations.
+- Other people may think we are unreliable if our beliefs change depending on the situation and may consider us insincere. Therefore, we pretend that our beliefs are consistent. And when we are caught being inconsistent, we try to justify it by providing some logical explanation.
+- But perhaps, if we would only think logically and rationally rather than intuitively, we would have more consistent beliefs and look better in the eyes of others.
 
 What is your perspective on this? To find out, here’s a question for you: There are educational programs that encourage you to think before posting online. Do you take this advice seriously, or do you politely listen but do not change your online behavior? Why do you think that?
 
@@ -57,11 +51,9 @@ What is your perspective on this? To find out, here’s a question for you: Ther
 
 The following theory exists:
 
-• We often lack enough experiences and knowledge to hold strong beliefs on every subject. As a result, we adopt beliefs from those closest to us, without noticing.
-
-• Consequently, we often agree with people close to us, which feels comforting. But it also means that when our beliefs change, it could lead to difficult relationships or even breakups.
-
-• But perhaps, it might be possible to hold contradictory beliefs without breaking off connections with those close to us if we show them that, despite our differences, we can still like and respect each other.
+- We often lack enough experiences and knowledge to hold strong beliefs on every subject. As a result, we adopt beliefs from those closest to us, without noticing.
+- Consequently, we often agree with people close to us, which feels comforting. But it also means that when our beliefs change, it could lead to difficult relationships or even breakups.
+- But perhaps, it might be possible to hold contradictory beliefs without breaking off connections with those close to us if we show them that, despite our differences, we can still like and respect each other.
 
 What is your perspective on this? To find out, here’s a question for you: Imagine having a completely different belief about a topic than your closest group of friends. What gives you the courage to express that belief within the group? Why do you think that?
 

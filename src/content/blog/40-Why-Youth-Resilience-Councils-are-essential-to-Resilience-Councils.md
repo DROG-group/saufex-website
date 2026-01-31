@@ -15,7 +15,7 @@ What are the unique contributions Youth Resilience Councils (YRCs) can bring to 
 
 Argument: Adolescents and young adults are prime targets of FIMI campaigns, yet they are often absent from decision-making.
 
-• Why it matters:
+- Why it matters:
 
 o Adolescents spend more time in digital environments than any other demographic.
 
@@ -23,7 +23,7 @@ o They are disproportionately exposed to disinformation, algorithm-driven radica
 
 o Without their input, RCs risk missing key insights on how FIMI actually affects digital-native generations.
 
-• What YRCs add:
+- What YRCs add:
 
 o Provide direct, experience-based insights into how disinformation spreads within youth networks.
 
@@ -35,7 +35,7 @@ o Help adapt RC recommendations to real-world digital behaviors.
 
 Argument: Adolescents experience “partial dislocation” (isolation from public life), which increases their vulnerability to FIMI. YRCs counteract this.
 
-• Why it matters:
+- Why it matters:
 
 o Many young people withdraw into small, trusted “islands” (peer groups, online spaces) and avoid broader engagement.
 
@@ -43,7 +43,7 @@ o Dislocation weakens resilience, making youth more susceptible to polarization,
 
 o If we don’t connect young people to real democratic decision-making, FIMI actors will fill that gap.
 
-• What YRCs add:
+- What YRCs add:
 
 o They offer structured participation in national resilience strategies, reducing feelings of detachment.
 
@@ -55,7 +55,7 @@ o They bridge the gap between their personal experiences and national policymaki
 
 Argument: For RCs to be broadly accepted, their decisions must reflect society as a whole—including youth perspectives.
 
-• Why it matters:
+- Why it matters:
 
 o Youth make up a large and increasingly vocal part of society—but their views are often sidelined.
 
@@ -63,7 +63,7 @@ o Policies crafted without youth input risk facing pushback, disengagement, or e
 
 o Disinformation actors often exploit youth distrust in institutions to spread anti-democratic narratives.
 
-• What YRCs add:
+- What YRCs add:
 
 o Their presence signals inclusivity, ensuring RC recommendations resonate across generations.
 
@@ -75,13 +75,13 @@ o They provide peer-to-peer influence—youth are more likely to trust messages 
 
 Argument: FIMI threats evolve rapidly, and the most effective long-term strategy is ensuring that future generations are equipped to counter them.
 
-• Why it matters:
+- Why it matters:
 
 o Long-term resilience requires building a generation that instinctively recognizes and resists FIMI tactics.
 
 o Many countries in the EU implement educational responses to disinformation—but resilience must extend beyond media literacy to active civic participation.
 
-• What YRCs add:
+- What YRCs add:
 
 o Create a pipeline of engaged, critical citizens who will lead future resilience efforts.
 
@@ -93,7 +93,7 @@ o Provide a feedback loop—as FIMI tactics evolve, new youth participants conti
 
 Argument: YRCs act as real-time monitoring networks, detecting emerging FIMI trends faster than traditional RC structures.
 
-• Why it matters:
+- Why it matters:
 
 o Many FIMI narratives spread first in youth spaces (TikTok, Discord, gaming platforms) before reaching mainstream media.
 
@@ -101,7 +101,7 @@ o Traditional RC structures may not catch these threats until they are already w
 
 o Youth are more adaptable to digital shifts than many policy experts.
 
-• What YRCs add:
+- What YRCs add:
 
 o Act as early warning systems, flagging new threats before they escalate.
 

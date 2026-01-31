@@ -151,17 +151,12 @@ Public attribution typically requires high or very high confidence. Intelligence
 
 Actors deliberately obscure attribution:
 
-• **Proxy operations**: Using cutouts and intermediaries
-
-• **Technical obfuscation**: VPNs, stolen credentials, compromised infrastructure
-
-• **False flags**: Leaving misleading evidence pointing to other actors
-
-• **Linguistic camouflage**: Hiring native speakers or using better translation
-
-• **Narrative laundering**: Multiple steps between origin and target audience
-
-• **Operational security**: Compartmentalization, need-to-know access
+- **Proxy operations**: Using cutouts and intermediaries
+- **Technical obfuscation**: VPNs, stolen credentials, compromised infrastructure
+- **False flags**: Leaving misleading evidence pointing to other actors
+- **Linguistic camouflage**: Hiring native speakers or using better translation
+- **Narrative laundering**: Multiple steps between origin and target audience
+- **Operational security**: Compartmentalization, need-to-know access
 
 These strategies make attribution resource-intensive and time-consuming.
 
@@ -171,13 +166,10 @@ These strategies make attribution resource-intensive and time-consuming.
 
 Sophisticated actors can impersonate others:
 
-• Using language patterns mimicking different groups
-
-• Leaving technical traces pointing elsewhere
-
-• Promoting narratives that seem to benefit other actors
-
-• Creating content that appears to be domestic rather than foreign
+- Using language patterns mimicking different groups
+- Leaving technical traces pointing elsewhere
+- Promoting narratives that seem to benefit other actors
+- Creating content that appears to be domestic rather than foreign
 
 "This looks like Actor X" doesn't guarantee it is Actor X. Attribution requires ruling out false flag possibilities.
 
@@ -203,15 +195,11 @@ Most confident attributions involve cooperation across these actors.
 
 Attribution isn't just technical - it's political:
 
-• **Diplomatic consequences**: Public attribution strains international relations
-
-• **Intelligence sources**: Revealing evidence might expose capabilities
-
-• **Domestic politics**: Attribution claims might appear politically motivated
-
-• **Alliances**: Coordinating attribution with allies takes time
-
-• **Standard of evidence**: Higher for public attribution than internal intelligence
+- **Diplomatic consequences**: Public attribution strains international relations
+- **Intelligence sources**: Revealing evidence might expose capabilities
+- **Domestic politics**: Attribution claims might appear politically motivated
+- **Alliances**: Coordinating attribution with allies takes time
+- **Standard of evidence**: Higher for public attribution than internal intelligence
 
 These factors explain why attribution is sometimes delayed or qualified despite strong evidence.
 
@@ -237,13 +225,10 @@ This tension means early statements may be qualified ("consistent with" rather t
 
 Increasingly, attribution is collaborative:
 
-• **Allied intelligence sharing**: NATO, Five Eyes, EU cooperation
-
-• **Joint public statements**: Multiple governments attributing together
-
-• **Platform coordination**: Sharing information about networks
-
-• **Researcher networks**: Independent analysis that governments can reference
+- **Allied intelligence sharing**: NATO, Five Eyes, EU cooperation
+- **Joint public statements**: Multiple governments attributing together
+- **Platform coordination**: Sharing information about networks
+- **Researcher networks**: Independent analysis that governments can reference
 
 Collective attribution increases credibility and reduces isolation of targeted states.
 
@@ -269,13 +254,10 @@ These frameworks provide systematic documentation that supports attribution effo
 
 Sometimes, despite evidence of manipulation, definitive attribution proves impossible:
 
-• Insufficient technical evidence
-
-• Successful operational security by actors
-
-• Multiple potential actors with similar motivations
-
-• Ambiguity about state direction vs independent actors
+- Insufficient technical evidence
+- Successful operational security by actors
+- Multiple potential actors with similar motivations
+- Ambiguity about state direction vs independent actors
 
 Inability to attribute doesn't mean manipulation isn't occurring. Response can focus on behavior (coordinated inauthentic behavior) rather than attribution.
 

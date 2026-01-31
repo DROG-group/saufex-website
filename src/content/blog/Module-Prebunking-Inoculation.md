@@ -24,14 +24,14 @@ Inoculation theory suggests yes - preemptively exposing people to weakened forms
 Psychological inoculation parallels medical immunization:
 
 **Medical immunization**:
-• Exposure to weakened pathogen
-• Immune system learns to recognize threat
-• Develops resistance to future infection
+- Exposure to weakened pathogen
+- Immune system learns to recognize threat
+- Develops resistance to future infection
 
 **Psychological inoculation**:
-• Exposure to weakened persuasive attack
-• Cognitive defenses activated
-• Develops resistance to future manipulation
+- Exposure to weakened persuasive attack
+- Cognitive defenses activated
+- Develops resistance to future manipulation
 
 **Origin**: William McGuire (1960s) studying resistance to persuasion
 
@@ -46,16 +46,16 @@ The metaphor is more than analogy - similar cognitive mechanisms apply.
 Two fundamentally different approaches:
 
 **Debunking** (reactive):
-• After false information spreads
-• Correcting specific false claims
-• Chasing each new false claim
-• Fighting upstream against cognitive biases
+- After false information spreads
+- Correcting specific false claims
+- Chasing each new false claim
+- Fighting upstream against cognitive biases
 
 **Prebunking** (proactive):
-• Before false information spreads
-• Teaching recognition of manipulation techniques
-• Generalizable resistance
-• Working with cognitive mechanisms
+- Before false information spreads
+- Teaching recognition of manipulation techniques
+- Generalizable resistance
+- Working with cognitive mechanisms
 
 **Analogy**: Debunking treats disease; prebunking vaccinates
 
@@ -70,15 +70,15 @@ Shift from reactive to proactive counter-messaging.
 Two key components make inoculation effective:
 
 **1. Forewarning**:
-• Alerting audience to persuasive threat
-• Creates motivation to defend beliefs
-• Reduces surprise advantage of manipulation
+- Alerting audience to persuasive threat
+- Creates motivation to defend beliefs
+- Reduces surprise advantage of manipulation
 
 **2. Weak counter-arguments**:
-• Exposure to weakened manipulation attempt
-• Strong enough to trigger defenses
-• Weak enough to be refuted
-• Builds confidence in resisting
+- Exposure to weakened manipulation attempt
+- Strong enough to trigger defenses
+- Weak enough to be refuted
+- Builds confidence in resisting
 
 **Result**: Active resistance rather than passive acceptance
 
@@ -93,15 +93,15 @@ Gamifying inoculation for misinformation:
 **Description**: Online game where players become misinformation creators
 
 **Mechanism**:
-• Players learn manipulation techniques by using them
-• Impersonation, emotional manipulation, polarization, conspiracy
-• Experience as manipulator builds recognition as target
+- Players learn manipulation techniques by using them
+- Impersonation, emotional manipulation, polarization, conspiracy
+- Experience as manipulator builds recognition as target
 
 **Research findings**:
-• Increases ability to recognize manipulation
-• Effect persists over time
-• Works across political spectrum
-• Improves lateral reading
+- Increases ability to recognize manipulation
+- Effect persists over time
+- Works across political spectrum
+- Improves lateral reading
 
 **Play at**: getbadnews.com (free, 15 minutes)
 
@@ -116,16 +116,16 @@ Inoculation specifically for COVID-19 misinformation:
 **Context**: Rapid response to pandemic misinformation
 
 **Design**:
-• Similar mechanics to Bad News
-• Specific to health misinformation tactics
-• Emotional manipulation, fake experts, conspiracy thinking
+- Similar mechanics to Bad News
+- Specific to health misinformation tactics
+- Emotional manipulation, fake experts, conspiracy thinking
 
 **Development**: Cambridge researchers in partnership with UK government
 
 **Impact**:
-• Used in public health campaigns
-• Demonstrated rapid deployment potential
-• Showed inoculation applicable to specific threats
+- Used in public health campaigns
+- Demonstrated rapid deployment potential
+- Showed inoculation applicable to specific threats
 
 Proof that prebunking can scale to urgent needs.
 
@@ -136,15 +136,15 @@ Proof that prebunking can scale to urgent needs.
 Two approaches to prebunking:
 
 **Technique inoculation** (preferred):
-• Expose manipulation techniques
-• Emotional manipulation, false dichotomies, scapegoating
-• Content-agnostic
-• Transfers across topics
+- Expose manipulation techniques
+- Emotional manipulation, false dichotomies, scapegoating
+- Content-agnostic
+- Transfers across topics
 
 **Content inoculation**:
-• Warn about specific false claims
-• Less generalizable
-• Risk of amplifying false claim through repetition
+- Warn about specific false claims
+- Less generalizable
+- Risk of amplifying false claim through repetition
 
 **Research consensus**: Technique inoculation more effective and scalable
 
@@ -179,17 +179,17 @@ Strong scientific support for inoculation:
 **Meta-analyses**: Average effect size of d=0.43 (moderate, meaningful effect)
 
 **Key findings**:
-• More effective than debunking
-• Effects persist over weeks/months
-• Works across political identities
-• Effective for diverse topics
-• Scalable through games and videos
-• Cross-cultural effectiveness
+- More effective than debunking
+- Effects persist over weeks/months
+- Works across political identities
+- Effective for diverse topics
+- Scalable through games and videos
+- Cross-cultural effectiveness
 
 **Limitations**:
-• Not 100% effective
-• Requires some engagement
-• Effects decay over very long periods
+- Not 100% effective
+- Requires some engagement
+- Effects decay over very long periods
 
 But: Most robust counter-messaging approach available.
 
@@ -200,22 +200,22 @@ But: Most robust counter-messaging approach available.
 Short videos as scalable inoculation:
 
 **Approach**:
-• 90-second videos explaining manipulation technique
-• Examples demonstrating technique
-• Refutation of technique
-• Available on social platforms
+- 90-second videos explaining manipulation technique
+- Examples demonstrating technique
+- Refutation of technique
+- Available on social platforms
 
 **Jigsaw (Google) research**:
-• YouTube prebunking campaign
-• Millions of impressions
-• Measurable attitude inoculation
-• Cost-effective at scale
+- YouTube prebunking campaign
+- Millions of impressions
+- Measurable attitude inoculation
+- Cost-effective at scale
 
 **Advantages**:
-• Reaches passive audiences
-• Platform-native format
-• Viral potential
-• Doesn't require active participation
+- Reaches passive audiences
+- Platform-native format
+- Viral potential
+- Doesn't require active participation
 
 Social media as inoculation delivery mechanism.
 
@@ -226,20 +226,20 @@ Social media as inoculation delivery mechanism.
 When to inoculate matters:
 
 **Optimal timing**: Before exposure to misinformation
-• Defenses prepared in advance
-• No false claim to amplify
+- Defenses prepared in advance
+- No false claim to amplify
 
 **Still effective**: Shortly before exposure
-• Just-in-time inoculation
-• Event-driven (election prebunking)
+- Just-in-time inoculation
+- Event-driven (election prebunking)
 
 **Less effective**: Long after exposure
-• Beliefs already formed
-• Becomes debunking, not prebunking
+- Beliefs already formed
+- Becomes debunking, not prebunking
 
 **Decay**: Effects diminish over time
-• Booster inoculations helpful
-• Like medical vaccines
+- Booster inoculations helpful
+- Like medical vaccines
 
 Strategic timing maximizes impact.
 
@@ -250,17 +250,17 @@ Strategic timing maximizes impact.
 Inoculation particularly relevant to foreign influence:
 
 **FIMI tactics amenable to prebunking**:
-• Emotional manipulation and divisive content
-• Coordinated inauthentic behavior
-• False amplification through bots
-• Scapegoating and polarization
-• Conspiracy narratives
+- Emotional manipulation and divisive content
+- Coordinated inauthentic behavior
+- False amplification through bots
+- Scapegoating and polarization
+- Conspiracy narratives
 
 **Prebunking approach**:
-• Teach recognition of FIMI techniques
-• Expose coordination tactics
-• Build skepticism toward artificial amplification
-• Raise awareness of foreign targeting
+- Teach recognition of FIMI techniques
+- Expose coordination tactics
+- Build skepticism toward artificial amplification
+- Raise awareness of foreign targeting
 
 **Advantage**: FIMI operations use consistent tactics; technique recognition transfers across campaigns
 
@@ -271,28 +271,28 @@ Inoculation particularly relevant to foreign influence:
 Key principles for effective prebunking:
 
 **1. Identify threat**:
-• What manipulation techniques target audience?
-• What false narratives are anticipated?
+- What manipulation techniques target audience?
+- What false narratives are anticipated?
 
 **2. Forewarning**:
-• Alert audience to manipulation attempt
-• Motivate resistance
+- Alert audience to manipulation attempt
+- Motivate resistance
 
 **3. Weakened exposure**:
-• Present manipulation technique
-• Make it recognizable but refutable
+- Present manipulation technique
+- Make it recognizable but refutable
 
 **4. Refutation**:
-• Explain why technique is misleading
-• Provide tools for recognition
+- Explain why technique is misleading
+- Provide tools for recognition
 
 **5. Confidence building**:
-• Empower audience to resist
-• Provide alternatives
+- Empower audience to resist
+- Provide alternatives
 
 **6. Testing**:
-• Measure effectiveness
-• Iterate based on results
+- Measure effectiveness
+- Iterate based on results
 
 [screen 14]
 
@@ -301,26 +301,26 @@ Key principles for effective prebunking:
 Inoculation isn't a silver bullet:
 
 **Adoption barriers**:
-• Requires reaching audience before exposure
-• Depends on audience engagement
-• Effects decay over time
+- Requires reaching audience before exposure
+- Depends on audience engagement
+- Effects decay over time
 
 **Content objections**:
-• Explaining manipulation techniques could teach them
-• Risk of cynicism (trusting nothing)
+- Explaining manipulation techniques could teach them
+- Risk of cynicism (trusting nothing)
 
 **Scale challenges**:
-• Requires resources for development
-• Delivery mechanisms needed
+- Requires resources for development
+- Delivery mechanisms needed
 
 **Effectiveness variability**:
-• Stronger for some techniques than others
-• Individual differences in receptivity
+- Stronger for some techniques than others
+- Individual differences in receptivity
 
 **Research gaps**:
-• Long-term effects uncertain
-• Optimal boosting intervals unknown
-• Best delivery mechanisms still being determined
+- Long-term effects uncertain
+- Optimal boosting intervals unknown
+- Best delivery mechanisms still being determined
 
 [screen 15]
 
@@ -329,28 +329,28 @@ Inoculation isn't a silver bullet:
 How to reach millions with inoculation:
 
 **Digital games**:
-• Bad News, Go Viral
-• Self-directed, scalable
-• Engaging format
+- Bad News, Go Viral
+- Self-directed, scalable
+- Engaging format
 
 **Social media campaigns**:
-• Prebunking videos on YouTube, TikTok
-• Platform partnerships
-• Viral potential
+- Prebunking videos on YouTube, TikTok
+- Platform partnerships
+- Viral potential
 
 **Educational integration**:
-• Media literacy curricula
-• University courses
-• Professional training
+- Media literacy curricula
+- University courses
+- Professional training
 
 **Public campaigns**:
-• Government messaging
-• NGO outreach
-• Mass media
+- Government messaging
+- NGO outreach
+- Mass media
 
 **Platform integration**:
-• Prebunking before elections
-• Context added to trending topics
+- Prebunking before elections
+- Context added to trending topics
 
 Scalability makes prebunking cost-effective.
 
@@ -361,19 +361,19 @@ Scalability makes prebunking cost-effective.
 Targeting anticipated manipulation:
 
 **Election prebunking**:
-• Preempt vote fraud narratives
-• Warn of foreign interference tactics
-• Explain vote counting processes
+- Preempt vote fraud narratives
+- Warn of foreign interference tactics
+- Explain vote counting processes
 
 **Health prebunking**:
-• Before pandemic misinformation surges
-• Inoculate against anti-vaccine narratives
-• Build trust in health authorities
+- Before pandemic misinformation surges
+- Inoculate against anti-vaccine narratives
+- Build trust in health authorities
 
 **Crisis prebunking**:
-• Anticipate crisis misinformation
-• Prepare audiences for information chaos
-• Strengthen resilience
+- Anticipate crisis misinformation
+- Prepare audiences for information chaos
+- Strengthen resilience
 
 **Strategic value**: When threats predictable, prebunking most powerful
 
@@ -384,20 +384,20 @@ Targeting anticipated manipulation:
 Prebunking raises ethical questions:
 
 **Manipulation concerns**: Is inoculation itself manipulative?
-• Defense: Transparent methods, truthful content
-• Teaching recognition vs persuasion
+- Defense: Transparent methods, truthful content
+- Teaching recognition vs persuasion
 
 **Paternalism**: Deciding what audiences need protection from
-• Balance: Empowering choice vs directing beliefs
-• Importance of transparency
+- Balance: Empowering choice vs directing beliefs
+- Importance of transparency
 
 **Free speech**: Does prebunking chill expression?
-• Defense: Information, not censorship
-• Empowering critical evaluation
+- Defense: Information, not censorship
+- Empowering critical evaluation
 
 **Target selection**: Who decides what to prebunk?
-• Governance: Democratic accountability needed
-• Avoiding partisan weaponization
+- Governance: Democratic accountability needed
+- Avoiding partisan weaponization
 
 Ethical prebunking is transparent, truthful, and empowering.
 
@@ -408,22 +408,22 @@ Ethical prebunking is transparent, truthful, and empowering.
 Growing recognition driving adoption:
 
 **Trends**:
-• Platform integration increasing
-• Government adoption for strategic communication
-• Research investment growing
-• Educational integration
+- Platform integration increasing
+- Government adoption for strategic communication
+- Research investment growing
+- Educational integration
 
 **Innovations**:
-• AI-personalized inoculation
-• Real-time adaptive prebunking
-• VR/AR immersive experiences
-• Micro-targeted preventive messaging
+- AI-personalized inoculation
+- Real-time adaptive prebunking
+- VR/AR immersive experiences
+- Micro-targeted preventive messaging
 
 **Challenges ahead**:
-• Adversary adaptation
-• Measuring long-term impact
-• Optimal delivery mechanisms
-• Balancing scale with personalization
+- Adversary adaptation
+- Measuring long-term impact
+- Optimal delivery mechanisms
+- Balancing scale with personalization
 
 **Vision**: Prebunking as routine public health measure, like vaccines. Prevention as standard, not afterthought.
 

@@ -83,13 +83,10 @@ Neutral language is rare - awareness of loaded language helps you identify persp
 
 Bias shows in what gets covered:
 
-• Which stories appear on the front page vs buried inside?
-
-• Which issues get ongoing coverage vs single mentions?
-
-• What perspectives are included vs excluded?
-
-• How much context is provided for different topics?
+- Which stories appear on the front page vs buried inside?
+- Which issues get ongoing coverage vs single mentions?
+- What perspectives are included vs excluded?
+- How much context is provided for different topics?
 
 Compare coverage across multiple outlets to see what's emphasized or omitted.
 
@@ -121,17 +118,12 @@ This means you can't trust your gut feeling that media is biased. You need syste
 
 When consuming biased media:
 
-• Recognize the perspective being presented
-
-• Seek out opposing perspectives on the same story
-
-• Separate facts from interpretation
-
-• Identify what's emphasized and what's minimized
-
-• Consider who benefits from this framing
-
-• Look for primary sources to verify key claims
+- Recognize the perspective being presented
+- Seek out opposing perspectives on the same story
+- Separate facts from interpretation
+- Identify what's emphasized and what's minimized
+- Consider who benefits from this framing
+- Look for primary sources to verify key claims
 
 [screen 11]
 
@@ -151,15 +143,11 @@ The latter is far more dangerous. Seek out accurate reporting, even if biased, o
 
 The best defense against bias is consuming diverse sources:
 
-• Follow outlets with different political leanings
-
-• Read international perspectives on your own country
-
-• Include sources that challenge your assumptions
-
-• Seek out specialized subject matter experts
-
-• Compare coverage of the same event across outlets
+- Follow outlets with different political leanings
+- Read international perspectives on your own country
+- Include sources that challenge your assumptions
+- Seek out specialized subject matter experts
+- Compare coverage of the same event across outlets
 
 Over time, consuming diverse perspectives helps you identify patterns of bias and arrive at more nuanced understanding.
 

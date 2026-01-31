@@ -117,12 +117,9 @@ Another intervention method is bolstering already trusted sources by investing i
 
 It is hard to state anything conclusive about the effectiveness of this type of interventions. Some of the challenges are:
 
-• Most interventions lack a theoretical underpinning;
-
-• Hardly any intervention of this type addresses motivated reasoning;
-
-• Effectiveness research mainly concerns the US and adults;
-
-• Limited knowledge exists about the longevity of effects.
+- Most interventions lack a theoretical underpinning;
+- Hardly any intervention of this type addresses motivated reasoning;
+- Effectiveness research mainly concerns the US and adults;
+- Limited knowledge exists about the longevity of effects.
 
 

@@ -40,10 +40,10 @@ These systems effectively decide what billions of people see, with profound impl
 Early social media showed posts in reverse chronological order - simple but overwhelming as networks grew.
 
 **The shift to algorithmic feeds**:
-• Too much content to see everything
-• Users complained about missing important posts
-• Platforms wanted to maximize engagement
-• Advertising model requires attention
+- Too much content to see everything
+- Users complained about missing important posts
+- Platforms wanted to maximize engagement
+- Advertising model requires attention
 
 Algorithmic curation solved some problems while creating new ones.
 
@@ -74,17 +74,17 @@ Algorithms balance these factors using machine learning trained on billions of i
 Most platforms optimize for engagement because it drives advertising revenue. But engagement ≠ quality:
 
 **High engagement content** often includes:
-• Outrage and anger
-• Divisive political content
-• Shocking or sensational claims
-• Emotional manipulation
-• Conflict and controversy
+- Outrage and anger
+- Divisive political content
+- Shocking or sensational claims
+- Emotional manipulation
+- Conflict and controversy
 
 **Low engagement content** often includes:
-• Nuanced analysis
-• Context and complexity
-• Accurate but boring information
-• Thoughtful discussion
+- Nuanced analysis
+- Context and complexity
+- Accurate but boring information
+- Thoughtful discussion
 
 Optimizing for engagement can systematically amplify lower-quality, more divisive content.
 
@@ -99,10 +99,10 @@ Personalization can create self-reinforcing information environments:
 **Echo chamber**: Communities where similar views are reinforced and opposing views absent
 
 **Consequences**:
-• Reduced exposure to diverse perspectives
-• Reinforcement of existing beliefs
-• Difficulty understanding those who disagree
-• Increased polarization
+- Reduced exposure to diverse perspectives
+- Reinforcement of existing beliefs
+- Difficulty understanding those who disagree
+- Increased polarization
 
 Debate continues about how significant these effects are in practice.
 
@@ -127,10 +127,10 @@ Documented examples include conspiracy theories, extremist political content, an
 
 False information often performs well in engagement metrics:
 
-• Novelty attracts attention
-• Outrage drives sharing
-• Conspiracy theories are engaging narratives
-• Simple false claims spread faster than complex truths
+- Novelty attracts attention
+- Outrage drives sharing
+- Conspiracy theories are engaging narratives
+- Simple false claims spread faster than complex truths
 
 If algorithms optimize for engagement, they may systematically amplify misinformation over accurate but less engaging content.
 
@@ -158,11 +158,11 @@ Both legitimate marketers and malicious actors use these techniques. Algorithms 
 
 Platform algorithms are largely opaque:
 
-• Exact algorithms are trade secrets
-• Constant changes make understanding difficult
-• Users can't see why content was recommended
-• Researchers have limited access to data
-• Platform explanations are vague or misleading
+- Exact algorithms are trade secrets
+- Constant changes make understanding difficult
+- Users can't see why content was recommended
+- Researchers have limited access to data
+- Platform explanations are vague or misleading
 
 This opacity prevents accountability and makes informed user choice difficult.
 
@@ -177,15 +177,15 @@ YouTube demonstrates algorithmic impact:
 **Power**: Largely determines what becomes popular
 
 **Documented issues**:
-• Recommending conspiracy theories
-• Leading users toward extreme content
-• Amplifying misinformation during breaking news
-• Creating incentives for sensational thumbnails and titles
+- Recommending conspiracy theories
+- Leading users toward extreme content
+- Amplifying misinformation during breaking news
+- Creating incentives for sensational thumbnails and titles
 
 **Responses**:
-• Reduced recommendations of borderline content
-• Authoritative sources boosted for news
-• Information panels for sensitive topics
+- Reduced recommendations of borderline content
+- Authoritative sources boosted for news
+- Information panels for sensitive topics
 
 But fundamental tension between engagement optimization and information quality remains.
 
@@ -195,16 +195,16 @@ But fundamental tension between engagement optimization and information quality 
 
 TikTok's algorithm is particularly sophisticated:
 
-• No need to follow accounts - algorithm curates everything
-• Extremely responsive to engagement signals
-• Learns user preferences quickly
-• Creates highly personalized, addictive experiences
+- No need to follow accounts - algorithm curates everything
+- Extremely responsive to engagement signals
+- Learns user preferences quickly
+- Creates highly personalized, addictive experiences
 
 **Concerns**:
-• Minimal user control over content
-• Rapid spread of challenges (beneficial or harmful)
-• Potential for foreign influence through recommendation bias
-• Effects on youth attention and mental health
+- Minimal user control over content
+- Rapid spread of challenges (beneficial or harmful)
+- Potential for foreign influence through recommendation bias
+- Effects on youth attention and mental health
 
 TikTok exemplifies the power - and risks - of sophisticated recommendation systems.
 
@@ -231,16 +231,16 @@ Whether these changes adequately address concerns remains debated. Critics argue
 Should algorithm design be regulated?
 
 **Arguments for**:
-• Algorithms shape public discourse
-• Optimization for engagement harms society
-• Opacity prevents accountability
-• Market incentives misaligned with public good
+- Algorithms shape public discourse
+- Optimization for engagement harms society
+- Opacity prevents accountability
+- Market incentives misaligned with public good
 
 **Arguments against**:
-• Technical complexity makes regulation difficult
-• Innovation may be stifled
-• Free speech concerns
-• Government overreach risks
+- Technical complexity makes regulation difficult
+- Innovation may be stifled
+- Free speech concerns
+- Government overreach risks
 
 EU's Digital Services Act requires transparency and risk assessments, but doesn't mandate specific algorithmic designs.
 
@@ -251,16 +251,16 @@ EU's Digital Services Act requires transparency and risk assessments, but doesn'
 Some advocate returning to chronological feeds:
 
 **Advantages**:
-• User control and predictability
-• No manipulation via ranking
-• Transparency
-• Reduces engagement optimization problems
+- User control and predictability
+- No manipulation via ranking
+- Transparency
+- Reduces engagement optimization problems
 
 **Disadvantages**:
-• Information overload returns
-• Important content buried
-• Spam more visible
-• Reduced engagement (and platform revenue)
+- Information overload returns
+- Important content buried
+- Spam more visible
+- Reduced engagement (and platform revenue)
 
 Some platforms now offer chronological options alongside algorithmic feeds, letting users choose.
 
@@ -290,19 +290,13 @@ Each approach involves trade-offs and technical challenges.
 
 As a user, you have limited but real influence:
 
-• Consciously curate who you follow
-
-• Resist engagement bait
-
-• Actively seek diverse sources
-
-• Use "not interested" or hide options
-
-• Question why content was recommended
-
-• Consider chronological feeds where available
-
-• Remember the algorithm optimizes for engagement, not your well-being
+- Consciously curate who you follow
+- Resist engagement bait
+- Actively seek diverse sources
+- Use "not interested" or hide options
+- Question why content was recommended
+- Consider chronological feeds where available
+- Remember the algorithm optimizes for engagement, not your well-being
 
 Understanding algorithmic systems helps you use them more intentionally rather than being passively shaped by them.
 

@@ -23,13 +23,10 @@ Addressing information threats requires cooperation across platforms, between pl
 
 Most threats span multiple platforms:
 
-• Foreign operations operate across Facebook, Twitter, YouTube, TikTok simultaneously
-
-• Banned actors migrate between platforms
-
-• Manipulation tactics spread across services
-
-• Harmful content gets cross-posted
+- Foreign operations operate across Facebook, Twitter, YouTube, TikTok simultaneously
+- Banned actors migrate between platforms
+- Manipulation tactics spread across services
+- Harmful content gets cross-posted
 
 Effective response requires coordination that no single actor can achieve alone.
 
@@ -73,13 +70,10 @@ GIFCT demonstrates potential for platform cooperation but also raises governance
 
 During crises (attacks, disasters, conflicts), platforms sometimes coordinate:
 
-• Elevated content review for misinformation
-
-• Boosting authoritative sources
-
-• Sharing information about manipulation operations
-
-• Cross-platform policy enforcement
+- Elevated content review for misinformation
+- Boosting authoritative sources
+- Sharing information about manipulation operations
+- Cross-platform policy enforcement
 
 Examples include responses to terrorist attacks, natural disasters, and election interference attempts. Ad hoc coordination during Ukraine conflict showed potential.
 
@@ -134,10 +128,10 @@ Governments share intelligence about foreign influence operations:
 **Advance warning**: Alerts about anticipated operations
 
 **Challenges**:
-• Classification concerns
-• Timeliness
-• Platform trust in government information
-• Political sensitivity
+- Classification concerns
+- Timeliness
+- Platform trust in government information
+- Political sensitivity
 
 More systematized in recent years but still ad hoc.
 
@@ -156,10 +150,10 @@ Researchers need platform data; platforms need external validation:
 **Consultation**: Researchers advising on policy
 
 **Tensions**:
-• Privacy vs research needs
-• Platform control over research agenda
-• Selective data provision
-• Researcher independence
+- Privacy vs research needs
+- Platform control over research agenda
+- Selective data provision
+- Researcher independence
 
 DSA mandates researcher access, potentially improving cooperation.
 
@@ -178,10 +172,10 @@ Platforms partner with independent fact-checkers:
 **Coverage**: Multiple countries and languages
 
 **Effectiveness debates**:
-• Corrections reach fewer than false claims
-• Labels sometimes increase belief (backfire effect)
-• Fact-checkers overwhelmed by volume
-• But: Some evidence of reduced spread
+- Corrections reach fewer than false claims
+- Labels sometimes increase belief (backfire effect)
+- Fact-checkers overwhelmed by volume
+- But: Some evidence of reduced spread
 
 [screen 11]
 
@@ -189,15 +183,11 @@ Platforms partner with independent fact-checkers:
 
 NGOs and advocacy groups work with platforms:
 
-• Reporting harmful content and coordinated campaigns
-
-• Providing expertise on specific issues (hate speech, child safety, etc.)
-
-• Pressure campaigns for policy changes
-
-• Monitoring platform commitments
-
-• Collaborative policy development
+- Reporting harmful content and coordinated campaigns
+- Providing expertise on specific issues (hate speech, child safety, etc.)
+- Pressure campaigns for policy changes
+- Monitoring platform commitments
+- Collaborative policy development
 
 Relationship ranges from partnership to adversarial depending on issue and platform.
 
@@ -246,15 +236,15 @@ Cooperation faces multiple obstacles:
 Researchers and watchdogs need programmatic access to platform data:
 
 **Arguments for open APIs**:
-• Enable independent monitoring
-• Support research on platform effects
-• Democratize platform oversight
+- Enable independent monitoring
+- Support research on platform effects
+- Democratize platform oversight
 
 **Platform concerns**:
-• Privacy violations
-• System abuse and scraping
-• Competitive intelligence extraction
-• Security risks
+- Privacy violations
+- System abuse and scraping
+- Competitive intelligence extraction
+- Security risks
 
 Many platforms have restricted API access in recent years, hampering research. DSA requires researcher access but implementation details matter.
 
@@ -264,13 +254,10 @@ Many platforms have restricted API access in recent years, hampering research. D
 
 End-to-end encrypted messaging creates cooperation dilemmas:
 
-• Platforms can't access content to moderate
-
-• Law enforcement can't access for investigations
-
-• But: Encryption protects privacy and security
-
-• Proposals for compromises (client-side scanning) are contentious
+- Platforms can't access content to moderate
+- Law enforcement can't access for investigations
+- But: Encryption protects privacy and security
+- Proposals for compromises (client-side scanning) are contentious
 
 No consensus on balancing privacy and safety in encrypted spaces.
 
@@ -302,19 +289,16 @@ Effective cooperation requires:
 
 Cooperation is likely to increase:
 
-• Regulatory requirements (DSA, Online Safety Act)
-
-• Growing sophistication of threats
-
-• Public pressure for coordination
-
-• Learning from successes and failures
+- Regulatory requirements (DSA, Online Safety Act)
+- Growing sophistication of threats
+- Public pressure for coordination
+- Learning from successes and failures
 
 **Key questions**:
-• How to balance cooperation with competition?
-• Can small platforms participate meaningfully?
-• How to prevent authoritarian abuse of cooperation mechanisms?
-• What governance ensures cooperation serves public interest?
+- How to balance cooperation with competition?
+- Can small platforms participate meaningfully?
+- How to prevent authoritarian abuse of cooperation mechanisms?
+- What governance ensures cooperation serves public interest?
 
 The cooperation ecosystem will continue evolving as threats and governance mature.
 
@@ -324,15 +308,11 @@ The cooperation ecosystem will continue evolving as threats and governance matur
 
 As users and citizens, you can support effective cooperation by:
 
-• Reporting suspicious coordinated activity
-
-• Supporting independent researchers and fact-checkers
-
-• Advocating for meaningful transparency
-
-• Holding both platforms and governments accountable
-
-• Understanding cooperation complexity (not just demanding perfect solutions)
+- Reporting suspicious coordinated activity
+- Supporting independent researchers and fact-checkers
+- Advocating for meaningful transparency
+- Holding both platforms and governments accountable
+- Understanding cooperation complexity (not just demanding perfect solutions)
 
 Effective defense requires whole-of-society approach. Individual contributions create collective resilience.
 

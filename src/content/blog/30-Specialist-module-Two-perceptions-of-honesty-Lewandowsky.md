@@ -59,16 +59,11 @@ Belief-speaking is why many voters still see politicians as honest, even when th
 
 Literature
 
-• Areyohun, S. et al. (2024) Computational analysis of US Congressional speeches reveals a shift from evidence to intuition. https://doi.org/10.48550/arXiv.2405.07323
-
-• Carrella, F. Et al. (2023, December 3). The 'Truth Contagion' Effect in the US Political Online Debate. https://doi.org/10.31234/osf.io/qx34w
-
-• Huttunen, K. J. A., & Lewandowsky, S. (2024, October 7). The evolution of truth in political discourse from fact to feeling and its implications for democracy. https://doi.org/10.31234/osf.io/k4p29
-
-• Lasser, J. Et al. (2023) From alternative conceptions of honesty to alternative facts in communications by US politicians. Nat Hum Behav 7, 2140–2151 (2023). https://doi.org/10.1038/s41562-023-01691-w
-
-• Lewandowsky, S. (2021) Willful Construction of Ignorance: A Tale of Two Ontologies. Deliberate ignorance, chapter 7.
-
-• Lewandowsky, S. (2024) When liars are considered honest. Trends in Cognitive Sciences, Volume 28, Issue 5, 383 – 385.
+- Areyohun, S. et al. (2024) Computational analysis of US Congressional speeches reveals a shift from evidence to intuition. https://doi.org/10.48550/arXiv.2405.07323
+- Carrella, F. Et al. (2023, December 3). The 'Truth Contagion' Effect in the US Political Online Debate. https://doi.org/10.31234/osf.io/qx34w
+- Huttunen, K. J. A., & Lewandowsky, S. (2024, October 7). The evolution of truth in political discourse from fact to feeling and its implications for democracy. https://doi.org/10.31234/osf.io/k4p29
+- Lasser, J. Et al. (2023) From alternative conceptions of honesty to alternative facts in communications by US politicians. Nat Hum Behav 7, 2140–2151 (2023). https://doi.org/10.1038/s41562-023-01691-w
+- Lewandowsky, S. (2021) Willful Construction of Ignorance: A Tale of Two Ontologies. Deliberate ignorance, chapter 7.
+- Lewandowsky, S. (2024) When liars are considered honest. Trends in Cognitive Sciences, Volume 28, Issue 5, 383 – 385.
 
 

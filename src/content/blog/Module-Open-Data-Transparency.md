@@ -23,15 +23,11 @@ Open data enables informed citizenship by making information publicly accessible
 
 Open data is information that's:
 
-• **Publicly available**: Anyone can access
-
-• **Machine-readable**: Structured formats (not just PDFs)
-
-• **Free to use**: No payment or registration required
-
-• **Reusable**: Can be analyzed and redistributed
-
-• **Complete**: Not just summaries or aggregations
+- **Publicly available**: Anyone can access
+- **Machine-readable**: Structured formats (not just PDFs)
+- **Free to use**: No payment or registration required
+- **Reusable**: Can be analyzed and redistributed
+- **Complete**: Not just summaries or aggregations
 
 Open data empowers citizens, researchers, journalists, and civil society to verify claims and conduct independent analysis.
 
@@ -41,17 +37,12 @@ Open data empowers citizens, researchers, journalists, and civil society to veri
 
 Access to public data enables:
 
-• **Verification**: Checking claims against facts
-
-• **Accountability**: Monitoring government and institutions
-
-• **Research**: Understanding social problems
-
-• **Innovation**: Building tools and services with public data
-
-• **Journalism**: Investigating issues systematically
-
-• **Citizen engagement**: Informed participation in democracy
+- **Verification**: Checking claims against facts
+- **Accountability**: Monitoring government and institutions
+- **Research**: Understanding social problems
+- **Innovation**: Building tools and services with public data
+- **Journalism**: Investigating issues systematically
+- **Citizen engagement**: Informed participation in democracy
 
 Opacity enables misinformation and corruption. Transparency is a foundation of democratic governance.
 
@@ -62,22 +53,22 @@ Opacity enables misinformation and corruption. Transparency is a foundation of d
 Governments and organizations publish diverse data:
 
 **Government:**
-• Crime statistics
-• Health data
-• Economic indicators
-• Budget and spending
-• Environmental monitoring
-• Education statistics
+- Crime statistics
+- Health data
+- Economic indicators
+- Budget and spending
+- Environmental monitoring
+- Education statistics
 
 **International:**
-• World Bank development data
-• WHO health statistics
-• UN demographic data
-• Climate and weather data
+- World Bank development data
+- WHO health statistics
+- UN demographic data
+- Climate and weather data
 
 **Research:**
-• Scientific datasets
-• Academic publications (open access)
+- Scientific datasets
+- Academic publications (open access)
 
 [screen 5]
 
@@ -86,14 +77,14 @@ Governments and organizations publish diverse data:
 Most countries maintain statistical agencies:
 
 **EU countries:**
-• Eurostat (EU-wide statistics)
-• National statistics offices (e.g., ONS in UK, Destatis in Germany)
+- Eurostat (EU-wide statistics)
+- National statistics offices (e.g., ONS in UK, Destatis in Germany)
 
 **International:**
-• OECD Data
-• World Bank Open Data
-• UN Data
-• Our World in Data (accessible visualization of global data)
+- OECD Data
+- World Bank Open Data
+- UN Data
+- Our World in Data (accessible visualization of global data)
 
 These sources provide authoritative data on demographics, economics, health, environment, and more.
 
@@ -103,17 +94,12 @@ These sources provide authoritative data on demographics, economics, health, env
 
 Not all published data is equally reliable. Check:
 
-• **Source credibility**: Official statistics > advocacy group data
-
-• **Methodology transparency**: Clear explanation of collection methods
-
-• **Regular updates**: Consistent publication schedule
-
-• **Version control**: Clear indication of revisions
-
-• **Metadata**: Documentation of definitions and limitations
-
-• **Peer review**: For research data
+- **Source credibility**: Official statistics > advocacy group data
+- **Methodology transparency**: Clear explanation of collection methods
+- **Regular updates**: Consistent publication schedule
+- **Version control**: Clear indication of revisions
+- **Metadata**: Documentation of definitions and limitations
+- **Peer review**: For research data
 
 Quality data sources document their methods and limitations openly.
 
@@ -123,18 +109,18 @@ Quality data sources document their methods and limitations openly.
 
 Many organizations provide data portals:
 
-• **data.gov** (US government)
-• **data.europa.eu** (EU portal)
-• **data.gov.uk** (UK government)
-• **data.un.org** (United Nations)
+- **data.gov** (US government)
+- **data.europa.eu** (EU portal)
+- **data.gov.uk** (UK government)
+- **data.un.org** (United Nations)
 
 These centralize access to datasets across topics. They typically provide:
 
-• Search and filtering
-• Multiple formats (CSV, JSON, XML)
-• APIs for automated access
-• Visualization tools
-• Documentation
+- Search and filtering
+- Multiple formats (CSV, JSON, XML)
+- APIs for automated access
+- Visualization tools
+- Documentation
 
 [screen 8]
 
@@ -143,16 +129,16 @@ These centralize access to datasets across topics. They typically provide:
 Transparency must balance openness with privacy:
 
 **Acceptable open data:**
-• Aggregated statistics
-• Anonymized datasets
-• Public spending records
-• Environmental monitoring
+- Aggregated statistics
+- Anonymized datasets
+- Public spending records
+- Environmental monitoring
 
 **Should remain private:**
-• Personally identifiable information
-• Medical records
-• Tax returns (individual)
-• Security-sensitive data
+- Personally identifiable information
+- Medical records
+- Tax returns (individual)
+- Security-sensitive data
 
 Quality open data initiatives protect privacy through aggregation and anonymization.
 
@@ -180,17 +166,12 @@ Journalists and NGOs use open data for investigative reporting and advocacy. Cit
 
 Transparency isn't perfect:
 
-• **Data can be withheld**: "Security" or "commercial sensitivity"
-
-• **Quality varies**: Some governments publish better data than others
-
-• **Requires expertise**: Raw data needs analysis skills
-
-• **Can be weaponized**: Selective interpretation to support narratives
-
-• **Incompleteness**: Some things aren't measured or published
-
-• **Lag time**: Data often published months or years after collection
+- **Data can be withheld**: "Security" or "commercial sensitivity"
+- **Quality varies**: Some governments publish better data than others
+- **Requires expertise**: Raw data needs analysis skills
+- **Can be weaponized**: Selective interpretation to support narratives
+- **Incompleteness**: Some things aren't measured or published
+- **Lag time**: Data often published months or years after collection
 
 Open data is powerful but not a complete solution to information problems.
 
@@ -200,13 +181,10 @@ Open data is powerful but not a complete solution to information problems.
 
 When data isn't openly published, many democracies have Freedom of Information (FOI) laws:
 
-• **Right to request government records**
-
-• **Exemptions for sensitive information**
-
-• **Response deadlines**
-
-• **Appeal processes**
+- **Right to request government records**
+- **Exemptions for sensitive information**
+- **Response deadlines**
+- **Appeal processes**
 
 FOI requests have exposed corruption, policy failures, and misconduct. But they require effort and knowledge of what to request.
 
@@ -232,15 +210,11 @@ Open science accelerates discovery and enables verification. Many funders now re
 
 Open data helps combat disinformation by:
 
-• Providing authoritative reference points
-
-• Enabling fact-checking
-
-• Allowing independent verification
-
-• Reducing information asymmetry
-
-• Supporting quality journalism
+- Providing authoritative reference points
+- Enabling fact-checking
+- Allowing independent verification
+- Reducing information asymmetry
+- Supporting quality journalism
 
 But data literacy is required - access alone doesn't create understanding. This is why modules like this matter: transparency requires both available data and capable citizens.
 
@@ -270,25 +244,18 @@ Even basic exploration - comparing official statistics to media claims - contrib
 
 Open data is expanding:
 
-• More governments adopting open data policies
-
-• Improved data quality and accessibility
-
-• Better tools for non-expert access
-
-• Increasing research transparency requirements
-
-• Growing civic tech movement using open data
+- More governments adopting open data policies
+- Improved data quality and accessibility
+- Better tools for non-expert access
+- Increasing research transparency requirements
+- Growing civic tech movement using open data
 
 But there are also challenges:
 
-• Data privacy regulations limiting some openness
-
-• Governments withholding sensitive information
-
-• Commercial interests resisting transparency
-
-• Capacity constraints in poorer countries
+- Data privacy regulations limiting some openness
+- Governments withholding sensitive information
+- Commercial interests resisting transparency
+- Capacity constraints in poorer countries
 
 The trajectory toward greater transparency continues, but progress is uneven. Citizens demanding and using open data strengthens the transparency movement.
 

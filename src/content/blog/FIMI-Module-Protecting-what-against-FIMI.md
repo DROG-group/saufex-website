@@ -17,15 +17,11 @@ For this definition the values, procedures and political processes are those of 
 
 Further negative impact is measured in a few spheres:
 
-• Financial
-
-• Availability (whether a service or resource is available)
-
-• Reputation
-
-• Social
-
-• Political
+- Financial
+- Availability (whether a service or resource is available)
+- Reputation
+- Social
+- Political
 
 The definition of FIMI has received some criticism as  exact scope of what could be protected is subject to interpretation. For example all of the "values" of the EU would be difficult to summarize. As another example if individuals and their reputations are to be protected does this include [deepfake](https://www.euronews.com/next/2023/10/20/generative-ai-fueling-spread-of-deepfake-pornography-across-the-internet) pornographic videos which are exceedingly prevalent and so far under addressed as an issue.
 

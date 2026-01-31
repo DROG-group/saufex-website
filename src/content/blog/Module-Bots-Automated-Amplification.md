@@ -65,15 +65,11 @@ Modern botnets operate like armies: some accounts spread content, others amplify
 
 Researchers and platforms use several methods to identify bots:
 
-• **Account age and history**: New accounts with high activity are suspicious
-
-• **Posting patterns**: Activity at unusual hours or perfectly regular intervals
-
-• **Content analysis**: Repetitive messages or unnatural language
-
-• **Network analysis**: Accounts that always interact with each other
-
-• **Behavioral anomalies**: Superhuman posting speed or lack of typical human inconsistency
+- **Account age and history**: New accounts with high activity are suspicious
+- **Posting patterns**: Activity at unusual hours or perfectly regular intervals
+- **Content analysis**: Repetitive messages or unnatural language
+- **Network analysis**: Accounts that always interact with each other
+- **Behavioral anomalies**: Superhuman posting speed or lack of typical human inconsistency
 
 [screen 8]
 
@@ -87,13 +83,10 @@ The cat-and-mouse game between bot creators and detectors continues to escalate.
 
 Modern disinformation campaigns rarely use bots alone. Instead, they combine bot amplification with human operators:
 
-• Bots create initial visibility for content
-
-• Humans add credibility through authentic-seeming engagement
-
-• Bots amplify human-created content
-
-• Real people, unaware of the manipulation, join in and further spread the content
+- Bots create initial visibility for content
+- Humans add credibility through authentic-seeming engagement
+- Bots amplify human-created content
+- Real people, unaware of the manipulation, join in and further spread the content
 
 This makes campaigns more effective and harder to counter.
 
@@ -103,15 +96,11 @@ This makes campaigns more effective and harder to counter.
 
 Bot networks have been documented:
 
-• Manipulating trending topics during elections
-
-• Amplifying divisive content to increase polarization
-
-• Harassing journalists, activists, and fact-checkers
-
-• Creating fake grassroots movements (astroturfing)
-
-• Manipulating financial markets through coordinated messaging
+- Manipulating trending topics during elections
+- Amplifying divisive content to increase polarization
+- Harassing journalists, activists, and fact-checkers
+- Creating fake grassroots movements (astroturfing)
+- Manipulating financial markets through coordinated messaging
 
 The scale can be massive - single operations have deployed millions of bot accounts.
 
@@ -121,15 +110,11 @@ The scale can be massive - single operations have deployed millions of bot accou
 
 While platforms bear primary responsibility for bot detection, you can protect yourself:
 
-• Be skeptical of viral content, especially on divisive topics
-
-• Check account histories before trusting information from unknown sources
-
-• Recognize that engagement metrics can be artificially inflated
-
-• Don't assume widespread support means truth or legitimacy
-
-• Report suspicious accounts to platforms
+- Be skeptical of viral content, especially on divisive topics
+- Check account histories before trusting information from unknown sources
+- Recognize that engagement metrics can be artificially inflated
+- Don't assume widespread support means truth or legitimacy
+- Report suspicious accounts to platforms
 
 Understanding bot manipulation helps you evaluate information more critically.
 

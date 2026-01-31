@@ -59,13 +59,10 @@ Method matters more than sample size.
 
 Larger samples reduce uncertainty:
 
-• 100 people: ±10% margin of error
-
-• 400 people: ±5% margin of error
-
-• 1,000 people: ±3% margin of error
-
-• 2,000 people: ±2% margin of error
+- 100 people: ±10% margin of error
+- 400 people: ±5% margin of error
+- 1,000 people: ±3% margin of error
+- 2,000 people: ±2% margin of error
 
 Diminishing returns - quadrupling sample size only halves margin of error. Most quality polls use 800-1,500 respondents, balancing cost and precision.
 
@@ -87,9 +84,8 @@ Most media coverage ignores MOE, treating differences within statistical noise a
 
 Fewer people complete surveys than in the past:
 
-• 1990s: 30-40% response rates
-
-• Today: Often below 10%
+- 1990s: 30-40% response rates
+- Today: Often below 10%
 
 Low response rates create non-response bias - people who answer might differ from those who don't. Quality pollsters use weighting to compensate, but it's not perfect.
 
@@ -139,13 +135,10 @@ Quality polls randomize question order or carefully consider effects. Advocacy p
 
 When polls are conducted affects results:
 
-• After major news events, opinions spike then revert
-
-• Polls right after conventions show "bounces" that fade
-
-• Weekend vs. weekday polling reaches different demographics
-
-• Campaign events create temporary shifts
+- After major news events, opinions spike then revert
+- Polls right after conventions show "bounces" that fade
+- Weekend vs. weekday polling reaches different demographics
+- Campaign events create temporary shifts
 
 A single poll is a snapshot of a moment. Trends across multiple polls over time are more informative than individual polls.
 
@@ -155,13 +148,10 @@ A single poll is a snapshot of a moment. Trends across multiple polls over time 
 
 Averaging multiple polls reduces error from individual polls:
 
-• Individual polls have random variations
-
-• Aggregation smooths these variations
-
-• Shows trends more clearly
-
-• Less likely to be misled by outliers
+- Individual polls have random variations
+- Aggregation smooths these variations
+- Shows trends more clearly
+- Less likely to be misled by outliers
 
 Sites like FiveThirtyEight and RealClearPolitics aggregate polls. These averages are more reliable than single polls, though still imperfect.
 
@@ -179,15 +169,11 @@ Polls sometimes miss badly:
 
 Reasons include:
 
-• Differential non-response (certain groups don't participate)
-
-• Late shifts in opinion
-
-• Social desirability bias (lying to pollsters)
-
-• Turnout modeling errors
-
-• Sampling frame problems
+- Differential non-response (certain groups don't participate)
+- Late shifts in opinion
+- Social desirability bias (lying to pollsters)
+- Turnout modeling errors
+- Sampling frame problems
 
 [screen 13]
 
@@ -217,21 +203,14 @@ Before trusting a poll, check:
 
 Be skeptical of:
 
-• Opt-in internet polls presented as legitimate
-
-• Polls with extremely large or small MOE
-
-• No methodology disclosed
-
-• Advocacy group polling on their own issues
-
-• Reporting single polls as definitive
-
-• "Instant" polls after events (no time for quality sampling)
-
-• Polls that seem designed to generate headlines
-
-• Extremely surprising results with no replication
+- Opt-in internet polls presented as legitimate
+- Polls with extremely large or small MOE
+- No methodology disclosed
+- Advocacy group polling on their own issues
+- Reporting single polls as definitive
+- "Instant" polls after events (no time for quality sampling)
+- Polls that seem designed to generate headlines
+- Extremely surprising results with no replication
 
 [screen 15]
 
@@ -239,19 +218,13 @@ Be skeptical of:
 
 Polls can be useful when understood correctly:
 
-• Look at poll aggregates, not individual polls
-
-• Pay attention to trends, not single snapshots
-
-• Account for margin of error
-
-• Check methodology before trusting results
-
-• Recognize that close races are genuinely uncertain
-
-• Understand polls measure opinion now, not predict future
-
-• Be aware of systematic biases in polling
+- Look at poll aggregates, not individual polls
+- Pay attention to trends, not single snapshots
+- Account for margin of error
+- Check methodology before trusting results
+- Recognize that close races are genuinely uncertain
+- Understand polls measure opinion now, not predict future
+- Be aware of systematic biases in polling
 
 Polls are tools for understanding opinion, not crystal balls. Treat them as uncertain indicators, not definitive answers.
 

@@ -25,13 +25,10 @@ Humans process images faster than text. A powerful image creates emotional impac
 
 This makes visual content especially effective for manipulation:
 
-• Images feel more "real" than text descriptions
-
-• Strong visuals trigger emotional responses
-
-• We're more likely to share compelling images
-
-• Visual verification takes more effort than reading
+- Images feel more "real" than text descriptions
+- Strong visuals trigger emotional responses
+- We're more likely to share compelling images
+- Visual verification takes more effort than reading
 
 [screen 3]
 
@@ -53,15 +50,11 @@ Each requires different detection approaches.
 
 Modern AI can create photorealistic images of events that never happened. Detection indicators include:
 
-• Unusual textures or patterns (especially in backgrounds)
-
-• Impossible lighting or shadows
-
-• Strange distortions in hands, teeth, or text
-
-• Overly perfect or symmetrical features
-
-• Inconsistent perspective or scale
+- Unusual textures or patterns (especially in backgrounds)
+- Impossible lighting or shadows
+- Strange distortions in hands, teeth, or text
+- Overly perfect or symmetrical features
+- Inconsistent perspective or scale
 
 But AI improves constantly - visual artifacts become harder to spot.
 
@@ -71,17 +64,12 @@ But AI improves constantly - visual artifacts become harder to spot.
 
 Photoshop and similar tools can alter images. Look for:
 
-• Inconsistent lighting across the image
-
-• Unnatural edges or halos around objects
-
-• Cloned or repeated patterns
-
-• Mismatched shadows
-
-• Compression artifacts in one area but not others
-
-• Impossible reflections
+- Inconsistent lighting across the image
+- Unnatural edges or halos around objects
+- Cloned or repeated patterns
+- Mismatched shadows
+- Compression artifacts in one area but not others
+- Impossible reflections
 
 Professional manipulation is difficult to detect without forensic analysis.
 
@@ -91,15 +79,11 @@ Professional manipulation is difficult to detect without forensic analysis.
 
 The most common form of visual deception uses real, unaltered images in false contexts:
 
-• Old photos presented as recent
-
-• Images from one location presented as another
-
-• Staged photos presented as candid
-
-• Screenshots from movies or games presented as real
-
-• Images cropped to remove important context
+- Old photos presented as recent
+- Images from one location presented as another
+- Staged photos presented as candid
+- Screenshots from movies or games presented as real
+- Images cropped to remove important context
 
 This is harder to detect because the image itself is genuine.
 
@@ -139,15 +123,11 @@ Even if an image is real, reverse search reveals when it's being misused with fa
 
 Video is harder to manipulate than still images, but not impossible:
 
-• Deepfakes can alter faces and voices
-
-• Editing can remove crucial context
-
-• Real footage can be mislabeled
-
-• Clips can be taken out of sequence
-
-• Selective editing changes meaning
+- Deepfakes can alter faces and voices
+- Editing can remove crucial context
+- Real footage can be mislabeled
+- Clips can be taken out of sequence
+- Selective editing changes meaning
 
 For video, check the original source and look for longer, unedited versions.
 
@@ -157,15 +137,11 @@ For video, check the original source and look for longer, unedited versions.
 
 Learn to analyze images critically:
 
-• **Text and signs**: What language? What businesses or locations?
-
-• **Clothing and uniforms**: Do they match the claimed context?
-
-• **Weather and vegetation**: Does it match the claimed location and season?
-
-• **Technology and vehicles**: Do they match the claimed time period?
-
-• **Cultural markers**: Do details match the claimed context?
+- **Text and signs**: What language? What businesses or locations?
+- **Clothing and uniforms**: Do they match the claimed context?
+- **Weather and vegetation**: Does it match the claimed location and season?
+- **Technology and vehicles**: Do they match the claimed time period?
+- **Cultural markers**: Do details match the claimed context?
 
 Inconsistencies reveal false contexts.
 
@@ -197,13 +173,10 @@ Taking these steps reduces viral spread of visual deception.
 
 As AI-generated and manipulated visuals become more sophisticated, verification becomes harder. This means:
 
-• Trust reputable sources that verify images
-
-• Be increasingly skeptical of standalone visual claims
-
-• Understand that seeing isn't always believing anymore
-
-• Don't rely on visual content alone for important claims
+- Trust reputable sources that verify images
+- Be increasingly skeptical of standalone visual claims
+- Understand that seeing isn't always believing anymore
+- Don't rely on visual content alone for important claims
 
 Visual literacy is increasingly critical as manipulation technology advances. Healthy skepticism and verification habits are your best defense.
 

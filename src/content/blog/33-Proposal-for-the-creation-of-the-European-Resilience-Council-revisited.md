@@ -21,15 +21,11 @@ In response to the increasing threats posed by disinformation, foreign informati
 
 The ERC will:
 
-• Advise EU institutions, particularly the HWP ERCHT and the European Board for Digital Services and through these the European Council and the European Commission, on policies and interventions dealing with disinformation, FIMI, and hybrid threats, ensuring the development of more inclusive, transparent, and democratic strategies.
-
-• Enhance the legitimacy of European policies and interventions dealing with disinformation, FIMI, and hybrid threats by incorporating citizen-focused insights into the EU's response to these challenges, ensuring policies are perceived as more relevant and grounded in the lived experiences of European citizens.
-
-• Compliment the functioning of existing EU entities dealing with disinformation, FIMI, and hybrid threats while avoiding duplication.
-
-• Enhance the coherence of existing toolboxes dealing with disinformation, FIMI, and hybrid threats while simplifying them by providing holistic and experience-informed recommendations.
-
-• Respect Member States' national sovereignty.
+- Advise EU institutions, particularly the HWP ERCHT and the European Board for Digital Services and through these the European Council and the European Commission, on policies and interventions dealing with disinformation, FIMI, and hybrid threats, ensuring the development of more inclusive, transparent, and democratic strategies.
+- Enhance the legitimacy of European policies and interventions dealing with disinformation, FIMI, and hybrid threats by incorporating citizen-focused insights into the EU's response to these challenges, ensuring policies are perceived as more relevant and grounded in the lived experiences of European citizens.
+- Compliment the functioning of existing EU entities dealing with disinformation, FIMI, and hybrid threats while avoiding duplication.
+- Enhance the coherence of existing toolboxes dealing with disinformation, FIMI, and hybrid threats while simplifying them by providing holistic and experience-informed recommendations.
+- Respect Member States' national sovereignty.
 
 ## [](#Key-responsibilities)Key responsibilities
 
@@ -77,11 +73,9 @@ The ERC will compliment responsibilities of existing EU entities.
 
 ## [](#Structure-and-Membership)Structure and Membership
 
-• The ERC will consist of representatives of civil society organizations, the private sector, academia, media professionals, and individual citizens.
-
-• Each Member State will delegate one ERC member. Member States are responsible for creating a national structure for selecting their delegate based on the criteria of relevant expertise, track record, and the ability to represent diverse societal perspectives including perspectives by marginalized and underrepresented groups.
-
-• The ERC will be chaired by the member representing the rotating Presidency of the Council.
+- The ERC will consist of representatives of civil society organizations, the private sector, academia, media professionals, and individual citizens.
+- Each Member State will delegate one ERC member. Member States are responsible for creating a national structure for selecting their delegate based on the criteria of relevant expertise, track record, and the ability to represent diverse societal perspectives including perspectives by marginalized and underrepresented groups.
+- The ERC will be chaired by the member representing the rotating Presidency of the Council.
 
 ## [](#Conclusion)Conclusion
 

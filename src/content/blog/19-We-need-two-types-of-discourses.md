@@ -61,9 +61,8 @@ It is not easy to create an organisation in which both ‘belief-speakers’ and
 
 In our educational method Interdemocracy, my wife and I try to give the two types of discourses a place in the classroom. Concretely, we implement two axioms:
 
-• Don’t discuss facts: Use facts and evidence as a reliable frame of what ‘is’ but focus in your communication on how these facts are experienced or what they mean for people.
-
-• Don't use anecdotes to present facts: Using anecdotes would open the discussion to anecdotes by all. This in turn would open a backdoor for an unwanted discussion concerning facts and evidence.
+- Don’t discuss facts: Use facts and evidence as a reliable frame of what ‘is’ but focus in your communication on how these facts are experienced or what they mean for people.
+- Don't use anecdotes to present facts: Using anecdotes would open the discussion to anecdotes by all. This in turn would open a backdoor for an unwanted discussion concerning facts and evidence.
 
 Concretely this means that we separate factual introductions from any kind of dialogue. The facts are the facts for all, but we need to talk about how the facts are experienced, what they mean to us, and what should be done with the situation the facts describe. Only then we can slowly start to formulate an ‘ought’.
 

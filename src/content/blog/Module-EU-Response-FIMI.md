@@ -42,15 +42,15 @@ Response has moved from reactive detection to proactive resilience-building.
 The **East StratCom Task Force** (now part of EEAS Strategic Communication Division) created **EUvsDisinfo** in 2015.
 
 **Function**:
-• Monitoring and documenting pro-Kremlin disinformation
-• Database of disinformation cases
-• Weekly reports and analysis
-• Public exposure of narratives and tactics
+- Monitoring and documenting pro-Kremlin disinformation
+- Database of disinformation cases
+- Weekly reports and analysis
+- Public exposure of narratives and tactics
 
 **Impact**:
-• Over 15,000 documented cases
-• Increased awareness among media and public
-• Evidence base for policy responses
+- Over 15,000 documented cases
+- Increased awareness among media and public
+- Evidence base for policy responses
 
 Limitations: Focus on Russian sources; reactive rather than preventive; exposure doesn't eliminate operations
 
@@ -63,10 +63,10 @@ Launched 2019, RAS enables real-time information sharing:
 **Members**: EU institutions, member states, G7 partners
 
 **Function**:
-• Early warning about foreign interference
-• Coordinated detection and response
-• Information sharing about campaigns
-• Preparation for elections and sensitive periods
+- Early warning about foreign interference
+- Coordinated detection and response
+- Information sharing about campaigns
+- Preparation for elections and sensitive periods
 
 **Successes**: Coordinated responses to interference attempts during European Parliament elections and national elections
 
@@ -79,12 +79,12 @@ Challenge: Speed of information sharing vs verification requirements
 The **Digital Services Act (DSA)**, fully implemented 2024, represents comprehensive platform regulation:
 
 **Key provisions for FIMI defense**:
-• Transparency in content moderation decisions
-• Risk assessments for disinformation
-• Independent audits of very large platforms
-• Researcher data access
-• Crisis response mechanisms
-• Coordinated enforcement across member states
+- Transparency in content moderation decisions
+- Risk assessments for disinformation
+- Independent audits of very large platforms
+- Researcher data access
+- Crisis response mechanisms
+- Coordinated enforcement across member states
 
 DSA shifts responsibility from voluntary cooperation to legal obligations.
 
@@ -94,15 +94,11 @@ DSA shifts responsibility from voluntary cooperation to legal obligations.
 
 Strengthened in 2022, the Code of Practice on Disinformation commits platforms to:
 
-• **Transparency**: Ad libraries, amplification algorithms disclosed
-
-• **Integrity**: Policies against fake accounts and bot manipulation
-
-• **Empowerment**: Tools for users to report and understand content
-
-• **Monitoring**: Regular reports and independent evaluation
-
-• **Research access**: Enabling independent scrutiny
+- **Transparency**: Ad libraries, amplification algorithms disclosed
+- **Integrity**: Policies against fake accounts and bot manipulation
+- **Empowerment**: Tools for users to report and understand content
+- **Monitoring**: Regular reports and independent evaluation
+- **Research access**: Enabling independent scrutiny
 
 Unlike earlier voluntary code, strengthened version has monitoring and accountability mechanisms.
 
@@ -113,15 +109,15 @@ Unlike earlier voluntary code, strengthened version has monitoring and accountab
 EEAS leads EU's diplomatic response to FIMI:
 
 **Strategic Communication Division**:
-• Coordinating messaging across EU institutions
-• Supporting member states
-• Monitoring foreign information manipulation
-• Attribution and public exposure
+- Coordinating messaging across EU institutions
+- Supporting member states
+- Monitoring foreign information manipulation
+- Attribution and public exposure
 
 **Hybrid Fusion Cell**:
-• Analysis of hybrid threats including information manipulation
-• Early warning and situational awareness
-• Supporting member state responses
+- Analysis of hybrid threats including information manipulation
+- Early warning and situational awareness
+- Supporting member state responses
 
 EEAS provides coordination that no single member state could achieve alone.
 
@@ -132,15 +128,15 @@ EEAS provides coordination that no single member state could achieve alone.
 EU has developed specific election protection measures:
 
 **European Cooperation Network on Elections** (2021):
-• Information sharing during election periods
-• Best practices for election security
-• Coordinated platform monitoring
+- Information sharing during election periods
+- Best practices for election security
+- Coordinated platform monitoring
 
 **Election guidance** for member states:
-• Cybersecurity standards
-• Disinformation monitoring
-• Fact-checking support
-• Media literacy campaigns
+- Cybersecurity standards
+- Disinformation monitoring
+- Fact-checking support
+- Media literacy campaigns
 
 Elections remain national, but coordination strengthens resilience.
 
@@ -168,15 +164,11 @@ Diversity reflects different threat perceptions and political contexts.
 
 EU's positive communication strategy:
 
-• Promoting European values and achievements
-
-• Countering false narratives with facts
-
-• Engaging with target audiences directly
-
-• Supporting independent media in neighborhood
-
-• Multilingual outreach
+- Promoting European values and achievements
+- Countering false narratives with facts
+- Engaging with target audiences directly
+- Supporting independent media in neighborhood
+- Multilingual outreach
 
 Goal: Fill information space with credible content, not just debunk false claims. Proactive rather than purely reactive.
 
@@ -202,15 +194,11 @@ Civil society provides independent monitoring that governments alone cannot.
 
 Building societal resilience through education:
 
-• Media literacy in school curricula (varies by member state)
-
-• Public awareness campaigns
-
-• Training for journalists and educators
-
-• Toolkit development and sharing
-
-• Research on effective interventions
+- Media literacy in school curricula (varies by member state)
+- Public awareness campaigns
+- Training for journalists and educators
+- Toolkit development and sharing
+- Research on effective interventions
 
 Recognition: Long-term resilience requires educated, critical citizens. Technical defenses alone insufficient.
 
@@ -254,19 +242,13 @@ These tools impose costs on actors conducting FIMI operations.
 
 Despite progress, significant challenges remain:
 
-• **Coordination**: 27 member states with different priorities
-
-• **Speed**: Democratic processes slower than adversary adaptation
-
-• **Resources**: Asymmetry between defense costs and attack costs
-
-• **Legal limits**: Free speech protections constrain responses
-
-• **Attribution**: Continued difficulty definitively identifying actors
-
-• **Effectiveness measurement**: Unclear if defenses adequately deter operations
-
-• **Platform cooperation**: Varies by company and region
+- **Coordination**: 27 member states with different priorities
+- **Speed**: Democratic processes slower than adversary adaptation
+- **Resources**: Asymmetry between defense costs and attack costs
+- **Legal limits**: Free speech protections constrain responses
+- **Attribution**: Continued difficulty definitively identifying actors
+- **Effectiveness measurement**: Unclear if defenses adequately deter operations
+- **Platform cooperation**: Varies by company and region
 
 [screen 16]
 
@@ -290,21 +272,14 @@ Getting this balance right is essential - defeating FIMI while abandoning Europe
 
 EU FIMI defense continues evolving:
 
-• Enhanced AI detection capabilities
-
-• Faster response mechanisms
-
-• Improved researcher access to data
-
-• Strengthened media literacy at scale
-
-• Better attribution capabilities
-
-• Increased platform accountability enforcement
-
-• Expanded international cooperation
-
-• Resilience metrics and assessment
+- Enhanced AI detection capabilities
+- Faster response mechanisms
+- Improved researcher access to data
+- Strengthened media literacy at scale
+- Better attribution capabilities
+- Increased platform accountability enforcement
+- Expanded international cooperation
+- Resilience metrics and assessment
 
 The threat will persist and evolve; defense must too.
 
@@ -330,21 +305,14 @@ Projects like SAUFEX translate research into practical defense capabilities.
 
 As a European citizen or resident, you contribute by:
 
-• Staying informed about FIMI threats
-
-• Practicing critical evaluation of information
-
-• Supporting quality journalism
-
-• Participating in democratic processes
-
-• Not amplifying suspicious content
-
-• Reporting manipulation when detected
-
-• Engaging with accurate counter-narratives
-
-• Supporting evidence-based policy responses
+- Staying informed about FIMI threats
+- Practicing critical evaluation of information
+- Supporting quality journalism
+- Participating in democratic processes
+- Not amplifying suspicious content
+- Reporting manipulation when detected
+- Engaging with accurate counter-narratives
+- Supporting evidence-based policy responses
 
 EU defense isn't just institutional - it requires engaged, aware citizens. Individual actions create collective resilience.
 

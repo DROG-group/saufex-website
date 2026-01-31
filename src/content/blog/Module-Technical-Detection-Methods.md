@@ -23,17 +23,12 @@ Technical detection methods analyze these digital traces to identify manipulatio
 
 Technical detection analyzes digital artifacts and patterns:
 
-• **Metadata analysis**: Examining data about data
-
-• **Network forensics**: Tracing digital connections
-
-• **Image/video forensics**: Detecting media manipulation
-
-• **Account analysis**: Identifying inauthentic patterns
-
-• **Behavioral fingerprinting**: Pattern recognition in activity
-
-• **Platform data analysis**: Using API and structured data
+- **Metadata analysis**: Examining data about data
+- **Network forensics**: Tracing digital connections
+- **Image/video forensics**: Detecting media manipulation
+- **Account analysis**: Identifying inauthentic patterns
+- **Behavioral fingerprinting**: Pattern recognition in activity
+- **Platform data analysis**: Using API and structured data
 
 These methods reveal manipulation that content analysis alone might miss.
 
@@ -62,20 +57,20 @@ Patterns suggesting coordination provide initial detection leads, though sophist
 Digital content contains metadata - data about the data itself:
 
 **Image metadata (EXIF)**:
-• Camera/device used
-• Creation/modification dates
-• GPS coordinates
-• Software used for editing
+- Camera/device used
+- Creation/modification dates
+- GPS coordinates
+- Software used for editing
 
 **Document metadata**:
-• Author information
-• Creation/modification dates
-• Software versions
+- Author information
+- Creation/modification dates
+- Software versions
 
 **Social media metadata**:
-• Posting source (device, app)
-• Geolocation tags
-• Account creation dates
+- Posting source (device, app)
+- Geolocation tags
+- Account creation dates
 
 Metadata can reveal manipulation, though it can also be stripped or falsified.
 
@@ -106,15 +101,15 @@ No single method is foolproof, but multiple indicators increase confidence.
 AI-generated content presents unique detection challenges:
 
 **Traditional indicators**:
-• Unnatural blinking patterns
-• Irregular teeth/hand rendering
-• Inconsistent lighting
-• Audio-visual desynchronization
-• Temporal inconsistencies (frame to frame)
+- Unnatural blinking patterns
+- Irregular teeth/hand rendering
+- Inconsistent lighting
+- Audio-visual desynchronization
+- Temporal inconsistencies (frame to frame)
 
 **AI detection**:
-• Machine learning models trained to identify synthetic media
-• Analyzing patterns invisible to humans
+- Machine learning models trained to identify synthetic media
+- Analyzing patterns invisible to humans
 
 But: Arms race dynamic - as detection improves, generation improves. Detection becoming harder over time.
 
@@ -125,16 +120,16 @@ But: Arms race dynamic - as detection improves, generation improves. Detection b
 Finding where else an image appears online:
 
 **Tools**:
-• Google Images
-• TinEye
-• Yandex (good for Russian/Eastern European sources)
-• Bing Visual Search
+- Google Images
+- TinEye
+- Yandex (good for Russian/Eastern European sources)
+- Bing Visual Search
 
 **Use cases**:
-• Finding original source
-• Identifying old images presented as new
-• Discovering if image appears in different contexts
-• Verifying claimed locations
+- Finding original source
+- Identifying old images presented as new
+- Discovering if image appears in different contexts
+- Verifying claimed locations
 
 Effective for detecting contextual manipulation even when image is authentic.
 
@@ -145,15 +140,15 @@ Effective for detecting contextual manipulation even when image is authentic.
 When activity occurs reveals patterns:
 
 **Automated account indicators**:
-• Posting at exact intervals
-• Activity during predictable hours
-• No natural breaks (sleep, meals)
-• Identical activity schedules across accounts
+- Posting at exact intervals
+- Activity during predictable hours
+- No natural breaks (sleep, meals)
+- Identical activity schedules across accounts
 
 **Coordinated network indicators**:
-• Simultaneous posting
-• Regular time delays between posts
-• Activity aligned to specific time zones
+- Simultaneous posting
+- Regular time delays between posts
+- Activity aligned to specific time zones
 
 Automated systems show machine-like temporal patterns humans don't.
 
@@ -164,20 +159,20 @@ Automated systems show machine-like temporal patterns humans don't.
 Tracing digital infrastructure can reveal operations:
 
 **Domain registration**:
-• Who registered domains?
-• When?
-• Using what registration service?
-• Patterns across multiple domains?
+- Who registered domains?
+- When?
+- Using what registration service?
+- Patterns across multiple domains?
 
 **Web hosting**:
-• Shared hosting infrastructure
-• IP address clustering
-• Content delivery networks used
+- Shared hosting infrastructure
+- IP address clustering
+- Content delivery networks used
 
 **URL patterns**:
-• Similar structure across sites
-• Redirect chains
-• Cloaking techniques
+- Similar structure across sites
+- Redirect chains
+- Cloaking techniques
 
 Sophisticated actors use legitimate infrastructure, but patterns sometimes emerge.
 
@@ -188,21 +183,21 @@ Sophisticated actors use legitimate infrastructure, but patterns sometimes emerg
 Multiple signals indicate automated accounts:
 
 **Profile indicators**:
-• Generic or stolen profile images
-• Minimal biographical information
-• Default or pattern usernames
+- Generic or stolen profile images
+- Minimal biographical information
+- Default or pattern usernames
 
 **Activity indicators**:
-• High posting frequency
-• Rapid responses
-• Repetitive content
-• Lack of original content
-• Machine-like timing
+- High posting frequency
+- Rapid responses
+- Repetitive content
+- Lack of original content
+- Machine-like timing
 
 **Engagement indicators**:
-• Unusual follower/following ratios
-• Low engagement despite high activity
-• Suspicious follower networks
+- Unusual follower/following ratios
+- Low engagement despite high activity
+- Suspicious follower networks
 
 Modern bots are sophisticated - no single indicator is definitive.
 
@@ -213,17 +208,17 @@ Modern bots are sophisticated - no single indicator is definitive.
 Platform APIs provide structured data for analysis:
 
 **Accessible data**:
-• Account information
-• Posting history
-• Engagement metrics
-• Network connections
-• Timing data
+- Account information
+- Posting history
+- Engagement metrics
+- Network connections
+- Timing data
 
 **Analysis approaches**:
-• Statistical pattern detection
-• Network visualization
-• Anomaly detection
-• Comparative analysis
+- Statistical pattern detection
+- Network visualization
+- Anomaly detection
+- Comparative analysis
 
 Many platforms have restricted API access, limiting this approach.
 
@@ -234,18 +229,18 @@ Many platforms have restricted API access, limiting this approach.
 Technical linguistic approaches detect manipulation:
 
 **Authorship analysis**:
-• Writing style fingerprinting
-• Vocabulary patterns
-• Syntactic preferences
+- Writing style fingerprinting
+- Vocabulary patterns
+- Syntactic preferences
 
 **Translation detection**:
-• Evidence of machine translation
-• Native language interference patterns
+- Evidence of machine translation
+- Native language interference patterns
 
 **Bot language patterns**:
-• Template repetition
-• Unnatural phrasing
-• Lack of contextual variation
+- Template repetition
+- Unnatural phrasing
+- Lack of contextual variation
 
 Computational linguistics complements human linguistic analysis.
 
@@ -256,19 +251,19 @@ Computational linguistics complements human linguistic analysis.
 Platforms detect coordinated networks through:
 
 **Behavioral clustering**:
-• Accounts acting similarly
-• Synchronized activity
-• Shared infrastructure
+- Accounts acting similarly
+- Synchronized activity
+- Shared infrastructure
 
 **Content similarity**:
-• Identical or near-identical posts
-• Coordinated hashtag use
-• Synchronized topic changes
+- Identical or near-identical posts
+- Coordinated hashtag use
+- Synchronized topic changes
 
 **Network connections**:
-• Unusual connection patterns
-• Rapid follow/unfollow
-• Circular networks
+- Unusual connection patterns
+- Rapid follow/unfollow
+- Circular networks
 
 CIB detection focuses on behavior rather than content, making it harder to evade.
 
@@ -279,15 +274,15 @@ CIB detection focuses on behavior rather than content, making it harder to evade
 Unusual spread patterns indicate manipulation:
 
 **Natural virality**:
-• Gradual build
-• Hub-and-spoke diffusion
-• Organic engagement patterns
+- Gradual build
+- Hub-and-spoke diffusion
+- Organic engagement patterns
 
 **Manipulated virality**:
-• Sudden explosive growth
-• Coordinated simultaneous sharing
-• Amplification without engagement
-• Unusual retweet/like ratios
+- Sudden explosive growth
+- Coordinated simultaneous sharing
+- Amplification without engagement
+- Unusual retweet/like ratios
 
 Statistical models can distinguish natural from artificial virality with some confidence.
 
@@ -297,17 +292,12 @@ Statistical models can distinguish natural from artificial virality with some co
 
 Technical detection faces constraints:
 
-• **Evasion**: Sophisticated actors defeat technical detection
-
-• **False positives**: Legitimate activity flagged as suspicious
-
-• **Platform access**: Limited data access restricts analysis
-
-• **Expertise**: Requires specialized technical skills
-
-• **Cost**: Tools and analysis are expensive
-
-• **Evolving tactics**: Adversaries adapt to detection methods
+- **Evasion**: Sophisticated actors defeat technical detection
+- **False positives**: Legitimate activity flagged as suspicious
+- **Platform access**: Limited data access restricts analysis
+- **Expertise**: Requires specialized technical skills
+- **Cost**: Tools and analysis are expensive
+- **Evolving tactics**: Adversaries adapt to detection methods
 
 Technical methods are valuable but not sufficient alone.
 
@@ -318,14 +308,14 @@ Technical methods are valuable but not sufficient alone.
 Most effective detection combines technical and human analysis:
 
 **Technical methods provide**:
-• Objective, reproducible evidence
-• Scale (analyzing millions of data points)
-• Pattern detection humans miss
+- Objective, reproducible evidence
+- Scale (analyzing millions of data points)
+- Pattern detection humans miss
 
 **Human analysis provides**:
-• Context understanding
-• Nuance and edge case judgment
-• Connecting disparate indicators
+- Context understanding
+- Nuance and edge case judgment
+- Connecting disparate indicators
 
 Neither suffices alone - combination is most powerful.
 
@@ -336,11 +326,11 @@ Neither suffices alone - combination is most powerful.
 You don't need to be a technician to use basic technical detection:
 
 **Accessible techniques**:
-• Reverse image search (free, easy)
-• EXIF metadata viewing (simple tools)
-• URL expansion (unshorten links)
-• Account age/activity checking
-• Basic timing pattern observation
+- Reverse image search (free, easy)
+- EXIF metadata viewing (simple tools)
+- URL expansion (unshorten links)
+- Account age/activity checking
+- Basic timing pattern observation
 
 More sophisticated analysis requires expertise, but anyone can start with basics.
 

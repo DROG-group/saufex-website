@@ -25,15 +25,11 @@ Research is increasingly used to support claims in public discourse. But most pe
 
 This creates opportunities for misrepresentation:
 
-• Headlines exaggerate findings
-
-• Important caveats are omitted
-
-• Single studies are treated as definitive
-
-• Preliminary research is presented as proven
-
-• Corporate-funded studies downplay conflicts of interest
+- Headlines exaggerate findings
+- Important caveats are omitted
+- Single studies are treated as definitive
+- Preliminary research is presented as proven
+- Corporate-funded studies downplay conflicts of interest
 
 Basic research literacy is self-defense.
 
@@ -63,13 +59,10 @@ You don't need to read everything - abstract, methods, and discussion/limitation
 
 Peer review means other experts in the field evaluate research before publication:
 
-• Reviewers check methodology and reasoning
-
-• They can request changes or reject publication
-
-• Process is usually anonymous
-
-• Not perfect - bad studies get through, politics can interfere
+- Reviewers check methodology and reasoning
+- They can request changes or reject publication
+- Process is usually anonymous
+- Not perfect - bad studies get through, politics can interfere
 
 Peer-reviewed publication in reputable journals is a quality signal, but not a guarantee of truth. Non-peer-reviewed work (preprints, press releases) should be treated more skeptically.
 
@@ -98,15 +91,15 @@ Understanding study type helps evaluate strength of conclusions.
 Two critical questions:
 
 **How many participants?**
-• Small samples (< 30): Very preliminary
-• Medium (30-100): Suggestive
-• Large (1000+): More reliable
-• Very large (10,000+): Can detect small effects
+- Small samples (< 30): Very preliminary
+- Medium (30-100): Suggestive
+- Large (1000+): More reliable
+- Very large (10,000+): Can detect small effects
 
 **How were they selected?**
-• Random sampling from target population: Best
-• Convenience samples (students, volunteers): Limited generalizability
-• Self-selected: Highly biased
+- Random sampling from target population: Best
+- Convenience samples (students, volunteers): Limited generalizability
+- Self-selected: Highly biased
 
 A study of 20 college students doesn't tell you much about humans in general.
 
@@ -130,15 +123,11 @@ Studies without these features are much weaker evidence.
 
 The most honest part of a research paper is often the "limitations" section, where researchers acknowledge weaknesses:
 
-• Small sample size
-
-• Short duration
-
-• Limited generalizability
-
-• Potential confounding factors
-
-• Measurement challenges
+- Small sample size
+- Short duration
+- Limited generalizability
+- Potential confounding factors
+- Measurement challenges
 
 Headlines never mention limitations. Reading them yourself provides essential context for evaluating claims.
 
@@ -148,11 +137,9 @@ Headlines never mention limitations. Reading them yourself provides essential co
 
 Observational studies can show correlation but not causation. Just because A and B occur together doesn't mean A causes B:
 
-• B might cause A (reverse causation)
-
-• C might cause both A and B (confounding variable)
-
-• It might be coincidence
+- B might cause A (reverse causation)
+- C might cause both A and B (confounding variable)
+- It might be coincidence
 
 "Ice cream sales correlate with drowning deaths" - doesn't mean ice cream causes drowning. Both increase in summer (confounding variable: warm weather).
 
@@ -164,13 +151,10 @@ Only controlled experiments can establish causation.
 
 Who funded the research matters:
 
-• Tobacco companies funded studies downplaying smoking risks
-
-• Pharmaceutical companies fund drug trials (positive publication bias)
-
-• Food industry funds nutrition studies favoring their products
-
-• Political advocacy groups fund research supporting their positions
+- Tobacco companies funded studies downplaying smoking risks
+- Pharmaceutical companies fund drug trials (positive publication bias)
+- Food industry funds nutrition studies favoring their products
+- Political advocacy groups fund research supporting their positions
 
 This doesn't automatically invalidate research, but it's a red flag requiring extra scrutiny. Look for independent replication.
 
@@ -180,15 +164,11 @@ This doesn't automatically invalidate research, but it's a red flag requiring ex
 
 Common patterns when research becomes news:
 
-• **Causation claimed from correlation**: "Coffee causes cancer" from observational study
-
-• **Exaggerated effect sizes**: "50% reduction!" sounds dramatic but might be meaningless if baseline risk is tiny
-
-• **Ignoring limitations**: Small sample, short duration, or conflicts of interest omitted
-
-• **Extrapolating beyond data**: Animal studies presented as if proven in humans
-
-• **Single study treated as definitive**: Science requires replication
+- **Causation claimed from correlation**: "Coffee causes cancer" from observational study
+- **Exaggerated effect sizes**: "50% reduction!" sounds dramatic but might be meaningless if baseline risk is tiny
+- **Ignoring limitations**: Small sample, short duration, or conflicts of interest omitted
+- **Extrapolating beyond data**: Animal studies presented as if proven in humans
+- **Single study treated as definitive**: Science requires replication
 
 Always try to find the original study when evaluating research claims.
 
@@ -224,21 +204,14 @@ Before accepting research-based claims:
 
 Be skeptical when you see:
 
-• Press release but no published paper
-
-• Extraordinary claims with weak methodology
-
-• Conflicts of interest not disclosed
-
-• Refusing to share data or methods
-
-• Results never replicated
-
-• Published in low-quality or predatory journals
-
-• "Breakthrough" claims based on preliminary research
-
-• Researchers making claims beyond their data
+- Press release but no published paper
+- Extraordinary claims with weak methodology
+- Conflicts of interest not disclosed
+- Refusing to share data or methods
+- Results never replicated
+- Published in low-quality or predatory journals
+- "Breakthrough" claims based on preliminary research
+- Researchers making claims beyond their data
 
 Quality research acknowledges uncertainty and limitations.
 
@@ -248,17 +221,12 @@ Quality research acknowledges uncertainty and limitations.
 
 You don't need to become a scientist to evaluate research claims:
 
-• Learn to read abstracts and limitations
-
-• Understand basic study types
-
-• Know that single studies prove little
-
-• Check funding and conflicts
-
-• Find the original source before accepting headlines
-
-• Look for systematic reviews over single studies
+- Learn to read abstracts and limitations
+- Understand basic study types
+- Know that single studies prove little
+- Check funding and conflicts
+- Find the original source before accepting headlines
+- Look for systematic reviews over single studies
 
 Science is a cumulative process. Individual studies are pieces of larger puzzles, not definitive answers. Media literacy requires understanding this distinction.
 

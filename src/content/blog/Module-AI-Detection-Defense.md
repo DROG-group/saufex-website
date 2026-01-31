@@ -23,15 +23,11 @@ The answer is both yes and no. AI tools are increasingly powerful for detection,
 
 AI can assist with multiple detection tasks:
 
-• Identifying synthetic media (deepfakes, AI-generated images)
-
-• Detecting bot accounts and coordinated behavior
-
-• Analyzing content at scale for patterns
-
-• Flagging potentially false claims for fact-checking
-
-• Monitoring information spread across platforms
+- Identifying synthetic media (deepfakes, AI-generated images)
+- Detecting bot accounts and coordinated behavior
+- Analyzing content at scale for patterns
+- Flagging potentially false claims for fact-checking
+- Monitoring information spread across platforms
 
 [screen 3]
 
@@ -39,15 +35,11 @@ AI can assist with multiple detection tasks:
 
 AI systems analyze video and audio for artifacts that reveal synthetic generation:
 
-• Inconsistent lighting or shadows on faces
-
-• Unnatural eye movements or blinking
-
-• Audio-visual mismatches
-
-• Compression artifacts typical of AI generation
-
-• Subtle inconsistencies in facial features across frames
+- Inconsistent lighting or shadows on faces
+- Unnatural eye movements or blinking
+- Audio-visual mismatches
+- Compression artifacts typical of AI generation
+- Subtle inconsistencies in facial features across frames
 
 Some detection systems achieve high accuracy in controlled conditions.
 
@@ -57,15 +49,11 @@ Some detection systems achieve high accuracy in controlled conditions.
 
 AI examines account behavior patterns to identify automation:
 
-• Posting frequency and timing consistency
-
-• Language patterns and repetition
-
-• Network connections and interaction patterns
-
-• Profile information authenticity
-
-• Content sharing patterns
+- Posting frequency and timing consistency
+- Language patterns and repetition
+- Network connections and interaction patterns
+- Profile information authenticity
+- Content sharing patterns
 
 Machine learning models can classify accounts as likely bot or likely human with reasonable accuracy.
 
@@ -75,13 +63,10 @@ Machine learning models can classify accounts as likely bot or likely human with
 
 Human fact-checkers cannot evaluate the volume of content produced daily. AI helps by:
 
-• Prioritizing content for human review based on virality and risk
-
-• Identifying content similar to previously debunked claims
-
-• Detecting coordinated campaigns spreading identical messages
-
-• Flagging unusual amplification patterns
+- Prioritizing content for human review based on virality and risk
+- Identifying content similar to previously debunked claims
+- Detecting coordinated campaigns spreading identical messages
+- Flagging unusual amplification patterns
 
 This helps human experts focus their limited time effectively.
 
@@ -113,15 +98,11 @@ Similarly, detecting that content is coordinated doesn't prove it's disinformati
 
 AI excels at pattern recognition but lacks:
 
-• Common sense reasoning
-
-• Cultural and contextual understanding
-
-• Ethical judgment about what constitutes harm
-
-• Ability to weight competing values (free speech vs protection from harm)
-
-• Understanding of intent and motivation
+- Common sense reasoning
+- Cultural and contextual understanding
+- Ethical judgment about what constitutes harm
+- Ability to weight competing values (free speech vs protection from harm)
+- Understanding of intent and motivation
 
 These require human judgment that AI cannot replicate.
 
@@ -131,11 +112,9 @@ These require human judgment that AI cannot replicate.
 
 The most effective approach combines AI capabilities with human judgment:
 
-• **AI**: Processes massive scale, identifies patterns, flags suspicious content
-
-• **Humans**: Apply context, verify claims, make nuanced judgments, determine appropriate responses
-
-• **Together**: Faster and more accurate than either alone
+- **AI**: Processes massive scale, identifies patterns, flags suspicious content
+- **Humans**: Apply context, verify claims, make nuanced judgments, determine appropriate responses
+- **Together**: Faster and more accurate than either alone
 
 [screen 10]
 
@@ -153,13 +132,10 @@ The most effective approach combines AI capabilities with human judgment:
 
 AI detection systems often operate as "black boxes" - their decisions aren't easily explainable. This creates problems:
 
-• Difficult to appeal erroneous decisions
-
-• Hard to understand and fix biases
-
-• Challenges accountability
-
-• Undermines trust when people don't understand why content was flagged
+- Difficult to appeal erroneous decisions
+- Hard to understand and fix biases
+- Challenges accountability
+- Undermines trust when people don't understand why content was flagged
 
 More transparent, explainable AI systems are needed for legitimate use in democratic contexts.
 
@@ -171,15 +147,11 @@ AI defense tools will continue improving, but so will AI attack tools. The asymm
 
 Rather than relying on technological solutions alone, effective defense requires:
 
-• Better AI tools combined with human expertise
-
-• Platform design changes to reduce manipulation vulnerabilities
-
-• Media literacy to help people critically evaluate content
-
-• Regulatory frameworks balancing security and rights
-
-• Multi-stakeholder collaboration across sectors
+- Better AI tools combined with human expertise
+- Platform design changes to reduce manipulation vulnerabilities
+- Media literacy to help people critically evaluate content
+- Regulatory frameworks balancing security and rights
+- Multi-stakeholder collaboration across sectors
 
 Technology is part of the solution, but only part.
 

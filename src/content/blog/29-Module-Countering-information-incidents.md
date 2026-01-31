@@ -33,13 +33,10 @@ Fact-checking on an information incident level means addressing individual, veri
 
 To be successful fact-checkers need to:
 
-• Be transparent about their methods;
-
-• Provide multiple sources underlying their conclusions so that others can replicate them;
-
-• Have someone other than the author edit the fact check;
-
-• And finally, “\[p\]resent findings in precise, factual and non-emotive language, while taking care not to overstate conclusions” (EFCSN).
+- Be transparent about their methods;
+- Provide multiple sources underlying their conclusions so that others can replicate them;
+- Have someone other than the author edit the fact check;
+- And finally, “\[p\]resent findings in precise, factual and non-emotive language, while taking care not to overstate conclusions” (EFCSN).
 
 \[screen 5\]
 

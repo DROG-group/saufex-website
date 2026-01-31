@@ -31,17 +31,12 @@ Key principle: You're not trying to prove your initial impression right or wrong
 
 You can't verify everything you encounter. Prioritize fact-checking when:
 
-• The claim is surprising or dramatic
-
-• You're tempted to share or act on it
-
-• It confirms your existing beliefs strongly (confirmation bias risk)
-
-• It's about an important topic
-
-• The source is unfamiliar
-
-• Something feels off, but you're not sure why
+- The claim is surprising or dramatic
+- You're tempted to share or act on it
+- It confirms your existing beliefs strongly (confirmation bias risk)
+- It's about an important topic
+- The source is unfamiliar
+- Something feels off, but you're not sure why
 
 Most content doesn't need verification - save your effort for claims that matter.
 
@@ -69,13 +64,10 @@ Professional fact-checkers use a technique called "lateral reading" - instead of
 
 Open new tabs to:
 
-• Check what others say about the source
-
-• Find other coverage of the claim
-
-• Look for the original source of information
-
-• See if fact-checkers have addressed it
+- Check what others say about the source
+- Find other coverage of the claim
+- Look for the original source of information
+- See if fact-checkers have addressed it
 
 This "reading across" the web is more effective than reading deeply on one site.
 
@@ -86,17 +78,17 @@ This "reading across" the web is more effective than reading deeply on one site.
 Professional fact-checking organizations have resources and expertise you don't. Use them:
 
 **International:**
-• FactCheck.org (US, Annenberg Public Policy Center)
-• Snopes (general fact-checking, internet rumors)
-• PolitiFact (US politics, Pulitzer Prize winner)
+- FactCheck.org (US, Annenberg Public Policy Center)
+- Snopes (general fact-checking, internet rumors)
+- PolitiFact (US politics, Pulitzer Prize winner)
 
 **EU/Regional:**
-• Full Fact (UK)
-• AFP Fact Check (global)
-• EU vs Disinfo (EU disinformation database)
+- Full Fact (UK)
+- AFP Fact Check (global)
+- EU vs Disinfo (EU disinformation database)
 
 **Meta-resources:**
-• International Fact-Checking Network (IFCN) directory
+- International Fact-Checking Network (IFCN) directory
 
 Many claims have already been verified by professionals.
 
@@ -106,17 +98,12 @@ Many claims have already been verified by professionals.
 
 Not all "fact-checking" is legitimate. Evaluate fact-checkers themselves:
 
-• Transparent about methodology?
-
-• Corrections when they err?
-
-• Non-partisan funding (not political parties/campaigns)?
-
-• IFCN certified (if possible)?
-
-• Clear distinction between fact-checking and opinion?
-
-• Cite sources so you can verify independently?
+- Transparent about methodology?
+- Corrections when they err?
+- Non-partisan funding (not political parties/campaigns)?
+- IFCN certified (if possible)?
+- Clear distinction between fact-checking and opinion?
+- Cite sources so you can verify independently?
 
 Legitimate fact-checkers explain their process and reasoning clearly.
 
@@ -144,17 +131,12 @@ This catches old photos presented as current, images from different locations, o
 
 Health and science claims need special attention:
 
-• Check peer-reviewed publications (PubMed, Google Scholar)
-
-• Look for scientific consensus, not single studies
-
-• Verify researcher credentials and affiliations
-
-• Check for conflicts of interest
-
-• See if reputable health organizations address it (WHO, CDC, etc.)
-
-• Be wary of "miracle cures" and extraordinary claims
+- Check peer-reviewed publications (PubMed, Google Scholar)
+- Look for scientific consensus, not single studies
+- Verify researcher credentials and affiliations
+- Check for conflicts of interest
+- See if reputable health organizations address it (WHO, CDC, etc.)
+- Be wary of "miracle cures" and extraordinary claims
 
 Legitimate scientific reporting acknowledges uncertainty and limitations.
 
@@ -164,19 +146,13 @@ Legitimate scientific reporting acknowledges uncertainty and limitations.
 
 Certain patterns indicate likely false or misleading claims:
 
-• Extraordinary claims with weak evidence
-
-• Appeals to emotion over facts
-
-• "They don't want you to know..."
-
-• Mixing some true facts with false conclusions
-
-• Vague sourcing ("sources say," "experts believe")
-
-• Conspiratorial framing
-
-• Time pressure ("Share before they take this down!")
+- Extraordinary claims with weak evidence
+- Appeals to emotion over facts
+- "They don't want you to know..."
+- Mixing some true facts with false conclusions
+- Vague sourcing ("sources say," "experts believe")
+- Conspiratorial framing
+- Time pressure ("Share before they take this down!")
 
 These tactics appear in disinformation more than legitimate information.
 
@@ -186,17 +162,12 @@ These tactics appear in disinformation more than legitimate information.
 
 Fact-checking has limitations:
 
-• Can't prove something never happened
-
-• Opinion and interpretation aren't fact-checkable
-
-• Some claims are too vague to verify
-
-• Evidence may be unavailable or disputed
-
-• "Technically true but misleading" is hard to rate
-
-• Corrections rarely reach original audience
+- Can't prove something never happened
+- Opinion and interpretation aren't fact-checkable
+- Some claims are too vague to verify
+- Evidence may be unavailable or disputed
+- "Technically true but misleading" is hard to rate
+- Corrections rarely reach original audience
 
 Understanding these limits helps set realistic expectations for verification.
 
@@ -228,17 +199,12 @@ These habits compound over time. Your network becomes more resistant to disinfor
 
 Common pitfalls:
 
-• Falling for confirmation bias while verifying
-
-• Accepting the first search result without checking further
-
-• Using poor-quality fact-checking sources
-
-• Spending hours on obviously absurd claims (strategic waste of time)
-
-• Engaging in arguments rather than quietly verifying
-
-• Sharing misinformation while debunking it (repeating the false claim)
+- Falling for confirmation bias while verifying
+- Accepting the first search result without checking further
+- Using poor-quality fact-checking sources
+- Spending hours on obviously absurd claims (strategic waste of time)
+- Engaging in arguments rather than quietly verifying
+- Sharing misinformation while debunking it (repeating the false claim)
 
 Be aware of these traps as you develop fact-checking skills.
 
@@ -248,17 +214,12 @@ Be aware of these traps as you develop fact-checking skills.
 
 Every time you verify before sharing, you:
 
-• Stop misinformation from spreading through your network
-
-• Model critical thinking for others
-
-• Maintain your own credibility
-
-• Make the information environment slightly better
-
-• Resist manipulation attempts
-
-• Practice and strengthen verification skills
+- Stop misinformation from spreading through your network
+- Model critical thinking for others
+- Maintain your own credibility
+- Make the information environment slightly better
+- Resist manipulation attempts
+- Practice and strengthen verification skills
 
 Fact-checking isn't about being suspicious of everyone. It's about taking responsibility for information quality in your sphere of influence. Small individual efforts create collective resilience.
 

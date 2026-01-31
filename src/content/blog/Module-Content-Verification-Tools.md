@@ -23,15 +23,11 @@ How do you verify these? Fortunately, numerous free and accessible tools exist f
 
 You don't need to be a professional investigator to verify content:
 
-• Most powerful verification tools are free and web-based
-
-• Basic verification catches the majority of manipulation
-
-• Tools democratize verification abilities
-
-• Systematic tool use prevents sharing false information
-
-• Quick verification prevents amplification of manipulation
+- Most powerful verification tools are free and web-based
+- Basic verification catches the majority of manipulation
+- Tools democratize verification abilities
+- Systematic tool use prevents sharing false information
+- Quick verification prevents amplification of manipulation
 
 Every informed citizen can develop basic verification skills.
 
@@ -398,19 +394,13 @@ Most verification is quick; sophisticated manipulation takes time.
 
 Verification tools aren't perfect:
 
-• No single tool is comprehensive
-
-• Tools can be defeated by sophisticated actors
-
-• Some manipulation is undetectable
-
-• Tools require skill and judgment
-
-• Results need interpretation
-
-• New manipulation techniques outpace detection
-
-• Access restrictions limit some tools
+- No single tool is comprehensive
+- Tools can be defeated by sophisticated actors
+- Some manipulation is undetectable
+- Tools require skill and judgment
+- Results need interpretation
+- New manipulation techniques outpace detection
+- Access restrictions limit some tools
 
 **Best practice**: Use multiple tools and methods. Converging evidence increases confidence. When uncertain, express uncertainty rather than false certainty.
 

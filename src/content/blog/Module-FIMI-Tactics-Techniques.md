@@ -59,17 +59,12 @@ Sophisticated operations use convincing personas with histories, consistent pers
 
 Creating credible fake accounts requires effort:
 
-• **Profile photos**: Stolen or AI-generated faces
-
-• **Biographical details**: Consistent, locally relevant information
-
-• **Activity history**: Months of normal-seeming posts before operation
-
-• **Network building**: Connecting with real users
-
-• **Content diversity**: Not just propaganda - also normal social media activity
-
-• **Local knowledge**: Cultural references, language nuances
+- **Profile photos**: Stolen or AI-generated faces
+- **Biographical details**: Consistent, locally relevant information
+- **Activity history**: Months of normal-seeming posts before operation
+- **Network building**: Connecting with real users
+- **Content diversity**: Not just propaganda - also normal social media activity
+- **Local knowledge**: Cultural references, language nuances
 
 Well-constructed personas are difficult to distinguish from authentic accounts.
 
@@ -211,17 +206,12 @@ Information and cyber operations reinforce each other, creating compound effects
 
 Sophisticated operations don't stay online:
 
-• Organizing real-world protests
-
-• Creating physical propaganda (posters, billboards)
-
-• Events and conferences
-
-• Funding political organizations
-
-• Cultivating relationships with political figures
-
-• Traditional media placement
+- Organizing real-world protests
+- Creating physical propaganda (posters, billboards)
+- Events and conferences
+- Funding political organizations
+- Cultivating relationships with political figures
+- Traditional media placement
 
 Online amplification makes offline activities appear more significant; offline activities lend authenticity to online content.
 
@@ -231,15 +221,11 @@ Online amplification makes offline activities appear more significant; offline a
 
 Creating fake grassroots movements:
 
-• Manufacturing appearance of organic public support
-
-• Fake petition signatures
-
-• Coordinated letter-writing campaigns
-
-• Fake protest organizing
-
-• Impersonating activists and organizations
+- Manufacturing appearance of organic public support
+- Fake petition signatures
+- Coordinated letter-writing campaigns
+- Fake protest organizing
+- Impersonating activists and organizations
 
 "Astroturf" (fake grass) movements aim to influence policymakers and media by simulating public opinion.
 
@@ -249,15 +235,11 @@ Creating fake grassroots movements:
 
 FIMI operations often aim to get mainstream media coverage:
 
-• Creating events newsworthy enough to report
-
-• Flooding social media to create "people are talking about..." stories
-
-• Providing seemingly credible sources for journalists
-
-• Creating controversy that demands coverage
-
-• Gaming trending algorithms
+- Creating events newsworthy enough to report
+- Flooding social media to create "people are talking about..." stories
+- Providing seemingly credible sources for journalists
+- Creating controversy that demands coverage
+- Gaming trending algorithms
 
 Once in mainstream media, foreign propaganda gains legitimacy and reach far beyond inauthentic networks.
 
@@ -285,17 +267,12 @@ This persistence means defense requires sustained effort, not one-time fixes.
 
 FIMI techniques exploit fundamental features of information ecosystems:
 
-• **Cognitive biases**: Confirmation bias, emotional reasoning
-
-• **Platform economics**: Engagement-optimizing algorithms
-
-• **Information overload**: Difficulty processing volume
-
-• **Speed asymmetry**: Lies spread faster than corrections
-
-• **Polarization**: Existing divisions easy to exploit
-
-• **Decreasing trust**: Institutional skepticism creates information vacuum
+- **Cognitive biases**: Confirmation bias, emotional reasoning
+- **Platform economics**: Engagement-optimizing algorithms
+- **Information overload**: Difficulty processing volume
+- **Speed asymmetry**: Lies spread faster than corrections
+- **Polarization**: Existing divisions easy to exploit
+- **Decreasing trust**: Institutional skepticism creates information vacuum
 
 Understanding why tactics work helps design countermeasures that address root vulnerabilities.
 

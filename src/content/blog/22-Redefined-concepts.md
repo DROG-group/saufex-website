@@ -11,11 +11,9 @@ description: "A proposition to redefine the concepts of misinformation, disinfor
 
 Based on [blog post nineteen](/insights/19-We-need-two-types-of-discourses) the concepts of misinformation, disinformation, and FIMI can be redefined:
 
-• Disinformation equals (a) proven inaccurate factual statements that are also (b) proven to deliberately misrepresent a person’s inner states and (c) that are being disseminated nonetheless.
-
-• Misinformation equals (a) proven inaccurate factual statements or (b) messages that misrepresent a person’s inner states (c) that are being disseminated nonetheless.
-
-• FIMI equals (a) misinformation or (b) disinformation that is (c) being created and/ or (d) being disseminated by a foreign actor.
+- Disinformation equals (a) proven inaccurate factual statements that are also (b) proven to deliberately misrepresent a person’s inner states and (c) that are being disseminated nonetheless.
+- Misinformation equals (a) proven inaccurate factual statements or (b) messages that misrepresent a person’s inner states (c) that are being disseminated nonetheless.
+- FIMI equals (a) misinformation or (b) disinformation that is (c) being created and/ or (d) being disseminated by a foreign actor.
 
 ## [](#Implications)Implications
 

@@ -68,9 +68,8 @@ The shape of distribution reveals stories that averages hide.
 
 Standard deviation measures how spread out data is:
 
-• Low standard deviation: Values cluster tightly around the mean
-
-• High standard deviation: Values vary widely
+- Low standard deviation: Values cluster tightly around the mean
+- High standard deviation: Values vary widely
 
 Two cities might have the same average temperature, but one varies from -10°C to 40°C (high standard deviation) while the other stays 15-25°C (low standard deviation).
 
@@ -98,13 +97,10 @@ Understanding probability helps evaluate risk claims and predictions.
 
 Larger samples generally produce more reliable results:
 
-• 3 people isn't representative of a country
-
-• 100 people gives rough indication
-
-• 1,000+ people enables meaningful conclusions
-
-• 10,000+ people allows analysis of subgroups
+- 3 people isn't representative of a country
+- 100 people gives rough indication
+- 1,000+ people enables meaningful conclusions
+- 10,000+ people allows analysis of subgroups
 
 But sampling method matters as much as size. A self-selected online poll of 10,000 people is less reliable than a random sample of 1,000.
 
@@ -128,11 +124,9 @@ Many headlines ignore margins of error, treating small differences as meaningful
 
 But statistical significance ≠ practical importance:
 
-• A drug might have "statistically significant" effects that are too small to matter clinically
-
-• Large sample sizes can make tiny, meaningless differences "significant"
-
-• Publication bias means only significant results get published
+- A drug might have "statistically significant" effects that are too small to matter clinically
+- Large sample sizes can make tiny, meaningless differences "significant"
+- Publication bias means only significant results get published
 
 Always ask: significant AND important, or just significant?
 
@@ -142,13 +136,10 @@ Always ask: significant AND important, or just significant?
 
 Many published studies fail to replicate when repeated. Reasons include:
 
-• Publication bias (only positive results published)
-
-• p-hacking (manipulating analysis until significance appears)
-
-• Underpowered studies (too small to detect real effects)
-
-• Researcher degrees of freedom (many analysis choices)
+- Publication bias (only positive results published)
+- p-hacking (manipulating analysis until significance appears)
+- Underpowered studies (too small to detect real effects)
+- Researcher degrees of freedom (many analysis choices)
 
 Single studies, especially with surprising results, should be treated as preliminary. Look for replication and meta-analyses.
 
@@ -174,21 +165,14 @@ Awareness of these patterns helps spot manipulation.
 
 When encountering statistics, ask:
 
-• Which average is being used - mean, median, or mode?
-
-• What's the sample size and selection method?
-
-• What's the margin of error?
-
-• What does the distribution look like?
-
-• Is statistical significance meaningful in practical terms?
-
-• Has this been replicated?
-
-• What data is being omitted?
-
-• Who benefits from this interpretation?
+- Which average is being used - mean, median, or mode?
+- What's the sample size and selection method?
+- What's the margin of error?
+- What does the distribution look like?
+- Is statistical significance meaningful in practical terms?
+- Has this been replicated?
+- What data is being omitted?
+- Who benefits from this interpretation?
 
 [screen 13]
 
@@ -196,15 +180,11 @@ When encountering statistics, ask:
 
 Remember: Statistics are used rhetorically, not just scientifically. The same data can be presented to support opposite conclusions through:
 
-• Choosing which average to report
-
-• Selecting timeframes
-
-• Using absolute vs. relative numbers
-
-• Showing or hiding variability
-
-• Cherry-picking data points
+- Choosing which average to report
+- Selecting timeframes
+- Using absolute vs. relative numbers
+- Showing or hiding variability
+- Cherry-picking data points
 
 Critical statistical literacy isn't about advanced math - it's about asking which choices were made in presenting data and why.
 

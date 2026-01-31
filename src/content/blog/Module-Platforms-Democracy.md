@@ -57,15 +57,11 @@ These features create both opportunities and risks for democracy.
 
 Democratic theory requires spaces for public discourse. Platforms now serve this function:
 
-• Political debate and organizing
-
-• News distribution and discussion
-
-• Civic engagement and mobilization
-
-• Government communication with citizens
-
-• Oversight and accountability mechanisms
+- Political debate and organizing
+- News distribution and discussion
+- Civic engagement and mobilization
+- Government communication with citizens
+- Oversight and accountability mechanisms
 
 When platforms malfunction or are manipulated, democratic discourse suffers. This makes platform governance a democratic imperative, not just a technical concern.
 
@@ -126,17 +122,17 @@ Different democracies answer differently, reflecting varying traditions of free 
 Platforms profoundly affect democratic politics:
 
 **Positive potentials**:
-• Increased access to political information
-• Direct politician-citizen communication
-• Grassroots mobilization and organizing
-• Accountability through rapid information sharing
+- Increased access to political information
+- Direct politician-citizen communication
+- Grassroots mobilization and organizing
+- Accountability through rapid information sharing
 
 **Negative realities**:
-• Disinformation and manipulation at scale
-• Echo chambers and polarization
-• Harassment silencing voices
-• Foreign interference in elections
-• Erosion of shared factual basis
+- Disinformation and manipulation at scale
+- Echo chambers and polarization
+- Harassment silencing voices
+- Foreign interference in elections
+- Erosion of shared factual basis
 
 Whether platforms enhance or undermine democracy depends partly on governance.
 
@@ -162,13 +158,10 @@ This concentration means governance failures affect billions. Market dominance a
 
 Traditional media faced multiple accountability mechanisms:
 
-• Editorial oversight and professional norms
-
-• Legal liability for content
-
-• Market pressure from advertisers and readers
-
-• Regulatory frameworks
+- Editorial oversight and professional norms
+- Legal liability for content
+- Market pressure from advertisers and readers
+- Regulatory frameworks
 
 Platforms largely escaped these constraints, claiming to be neutral technology rather than media. This created an accountability vacuum that enabled abuses.
 
@@ -194,17 +187,12 @@ There's no perfect solution - only better or worse approaches to managing inhere
 
 Facing criticism, platforms have adapted:
 
-• Publishing transparency reports
-
-• Establishing content policy advisory boards
-
-• Investing in fact-checking partnerships
-
-• Improving detection of inauthentic behavior
-
-• Restricting some political advertising
-
-• Cooperating with government requests (sometimes)
+- Publishing transparency reports
+- Establishing content policy advisory boards
+- Investing in fact-checking partnerships
+- Improving detection of inauthentic behavior
+- Restricting some political advertising
+- Cooperating with government requests (sometimes)
 
 But whether these changes suffice remains contentious. Critics argue voluntary measures are inadequate.
 
@@ -215,16 +203,16 @@ But whether these changes suffice remains contentious. Critics argue voluntary m
 Should platforms be regulated? If so, how?
 
 **Arguments for regulation**:
-• Platform power requires accountability
-• Market failures justify intervention
-• Democratic values at stake
-• Self-regulation has failed
+- Platform power requires accountability
+- Market failures justify intervention
+- Democratic values at stake
+- Self-regulation has failed
 
 **Arguments against**:
-• Free speech concerns
-• Innovation and competition impacts
-• Government overreach risks
-• One-size-fits-all problems
+- Free speech concerns
+- Innovation and competition impacts
+- Government overreach risks
+- One-size-fits-all problems
 
 Most democracies are moving toward some regulation, but approaches vary significantly.
 
@@ -235,9 +223,9 @@ Most democracies are moving toward some regulation, but approaches vary signific
 Digital platforms are not optional features of modern democracy - they're essential infrastructure. Like other infrastructure, they require governance ensuring they serve public good.
 
 Key questions:
-• Who should govern platforms? Companies, governments, or hybrid approaches?
-• What principles should guide governance? Free speech, safety, competition, transparency?
-• How can governance be effective without stifling innovation or enabling authoritarianism?
+- Who should govern platforms? Companies, governments, or hybrid approaches?
+- What principles should guide governance? Free speech, safety, competition, transparency?
+- How can governance be effective without stifling innovation or enabling authoritarianism?
 
 These questions don't have simple answers, but ignoring them isn't an option.
 
@@ -247,13 +235,10 @@ These questions don't have simple answers, but ignoring them isn't an option.
 
 As a platform user and democratic citizen, you have multiple stakes:
 
-• **User**: Affected by content policies, algorithmic choices, data practices
-
-• **Citizen**: Democratic discourse shaped by platform dynamics
-
-• **Stakeholder**: Platforms affect society, not just individual users
-
-• **Participant**: Your voice matters in governance debates
+- **User**: Affected by content policies, algorithmic choices, data practices
+- **Citizen**: Democratic discourse shaped by platform dynamics
+- **Stakeholder**: Platforms affect society, not just individual users
+- **Participant**: Your voice matters in governance debates
 
 Understanding platform governance helps you engage constructively in debates about how these powerful institutions should operate.
 

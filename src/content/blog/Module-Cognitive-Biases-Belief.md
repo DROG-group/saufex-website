@@ -26,9 +26,9 @@ Humans conserve mental energy:
 **Reality**: Our brains face overwhelming information
 
 **Response**: Mental shortcuts (heuristics) for efficiency
-• Quick judgments without deep analysis
-• "Good enough" answers, not perfect
-• Automatic processing over deliberate
+- Quick judgments without deep analysis
+- "Good enough" answers, not perfect
+- Automatic processing over deliberate
 
 **Usually helpful**: Shortcuts enable fast decisions
 
@@ -49,9 +49,9 @@ We seek information confirming existing beliefs:
 **Definition**: Tendency to search for, interpret, and recall information that confirms beliefs
 
 **Mechanisms**:
-• Selective attention: Notice confirming evidence
-• Selective interpretation: Interpret ambiguity favorably
-• Selective recall: Remember confirming information
+- Selective attention: Notice confirming evidence
+- Selective interpretation: Interpret ambiguity favorably
+- Selective recall: Remember confirming information
 
 **Example**: If you believe X, you'll notice evidence supporting X and ignore evidence against
 
@@ -93,13 +93,13 @@ Repetition increases belief:
 **Finding**: Repeated statements rated as more truthful than new ones
 
 **Mechanism**: Familiarity confused with truth
-• Familiar feels easier to process
-• Processing fluency interpreted as truth
+- Familiar feels easier to process
+- Processing fluency interpreted as truth
 
 **Disturbing**: Works even when:
-• People know statement is false
-• Statement contradicts knowledge
-• Source is unreliable
+- People know statement is false
+- Statement contradicts knowledge
+- Source is unreliable
 
 **Disinformation exploitation**: Repeat lies until they feel true
 
@@ -116,9 +116,9 @@ We judge probability by what easily comes to mind:
 **Definition**: Estimating likelihood based on mental availability of examples
 
 **Examples**:
-• Overestimating terrorism risk after news coverage
-• Fearing plane crashes more than car accidents
-• Believing crime increasing when coverage increases
+- Overestimating terrorism risk after news coverage
+- Fearing plane crashes more than car accidents
+- Believing crime increasing when coverage increases
 
 **Why it exists**: Often what's easily recalled is actually common
 
@@ -137,10 +137,10 @@ Corrections can strengthen false beliefs:
 **Definition**: Correcting misinformation sometimes increases belief
 
 **Mechanism**:
-• Correction perceived as threat to identity
-• Defensive processing activated
-• Counter-arguments generated
-• Belief strengthened
+- Correction perceived as threat to identity
+- Defensive processing activated
+- Counter-arguments generated
+- Belief strengthened
 
 **Contested**: Recent research suggests less common than initially thought
 
@@ -161,10 +161,10 @@ We remember claims but forget context:
 **Sleeper effect**: Over time, message persuasiveness increases as source forgotten
 
 **Mechanism**:
-• Remember the claim
-• Forget it was debunked
-• Forget source was unreliable
-• Claim feels true
+- Remember the claim
+- Forget it was debunked
+- Forget source was unreliable
+- Claim feels true
 
 **Implication**: Debunking has limited durability
 
@@ -183,9 +183,9 @@ Incompetence includes not recognizing incompetence:
 **Mechanism**: Lacking knowledge to recognize gaps
 
 **Curve**:
-• Low knowledge = high confidence
-• Increasing knowledge = decreasing confidence (see complexity)
-• High knowledge = appropriate confidence
+- Low knowledge = high confidence
+- Increasing knowledge = decreasing confidence (see complexity)
+- High knowledge = appropriate confidence
 
 **Disinformation relevance**: People confident in false beliefs may lack knowledge to recognize falsity
 
@@ -204,8 +204,8 @@ Big events must have big causes:
 **Rejection of randomness**: Hard to accept chance or small causes for major events
 
 **Example**: Conspiracy theories about assassinations, pandemics, terrorist attacks
-• "A lone gunman couldn't possibly..."
-• "There must be powerful forces behind this..."
+- "A lone gunman couldn't possibly..."
+- "There must be powerful forces behind this..."
 
 **Why**: Desire for world to make sense; big events should have big explanations
 
@@ -220,9 +220,9 @@ Misinformation influences beliefs even after correction:
 **Finding**: False information continues shaping thinking after learning it's false
 
 **Mechanism**:
-• Information integrated into mental model
-• Removing it leaves explanatory gap
-• Gap uncomfortable, so information persists
+- Information integrated into mental model
+- Removing it leaves explanatory gap
+- Gap uncomfortable, so information persists
 
 **Example**: Believing WMDs in Iraq even after learning intelligence was wrong
 
@@ -243,9 +243,9 @@ We follow what others do:
 **Usually helpful**: Crowd wisdom often accurate
 
 **Vulnerability**: Can be manipulated
-• Fake accounts creating false consensus
-• Bot amplification of fringe views
-• Coordinated inauthentic behavior
+- Fake accounts creating false consensus
+- Bot amplification of fringe views
+- Coordinated inauthentic behavior
 
 **Mechanism**: "If everyone believes this, it must be true"
 
@@ -260,9 +260,9 @@ Why FIMI operations use bot networks.
 Beliefs signal belonging:
 
 **Expressive function**: Beliefs as identity markers
-• Not about truth, about belonging
-• "People like us believe this"
-• Dissent risks exclusion
+- Not about truth, about belonging
+- "People like us believe this"
+- Dissent risks exclusion
 
 **Identity-protective cognition**: Protecting group identity over individual accuracy
 
@@ -281,19 +281,19 @@ Why polarization makes disinformation harder to counter.
 Feelings shape belief:
 
 **Affect heuristic**: Feeling influences judgment
-• Positive feeling = low risk, high benefit judgment
-• Negative feeling = high risk, low benefit judgment
+- Positive feeling = low risk, high benefit judgment
+- Negative feeling = high risk, low benefit judgment
 
 **Emotional content advantages**:
-• More attention
-• Better memory
-• Wider sharing
-• Bypasses critical thinking
+- More attention
+- Better memory
+- Wider sharing
+- Bypasses critical thinking
 
 **Fear and anger**: Particularly powerful
-• Amplify sharing
-• Reduce deliberation
-• Increase susceptibility
+- Amplify sharing
+- Reduce deliberation
+- Increase susceptibility
 
 **Disinformation pattern**: Emotionally charged false claims
 
@@ -306,29 +306,29 @@ Not rational actors - emotional beings.
 Two modes of thought:
 
 **System 1** (fast, automatic):
-• Intuitive
-• Effortless
-• Emotional
-• Stereotyping
-• Heuristic-based
+- Intuitive
+- Effortless
+- Emotional
+- Stereotyping
+- Heuristic-based
 
 **System 2** (slow, deliberate):
-• Logical
-• Effortful
-• Analytical
-• Critical
-• Evidence-based
+- Logical
+- Effortful
+- Analytical
+- Critical
+- Evidence-based
 
 **Default**: System 1 (easier)
 
 **Vulnerability**: Disinformation designed for System 1
-• Quick, emotional judgments
-• No deep analysis
+- Quick, emotional judgments
+- No deep analysis
 
 **Defense**: Activate System 2
-• Pause before sharing
-• Critical evaluation
-• Fact-checking
+- Pause before sharing
+- Critical evaluation
+- Fact-checking
 
 [screen 16]
 
@@ -339,14 +339,14 @@ Mental exhaustion increases susceptibility:
 **Cognitive load**: Mental effort being used
 
 **Finding**: High cognitive load increases vulnerability
-• Less mental resources for critical evaluation
-• More reliance on shortcuts
-• Easier to manipulate
+- Less mental resources for critical evaluation
+- More reliance on shortcuts
+- Easier to manipulate
 
 **Modern life**: Constant cognitive load
-• Information overload
-• Decision fatigue
-• Stress and distraction
+- Information overload
+- Decision fatigue
+- Stress and distraction
 
 **Implication**: Tired, stressed, overwhelmed people more vulnerable
 
@@ -361,16 +361,16 @@ Universal vulnerability with variation:
 **Not just the "gullible"**: Everyone vulnerable to some disinformation
 
 **Risk factors**:
-• Strong prior beliefs (confirmation bias)
-• Low trust in institutions (alternative sources)
-• High cognitive load (less critical evaluation)
-• Strong group identity (identity-protective cognition)
-• Age extremes (digital literacy, cognitive changes)
-• Isolation (no corrective input)
+- Strong prior beliefs (confirmation bias)
+- Low trust in institutions (alternative sources)
+- High cognitive load (less critical evaluation)
+- Strong group identity (identity-protective cognition)
+- Age extremes (digital literacy, cognitive changes)
+- Isolation (no corrective input)
 
 **Education**: Not protective as expected
-• Educated people can be better at rationalizing
-• Motivated reasoning works regardless of intelligence
+- Educated people can be better at rationalizing
+- Motivated reasoning works regardless of intelligence
 
 **Context matters**: Same person vulnerable in some contexts, not others
 
@@ -381,22 +381,22 @@ Universal vulnerability with variation:
 Understanding biases is first step:
 
 **Individual strategies**:
-• Awareness of own biases
-• Slow down, activate System 2
-• Seek disconfirming evidence
-• Consider alternative explanations
-• Check sources
-• Notice emotional manipulation
+- Awareness of own biases
+- Slow down, activate System 2
+- Seek disconfirming evidence
+- Consider alternative explanations
+- Check sources
+- Notice emotional manipulation
 
 **Social strategies**:
-• Diverse social networks
-• Trusted correctors
-• Open discussion norms
+- Diverse social networks
+- Trusted correctors
+- Open discussion norms
 
 **Structural strategies**:
-• Media literacy education
-• Platform design for deliberation
-• Information environment quality
+- Media literacy education
+- Platform design for deliberation
+- Information environment quality
 
 **Reality**: Can't eliminate biases, but can recognize and compensate
 

@@ -42,14 +42,14 @@ Most democracies are moving from self-regulation toward co-regulation or light-t
 For years, platforms largely regulated themselves:
 
 **Rationale**:
-• Innovation shouldn't be constrained
-• Private companies can move faster than governments
-• Expertise resides with platforms
-• Global nature makes national regulation difficult
+- Innovation shouldn't be constrained
+- Private companies can move faster than governments
+- Expertise resides with platforms
+- Global nature makes national regulation difficult
 
 **Results**:
-• Rapid growth and innovation
-• But also: abuse, manipulation, insufficient accountability
+- Rapid growth and innovation
+- But also: abuse, manipulation, insufficient accountability
 
 By the late 2010s, consensus emerged that self-regulation was inadequate.
 
@@ -64,8 +64,8 @@ US platform regulation centers on Section 230 of Communications Decency Act (199
 **Effect**: Enabled platform growth by limiting legal risk
 
 **Debate**:
-• Supporters: Essential for free speech and innovation
-• Critics: Shields platforms from accountability
+- Supporters: Essential for free speech and innovation
+- Critics: Shields platforms from accountability
 
 Section 230 reform is hotly debated but hasn't happened. US remains more hands-off than most democracies.
 
@@ -76,12 +76,12 @@ Section 230 reform is hotly debated but hasn't happened. US remains more hands-o
 The **Digital Services Act (DSA)**, fully implemented 2024, represents comprehensive platform regulation:
 
 **Core principles**:
-• Illegal content must be removed swiftly
-• Platforms must be transparent about content moderation
-• Large platforms must assess and mitigate risks
-• Independent audits required
-• Users have rights (appeal, explanation)
-• Fines up to 6% of global revenue
+- Illegal content must be removed swiftly
+- Platforms must be transparent about content moderation
+- Large platforms must assess and mitigate risks
+- Independent audits required
+- Users have rights (appeal, explanation)
+- Fines up to 6% of global revenue
 
 DSA doesn't define illegal content (national law does) but creates procedural accountability.
 
@@ -91,19 +91,13 @@ DSA doesn't define illegal content (national law does) but creates procedural ac
 
 **Very Large Online Platforms (VLOPs)** face additional requirements:
 
-• Annual risk assessments for systemic risks (disinformation, election manipulation, etc.)
-
-• Independent audits of compliance
-
-• Transparency in recommendation algorithms
-
-• Crisis response mechanisms
-
-• Researcher data access
-
-• Prohibition on targeting minors with ads
-
-• Ad transparency archives
+- Annual risk assessments for systemic risks (disinformation, election manipulation, etc.)
+- Independent audits of compliance
+- Transparency in recommendation algorithms
+- Crisis response mechanisms
+- Researcher data access
+- Prohibition on targeting minors with ads
+- Ad transparency archives
 
 Platforms like Meta, Google, Twitter/X, TikTok are designated VLOPs.
 
@@ -114,15 +108,15 @@ Platforms like Meta, Google, Twitter/X, TikTok are designated VLOPs.
 Germany's **Network Enforcement Act (NetzDG)**, 2017, pioneered European platform regulation:
 
 **Requirements**:
-• Remove clearly illegal content within 24 hours
-• Complex cases within 7 days
-• Transparency reports required
-• Significant fines for non-compliance
+- Remove clearly illegal content within 24 hours
+- Complex cases within 7 days
+- Transparency reports required
+- Significant fines for non-compliance
 
 **Criticisms**:
-• Over-removal due to liability fears
-• Definition of "clearly illegal" unclear
-• Limited effectiveness on sophisticated manipulation
+- Over-removal due to liability fears
+- Definition of "clearly illegal" unclear
+- Limited effectiveness on sophisticated manipulation
 
 NetzDG influenced EU DSA development but proved insufficient alone.
 
@@ -139,10 +133,10 @@ UK's **Online Safety Act** (2023) takes a different approach:
 **Regulator**: Ofcom empowered to enforce, including content blocking
 
 **Concerns**:
-• Broad scope including legal content
-• Potential for overreach
-• Free speech implications
-• End-to-end encryption conflicts
+- Broad scope including legal content
+- Potential for overreach
+- Free speech implications
+- End-to-end encryption conflicts
 
 More prescriptive than EU's DSA but sharing similar accountability goals.
 
@@ -159,9 +153,9 @@ Australia has pioneered several regulatory innovations:
 **Defamation liability**: Platforms potentially liable for user comments
 
 **Characteristics**:
-• Willing to confront platforms aggressively
-• Protecting national interests (news industry, safety)
-• Sometimes technical (encryption) conflicts
+- Willing to confront platforms aggressively
+- Protecting national interests (news industry, safety)
+- Sometimes technical (encryption) conflicts
 
 Australia demonstrates small country can regulate platforms despite lacking large market.
 
@@ -244,11 +238,11 @@ Coordination and harmonization reduce compliance burden but are politically diff
 China represents authoritarian alternative to democratic regulation:
 
 **Characteristics**:
-• Extensive content censorship
-• Real-name registration requirements
-• Government access to all data
-• Platforms directly controlled
-• Export of model to other authoritarian states
+- Extensive content censorship
+- Real-name registration requirements
+- Government access to all data
+- Platforms directly controlled
+- Export of model to other authoritarian states
 
 **Why it matters**: Demonstrates technology doesn't inherently favor democracy; authoritarian information control is possible
 
@@ -296,17 +290,12 @@ No regulatory approach optimizes all values simultaneously.
 
 New challenges require regulatory evolution:
 
-• **AI-generated content**: Synthetic media and deepfakes
-
-• **Recommendation algorithms**: Regulating not just content but amplification
-
-• **Encrypted messaging**: Balancing privacy and safety
-
-• **Emerging platforms**: Regulation keeping pace with new services
-
-• **Cross-platform coordination**: Networks that span services
-
-• **Metadata and targeting**: Not just content but who sees it
+- **AI-generated content**: Synthetic media and deepfakes
+- **Recommendation algorithms**: Regulating not just content but amplification
+- **Encrypted messaging**: Balancing privacy and safety
+- **Emerging platforms**: Regulation keeping pace with new services
+- **Cross-platform coordination**: Networks that span services
+- **Metadata and targeting**: Not just content but who sees it
 
 Regulation must evolve as technology and tactics change.
 
@@ -316,19 +305,13 @@ Regulation must evolve as technology and tactics change.
 
 When assessing regulation, consider:
 
-• **Effectiveness**: Does it address targeted harms?
-
-• **Proportionality**: Are restrictions justified by benefits?
-
-• **Transparency**: Are rules and enforcement clear?
-
-• **Accountability**: Can platforms and regulators be held accountable?
-
-• **Rights protection**: Are user rights preserved?
-
-• **Adaptability**: Can it evolve with technology?
-
-• **Enforcement**: Are there meaningful consequences for violations?
+- **Effectiveness**: Does it address targeted harms?
+- **Proportionality**: Are restrictions justified by benefits?
+- **Transparency**: Are rules and enforcement clear?
+- **Accountability**: Can platforms and regulators be held accountable?
+- **Rights protection**: Are user rights preserved?
+- **Adaptability**: Can it evolve with technology?
+- **Enforcement**: Are there meaningful consequences for violations?
 
 No perfect system exists, but some approaches better balance competing values than others.
 

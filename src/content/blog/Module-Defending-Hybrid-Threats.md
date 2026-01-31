@@ -65,13 +65,10 @@ No single domain defense suffices - integration is essential.
 
 Effective response requires early detection. This demands:
 
-• **Intelligence fusion**: Combining signals from multiple sources and domains
-
-• **Horizon scanning**: Monitoring for indicators of preparation
-
-• **Pattern recognition**: Identifying coordinated campaigns early
-
-• **Rapid attribution**: Determining adversary identity quickly enough to enable response
+- **Intelligence fusion**: Combining signals from multiple sources and domains
+- **Horizon scanning**: Monitoring for indicators of preparation
+- **Pattern recognition**: Identifying coordinated campaigns early
+- **Rapid attribution**: Determining adversary identity quickly enough to enable response
 
 Many democracies have improved these capabilities since 2016, but gaps remain.
 
@@ -81,11 +78,9 @@ Many democracies have improved these capabilities since 2016, but gaps remain.
 
 Hybrid threats don't respect organizational boundaries. Defense requires coordination:
 
-• **Horizontal**: Across government departments (foreign affairs, defense, intelligence, law enforcement, communications)
-
-• **Vertical**: Between national, regional, and local levels
-
-• **External**: With private sector (especially tech platforms) and civil society
+- **Horizontal**: Across government departments (foreign affairs, defense, intelligence, law enforcement, communications)
+- **Vertical**: Between national, regional, and local levels
+- **External**: With private sector (especially tech platforms) and civil society
 
 Some countries have created specific coordination bodies like Resilience Councils to achieve this.
 
@@ -95,13 +90,10 @@ Some countries have created specific coordination bodies like Resilience Council
 
 Hybrid threat actors often operate across borders. Effective defense requires:
 
-• **Intelligence sharing**: Coordinating threat information among allies
-
-• **Attribution coordination**: Joint statements increase credibility and reduce isolation
-
-• **Response coordination**: Synchronized actions (sanctions, expulsions, cyber responses)
-
-• **Capability building**: Helping vulnerable allies strengthen defenses
+- **Intelligence sharing**: Coordinating threat information among allies
+- **Attribution coordination**: Joint statements increase credibility and reduce isolation
+- **Response coordination**: Synchronized actions (sanctions, expulsions, cyber responses)
+- **Capability building**: Helping vulnerable allies strengthen defenses
 
 NATO, EU, and other alliances have enhanced hybrid threat cooperation frameworks.
 
@@ -127,15 +119,11 @@ Since information manipulation is central to hybrid threats, information defense
 
 Hybrid operations often target infrastructure. Protection requires:
 
-• Identifying critical systems and dependencies
-
-• Reducing digital attack surfaces
-
-• Building redundancy and backup systems
-
-• Practicing crisis response scenarios
-
-• Coordinating with infrastructure operators (often private companies)
+- Identifying critical systems and dependencies
+- Reducing digital attack surfaces
+- Building redundancy and backup systems
+- Practicing crisis response scenarios
+- Coordinating with infrastructure operators (often private companies)
 
 Both physical and digital infrastructure need attention.
 
@@ -181,21 +169,14 @@ When society acts together, resilience multiplies.
 
 As an individual, you contribute to hybrid threat defense by:
 
-• Staying informed about threats without panic
-
-• Practicing media literacy and critical thinking
-
-• Not amplifying suspicious content
-
-• Supporting quality journalism
-
-• Reporting suspicious activity to authorities
-
-• Building community connections that resist manipulation
-
-• Voting and participating in democratic processes
-
-• Supporting evidence-based policy responses
+- Staying informed about threats without panic
+- Practicing media literacy and critical thinking
+- Not amplifying suspicious content
+- Supporting quality journalism
+- Reporting suspicious activity to authorities
+- Building community connections that resist manipulation
+- Voting and participating in democratic processes
+- Supporting evidence-based policy responses
 
 Personal resilience creates societal resilience.
 
@@ -207,17 +188,12 @@ Hybrid threats will evolve as adversaries adapt and technologies change. Defense
 
 Priority areas for development:
 
-• AI-enabled detection and response systems
-
-• Faster attribution capabilities
-
-• Enhanced public-private coordination
-
-• Improved media literacy at scale
-
-• Resilience metrics and assessment
-
-• International legal frameworks for gray zone operations
+- AI-enabled detection and response systems
+- Faster attribution capabilities
+- Enhanced public-private coordination
+- Improved media literacy at scale
+- Resilience metrics and assessment
+- International legal frameworks for gray zone operations
 
 Continued investment in resilience and coordination is essential.
 

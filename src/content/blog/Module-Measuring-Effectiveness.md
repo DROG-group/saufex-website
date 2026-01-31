@@ -70,14 +70,14 @@ Perfect measurement impossible; useful measurement achievable.
 What are you trying to achieve?
 
 **Possible objectives**:
-• Awareness: Did people see the message?
-• Comprehension: Did they understand it?
-• Belief change: Did false beliefs decrease?
-• Attitude shift: Did opinions change?
-• Intention: Do people intend to act differently?
-• Behavior change: Did actions actually change?
-• Resilience: Are people more resistant to future manipulation?
-• Harm reduction: Was harm from misinformation reduced?
+- Awareness: Did people see the message?
+- Comprehension: Did they understand it?
+- Belief change: Did false beliefs decrease?
+- Attitude shift: Did opinions change?
+- Intention: Do people intend to act differently?
+- Behavior change: Did actions actually change?
+- Resilience: Are people more resistant to future manipulation?
+- Harm reduction: Was harm from misinformation reduced?
 
 **Hierarchy**: Awareness easier than belief change; belief change easier than behavior change
 
@@ -92,27 +92,27 @@ Measure what matters, not just what's easy.
 Numbers-based measurement approaches:
 
 **Surveys**:
-• Pre/post intervention surveys
-• Measuring awareness, beliefs, attitudes, intentions
-• Large sample sizes for statistical significance
-• Random assignment to intervention/control
+- Pre/post intervention surveys
+- Measuring awareness, beliefs, attitudes, intentions
+- Large sample sizes for statistical significance
+- Random assignment to intervention/control
 
 **Experiments**:
-• Randomized controlled trials (RCTs)
-• A/B testing different messages
-• Laboratory vs field experiments
-• Causal inference possible
+- Randomized controlled trials (RCTs)
+- A/B testing different messages
+- Laboratory vs field experiments
+- Causal inference possible
 
 **Social media metrics**:
-• Engagement (likes, shares, comments)
-• Reach and impressions
-• Sentiment analysis
-• Sharing patterns
+- Engagement (likes, shares, comments)
+- Reach and impressions
+- Sentiment analysis
+- Sharing patterns
 
 **Web analytics**:
-• Traffic to counter-messaging content
-• Time spent, bounce rates
-• Conversion rates
+- Traffic to counter-messaging content
+- Time spent, bounce rates
+- Conversion rates
 
 [screen 6]
 
@@ -121,25 +121,25 @@ Numbers-based measurement approaches:
 Understanding depth and context:
 
 **Focus groups**:
-• Discussing counter-messaging with small groups
-• Understanding reactions, reasoning
-• Testing messages before launch
-• Rich contextual understanding
+- Discussing counter-messaging with small groups
+- Understanding reactions, reasoning
+- Testing messages before launch
+- Rich contextual understanding
 
 **In-depth interviews**:
-• Individual conversations about beliefs and attitudes
-• Exploring narrative adoption
-• Understanding change mechanisms
+- Individual conversations about beliefs and attitudes
+- Exploring narrative adoption
+- Understanding change mechanisms
 
 **Ethnographic observation**:
-• Observing communities over time
-• Understanding cultural context
-• Long-term immersion
+- Observing communities over time
+- Understanding cultural context
+- Long-term immersion
 
 **Content analysis**:
-• Analyzing discussions about counter-messaging
-• Identifying themes and patterns
-• Understanding narrative evolution
+- Analyzing discussions about counter-messaging
+- Identifying themes and patterns
+- Understanding narrative evolution
 
 Qualitative methods provide "why" and "how" that quantitative can miss.
 
@@ -157,15 +157,15 @@ Gold standard for causal inference:
 5. Compare differences
 
 **Advantages**:
-• Strong causal claims
-• Control for confounding variables
-• Replicable
+- Strong causal claims
+- Control for confounding variables
+- Replicable
 
 **Challenges**:
-• Expensive and time-intensive
-• Ethical concerns (withholding potentially beneficial interventions)
-• Artificial conditions may not reflect real world
-• Contamination between groups online
+- Expensive and time-intensive
+- Ethical concerns (withholding potentially beneficial interventions)
+- Artificial conditions may not reflect real world
+- Contamination between groups online
 
 **Example**: Bad News game evaluated through RCT, showing effectiveness
 
@@ -176,18 +176,18 @@ Gold standard for causal inference:
 Comparing different message versions:
 
 **Approach**:
-• Create multiple message versions (A, B, C...)
-• Randomly show different versions to different audiences
-• Measure which performs better
-• Iterate based on results
+- Create multiple message versions (A, B, C...)
+- Randomly show different versions to different audiences
+- Measure which performs better
+- Iterate based on results
 
 **What to test**:
-• Message framing
-• Messenger identity
-• Visual elements
-• Length and detail
-• Emotional tone
-• Call to action
+- Message framing
+- Messenger identity
+- Visual elements
+- Length and detail
+- Emotional tone
+- Call to action
 
 **Platforms**: Facebook, Google allow A/B testing in ad campaigns
 
@@ -204,19 +204,19 @@ Leveraging real-world variation:
 **Concept**: When intervention applied to some groups but not others for non-experimental reasons
 
 **Examples**:
-• Platform removing content in one region but not another
-• Fact-checking partnerships starting at different times in different countries
-• Crisis response in one community but not similar community
+- Platform removing content in one region but not another
+- Fact-checking partnerships starting at different times in different countries
+- Crisis response in one community but not similar community
 
 **Advantages**:
-• Real-world conditions
-• Larger scale than experiments
-• Sometimes only feasible approach
+- Real-world conditions
+- Larger scale than experiments
+- Sometimes only feasible approach
 
 **Limitations**:
-• Weaker causal claims than RCTs
-• Confounding variables
-• Less control
+- Weaker causal claims than RCTs
+- Confounding variables
+- Less control
 
 Opportunistic measurement when experiments impossible.
 
@@ -227,19 +227,19 @@ Opportunistic measurement when experiments impossible.
 Tracking changes over time:
 
 **Design**:
-• Measure outcomes repeatedly over extended period
-• Before, during, and after intervention
-• Track decay or durability of effects
+- Measure outcomes repeatedly over extended period
+- Before, during, and after intervention
+- Track decay or durability of effects
 
 **Value**:
-• Understanding persistence of effects
-• Identifying when booster interventions needed
-• Capturing long-term societal changes
+- Understanding persistence of effects
+- Identifying when booster interventions needed
+- Capturing long-term societal changes
 
 **Challenges**:
-• Expensive
-• Participant attrition
-• Changing contexts complicates interpretation
+- Expensive
+- Participant attrition
+- Changing contexts complicates interpretation
 
 **Example**: Tracking belief resilience to misinformation months after inoculation intervention
 
@@ -252,22 +252,22 @@ Time dimension essential for understanding lasting impact.
 Leveraging platform data:
 
 **Available metrics**:
-• Content reach and impressions
-• Engagement rates (likes, shares, comments)
-• Demographic data on audiences reached
-• Sentiment of responses
-• Sharing patterns and virality
+- Content reach and impressions
+- Engagement rates (likes, shares, comments)
+- Demographic data on audiences reached
+- Sentiment of responses
+- Sharing patterns and virality
 
 **Advantages**:
-• Large-scale data
-• Behavioral measures (not just self-report)
-• Real-time monitoring
+- Large-scale data
+- Behavioral measures (not just self-report)
+- Real-time monitoring
 
 **Limitations**:
-• Platform restrictions on data access
-• Engagement doesn't equal belief change
-• Privacy concerns
-• Platform changes disrupting comparisons
+- Platform restrictions on data access
+- Engagement doesn't equal belief change
+- Privacy concerns
+- Platform changes disrupting comparisons
 
 **Reality**: Becoming harder as platforms restrict researcher access
 
@@ -278,17 +278,17 @@ Leveraging platform data:
 Did your intervention cause observed changes?
 
 **Alternative explanations**:
-• Other counter-messaging efforts
-• External events (news, scandals)
-• Platform changes
-• Natural opinion evolution
-• Regression to the mean
+- Other counter-messaging efforts
+- External events (news, scandals)
+- Platform changes
+- Natural opinion evolution
+- Regression to the mean
 
 **Approaches to attribution**:
-• Control groups for comparison
-• Multiple measurement points
-• Dose-response relationships (more exposure = more effect)
-• Mechanism testing (did intervention work as theorized?)
+- Control groups for comparison
+- Multiple measurement points
+- Dose-response relationships (more exposure = more effect)
+- Mechanism testing (did intervention work as theorized?)
 
 **Reality**: Perfect attribution usually impossible in real world
 
@@ -301,21 +301,21 @@ Did your intervention cause observed changes?
 Different time horizons reveal different things:
 
 **Short-term** (days to weeks):
-• Immediate awareness and reactions
-• Message reach and engagement
-• Quick belief changes
-• Easy to measure
+- Immediate awareness and reactions
+- Message reach and engagement
+- Quick belief changes
+- Easy to measure
 
 **Medium-term** (months):
-• Sustained belief changes
-• Behavioral manifestations
-• Durability testing
+- Sustained belief changes
+- Behavioral manifestations
+- Durability testing
 
 **Long-term** (years):
-• Cultural shifts
-• Narrative dominance changes
-• Resilience building
-• Societal-level impact
+- Cultural shifts
+- Narrative dominance changes
+- Resilience building
+- Societal-level impact
 
 **Challenge**: Most measurement focuses on short-term due to resource constraints
 
@@ -328,20 +328,20 @@ Different time horizons reveal different things:
 Measure at multiple levels:
 
 **Individual level**:
-• Belief and attitude changes
-• Behavioral intentions and actions
-• Resilience to misinformation
+- Belief and attitude changes
+- Behavioral intentions and actions
+- Resilience to misinformation
 
 **Network level**:
-• Spread of counter-messaging vs misinformation
-• Community norm shifts
-• Influence of key nodes
+- Spread of counter-messaging vs misinformation
+- Community norm shifts
+- Influence of key nodes
 
 **Societal level**:
-• Public opinion polls
-• Election outcomes
-• Policy changes
-• Media environment shifts
+- Public opinion polls
+- Election outcomes
+- Policy changes
+- Media environment shifts
 
 **Nested influences**: Individual changes aggregate to societal changes
 
@@ -354,20 +354,20 @@ Comprehensive measurement spans levels.
 What return for investment?
 
 **Metrics**:
-• Cost per person reached
-• Cost per belief change
-• Cost per harm averted
-• Cost compared to alternatives
+- Cost per person reached
+- Cost per belief change
+- Cost per harm averted
+- Cost compared to alternatives
 
 **Considerations**:
-• Direct costs (production, distribution)
-• Indirect costs (staff time, overhead)
-• Opportunity costs (alternative uses of resources)
+- Direct costs (production, distribution)
+- Indirect costs (staff time, overhead)
+- Opportunity costs (alternative uses of resources)
 
 **Comparison**:
-• Debunking vs prebunking cost-effectiveness
-• Different channels and formats
-• Targeted vs broad interventions
+- Debunking vs prebunking cost-effectiveness
+- Different channels and formats
+- Targeted vs broad interventions
 
 **Value**: Informing resource allocation decisions
 
@@ -380,10 +380,10 @@ Efficiency matters when resources limited.
 Combining quantitative and qualitative:
 
 **Value**:
-• Quantitative shows "what" and "how much"
-• Qualitative explains "why" and "how"
-• Triangulation increases confidence
-• Richer, more complete understanding
+- Quantitative shows "what" and "how much"
+- Qualitative explains "why" and "how"
+- Triangulation increases confidence
+- Richer, more complete understanding
 
 **Example design**:
 1. RCT measuring belief change (quantitative)
@@ -402,19 +402,19 @@ Best practice for comprehensive evaluation.
 Measurement raises ethical questions:
 
 **Informed consent**: Should participants know they're in study?
-• Knowing can change behavior (Hawthorne effect)
-• But: Deception raises ethical concerns
+- Knowing can change behavior (Hawthorne effect)
+- But: Deception raises ethical concerns
 
 **Privacy**: Balancing measurement needs with privacy rights
-• Platform data collection
-• Tracking individual behavior
+- Platform data collection
+- Tracking individual behavior
 
 **Withholding interventions**: Control groups don't receive potentially beneficial messaging
-• May be ethical cost
-• Delayed intervention designs mitigate
+- May be ethical cost
+- Delayed intervention designs mitigate
 
 **Harm from measurement**: Surveys exposing people to misinformation to test resilience
-• Must minimize harm
+- Must minimize harm
 
 **Data security**: Protecting sensitive information
 
@@ -427,23 +427,23 @@ Ethics boards should review measurement designs.
 Integrating evaluation into practice:
 
 **Organizational**:
-• Dedicated measurement resources
-• Evaluation expertise on team
-• Measurement planning from beginning
-• Learning culture (not blame)
+- Dedicated measurement resources
+- Evaluation expertise on team
+- Measurement planning from beginning
+- Learning culture (not blame)
 
 **Practical**:
-• Start with clear objectives
-• Define metrics before intervention
-• Build in measurement from design phase
-• Allocate sufficient resources
-• Plan for both success and failure metrics
+- Start with clear objectives
+- Define metrics before intervention
+- Build in measurement from design phase
+- Allocate sufficient resources
+- Plan for both success and failure metrics
 
 **Sharing**:
-• Publish findings (positive and negative)
-• Contribute to evidence base
-• Open about limitations
-• Transparency about methods
+- Publish findings (positive and negative)
+- Contribute to evidence base
+- Open about limitations
+- Transparency about methods
 
 **Iteration**: Use measurement to continuously improve
 

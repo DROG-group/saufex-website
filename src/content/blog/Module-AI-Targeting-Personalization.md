@@ -31,15 +31,11 @@ AI enables "narrowcasting" - sending different messages to different micro-audie
 
 AI doesn't just know your demographics (age, location, gender). It infers your psychology:
 
-• Your values and moral foundations
-
-• Your fears and anxieties
-
-• Your personality traits
-
-• Your emotional triggers
-
-• Your decision-making patterns
+- Your values and moral foundations
+- Your fears and anxieties
+- Your personality traits
+- Your emotional triggers
+- Your decision-making patterns
 
 This psychographic profile becomes a manipulation blueprint.
 
@@ -49,17 +45,12 @@ This psychographic profile becomes a manipulation blueprint.
 
 AI builds psychological profiles from your digital breadcrumbs:
 
-• What you like, share, and comment on
-
-• How long you watch videos
-
-• What time of day you're active
-
-• What language you use in posts
-
-• Who you interact with and how
-
-• What causes emotional responses
+- What you like, share, and comment on
+- How long you watch videos
+- What time of day you're active
+- What language you use in posts
+- Who you interact with and how
+- What causes emotional responses
 
 Every click teaches AI more about manipulating you.
 
@@ -113,15 +104,11 @@ This creates tension between convenience (personalized services require data) an
 
 While you can't completely escape AI targeting, you can reduce vulnerability:
 
-• Be aware when content seems designed to provoke strong emotion
-
-• Seek out diverse information sources deliberately
-
-• Recognize that your social media feed is algorithmically curated, not objective reality
-
-• Question why specific content appears in your feed
-
-• Limit data exposure through privacy settings
+- Be aware when content seems designed to provoke strong emotion
+- Seek out diverse information sources deliberately
+- Recognize that your social media feed is algorithmically curated, not objective reality
+- Question why specific content appears in your feed
+- Limit data exposure through privacy settings
 
 Awareness of personalization is your first line of defense.
 

@@ -41,17 +41,12 @@ States have resources, coordination, and strategic objectives that distinguish t
 
 Governments bring significant advantages to information operations:
 
-• **Funding**: Sustained operations over years or decades
-
-• **Coordination**: Integration across agencies and countries
-
-• **Intelligence**: Information gathering to inform targeting
-
-• **Technical**: Cyber capabilities, AI, data analytics
-
-• **Diplomatic**: Ability to pressure platforms and media
-
-• **Legitimacy**: Official status lends credibility to messaging
+- **Funding**: Sustained operations over years or decades
+- **Coordination**: Integration across agencies and countries
+- **Intelligence**: Information gathering to inform targeting
+- **Technical**: Cyber capabilities, AI, data analytics
+- **Diplomatic**: Ability to pressure platforms and media
+- **Legitimacy**: Official status lends credibility to messaging
 
 These resources enable sophisticated, persistent campaigns impossible for most non-state actors.
 
@@ -167,15 +162,11 @@ Attribution becomes difficult when genuine activists unwittingly amplify state-s
 
 Distinguishing state from non-state actors is increasingly difficult:
 
-• Commercial actors work for states
-
-• States cultivate and fund "grassroots" movements
-
-• Ideological actors coordinate with states when interests align
-
-• States use platforms and techniques indistinguishable from commercial actors
-
-• True believers amplify state narratives organically
+- Commercial actors work for states
+- States cultivate and fund "grassroots" movements
+- Ideological actors coordinate with states when interests align
+- States use platforms and techniques indistinguishable from commercial actors
+- True believers amplify state narratives organically
 
 This ambiguity is strategic - attribution challenges enable plausible deniability.
 
@@ -235,17 +226,12 @@ Democratic responses must distinguish between foreign interference and domestic 
 
 The actor landscape is evolving:
 
-• More states developing capabilities
-
-• Commercial market for information manipulation growing
-
-• Techniques democratizing - easier for smaller actors
-
-• Platforms improving detection, forcing adaptation
-
-• International coordination improving attribution
-
-• Legal frameworks addressing foreign influence
+- More states developing capabilities
+- Commercial market for information manipulation growing
+- Techniques democratizing - easier for smaller actors
+- Platforms improving detection, forcing adaptation
+- International coordination improving attribution
+- Legal frameworks addressing foreign influence
 
 Understanding actors isn't static - continuous learning is required as the landscape changes.
 
@@ -255,15 +241,11 @@ Understanding actors isn't static - continuous learning is required as the lands
 
 Identifying who is behind operations enables:
 
-• **Appropriate responses**: Diplomatic, legal, or technical countermeasures
-
-• **Public awareness**: Exposing operations reduces effectiveness
-
-• **Platform action**: Removal based on coordinated inauthentic behavior
-
-• **Legal accountability**: Sanctions, prosecutions where applicable
-
-• **Strategic understanding**: Analyzing adversary tactics and objectives
+- **Appropriate responses**: Diplomatic, legal, or technical countermeasures
+- **Public awareness**: Exposing operations reduces effectiveness
+- **Platform action**: Removal based on coordinated inauthentic behavior
+- **Legal accountability**: Sanctions, prosecutions where applicable
+- **Strategic understanding**: Analyzing adversary tactics and objectives
 
 But attribution is technically and politically challenging - covered in detail in Module 5.
 

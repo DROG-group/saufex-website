@@ -41,15 +41,11 @@ Each stage includes quality controls that distinguish journalism from rumor-spre
 
 Editors are journalism's quality assurance:
 
-• Verify reporters' sources and fact-checking
-
-• Challenge assumptions and ask hard questions
-
-• Ensure balance and fairness
-
-• Check for legal issues (libel, privacy)
-
-• Improve clarity and accuracy
+- Verify reporters' sources and fact-checking
+- Challenge assumptions and ask hard questions
+- Ensure balance and fairness
+- Check for legal issues (libel, privacy)
+- Improve clarity and accuracy
 
 Good outlets maintain separation between reporters and subjects to ensure independent editing oversight.
 
@@ -71,27 +67,19 @@ Both are legitimate, but only if clearly labeled. When opinion masquerades as ne
 
 News stories:
 
-• Use neutral language
-
-• Include multiple perspectives
-
-• Attribute claims to sources
-
-• Avoid first-person
-
-• Focus on what happened
+- Use neutral language
+- Include multiple perspectives
+- Attribute claims to sources
+- Avoid first-person
+- Focus on what happened
 
 Opinion pieces:
 
-• Use evaluative language ("should," "must")
-
-• Argue for conclusions
-
-• Often first-person
-
-• Explicitly labeled "Opinion" or "Commentary"
-
-• Focus on what it means or what should be done
+- Use evaluative language ("should," "must")
+- Argue for conclusions
+- Often first-person
+- Explicitly labeled "Opinion" or "Commentary"
+- Focus on what it means or what should be done
 
 [screen 6]
 
@@ -141,11 +129,9 @@ This allows sources to share sensitive information while journalists maintain cr
 
 News is mostly a business, which creates pressures:
 
-• **Speed vs. accuracy**: Racing to publish first vs. getting it right
-
-• **Engagement vs. importance**: Covering what gets clicks vs. what matters
-
-• **Access vs. independence**: Maintaining source relationships vs. critical coverage
+- **Speed vs. accuracy**: Racing to publish first vs. getting it right
+- **Engagement vs. importance**: Covering what gets clicks vs. what matters
+- **Access vs. independence**: Maintaining source relationships vs. critical coverage
 
 Understanding these tensions helps you evaluate coverage quality. Good outlets navigate them through strong editorial standards.
 
@@ -169,17 +155,12 @@ Nobody gets everything right. What matters is how mistakes are handled.
 
 Professional outlets follow ethical standards:
 
-• Verify information through multiple sources
-
-• Seek comments from all sides of controversial issues
-
-• Distinguish clearly between news and opinion
-
-• Disclose conflicts of interest
-
-• Correct errors promptly and transparently
-
-• Protect confidential sources
+- Verify information through multiple sources
+- Seek comments from all sides of controversial issues
+- Distinguish clearly between news and opinion
+- Disclose conflicts of interest
+- Correct errors promptly and transparently
+- Protect confidential sources
 
 Standards vary across outlets, but these core principles guide quality journalism.
 
@@ -189,17 +170,12 @@ Standards vary across outlets, but these core principles guide quality journalis
 
 When evaluating news, ask:
 
-• Does this outlet have clear editorial standards?
-
-• Do they correct errors transparently?
-
-• Is news clearly separated from opinion?
-
-• Are sources attributed specifically?
-
-• Do they seek multiple perspectives?
-
-• Is there editorial oversight (not just one person publishing)?
+- Does this outlet have clear editorial standards?
+- Do they correct errors transparently?
+- Is news clearly separated from opinion?
+- Are sources attributed specifically?
+- Do they seek multiple perspectives?
+- Is there editorial oversight (not just one person publishing)?
 
 Understanding production processes helps you distinguish professional journalism from content designed to deceive.
 

@@ -23,13 +23,10 @@ This isn't random disinformation - it's Foreign Information Manipulation and Int
 
 **Foreign Information Manipulation and Interference (FIMI)** is a pattern of behavior by foreign actors that involves:
 
-• Coordinated and deliberate information manipulation
-
-• Intent to interfere with target society's democratic processes, values, or interests
-
-• Deceptive or coercive methods
-
-• Foreign origin or coordination
+- Coordinated and deliberate information manipulation
+- Intent to interfere with target society's democratic processes, values, or interests
+- Deceptive or coercive methods
+- Foreign origin or coordination
 
 Key distinction: FIMI isn't just false information from abroad - it's organized interference through information operations.
 
@@ -73,15 +70,11 @@ Information manipulation by states isn't new - Cold War propaganda, "active meas
 
 What's changed:
 
-• **Digital platforms**: Unprecedented reach and targeting capability
-
-• **Reduced friction**: Lower cost and risk of information operations
-
-• **Speed**: Real-time amplification and adaptation
-
-• **Attribution challenges**: Digital anonymity enables plausible deniability
-
-• **Democratic vulnerabilities**: Free speech protections exploited
+- **Digital platforms**: Unprecedented reach and targeting capability
+- **Reduced friction**: Lower cost and risk of information operations
+- **Speed**: Real-time amplification and adaptation
+- **Attribution challenges**: Digital anonymity enables plausible deniability
+- **Democratic vulnerabilities**: Free speech protections exploited
 
 Modern FIMI is traditional information warfare adapted to the digital age.
 
@@ -111,21 +104,14 @@ This ecosystem enables sophisticated, multi-layered operations.
 
 Foreign actors pursue various objectives through information manipulation:
 
-• Undermine trust in democratic institutions
-
-• Polarize societies and amplify division
-
-• Influence election outcomes
-
-• Justify geopolitical actions
-
-• Undermine adversary alliances (e.g., NATO, EU)
-
-• Promote favorable narratives
-
-• Discredit critics and dissidents
-
-• Normalize authoritarian governance models
+- Undermine trust in democratic institutions
+- Polarize societies and amplify division
+- Influence election outcomes
+- Justify geopolitical actions
+- Undermine adversary alliances (e.g., NATO, EU)
+- Promote favorable narratives
+- Discredit critics and dissidents
+- Normalize authoritarian governance models
 
 Objectives vary by actor and context, but consistently target democratic resilience.
 
@@ -149,17 +135,12 @@ Russia, China, and Iran have demonstrated high-sophistication capabilities. Many
 
 Several factors enable FIMI success:
 
-• **Cognitive vulnerabilities**: Confirmation bias, emotional reasoning
-
-• **Platform dynamics**: Algorithms amplify engaging content regardless of veracity
-
-• **Information overload**: Difficulty distinguishing reliable from unreliable sources
-
-• **Polarization**: Existing divisions are easy to exploit
-
-• **Trust decline**: Institutional trust erosion creates information vacuum
-
-• **Limited awareness**: Many citizens don't recognize information manipulation
+- **Cognitive vulnerabilities**: Confirmation bias, emotional reasoning
+- **Platform dynamics**: Algorithms amplify engaging content regardless of veracity
+- **Information overload**: Difficulty distinguishing reliable from unreliable sources
+- **Polarization**: Existing divisions are easy to exploit
+- **Trust decline**: Institutional trust erosion creates information vacuum
+- **Limited awareness**: Many citizens don't recognize information manipulation
 
 FIMI exploits existing vulnerabilities rather than creating new ones.
 
@@ -185,17 +166,12 @@ The challenge is building resilience without abandoning the openness that define
 
 The European Union faces particular FIMI challenges:
 
-• 27 member states with diverse languages and political contexts
-
-• Open information space and strong free speech protections
-
-• Proximity to adversarial states (Russia)
-
-• Complex historical relationships affecting narratives
-
-• Integration challenges exploited by adversaries
-
-• Democratic institutions under stress in some member states
+- 27 member states with diverse languages and political contexts
+- Open information space and strong free speech protections
+- Proximity to adversarial states (Russia)
+- Complex historical relationships affecting narratives
+- Integration challenges exploited by adversaries
+- Democratic institutions under stress in some member states
 
 EU responses include detection networks, diplomatic attribution, and platform regulation.
 
@@ -221,15 +197,11 @@ Attribution is complex and covered in detail in a later module.
 
 FIMI isn't isolated events but interconnected systems:
 
-• Long-term cultivation of assets and networks
-
-• Coordination across platforms and countries
-
-• Integration of cyber operations with information campaigns
-
-• Adaptation to platform changes and countermeasures
-
-• Persistence despite exposure and takedowns
+- Long-term cultivation of assets and networks
+- Coordination across platforms and countries
+- Integration of cyber operations with information campaigns
+- Adaptation to platform changes and countermeasures
+- Persistence despite exposure and takedowns
 
 Effective defense requires understanding FIMI systematically, not as discrete incidents.
 
@@ -239,17 +211,12 @@ Effective defense requires understanding FIMI systematically, not as discrete in
 
 As a citizen, you contribute to societal resilience by:
 
-• Understanding that FIMI exists and is actively targeting your society
-
-• Developing critical evaluation skills for information
-
-• Not amplifying suspicious or divisive content
-
-• Supporting journalism and fact-checking
-
-• Recognizing attempts to exploit divisions
-
-• Participating in democratic processes despite attempts to discourage you
+- Understanding that FIMI exists and is actively targeting your society
+- Developing critical evaluation skills for information
+- Not amplifying suspicious or divisive content
+- Supporting journalism and fact-checking
+- Recognizing attempts to exploit divisions
+- Participating in democratic processes despite attempts to discourage you
 
 FIMI succeeds when citizens are unaware or passive. Awareness and critical engagement are fundamental defenses.
 

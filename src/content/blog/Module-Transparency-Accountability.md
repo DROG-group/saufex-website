@@ -41,17 +41,12 @@ Without transparency, holding platforms accountable is nearly impossible.
 
 Historically, platforms have been opaque about:
 
-• Content moderation decisions and criteria
-
-• Algorithmic ranking and recommendation systems
-
-• Data collection and use practices
-
-• Enforcement statistics and patterns
-
-• Foreign influence operations detection
-
-• Internal research about platform effects
+- Content moderation decisions and criteria
+- Algorithmic ranking and recommendation systems
+- Data collection and use practices
+- Enforcement statistics and patterns
+- Foreign influence operations detection
+- Internal research about platform effects
 
 This opacity served business interests but prevented accountability.
 
@@ -62,15 +57,11 @@ This opacity served business interests but prevented accountability.
 Most major platforms now publish periodic transparency reports:
 
 **Typical contents**:
-• Government requests for user data or content removal
-
-• Platform-initiated content removals by category
-
-• Account actions (suspensions, bans)
-
-• Appeals and reversals
-
-• Copyright and trademark removals
+- Government requests for user data or content removal
+- Platform-initiated content removals by category
+- Account actions (suspensions, bans)
+- Appeals and reversals
+- Copyright and trademark removals
 
 These reports provide aggregate data but often lack detail needed for meaningful assessment.
 
@@ -97,14 +88,14 @@ Platforms vary widely in transparency levels. Some provide detailed explanations
 Understanding recommendation and ranking algorithms is crucial but challenging:
 
 **What platforms disclose**:
-• General principles (recent, popular, personalized)
-• Some ranking factors
+- General principles (recent, popular, personalized)
+- Some ranking factors
 
 **What remains opaque**:
-• Exact algorithms (trade secrets)
-• Relative weight of factors
-• Personalization details
-• Constant changes and tests
+- Exact algorithms (trade secrets)
+- Relative weight of factors
+- Personalization details
+- Constant changes and tests
 
 DSA requires VLOPs to explain recommendation systems, but doesn't mandate full disclosure.
 
@@ -131,16 +122,16 @@ Implemented by major platforms after 2016, though quality and coverage vary. Res
 Independent research requires access to platform data:
 
 **Challenges**:
-• Privacy concerns limit data sharing
-• Platforms control access
-• Data access often inadequate for research questions
-• Selective data provision can bias research
+- Privacy concerns limit data sharing
+- Platforms control access
+- Data access often inadequate for research questions
+- Selective data provision can bias research
 
 **Solutions**:
-• DSA mandates researcher access for VLOPs
-• Academic partnerships and data sharing agreements
-• API access (though often limited)
-• Data donation initiatives
+- DSA mandates researcher access for VLOPs
+- Academic partnerships and data sharing agreements
+- API access (though often limited)
+- Data donation initiatives
 
 Adequate researcher access remains contentious and insufficient.
 
@@ -155,9 +146,9 @@ Internal documents leaked or released have revealed:
 **Twitter Files** (2022-2023): Content moderation decisions, government requests, internal debates
 
 **Revelations**:
-• Platforms know more about harms than they disclose publicly
-• Internal research often at odds with public statements
-• Decisions are often arbitrary or inconsistent
+- Platforms know more about harms than they disclose publicly
+- Internal research often at odds with public statements
+- Decisions are often arbitrary or inconsistent
 
 These leaks demonstrate why mandatory transparency is needed.
 
@@ -168,16 +159,16 @@ These leaks demonstrate why mandatory transparency is needed.
 Some platforms created independent oversight bodies:
 
 **Meta Oversight Board**:
-• Independent body reviewing content decisions
-• Can overturn Meta's moderation decisions
-• Issues policy recommendations
-• Funded by Meta but operationally independent
+- Independent body reviewing content decisions
+- Can overturn Meta's moderation decisions
+- Issues policy recommendations
+- Funded by Meta but operationally independent
 
 **Effectiveness debates**:
-• Provides transparency for specific cases
-• Limited scope (tiny fraction of decisions)
-• No algorithm oversight
-• Questions about true independence
+- Provides transparency for specific cases
+- Limited scope (tiny fraction of decisions)
+- No algorithm oversight
+- Questions about true independence
 
 Other platforms have advisory councils with varying authority.
 
@@ -194,10 +185,10 @@ Regulatory authorities increasingly oversee platforms:
 **Germany**: Federal Office of Justice enforces NetzDG
 
 **Powers include**:
-• Requesting information and audits
-• Imposing fines
-• Requiring risk assessments
-• Ordering content removal (in some jurisdictions)
+- Requesting information and audits
+- Imposing fines
+- Requiring risk assessments
+- Ordering content removal (in some jurisdictions)
 
 Effectiveness depends on resources, expertise, and enforcement will.
 
@@ -212,10 +203,10 @@ Independent audits verify platform compliance:
 **Scope**: Assessing compliance with risk assessments, content moderation, transparency requirements
 
 **Challenges**:
-• Auditor independence (platforms choose auditors)
-• Access to proprietary systems
-• Technical complexity
-• No established auditing standards yet
+- Auditor independence (platforms choose auditors)
+- Access to proprietary systems
+- Technical complexity
+- No established auditing standards yet
 
 Auditing effectiveness will become clearer as DSA implementation matures.
 
@@ -225,15 +216,11 @@ Auditing effectiveness will become clearer as DSA implementation matures.
 
 NGOs and researchers provide independent monitoring:
 
-• Documenting platform failures
-
-• Tracking foreign influence operations
-
-• Studying algorithmic amplification
-
-• Analyzing transparency reports
-
-• Pressure campaigns for better practices
+- Documenting platform failures
+- Tracking foreign influence operations
+- Studying algorithmic amplification
+- Analyzing transparency reports
+- Pressure campaigns for better practices
 
 Organizations like Mozilla, EDMO, and various research institutions fill gaps in official oversight.
 
@@ -244,19 +231,16 @@ Organizations like Mozilla, EDMO, and various research institutions fill gaps in
 Accountability requires users can challenge decisions:
 
 **Key rights**:
-• Explanation for content removal
-
-• Appeal mechanisms
-
-• Timely review of appeals
-
-• Human review available
+- Explanation for content removal
+- Appeal mechanisms
+- Timely review of appeals
+- Human review available
 
 **Implementation challenges**:
-• Scale makes individual attention difficult
-• Appeals often ineffective
-• Explanations often generic
-• Time limits often missed
+- Scale makes individual attention difficult
+- Appeals often ineffective
+- Explanations often generic
+- Time limits often missed
 
 DSA strengthens user rights, but effectiveness depends on enforcement.
 
@@ -266,11 +250,9 @@ DSA strengthens user rights, but effectiveness depends on enforcement.
 
 Internal employees exposing problems need protection:
 
-• Legal protections against retaliation
-
-• Channels for reporting concerns
-
-• Public interest disclosure justifications
+- Legal protections against retaliation
+- Channels for reporting concerns
+- Public interest disclosure justifications
 
 Frances Haugen (Facebook) and other whistleblowers have driven policy changes, but face personal and legal risks.
 
@@ -281,12 +263,12 @@ Frances Haugen (Facebook) and other whistleblowers have driven policy changes, b
 How do we know if accountability mechanisms work?
 
 **Indicators**:
-• Platform practice changes after criticism
-• Enforcement actions taken by regulators
-• User appeal success rates
-• Transparency report quality improvements
-• Independent research findings incorporation
-• Whistle-blower revelations leading to reform
+- Platform practice changes after criticism
+- Enforcement actions taken by regulators
+- User appeal success rates
+- Transparency report quality improvements
+- Independent research findings incorporation
+- Whistle-blower revelations leading to reform
 
 Accountability is a process, not a state - requires continuous pressure and monitoring.
 
@@ -296,13 +278,10 @@ Accountability is a process, not a state - requires continuous pressure and moni
 
 Some information legitimately shouldn't be fully transparent:
 
-• **Security vulnerabilities**: Would enable exploitation
-
-• **Personal data**: Privacy must be protected
-
-• **Trade secrets**: Some IP protection is reasonable
-
-• **Gaming prevention**: Full algorithmic disclosure enables manipulation
+- **Security vulnerabilities**: Would enable exploitation
+- **Personal data**: Privacy must be protected
+- **Trade secrets**: Some IP protection is reasonable
+- **Gaming prevention**: Full algorithmic disclosure enables manipulation
 
 The challenge is distinguishing legitimate confidentiality from accountability-avoiding secrecy.
 
@@ -312,19 +291,13 @@ The challenge is distinguishing legitimate confidentiality from accountability-a
 
 Effective accountability requires multiple mechanisms:
 
-• **Transparency requirements**: Mandatory disclosure of practices and impacts
-
-• **Researcher access**: Independent study of platform effects
-
-• **Regulatory oversight**: Government enforcement authority
-
-• **User rights**: Individual recourse mechanisms
-
-• **Civil society monitoring**: Independent watchdogs
-
-• **Whistleblower protection**: Internal accountability channels
-
-• **Financial consequences**: Meaningful penalties for violations
+- **Transparency requirements**: Mandatory disclosure of practices and impacts
+- **Researcher access**: Independent study of platform effects
+- **Regulatory oversight**: Government enforcement authority
+- **User rights**: Individual recourse mechanisms
+- **Civil society monitoring**: Independent watchdogs
+- **Whistleblower protection**: Internal accountability channels
+- **Financial consequences**: Meaningful penalties for violations
 
 No single mechanism suffices - comprehensive accountability needs layers.
 

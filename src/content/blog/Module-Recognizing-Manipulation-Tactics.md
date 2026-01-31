@@ -131,17 +131,12 @@ Legitimate questions provide context and seek information. Manipulative question
 
 When you encounter persuasive content, ask:
 
-• Am I feeling strong emotion? That's a signal to slow down.
-
-• Is this using logical fallacies I recognize?
-
-• What information might be omitted?
-
-• Is this exploiting my existing biases?
-
-• Who benefits if I believe or share this?
-
-• Can I verify this independently?
+- Am I feeling strong emotion? That's a signal to slow down.
+- Is this using logical fallacies I recognize?
+- What information might be omitted?
+- Is this exploiting my existing biases?
+- Who benefits if I believe or share this?
+- Can I verify this independently?
 
 Recognition is the first step to resistance. The more you practice identifying these tactics, the more automatic it becomes.
 

@@ -42,11 +42,11 @@ How do we know someone intended to deceive?
 **Reality**: Unless we have evidence of planning (leaked communications, coordinated campaigns, financial motives), intent is inferred.
 
 **Approach**: Analysts assess intent based on:
-• Consistency of false claims
-• Coordination patterns
-• Financial or political motives
-• Sophistication of operation
-• Response to corrections
+- Consistency of false claims
+- Coordination patterns
+- Financial or political motives
+- Sophistication of operation
+- Response to corrections
 
 Intent assessment is often a confidence level, not certainty.
 
@@ -57,14 +57,14 @@ Intent assessment is often a confidence level, not certainty.
 Establishing falsity requires standards:
 
 **Scientific topics**: Contrary to scientific consensus
-• Example: "Vaccines cause autism" contradicts overwhelming evidence
+- Example: "Vaccines cause autism" contradicts overwhelming evidence
 
 **Verifiable facts**: Contradicts documented reality
-• Example: "Election had 3 million illegal votes" contradicted by evidence
+- Example: "Election had 3 million illegal votes" contradicted by evidence
 
 **Contested claims**: More difficult
-• Interpretation vs fact
-• Emerging issues without consensus
+- Interpretation vs fact
+- Emerging issues without consensus
 
 **Context matters**: Same information can be true, false, or misleading depending on context and framing.
 
@@ -97,9 +97,9 @@ Why "fake news" is inadequate:
 **Weaponized**: Now used to dismiss any inconvenient reporting
 
 **Problems**:
-• Weaponized by politicians to attack legitimate journalism
-• Implies all false information looks like "news"
-• Oversimplifies complex phenomenon
+- Weaponized by politicians to attack legitimate journalism
+- Implies all false information looks like "news"
+- Oversimplifies complex phenomenon
 
 **Better terms**: Disinformation, misinformation, false information, information manipulation
 
@@ -130,16 +130,16 @@ Disinformation takes many forms:
 Related but distinct concepts:
 
 **Propaganda**:
-• Communication to influence opinion
-• May use truthful or false information
-• Often one-sided, not necessarily false
-• Historically associated with governments
+- Communication to influence opinion
+- May use truthful or false information
+- Often one-sided, not necessarily false
+- Historically associated with governments
 
 **Disinformation**:
-• Specifically false information
-• Deliberately deceptive
-• Can be from any actor
-• Modern focus on deception
+- Specifically false information
+- Deliberately deceptive
+- Can be from any actor
+- Modern focus on deception
 
 **Overlap**: Propaganda campaigns often include disinformation, but propaganda isn't always disinformation.
 
@@ -150,17 +150,17 @@ Related but distinct concepts:
 Digital changes the game:
 
 **Traditional disinformation**:
-• Pamphlets, radio, TV
-• Limited reach without resources
-• Slower spread
-• Centralized creation
+- Pamphlets, radio, TV
+- Limited reach without resources
+- Slower spread
+- Centralized creation
 
 **Digital disinformation**:
-• Anyone can create and spread
-• Global reach instantly
-• Algorithmic amplification
-• Permanent (archived, screenshotted)
-• Scale and speed unprecedented
+- Anyone can create and spread
+- Global reach instantly
+- Algorithmic amplification
+- Permanent (archived, screenshotted)
+- Scale and speed unprecedented
 
 Same basic concept, transformed by technology.
 
@@ -171,17 +171,17 @@ Same basic concept, transformed by technology.
 Why disinformation matters:
 
 **Individual harms**:
-• Bad decisions based on false beliefs
-• Health risks (medical misinformation)
-• Financial losses (scams)
-• Psychological distress
+- Bad decisions based on false beliefs
+- Health risks (medical misinformation)
+- Financial losses (scams)
+- Psychological distress
 
 **Societal harms**:
-• Undermining democratic processes
-• Public health crises (vaccine hesitancy)
-• Erosion of trust in institutions
-• Polarization and conflict
-• Violence (motivated by false beliefs)
+- Undermining democratic processes
+- Public health crises (vaccine hesitancy)
+- Erosion of trust in institutions
+- Polarization and conflict
+- Violence (motivated by false beliefs)
 
 **Cumulative effect**: Degraded information environment where truth becomes harder to identify.
 
@@ -236,9 +236,9 @@ Claire Wardle's comprehensive framework:
 **Seven types of content** (fabricated, manipulated, imposter, etc.)
 
 **Three elements**:
-• Agent (who created/spread)
-• Message (what is the content)
-• Interpreter (who receives and understands)
+- Agent (who created/spread)
+- Message (what is the content)
+- Interpreter (who receives and understands)
 
 **Value**: Comprehensive view of information ecosystem problems
 
@@ -251,15 +251,15 @@ Framework widely adopted by researchers and policymakers.
 Overlapping but distinct:
 
 **Conspiracy theories**:
-• Explain events through secret plots
-• May be believed sincerely by promoters
-• Often unfalsifiable
-• Psychological and social functions
+- Explain events through secret plots
+- May be believed sincerely by promoters
+- Often unfalsifiable
+- Psychological and social functions
 
 **Disinformation**:
-• False information deliberately spread
-• Creator knows it's false
-• Specific claims, not just theories
+- False information deliberately spread
+- Creator knows it's false
+- Specific claims, not just theories
 
 **Overlap**: Disinformation campaigns often exploit and amplify conspiracy theories
 

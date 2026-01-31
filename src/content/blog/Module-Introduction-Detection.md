@@ -23,15 +23,11 @@ How do you detect manipulation and verify authenticity? Detection and verificati
 
 Detection is the process of identifying information manipulation, including:
 
-• **False or misleading content**: Spotting disinformation claims
-
-• **Coordinated inauthentic behavior**: Finding fake account networks
-
-• **Manipulated media**: Detecting edited images, deepfakes, synthetic content
-
-• **Foreign influence operations**: Identifying FIMI campaigns
-
-• **Platform manipulation**: Discovering artificial amplification
+- **False or misleading content**: Spotting disinformation claims
+- **Coordinated inauthentic behavior**: Finding fake account networks
+- **Manipulated media**: Detecting edited images, deepfakes, synthetic content
+- **Foreign influence operations**: Identifying FIMI campaigns
+- **Platform manipulation**: Discovering artificial amplification
 
 Detection is necessary before response - you can't counter what you haven't identified.
 
@@ -41,13 +37,10 @@ Detection is necessary before response - you can't counter what you haven't iden
 
 Verification confirms or refutes the authenticity and accuracy of content:
 
-• **Content verification**: Is this claim true?
-
-• **Source verification**: Is this account/outlet credible?
-
-• **Media verification**: Is this image/video authentic and in correct context?
-
-• **Attribution verification**: Who really created/spread this content?
+- **Content verification**: Is this claim true?
+- **Source verification**: Is this account/outlet credible?
+- **Media verification**: Is this image/video authentic and in correct context?
+- **Attribution verification**: Who really created/spread this content?
 
 Verification provides the evidence needed to act confidently on suspected manipulation.
 
@@ -118,16 +111,16 @@ Combining signals increases confidence.
 Scale necessitates automation, but human judgment remains essential:
 
 **Automated detection**:
-• Process massive volumes
-• Identify patterns humans miss
-• Rapid preliminary filtering
-• But: Context-blind, false positives
+- Process massive volumes
+- Identify patterns humans miss
+- Rapid preliminary filtering
+- But: Context-blind, false positives
 
 **Manual analysis**:
-• Understand nuance and context
-• Investigate complex cases
-• Final determination
-• But: Slow, expensive, limited scale
+- Understand nuance and context
+- Investigate complex cases
+- Final determination
+- But: Slow, expensive, limited scale
 
 Most effective systems combine automation for initial detection with human verification.
 
@@ -137,17 +130,12 @@ Most effective systems combine automation for initial detection with human verif
 
 Multiple factors complicate detection:
 
-• **Volume**: Billions of posts make comprehensive monitoring impossible
-
-• **Evasion**: Actors adapt to detection methods
-
-• **Context**: Same content can be legitimate or manipulative depending on context
-
-• **False positives**: Legitimate activity flagged as suspicious
-
-• **False negatives**: Manipulation that goes undetected
-
-• **Attribution**: Detecting manipulation easier than identifying perpetrators
+- **Volume**: Billions of posts make comprehensive monitoring impossible
+- **Evasion**: Actors adapt to detection methods
+- **Context**: Same content can be legitimate or manipulative depending on context
+- **False positives**: Legitimate activity flagged as suspicious
+- **False negatives**: Manipulation that goes undetected
+- **Attribution**: Detecting manipulation easier than identifying perpetrators
 
 Perfect detection is impossible - systems must accept trade-offs.
 
@@ -211,21 +199,14 @@ Distributed detection increases coverage but requires coordination.
 
 Various tools support detection and verification:
 
-• Reverse image search (Google, TinEye, Yandex)
-
-• Social media analysis platforms (CrowdTangle, Meltwater)
-
-• Network analysis tools (Gephi, NodeXL)
-
-• Metadata analysis tools
-
-• Linguistic analysis software
-
-• Deepfake detection tools
-
-• Bot detection services
-
-• Open-source intelligence platforms
+- Reverse image search (Google, TinEye, Yandex)
+- Social media analysis platforms (CrowdTangle, Meltwater)
+- Network analysis tools (Gephi, NodeXL)
+- Metadata analysis tools
+- Linguistic analysis software
+- Deepfake detection tools
+- Bot detection services
+- Open-source intelligence platforms
 
 Tool effectiveness varies; skilled users matter as much as tools themselves.
 
@@ -236,10 +217,10 @@ Tool effectiveness varies; skilled users matter as much as tools themselves.
 Professional fact-checking follows established standards:
 
 **IFCN Code of Principles**:
-• Commitment to non-partisanship
-• Transparency of sources and methods
-• Correction policy
-• Transparent funding and organization
+- Commitment to non-partisanship
+- Transparency of sources and methods
+- Correction policy
+- Transparent funding and organization
 
 These standards ensure credibility and consistency. Not all "fact-checking" meets these standards.
 
@@ -249,13 +230,10 @@ These standards ensure credibility and consistency. Not all "fact-checking" meet
 
 Detection and verification don't always achieve intended effects:
 
-• Corrections sometimes reinforce false beliefs
-
-• Debunking can amplify original claims
-
-• Audience trust in verifiers affects impact
-
-• Political identity shapes receptiveness to corrections
+- Corrections sometimes reinforce false beliefs
+- Debunking can amplify original claims
+- Audience trust in verifiers affects impact
+- Political identity shapes receptiveness to corrections
 
 Effective verification requires considering how information will be received, not just factual accuracy.
 
@@ -265,17 +243,12 @@ Effective verification requires considering how information will be received, no
 
 Detection and verification involve ethical obligations:
 
-• **Privacy**: Respecting individual privacy while investigating networks
-
-• **Harm prevention**: Avoiding amplification of harmful content during investigation
-
-• **Accuracy**: High standards given consequences of false accusations
-
-• **Transparency**: Disclosing methods and limitations
-
-• **Fairness**: Avoiding political or ideological bias
-
-• **Context**: Ensuring sufficient context in reporting
+- **Privacy**: Respecting individual privacy while investigating networks
+- **Harm prevention**: Avoiding amplification of harmful content during investigation
+- **Accuracy**: High standards given consequences of false accusations
+- **Transparency**: Disclosing methods and limitations
+- **Fairness**: Avoiding political or ideological bias
+- **Context**: Ensuring sufficient context in reporting
 
 Ethical lapses undermine credibility and can cause harm.
 
@@ -286,20 +259,20 @@ Ethical lapses undermine credibility and can cause harm.
 Whether as individual, organization, or society, detection capabilities can be developed:
 
 **Individual level**:
-• Learn basic verification techniques
-• Develop critical evaluation skills
-• Use available tools
+- Learn basic verification techniques
+- Develop critical evaluation skills
+- Use available tools
 
 **Organizational level**:
-• Establish detection processes
-• Train staff
-• Adopt professional standards
+- Establish detection processes
+- Train staff
+- Adopt professional standards
 
 **Societal level**:
-• Support independent fact-checkers
-• Fund research
-• Require platform transparency
-• Educate public
+- Support independent fact-checkers
+- Fund research
+- Require platform transparency
+- Educate public
 
 Collective detection capability creates resilience.
 

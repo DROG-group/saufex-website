@@ -17,37 +17,37 @@ This proposal advocates for the establishment of the ERC to provide a structured
 
 ## [](#Why-initiate-a-European-Resilience-Council?)Why initiate a European Resilience Council?
 
-• **Promoting transparency and inclusivity**
+- **Promoting transparency and inclusivity**
 
 A fundamental tenet of the ERC is its commitment to transparency and inclusivity. By involving citizens, stakeholders, and experts in decision-making processes, the ERC ensures that diverse societal perspectives are represented. This approach mitigates the risks of social marginalization, ensuring that all communities are equipped to deal with the challenges posed by FIMI.
 
-• **Reducing distrust and polarization**
+- **Reducing distrust and polarization**
 
 FIMI campaigns often deepen societal divisions, eroding trust in institutions and fostering polarization. The ERC provides a platform for dialogue that counters divisive narratives, promotes mutual understanding, and fosters social cohesion. By prioritizing the well-being of citizens and addressing perceived human rights violations, the ERC can help reduce distrust in democratic processes and institutions.
 
-• **Strengthening societal resilience**
+- **Strengthening societal resilience**
 
 The ERC will empower citizens to feel seen, heard, and valued. This inclusivity contributes to enhanced societal resilience, enabling communities to adapt to changing information environments and to strengthen their capacity for self-protection against information threats.
 
-• **Enhancing accountability and legitimacy**
+- **Enhancing accountability and legitimacy**
 
 The ERC will enhance accountability by distributing responsibilities among a broad network of stakeholders. This collaborative approach will minimize biases and ensure that all voices are heard. By contributing to initiatives like the European Democracy Shield and the Digital Services Act (DSA), the ERC will reinforce Europe’s commitment to democracy, human rights, and the rule of law.
 
 ## [](#What-will-the-European-Resilience-Council-do?)What will the European Resilience Council do?
 
-• **Task 1: Identifying FIMI campaigns**
+- **Task 1: Identifying FIMI campaigns**
 
 The ERC will play a pivotal role in detecting, classifying, grading, and reporting on FIMI campaigns across Europe in a standardized fashion. Its responsibilities include identifying emerging and ongoing campaigns, assessing their scope, impact, and urgency, and sharing findings with relevant stakeholders.
 
-• **Task 2: Developing responses to FIMI campaigns**
+- **Task 2: Developing responses to FIMI campaigns**
 
 The ERC will formulate appropriate responses to FIMI campaigns, working closely with stakeholders to determine the most effective actions and strategies. This will include proposing interventions for mitigating the impact of FIMI campaigns, evaluating the effectiveness of interventions, and ensuring the redress of any unintended consequences.
 
-• **Task 3: Formulating strategic advice**
+- **Task 3: Formulating strategic advice**
 
 The ERC will provide expert advice on European strategies to counter FIMI, including recommendations for StratCom (strategic communication), InfoOps (information operations), and broader policy recommendations that ensure Europe’s continued democratic resilience.
 
-• **Task 4: Coordinating societal resilience initiatives**
+- **Task 4: Coordinating societal resilience initiatives**
 
 A central role of the ERC will be coordinating initiatives that enhance citizens’ resilience to information threats, while safeguarding their autonomy, belonging, and safety. This will include designing and supporting programs that empower citizens to critically evaluate the value and limitations of facts, narratives, and scientific methods, to form and formulate beliefs rooted in personal experience without fear of judgment, to withhold immediate judgment when encountering others' beliefs, and to expand skills in dialogue, negotiation, and conflict resolution.
 
@@ -57,11 +57,11 @@ A central role of the ERC will be coordinating initiatives that enhance citizens
 
 The ERC must operate under a robust legal framework, with clear legislative backing to support its activities. This includes defining the roles and responsibilities of the ERC and establishing formal decision-making processes.
 
-• **Expertise and integrity requirements**
+- **Expertise and integrity requirements**
 
 The ERC will require members with specialized expertise in media, communications, law, and technology. Strict integrity requirements will ensure that the Council remains unbiased, transparent, and accountable in its work. Independent observers are to critically assess the quality of member contributions.
 
-• **Training and capacity building**
+- **Training and capacity building**
 
 Members of the ERC will undergo regular training, including programs like [the European Master of Disinformation (EMoD)](/insights/20-European-Master-of-countering-Disinformation-primer), to ensure they remain up-to-date with the latest tools and methodologies for dealing with FIMI.
 

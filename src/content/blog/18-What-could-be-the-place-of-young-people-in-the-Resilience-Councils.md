@@ -41,13 +41,10 @@ We asked the students four questions during so-called thought experiments (see b
 
 14.8% of the students outright rejected the idea of reconsidering their beliefs as a result of inconvenient facts. Some quotes:
 
-• “No, I don’t reconsider because I listen to myself and my intuition.”
-
-• “No, because according to me everyone can make mistakes and everyone may think what they want and I don’t do anything with it, which works both ways.”
-
-• “No, it’s not important to me what they say on television or around us, I don’t want to be inspired by anybody, because I like having my own opinion. I am an inspiration to myself. Therefore, my belief is what I think it should be without pressure from others.”
-
-• “I don’t think about what others believe online when I have my own opinions on a certain topic. I can listen and consider it when they have a good explanation, but I don’t change my opinion because someone thinks differently.”
+- “No, I don’t reconsider because I listen to myself and my intuition.”
+- “No, because according to me everyone can make mistakes and everyone may think what they want and I don’t do anything with it, which works both ways.”
+- “No, it’s not important to me what they say on television or around us, I don’t want to be inspired by anybody, because I like having my own opinion. I am an inspiration to myself. Therefore, my belief is what I think it should be without pressure from others.”
+- “I don’t think about what others believe online when I have my own opinions on a certain topic. I can listen and consider it when they have a good explanation, but I don’t change my opinion because someone thinks differently.”
 
 Of those who either had a mixed reaction (‘yes, but’; ‘no, but’ – 24.1%) and those who say they do reconsider (61.1%), only a part acknowledges facts as having a special cognitive status. Many seem to rather consider facts as a type of opinions.
 
