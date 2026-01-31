@@ -59,7 +59,7 @@ The platform provides the structure, tools, and guidance needed to establish a f
     },
     secondaryCta: {
       text: 'Download Handbook',
-      url: '/Resilience-Council-Handbook.pdf'
+      url: 'https://docs.saufex.eu/resilience-council-handbookfinal%20(1).pdf'
     },
     features: [
       'Start your own Resilience Council',
