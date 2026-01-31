@@ -140,6 +140,66 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </div>
   </section>
 
+  <!-- Privacy Policy -->
+  <section class="content-section policy-section" id="privacy">
+    <div class="container container--narrow">
+      <h2>Privacy Policy</h2>
+      <p class="policy-updated">Last updated: September 2024</p>
+
+      <p>SAUFEX is committed to protecting your privacy and ensuring your personal data is handled responsibly. This policy explains how we collect, use, and protect your information.</p>
+
+      <h3>Data We Collect</h3>
+      <ul>
+        <li><strong>Contact information</strong> (name, email) when you subscribe to newsletters or register for events</li>
+        <li><strong>IP addresses</strong> collected automatically for security and analytics</li>
+        <li><strong>Survey responses</strong> when you participate in our research</li>
+        <li><strong>Cookies</strong> for website functionality and preferences</li>
+      </ul>
+
+      <h3>How We Use Your Data</h3>
+      <ul>
+        <li>Communicate project news, events, and research findings</li>
+        <li>Process event registrations</li>
+        <li>Conduct research on information manipulation</li>
+        <li>Improve website functionality</li>
+        <li>Ensure security and prevent fraud</li>
+      </ul>
+
+      <h3>Data Sharing</h3>
+      <p>We may share data with research partners, service providers (hosting, email), and public authorities when legally required. We do not sell personal data.</p>
+
+      <h3>Your Rights (GDPR)</h3>
+      <p>You have the right to access, correct, delete, or port your data, and to object to processing. Contact <a href="mailto:admin@saufex.eu">admin@saufex.eu</a> to exercise these rights.</p>
+
+      <h3>Cookies</h3>
+      <p>We use essential, performance, and functional cookies. You can manage preferences through your browser settings.</p>
+
+      <h3>Security</h3>
+      <p>We protect your data with encryption, secure servers, access controls, and regular security audits.</p>
+    </div>
+  </section>
+
+  <!-- Data Management -->
+  <section class="media-section policy-section" id="data-management">
+    <div class="container container--narrow">
+      <h2>Data Management</h2>
+
+      <p>As a Horizon Europe funded project, SAUFEX follows EU guidelines for research data management and open science.</p>
+
+      <h3>Research Data</h3>
+      <p>Research outputs and datasets produced by SAUFEX are managed according to FAIR principles (Findable, Accessible, Interoperable, Reusable) where possible, while respecting privacy and security constraints.</p>
+
+      <h3>Open Access</h3>
+      <p>Publications and deliverables are made openly accessible through our <a href="/research">Research page</a> and the EU research repository. Some datasets may have restricted access due to the sensitive nature of disinformation research.</p>
+
+      <h3>Data Retention</h3>
+      <p>Research data is retained for the duration required by Horizon Europe guidelines (typically 5 years after project completion). Personal data is retained only as long as necessary for the stated purposes.</p>
+
+      <h3>Contact</h3>
+      <p>For questions about data management or to request access to research data, contact <a href="mailto:info@saufex.eu">info@saufex.eu</a>.</p>
+    </div>
+  </section>
+
 </BaseLayout>
 
 <style>
@@ -343,5 +403,44 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     .contact-grid {
       grid-template-columns: 1fr;
     }
+  }
+
+  /* Policy Sections */
+  .policy-section h2 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    margin-bottom: var(--space-sm);
+  }
+
+  .policy-section h3 {
+    font-size: 1.1rem;
+    margin-top: var(--space-lg);
+    margin-bottom: var(--space-sm);
+    color: var(--color-dark);
+  }
+
+  .policy-section p,
+  .policy-section li {
+    color: var(--color-muted);
+    line-height: 1.7;
+    margin-bottom: var(--space-sm);
+  }
+
+  .policy-section ul {
+    padding-left: var(--space-lg);
+    margin-bottom: var(--space-md);
+  }
+
+  .policy-section li {
+    margin-bottom: var(--space-xs);
+  }
+
+  .policy-section a {
+    color: var(--color-purple);
+  }
+
+  .policy-updated {
+    font-size: 0.85rem;
+    color: var(--color-muted);
+    margin-bottom: var(--space-lg);
   }
 </style>
