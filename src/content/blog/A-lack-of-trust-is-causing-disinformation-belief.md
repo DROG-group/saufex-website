@@ -6,15 +6,8 @@ date: "2024-12-02"
 updated: "2025-01-20"
 description: "Disinformation originates from a lack of trust."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Trust module 1: Why believe disinformation? You can't trust anyone else
 
-By **Julian** | Last Updated: **20 January 2025**  
 
 \[screen 1\]
 
@@ -50,7 +43,4 @@ We forget that making voting accessible to people has been a fight for hundred o
 
 The answer to disinformation is not to shove more facts at people but rather to give people an incentive to want to believe in the system. We need to give people [agency](https://www.plurality.net/). In Taiwan they developed an ingenious solution.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

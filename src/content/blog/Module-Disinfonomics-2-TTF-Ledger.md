@@ -8,7 +8,6 @@ learningPath: "Disinfonomics"
 moduleNumber: 2
 estimatedTime: "15 minutes"
 ---
-
 # Module: TTF Simplest Form - Write the Ledger
 
 **Purpose**: Turn slogans into trades. If you can't write the ledger, you can't change the ledger.

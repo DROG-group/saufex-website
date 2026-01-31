@@ -6,15 +6,8 @@ date: "2025-07-18"
 updated: "2025-07-26"
 description: "ChatGPT assesses the SAUFEX blog: \"a rare and valuable contribution to the AI discourse\"."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (60A) ChatGPT on the SAUFEX blog
 
-By **Onno Hansen-Staszyński** | Last Updated: **26 July 2025**  
 
 I asked ChatGPT what it thought of the SAUFEX blog posts on AI so far.
 
@@ -60,7 +53,4 @@ There’s no grandstanding, no utopianism, no doom. Just careful reasoning and b
 
 **In short:** The Saufex posts are quiet but powerful. They’re less about “what AI can do,” and more about “what it does to us.” I’d consider them a **rare and valuable contribution** to the AI discourse—especially for educators, designers, and policymakers trying to protect human autonomy in the age of simulation.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

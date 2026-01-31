@@ -6,15 +6,8 @@ date: "2025-12-19"
 updated: "2025-12-20"
 description: "Ma, Chater, Giddens, Goffman, Bauman."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (89A) Notes on Interdemocracy as a trace
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 December 2025**  
 
 In t[he previous blog post](https://saufex.eu/post/89-Interdemocracy-as-a-trace), I described Interdemocracy as a trace. Below there are some thoughts that have emerged since then.
 
@@ -50,7 +43,4 @@ We have accepted this situation for a long time, because without a box we are le
 
   
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

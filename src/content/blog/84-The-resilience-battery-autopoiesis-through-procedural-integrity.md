@@ -6,15 +6,8 @@ date: "2025-11-10"
 updated: "2025-12-11"
 description: "A society becomes truly resilient by cultivating individuals whose capacity to generate and apply adaptive insights grows through honest expression."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (84) The resilience battery: autopoiesis through procedural integrity
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 December 2025**  
 
 The Interdemocracy framework aims to achieve its procedural truth by structurally resolving the core tension between individual autonomy and collective stability. It redefines resilience from a passive capacity to an active, self-charging system that harvests the very dissent and uniqueness it is normally tempted to suppress. The key to this success is the resilience battery: the empowered individual whose internal state is converted into external, structural currency.
 
@@ -56,7 +49,4 @@ The mechanism operates best where feedback is fast and attribution is clear. In 
 
 The battery only scales if institutions adopt the empathetic-utilitarian standard: maximizing autonomy, belonging, achievement, and safety through responsive, evidence-based uptake (see: [blog post seventy-six](https://saufex.eu/post/76-A-third-ethical-frame-regarding-FIMI)). So, institutions: Open up!
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

@@ -8,15 +8,8 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 4
 estimatedTime: "10 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: FIMI Case Studies
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -298,7 +291,4 @@ These cases inform defense strategies:
 
 Each case provides lessons that strengthen collective defense against future operations.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

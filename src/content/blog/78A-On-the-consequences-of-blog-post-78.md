@@ -6,15 +6,8 @@ date: "2025-10-28"
 updated: "2025-11-11"
 description: "AI users should hold regulators accountable for the enforcement of human oversight over AI."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (78A) On the consequences of blog post (78)
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 November 2025**  
 
 I shared [blog post seventy-eight](https://saufex.eu/post/78-The-limits-of-AI-in-content-moderation) with Gemini. Below I present our ensuing conversation.
 
@@ -524,7 +517,4 @@ Individual users rarely have the technical expertise or resources to monitor a s
 
 In essence, **user accountability is achieved through the flow of information and the courage to complain.** The law provides the levers (transparency, right to complain), but the users and their advocates must be the ones to pull them.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

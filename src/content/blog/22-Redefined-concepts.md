@@ -6,15 +6,8 @@ date: "2024-12-08"
 updated: "2024-12-23"
 description: "A proposition to redefine the concepts of misinformation, disinformation, and FIMI."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (22) Redefined concepts
 
-By **Onno Hansen-Staszyński** | Last Updated: **23 December 2024**  
 
 Based on [blog post nineteen](https://saufex.eu/post/19-We-need-two-types-of-discourses) the concepts of misinformation, disinformation, and FIMI can be redefined:
 
@@ -36,7 +29,4 @@ Thirdly, since the lowest threshold for the proposed concept of FIMI is the diss
 
 The proposed redefinitions only concern dealing with misinformation, disinformation, and FIMI as such. The content of these types of information threats might also fall under legal and moral categories beyond this narrow view, such as illegal content or libel. My proposal does not exclude following alternative paths to deal with these types of information.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

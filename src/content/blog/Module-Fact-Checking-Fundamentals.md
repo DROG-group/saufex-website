@@ -8,15 +8,8 @@ learningPath: "Media Literacy Fundamentals"
 moduleNumber: 6
 estimatedTime: "8 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Fact-Checking Fundamentals
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -269,7 +262,4 @@ Every time you verify before sharing, you:
 
 Fact-checking isn't about being suspicious of everyone. It's about taking responsibility for information quality in your sphere of influence. Small individual efforts create collective resilience.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

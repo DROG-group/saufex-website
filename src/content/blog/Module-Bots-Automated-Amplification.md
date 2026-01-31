@@ -8,15 +8,8 @@ learningPath: "AI and Hybrid Threats"
 moduleNumber: 4
 estimatedTime: "7 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Bots and Automated Amplification
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -140,7 +133,4 @@ While platforms bear primary responsibility for bot detection, you can protect y
 
 Understanding bot manipulation helps you evaluate information more critically.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

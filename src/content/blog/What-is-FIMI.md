@@ -6,15 +6,8 @@ date: "2024-10-29"
 updated: "2024-11-22"
 description: "In this Module we review the definition of FIMI"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module What is FIMI?
 
-By **Julian** | Last Updated: **22 November 2024**  
 
 FIMI was created because there was a problem the EEAS was faced with: there were many different terms for similar phenomena (fake news, disinformation, computational propaganda, coordinated inauthentic behavior). While each were useful they did not cover the exact problem the EEAS was mandated with dealing with. The EEAS had a mandate to counter influence from authoritarian countries who were using the internet to influence public discourse.
 
@@ -36,7 +29,4 @@ In total FIMI [encompasses](https://www.disinfo.eu/publications/fimi-towards-a-
 
 This is the brief definition of FIMI. As you'll notice it contains many parts some of which can be left open to interpretation (such as how are "values" determined?). The definition suited the EEAS's mandate for what they were tasked with accomplishing
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

@@ -6,15 +6,8 @@ date: "2025-10-11"
 updated: "2025-10-28"
 description: "The theoretical framework guiding my contributions to Saufex."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (76) A third ethical frame regarding FIMI
 
-By **Onno Hansen-Staszyński** | Last Updated: **28 October 2025**  
 
 In earlier blog posts, I discussed the, in my view, main ethical frames that Western democracies rely on to make sense of the information sphere: the human rights approach by the European Union (see: [blog post 39](https://saufex.eu/post/39-Human-rights-frame)) and an evolutionary psychology approach by the current US administration (see: [blog post 44](https://saufex.eu/post/44-Evolutionary-psychology)). In this blog, I’ll outline a third, alternative frame. But before I do that, I’ll summarize the two earlier blog posts.
 
@@ -58,7 +51,4 @@ The third approach has a troubled relation with the human rights perspective sin
 
 A difficult question, however, is how this framework should engage with actors who reject its premises and actively seek to undermine well-being. In these defensive situations, it may be necessary to adopt a philosophically uncomfortable concession. The cynical transactionalism of the two other approaches might offer a limited, last-resort tool. A strategy from game theory like 'tit-for-tat,' always initiated in good faith, could serve not as an ethical ideal, but as a pragmatic line of defense against destructive behavior. On the other hand, while the welding of Levinas deeply anti-systemic thinking with Greene’s rational approach is already ambitious, adding a game theory strategic component to the mix might be a bridge too far.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

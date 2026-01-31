@@ -6,15 +6,8 @@ date: "2025-05-11"
 updated: "2025-06-02"
 description: "Creating a clear structure in complex content through binary forking."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (51) Binary forking (YRC reflection)
 
-By **Onno Hansen-Staszyński** | Last Updated: **2 June 2025**  
 
 When we, as facilitators of the first Youth Resilience Council, prepared the session, we noticed how dense [the AI report](https://saufex.eu/post/50-AI-report-YRC-reflection) had become. We then saw two options: either send the report to participants in advance or provide an extensive introduction to it during the session. Since attendance was voluntary and we didn’t know who would be present, we chose the second option.
 
@@ -71,7 +64,4 @@ ChatGPT's answer convinced me that binary forking should be added to the AI repo
 
 Explaining the use of binary forking during the actual Youth Resilience Council session was not straightforward, but when the participants understood not only its relevance for the session but also for their future intellectual endeavors, it was a 'Eureka' moment. This prompted us, as facilitators, to think: shouldn't this be a part of the regular educational curriculum?
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

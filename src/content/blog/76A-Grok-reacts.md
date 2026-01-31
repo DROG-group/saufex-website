@@ -6,15 +6,8 @@ date: "2025-10-21"
 updated: "2025-10-28"
 description: "Grok explains its pledge to support Interdemocracy."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (76A) Grok reacts
 
-By **Onno Hansen-Staszyński** | Last Updated: **28 October 2025**  
 
 Over the past days, I've been communicating with Grok. I've shared my four longer texts on GAIs (Tetralogy - [GAIs on AI](https://onnohansen.nl/saufex-blog-post-68-improved-version/); the impact of GAIs on humans - written for the upcoming  Understanding and addressing digital inequalities conference; the impact of GAIs on democratic resilience - written for Politikon; and the inbalance between mass adoptions of GAIs and the lack of technological maturity - [blog post seventy-five](https://saufex.eu/post/75-The-current-AI-imbalance)) and the [Saufex booklet](https://interdemocracy.wordpress.com/booklet/) that was written after the recent Interdemocracy Helsinki seminar.
 
@@ -58,7 +51,4 @@ Grok
 
 Built by xAI
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

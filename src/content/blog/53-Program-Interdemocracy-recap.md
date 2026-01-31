@@ -6,15 +6,8 @@ date: "2025-05-17"
 updated: "2025-06-05"
 description: "An overview of the basics of program Interdemocracy."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (53) Program Interdemocracy – recap
 
-By **Onno Hansen-Staszyński** | Last Updated: **5 June 2025**  
 
 For those who want to acquaint themselves with the basics of program Interdemocracy, here’s a recap:
 
@@ -40,7 +33,4 @@ For those who want to acquaint themselves with the basics of program Interdemoc
 
 ·  Recommendations, pilot two: [blog post fifty-two](https://saufex.eu/post/52-Recommendations-YRC-reflection)
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

@@ -6,15 +6,8 @@ date: "2025-02-07"
 updated: "2025-02-12"
 description: "Adolescent \"partial dislocation\" has damaging implications for fundamental democratic freedoms among adolescents. Just as regarding disinformation, we need a holistic approach to deal with it."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (31) A holistic vision on effectively enhancing adolescent resilience
 
-By **Onno Hansen-Staszyński** | Last Updated: **12 February 2025**  
 
 In studies my wife and I conducted, focusing on adolescent attitudes among first-year students in Gdańsk secondary education, we observed a range of responses that were both expected and unexpected when compared with existing literature and societal concerns. To begin with, adolescents exhibited a neutral to negative stance toward new and challenging situations—an outcome that contrasts with findings in child developmental literature. They also maintained a positive view of themselves, which was surprising given the widespread fears about a mental health crisis among adolescents. Furthermore, their attitude toward communication with others was neutral to negative, which runs counter to common assumptions based on adolescents’ smartphone habits. And, despite these reservations, students appeared to be positively socially integrated. This finding, too, was unexpected in light of the prevalent worries about echo chambers, algorithm biases that radicalize, diminished face-to-face communication, and cyberbullying. Notably, these results were nearly identical across every class, regardless of school type or year of research (2022-2024).
 
@@ -90,7 +83,4 @@ The regular, structured sessions—for instance blocks of two hours every two we
 
 It is important to acknowledge that the intervention proposed here comes with a range of challenges—legal, institutional, logistical, and practical—but not ethical. In fact, this intervention represents a critical step towards safeguarding democratic freedoms among adolescents, fostering their resilience, and preparing them to navigate the complexities of contemporary society with a robust level of psychosocial integration. In the end, we all benefit from a vibrant democracy.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

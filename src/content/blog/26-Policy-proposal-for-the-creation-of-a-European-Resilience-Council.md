@@ -6,15 +6,8 @@ date: "2025-01-06"
 updated: "2025-01-23"
 description: "It is recommended that the European Union formally establish a European Resilience Council as a part of its ongoing efforts to combat FIMI and strengthen the resilience of its citizens."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (26) Policy proposal for the creation of a European Resilience Council
 
-By **Bram Alkema** | Last Updated: **23 January 2025**  
 
 ## [](#Introduction)Introduction
 
@@ -98,7 +91,4 @@ The European Resilience Council (ERC) represents a constructive, inclusive, and 
 
 It is recommended that the European Union formally establish the ERC as a part of its ongoing efforts to combat FIMI and strengthen the resilience of its citizens. By empowering individuals and communities, promoting transparency, and ensuring accountability, the ERC will serve as a cornerstone for Europe’s efforts to preserve its democratic integrity in the digital age.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

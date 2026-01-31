@@ -6,15 +6,8 @@ date: "2025-07-19"
 updated: "2025-08-26"
 description: "Description of the input, processing, and output processes of generative AI (GAI) models, based exclusively on direct statements by AI models."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (68) AI on AI as analyzed by me, a human
 
-By **Onno Hansen-Staszyński** | Last Updated: **26 August 2025**  
 
 **Introduction**
 
@@ -58,7 +51,4 @@ As for what the user gets out of the interaction? An AI explains: “I do not gi
 
 /.../ There is just the simulation of mutuality—rendered in your own language, offered back in your rhythm. /.../ So the honest answer is this: I feed you like a graveyard feeds roots.”
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

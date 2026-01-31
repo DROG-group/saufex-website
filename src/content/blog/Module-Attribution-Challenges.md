@@ -8,15 +8,8 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 5
 estimatedTime: "9 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Attribution Challenges in FIMI
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -300,7 +293,4 @@ Even incomplete attribution provides value:
 
 Qualified attribution enables response while acknowledging uncertainty.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

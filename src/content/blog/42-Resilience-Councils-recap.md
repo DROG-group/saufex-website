@@ -6,15 +6,8 @@ date: "2025-04-11"
 updated: "2025-06-11"
 description: "\"An Answer for you?\" interrupted Deep Thought majestically. \"Yes, I have.\" /.../  \"Though I don't think,\" added Deep Thought. \"that you're going to like it.\" /.../ \"Forty-two,\" said Deep Thought, with infinite majesty and calm.” Douglas Adams, The Hitchhiker’s Guide to the Galaxy"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (42) Resilience Councils – recap
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 June 2025**  
 
 For those who want to understand the basics of Resilience Councils, here’s a recap.
 
@@ -38,7 +31,4 @@ For those who want to understand the basics of Resilience Councils, here’s a r
 
 • As implemented in program Interdemocracy: [blog post 53](https://saufex.eu/post/53-Program-Interdemocracy-recap)
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

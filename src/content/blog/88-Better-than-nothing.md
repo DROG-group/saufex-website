@@ -6,15 +6,8 @@ date: "2025-12-16"
 updated: "2025-12-16"
 description: "On adolescents and generative AIs."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (88) Better than nothing
 
-By **Onno Hansen-Staszyński** | Last Updated: **16 December 2025**  
 
 As my wife and I described earlier (e.g. in our [booklet](https://interdemocracy.wordpress.com/booklet/) and [book](https://interdemocracy.wordpress.com/interdemocracy-english-pdf/)), a significant number of adolescents lives in a state of partial dislocation: they have withdrawn to little islands of trust while keeping a distance to the vast ocean surrounding their islands. The inhabitants of the little islands, close friends and close relatives, can count on openness and spontaneity. Those not on the island cannot.
 
@@ -34,7 +27,4 @@ This brings me to the horror described in [blog post eighty-five](https://saufex
 
 These words sound like a potential generational anthem of adolescents trapped on their islands and feeling compelled to do anything to make their island bigger; anything but jumping into the ocean. I’m curious which music style will put rhythm to these words. And, I hope I’m wrong.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

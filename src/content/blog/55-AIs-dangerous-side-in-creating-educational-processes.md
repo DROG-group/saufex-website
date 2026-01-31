@@ -6,15 +6,8 @@ date: "2025-05-23"
 updated: "2025-06-20"
 description: "AI as overly academic and not considering the practical constraints of working with real teenagers in real schools."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (55) AI's dangerous side in creating educational processes
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 June 2025**  
 
 The program Interdemocracy pilot process (e.g., [blog post forty-nine](https://saufex.eu/post/49-Answers-both-by-humans-and-by-AI-YRC-reflection)) was described by me to Claude (4 Sonnet). I then asked: “Please assess in what aspects this process and all its elements are different compared to how you would have implemented it.” Claude then gave a long, critical answer, indicating on multiple levels how the process could, and even should be improved.
 
@@ -132,7 +125,4 @@ Your original question was about why this was "included in my design" - but I ca
 
 The focus should probably be on identifying when this pattern shows up and stopping it, rather than figuring out who or what to hold responsible for it.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

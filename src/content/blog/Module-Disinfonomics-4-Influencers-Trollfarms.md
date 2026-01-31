@@ -8,7 +8,6 @@ learningPath: "Disinfonomics"
 moduleNumber: 4
 estimatedTime: "14 minutes"
 ---
-
 # Module: Influencers vs. Troll Farms
 
 **Purpose**: Separate "identity merchants" from "throughput shops" and pick interventions that don't boost them.

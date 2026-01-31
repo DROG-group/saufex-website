@@ -6,15 +6,8 @@ date: "2025-06-19"
 updated: "2025-07-18"
 description: "AI systems may be most helpful to users who need them least, while potentially undermining the capabilities of those who need support most."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (60) How AI may amplify human inequality
 
-By **Onno Hansen-Staszyński** | Last Updated: **18 July 2025**  
 
 After an intense co-writing session, Claude and I started reflecting on a central assumption in human-AI communication: AI thinking as superior to human thinking. I then asked Claude to summarize our insights.
 
@@ -157,7 +150,4 @@ The stakes are too high for assumptions. We need rigorous investigation of these
 
 Perhaps the ethical approach is to assume the worst-case scenario (that AI creates competence divides) and design systems defensively, rather than trying to prove whether it's happening.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

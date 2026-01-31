@@ -6,15 +6,8 @@ date: "2024-12-25"
 updated: "2025-01-03"
 description: "Approaching information resilience based on our strengths and aspirations."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (23) A constructive approach to information resilience
 
-By **Onno Hansen-Staszyński** | Last Updated: **3 January 2025**  
 
 ## [](#Introduction)Introduction
 
@@ -46,7 +39,4 @@ Collectively, policies must ensure robust representation and effective systems o
 
 By emphasizing the constructive dimensions of individual and societal information resilience, we can move beyond a defensive stance that looks outward with anxiety and cultivate an approach to the information landscape based on our strengths and aspirations.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

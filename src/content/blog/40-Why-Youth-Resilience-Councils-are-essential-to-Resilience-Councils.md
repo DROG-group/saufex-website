@@ -6,15 +6,8 @@ date: "2025-03-25"
 updated: "2025-04-01"
 description: "An overview of the unique contributions Youth Resilience Councils can bring to Resilience Councils."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (40) Why Youth Resilience Councils are essential to Resilience Councils
 
-By **Onno Hansen-Staszyński** | Last Updated: **1 April 2025**  
 
 What are the unique contributions Youth Resilience Councils (YRCs) can bring to Resilience Councils (RCs) in terms of enhancing the effectiveness, legitimacy, and long-term resilience of the broader FIMI response strategy?
 
@@ -116,7 +109,4 @@ o Offer real-time feedback on the effectiveness of RC strategies in countering y
 
 o Help tailor interventions for maximum impact in digital-native communities.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

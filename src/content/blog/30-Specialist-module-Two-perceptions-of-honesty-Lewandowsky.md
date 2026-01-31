@@ -6,15 +6,8 @@ date: "2024-12-04"
 updated: "2025-02-12"
 description: "Introduction to Stephan Lewandowsky's work on 'fact-speaking' and 'belief-speaking'."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (30) Specialist module: Two perceptions of honesty - Lewandowsky
 
-By **Onno Hansen-Staszyński** | Last Updated: **12 February 2025**  
 
 \[screen 1\]
 
@@ -78,7 +71,4 @@ Literature
 
 • Lewandowsky, S. (2024) When liars are considered honest. Trends in Cognitive Sciences, Volume 28, Issue 5, 383 – 385.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

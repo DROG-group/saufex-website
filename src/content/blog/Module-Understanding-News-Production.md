@@ -8,15 +8,8 @@ learningPath: "Media Literacy Fundamentals"
 moduleNumber: 3
 estimatedTime: "7 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Understanding News Production
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -210,7 +203,4 @@ When evaluating news, ask:
 
 Understanding production processes helps you distinguish professional journalism from content designed to deceive.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

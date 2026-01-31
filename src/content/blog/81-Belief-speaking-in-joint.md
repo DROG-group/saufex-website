@@ -6,15 +6,8 @@ date: "2025-09-27"
 updated: "2025-12-11"
 description: "My response to the current times that feel out of joint."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (81) Belief-speaking ‘in joint’
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 December 2025**  
 
 In my view, what is most deeply human about belief-speaking (cf.  blog post [nineteen](https://saufex.eu/post/19-We-need-two-types-of-discourses)) is its essence as an organic, creative process. Nick Chater’s description of how the human mind works (see: blog posts [nine](https://saufex.eu/post/9-How-beliefs-form) to [twelve](https://saufex.eu/post/12-Summary); see also: the updated [EMoD learning path 'demand side'](https://onnohansen.nl/emod-learning-path-demand-side/)) resonates deeply with me.
 
@@ -28,7 +21,4 @@ Returning to belief-speaking, this feels to me like the core. It is not about be
 
 Maybe this is my response to the current times that feel out of joint - thinking and writing in joint.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

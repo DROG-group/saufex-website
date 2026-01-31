@@ -6,15 +6,8 @@ date: "2025-03-14"
 updated: "2025-03-19"
 description: "Our ethical approach toward FIMI stakeholders can be placed on a spectrum ranging from Levinas to Hobbes."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (38) AI and FIMI recommendations (2)
 
-By **Onno Hansen-Staszyński** | Last Updated: **19 March 2025**  
 
 In the [previous blog post](https://saufex.eu/post/36-AI-and-FIMI-recommendations-1) I showed that Levinas’ ethical approach, with its emphasis on infinite responsibility toward the vulnerable Other, provides a fitting framework for instances in which we take, or should take, responsibility for other individuals. As a result, in these instances a ban on AI-generated recommendations applies.
 
@@ -70,7 +63,4 @@ The only limitation that would apply for AI, even in a Hobbesian reality, is tha
 
 The question whether we embrace the ethical perspective of Hobbes is a political choice. In the next blog posts I will discuss two mainstream political choices on how to deal with FIMI - a human rights approach and a transactional approach - and I will try to place them on the Levinas-Hobbes scale.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

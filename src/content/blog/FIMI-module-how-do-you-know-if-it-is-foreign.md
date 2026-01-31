@@ -6,15 +6,8 @@ date: "2024-11-19"
 updated: "2024-11-25"
 description: ""
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # FIMI module: how do you know if it is foreign?
 
-By **Julian** | Last Updated: **25 November 2024**  
 
 ## [](#Assess-the-Actor)Assess the Actor:
 
@@ -55,7 +48,4 @@ Behavioral indicators
 
 However these may not be definitive indicators that a campaign is foreign in nature. A combination of indicators are usually required to make can lead to an attribution to a likely actor.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

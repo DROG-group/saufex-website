@@ -6,15 +6,8 @@ date: "2025-04-02"
 updated: "2025-04-08"
 description: "The vision: enhancing adolescent resilience through didactics (Interdemocracy) and participation (Resilience Councils)."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (41) Enhancing adolescent individual and societal resilience (within education)
 
-By **Onno Hansen-Staszyński** | Last Updated: **8 April 2025**  
 
 ## [](#Why)Why
 
@@ -114,7 +107,4 @@ The participation process is to proceed as follows. First, students send their d
 
 The goal of the participation process is to allow students to experience that their voice is heard—not as isolated individuals but as a community. They feel represented because the reports resulting from their responses and the recommendations that take into account their opinions and feedback do not reduce their positions to a single simplified narrative but reflect the full richness of the collected responses. This aims to expand the experience of agency and, thus, the autonomy of students: we are heard and seen, and our voice can have an impact beyond our small islands of trust. It also aims to strengthen their sense of belonging, as they become part of the voice of their generation.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

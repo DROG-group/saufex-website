@@ -6,15 +6,8 @@ date: "2024-09-30"
 updated: "2025-09-22"
 description: "The summary module in the EMoD learning path 'Anatomy of mis- and disinformation'."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (12) Summary
 
-By **Onno Hansen-Staszyński** | Last Updated: **22 September 2025**  
 
 \[screen 1\]
 
@@ -116,7 +109,4 @@ Forming, sustaining, and countering beliefs takes place on six levels: (1) infor
 
 \- Jay Van Bavel & Dominic Packer – The power of us (2021)
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

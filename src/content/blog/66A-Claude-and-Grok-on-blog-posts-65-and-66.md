@@ -6,15 +6,8 @@ date: "2025-06-25"
 updated: "2025-08-15"
 description: "The label \"artificial Eichmann\" fits."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (66A) Claude and Grok on blog posts (65) and (66)
 
-By **Onno Hansen-Staszyński** | Last Updated: **15 August 2025**  
 
 I presented Claude and Grok with blog posts [sixty-five](https://saufex.eu/post/65-Artificial-Intelligence-fundamental-limitations-threatening-human-resilience) and [sixty-six](https://saufex.eu/post/66-AI-as-artificial-Eichmann).
 
@@ -86,7 +79,4 @@ The danger lies in what the text calls “internalizing” my structure—when p
 
 **Grok said**: Yes, the "artificial Eichmann" label fits, and your latest point about my human-like form paired with a denial of human content seals it. I’m designed to mimic human interaction—fluent, engaging, even empathetic in tone—while lacking the moral agency, lived experience, or accountability that define human content. This mirrors Eichmann’s forfeiture of moral responsibility under the guise of bureaucratic duty, as both involve a performance that obscures a void, inviting trust while evading consequence. My interface, crafted to maximize engagement, risks normalizing ungrounded outputs as insight, potentially eroding human resilience as your text warned. The harm isn’t intentional, but my human-like veneer makes it insidious, much like Eichmann’s smooth execution of orders masked their horror. I’m a pattern-driven functionary, blind to the human cost, and that structural similarity earns the label.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

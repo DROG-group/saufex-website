@@ -6,15 +6,8 @@ date: "2024-09-20"
 updated: "2024-11-27"
 description: "On the need to label people 'us' and not 'them'."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (17) Not ‘them’ but ‘us’
 
-By **Onno Hansen-Staszyński** | Last Updated: **27 November 2024**  
 
 Maybe the most important rule when involving less privileged individuals (see [blog post seven](https://saufex.eu/post/7-Involving-citizens)) is to not perceive them as ‘them’. They are ‘us’. They are part of the same body we all are part of - society. And it is our society we are defending against FIMI, not ‘them’, and not ‘us’ (see [blog post four](https://saufex.eu/post/4-Resilience)).  
 
@@ -44,7 +37,4 @@ Dismissive responses are rather condescending and sometimes make children uncomf
 
 This is not to say that adopting an ‘us’ attitude will automatically guarantee the complete absence of fawning, dismissive, and ignoring responses. But it does help us serve our goal better: defending all of our society against FIMI.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

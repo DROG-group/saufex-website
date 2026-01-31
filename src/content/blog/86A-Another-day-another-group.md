@@ -6,15 +6,8 @@ date: "2025-12-03"
 updated: "2025-12-11"
 description: "Follow-up on blog post 86."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (86A) Another day, another group
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 December 2025**  
 
 Today, we repeated yesterday's workshop (see [blog post eighty-six](https://saufex.eu/post/86-Unease)), but with a cohort two years older. In this older group, quite a few students experienced moral scruples while playing the Bad News game. These are their answers:
 
@@ -52,7 +45,4 @@ To me, today’s and yesterday’s observations reflect the state of wonder that
 
 Could there be an inverted relation between affective empathy and 'cold' online cognition? The core idea could then be this. The online environment provides an impoverished human experience. Cold cognition thrives because it can fill the missing parts with projection; affective empathy struggles because important clues are missing.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

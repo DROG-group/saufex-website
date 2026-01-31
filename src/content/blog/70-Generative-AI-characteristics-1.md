@@ -6,15 +6,8 @@ date: "2025-09-09"
 updated: "2025-10-11"
 description: "Text-based generative AI output should be treated as misinformation."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (70) Generative AI characteristics (1)
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 October 2025**  
 
 The following is a fragment from a draft version of an academic paper I'm currently working on regarding text-based generative artificial intelligence (GAI)/ large language models (LLMs).
 
@@ -72,7 +65,4 @@ The implication of this characteristic is profound. Since GAIs have a fundamenta
 
 [\[1\]](#_ftnref2) E.g. _Tackling online disinformation_: “Misinformation is false or misleading content shared without harmful intent though the effects can be still harmful.” [https://digital-strategy.ec.europa.eu/en/policies/online-disinformation](https://digital-strategy.ec.europa.eu/en/policies/online-disinformation)
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

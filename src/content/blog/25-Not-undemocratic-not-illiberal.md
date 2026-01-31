@@ -6,15 +6,8 @@ date: "2025-01-08"
 updated: "2025-01-21"
 description: "What to do to avoid the perception of being politically biased and inflicting censorship when dealing with information threats."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (25) Not undemocratic, not illiberal
 
-By **Onno Hansen-Staszyński** | Last Updated: **21 January 2025**  
 
 A U.S. perspective on the concept of disinformation is on the rise that is uncomfortable for all those who subscribe to the EU’s [Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R2065). The core claim of this perspective is that state-inspired initiatives to counteract disinformation are often politically biased and equal censorship. As an illustration of this perspective, I’ll present two recent examples.
 
@@ -88,7 +81,4 @@ In order to avoid the perception of being politically biased and inflicting cens
 
 A fundamental step in this direction is the installation of Resilience Councils. It should not be state institutions by themselves deciding whether information incidents and campaigns constitute a sufficient threat against society - and the individuals who constitute society - to trigger a need to intervene and if so, how to intervene proportionally. Representatives from society should have a decisive say in this.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

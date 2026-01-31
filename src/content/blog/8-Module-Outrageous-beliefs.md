@@ -6,15 +6,8 @@ date: "2024-09-20"
 updated: "2025-09-22"
 description: "The first module in the EMoD learning path 'Anatomy of mis- and disinformation'."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (8) Module: Outrageous beliefs
 
-By **Onno Hansen-Staszyński** | Last Updated: **22 September 2025**  
 
 As was announced in [blog post six](https://saufex.eu/post/6-Creating-a-bottom-line), examples of the EMoD modules will be pre-published in this blog. Below is the first module in the learning path 'Anatomy of mis- and disinformation': Outrageous beliefs.
 
@@ -82,7 +75,4 @@ Jones represents outrageous belief type four, disinformation: a false belief as 
 
 Jones later admitted that he believed the Sandy Hook shooting did occur.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

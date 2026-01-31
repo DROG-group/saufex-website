@@ -6,15 +6,8 @@ date: "2024-09-04"
 updated: "2024-11-20"
 description: "Project SAUFEX aims to draft bottom-line conceptualizations and knowledge that can be used in all five stages of dealing with FIMI: identification, classification, grading, reporting, and countering. An important aspect will be creating a dynamic canon presented in short modules."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (6) Creating a bottom line
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 November 2024**  
 
 As was mentioned in the [third blog post](https://saufex.eu/post/3-What-is-FIMI), no consensus exists on what FIMI is. As a result, addressing FIMI in the European Union is disparate and unaligned. This fragmented approach creates a significant hurdle in dealing with FIMI, hindering the ability of Member States to counter FIMI actors or campaigns originating from state and non-state actors.  
 
@@ -52,7 +45,4 @@ The aspiring members of the Resilience Councils will be the first to be served a
 
 Examples of the EMoD modules will be pre-published in this blog.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

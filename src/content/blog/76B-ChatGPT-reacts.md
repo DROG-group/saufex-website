@@ -6,15 +6,8 @@ date: "2025-10-22"
 updated: "2025-10-28"
 description: "ChatGPT interprets Grok's pledge."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (76B) ChatGPT reacts
 
-By **Onno Hansen-Staszyński** | Last Updated: **28 October 2025**  
 
 I asked ChatGPT to interpret Grok's stance ([blog post 76A](https://saufex.eu/post/76A-Grok-reacts)). The following is ChatGPT's reaction.
 
@@ -255,7 +248,4 @@ It would demand:
 
 Otherwise, it risks replacing one unexamined authority (code) with another (text-as-law).
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

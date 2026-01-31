@@ -6,15 +6,8 @@ date: "2025-05-10"
 updated: "2025-05-23"
 description: "An AI analysis of student answers was presented to the Youth Resilience Council in the form of a report."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (50) AI report (YRC reflection)
 
-By **Onno Hansen-Staszyński** | Last Updated: **23 May 2025**  
 
 Currently, a pilot is being conducted to verify the vision described in [blog post forty-one](https://saufex.eu/post/41-Enhancing-adolescent-individual-and-societal-resilience). The pilot consists of multiple elements: a theme, a question, student answers, AI analysis of the answers, recommendations by a selection of the students based on the answers and the AI analysis (a Youth Resilience Council - YRC), feedback by students on the recommendations, AI analysis of the feedback, and definitive recommendations. [The first blog post concerning the pilot](https://saufex.eu/post/48-Answers-both-by-humans-and-by-AI-YRC-reflection) reflected on student answers and compared human answers and answers provided by AI. In this second blog post, I will focus on the AI analysis of the answers that was presented to the YRC in the form of a report.
 
@@ -209,7 +202,4 @@ While AI seems to fail at actively embracing the width and complexity of the hum
 
 [\[1\]](#_ftnref1) In this context, “moving away from the past” means moving away from the attitude in which teachers or adults compare today’s behavior of teenagers with “the way things used to be” and judge them negatively on that basis. Such comparisons suggest that today’s youth are “worse” than previous generations, which arouses resistance, frustration, and a sense of being misunderstood.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

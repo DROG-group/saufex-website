@@ -8,15 +8,8 @@ learningPath: "AI and Hybrid Threats"
 moduleNumber: 5
 estimatedTime: "7 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: AI for Detection and Defense
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -190,7 +183,4 @@ Rather than relying on technological solutions alone, effective defense requires
 
 Technology is part of the solution, but only part.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

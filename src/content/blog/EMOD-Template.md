@@ -6,15 +6,8 @@ date: "2024-10-10"
 updated: "2024-11-25"
 description: ""
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # EMOD Module Template
 
-By **Julian** | Last Updated: **25 November 2024**  
 
 \[screen 1\]
 
@@ -38,7 +31,4 @@ Also if you cite someone else please [link](https://saufex.eu/) to their work 
 
 last thing: have fun!
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

@@ -6,15 +6,8 @@ date: "2025-10-28"
 updated: "2025-11-11"
 description: "Automated AI moderation does not understand context and is therefore open to overreaching."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (78) The limits of AI in content moderation
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 November 2025**  
 
 I should love the logic of this: Scrbd flagged [a 2017 publication by Radosław Nowak, my wife, and me](https://www.slideshare.net/slideshow/jak-pracowac-profilaktycznie-z-dzieckiem-w-wieku-1315-lat/79622407) because of an interpreted violation of their Section 9.1(b), [Scribd Global Terms of Use](https://support.scribd.com/hc/en-us/articles/210129326-Global-Terms-of-Use) \[Prohibited Conduct\]; Section 4.0, [Scribd Community Rules](https://support.scribd.com/hc/en-us/articles/210129166-Community-Rules-Prohibited-Activity-and-Content) \[Content Rules: Lurid sexual imagery\]. It is an overreach, aimed at an educational brochure for teachers that was financed by the city of Gdańsk. This is exactly the kind of overreach I warned against in my very [first blog post](https://saufex.eu/post/1-Preserving-freedom-of-expression) for Saufex.
 
@@ -185,7 +178,4 @@ So yes — in content moderation, AI should end where **human judgment begins**.
 
 That line — between generating statements and exercising judgment — is where the integrity of both human discourse and responsible technology depends.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

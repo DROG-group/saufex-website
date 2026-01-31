@@ -6,15 +6,8 @@ date: "2025-03-18"
 updated: "2025-03-19"
 description: "Why campaigns against online influence need to focus on technical means of manipulation and not just go after things they dislike."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Preserving the Marketplace of ideas
 
-By **Julian** | Last Updated: **19 March 2025**  
 
 The community against disinformation cannot survive with  oppositional positioning to advocates for free speech and populism. Disinformation and hate research spiked when there was a huge institutional backlash against populism and our field got conflated with backlash against populism. However, on a tactic technique level most in the community are not addressing populism, our aim is to address artificial distortions in the online marketplace of ideas (fake accounts, deepfakes etc.) which is the same as the conservative aim of addressing other artificial distortions (censorship). Online infrastructure serves first and foremost to disseminate information. Within that there are powerful brokers who can dictate what information comes to users first, these are the big platforms and there is room for ample debate on whether they should have the power that they do. Within these platforms there are a wide variety of actors using the anonymity of the internet to try manipulate information so that reflections of the reality are inaccurate. The tools at their disposal have never been more powerful ranging from image, video and audio distortion that is designed to trick our natural senses when discerning what is real or fake.
 
@@ -24,7 +17,4 @@ For those addressing populism, trying to achieve factual discourse is the wrong 
 
 If this enterprise is going to be at all worth pursuing nuance in what counts as disinformation needs to be promoted. We should start with actors online using technical means to manipulate people. Other issues such as the type of rhetoric used on people needs to be addressed via separate mechanisms.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

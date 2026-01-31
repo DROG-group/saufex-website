@@ -6,15 +6,8 @@ date: "2024-12-05"
 updated: "2025-01-20"
 description: "How to build trust, what they accomplished in Taiwan."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Trust module 2: How to build trust, the Taiwan example
 
-By **Julian** | Last Updated: **20 January 2025**  
 
 \[screen 1\]
 
@@ -32,7 +25,4 @@ They moved to make the government more transparent and more accessible through d
 
 While these may seem utopian it happened. The solution to protecting democracy is not to protect people from bad ideas from the outside but rather to double down on the democracy and fundamental belief that when people are given agency, they will make the right decisions.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

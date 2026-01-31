@@ -6,15 +6,8 @@ date: "2025-04-17"
 updated: "2025-04-23"
 description: "Exploring a second real-world FIMI approach: evolutionary psychology."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (44) Evolutionary psychology
 
-By **Onno Hansen-Staszyński** | Last Updated: **23 April 2025**  
 
 In this blog post, I’ll explore a second real-world FIMI approach: evolutionary psychology (the first was the human rights frame – see [blog post thirty-nine](https://saufex.eu/post/39-Human-rights-frame)). After outlining its theoretical underpinnings, I’ll examine how this approach is reflected in real-world policies, and finally assess where it might fall on the Levinas-Hobbes ethical scale (see [blog post thirty-eight](https://saufex.eu/post/38-AI-and-FIMI-recommendations-2)).
 
@@ -70,7 +63,4 @@ When it comes to their own in-group, the picture is more diverse. Yarvin aligns 
 
 Trump mimics Levinasian care for his chosen in-group but rarely enacts it meaningfully. Vance, by contrast, weaves a moral undertone into his narratives. He is less performative than Trump, though still entangled in political utility. Regarding his in-group, he may be placed between Trump and Levinas, perhaps just to the Levinas side of center: there is a stronger suggestion of sincere ethical responsibility, even if ambition remains part of the equation.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

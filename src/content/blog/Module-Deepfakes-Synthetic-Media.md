@@ -8,7 +8,6 @@ learningPath: "AI and Hybrid Threats"
 moduleNumber: 2
 estimatedTime: "18 minutes"
 ---
-
 # Module: Deepfakes and Synthetic Media
 
 **Purpose**: You'll learn to assess synthetic media claims accurately — understanding what's actually possible, what detection tells you, and how to avoid both panic and dismissal.

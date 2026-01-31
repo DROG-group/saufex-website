@@ -6,15 +6,8 @@ date: "2025-06-12"
 updated: "2025-06-17"
 description: ""
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # The EU’s Disinformation Battle Is Missing Its Most Vital Ally: The Public
 
-By **Julian** | Last Updated: **17 June 2025**  
 
 A Technical Fight Against “FIMI” That Few Understand
 
@@ -38,7 +31,4 @@ Europe doesn’t need to copy Taiwan wholesale, but it must learn the core lesso
 
 The good news is that Europeans are not apathetic – they care deeply about the integrity of their information space and their democracy. But to harness that concern, the EU must bridge the accessibility gap. Imagine EU updates on disinformation that read less like intelligence briefings and more like a conversation with citizens. Imagine that people could interact directly with the NGOs and EU institutions involved in this work and identify threats, and voice their beliefs on how FIMI should be handled. Without the public on board, even the best-intended EU initiatives will fall short of their potential. However with the public the EU can truly mount a whole-of-society defense, one where technical expertise and civic engagement reinforce each other. In the battle against disinformation, Europe’s 445 million citizens are its greatest strength. It’s high time to bring them fully into the fight. By making the fight against FIMI accessible, transparent, and participatory, the EU can not only outsmart foreign manipulators but also strengthen the democratic bond between its institutions and its people. And that, ultimately, is the surest way to keep the information space free and truthful.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

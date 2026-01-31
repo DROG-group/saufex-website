@@ -6,15 +6,8 @@ date: "2024-09-21"
 updated: "2025-09-22"
 description: "The second module in the EMoD learning path 'Anatomy of mis- and disinformation'."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (9) Module: How beliefs form
 
-By **Onno Hansen-Staszyński** | Last Updated: **22 September 2025**  
 
 \[screen 1\]
 
@@ -84,7 +77,4 @@ According to psychologists Jay Van Bavel and Dominic Packer, we are members of m
 
 When activated each social identity has a profound effect on us. Each social identity co-shapes our perception and interpretation of the world.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

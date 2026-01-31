@@ -6,15 +6,8 @@ date: "2025-03-17"
 updated: "2025-03-17"
 description: "The mission of the Youth Resilience Council (YRC) is to enlarge resilience among youngsters."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (37) The mission of the Youth Resilience Council
 
-By **Onno Hansen-Staszyński** | Last Updated: **17 March 2025**  
 
 The mission of the Youth Resilience Council (YRC) is to enlarge resilience among youngsters. Anything that the YRC does or does not do should be guided by the mission.
 
@@ -26,7 +19,4 @@ Regarding actively supporting youngsters’ positive experiences of belonging, a
 
 The questions the YRC formulates to youngsters, the recommendations it produces, and the initiatives it coordinates all are to be checked, time and again, against this mission.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

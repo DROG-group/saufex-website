@@ -6,15 +6,8 @@ date: "2024-09-04"
 updated: "2024-11-20"
 description: "Resilience Councils will need to involve citizens in their activities. Two options seem feasible: selecting citizens to engage with randomly or by initiating online communities."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (7) Involving citizens
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 November 2024**  
 
 The Resilience Councils will have a third, major task besides gathering civil society input and cooperating with state organs to counter FIMI; they will need to involve citizens. Citizens are to be part of the research process, from developing research questions and hypotheses to interpreting and disseminating the project results. They are seen as separate from academia, policymakers, civil society organisations, and local and regional government officials.
 
@@ -60,7 +53,4 @@ Mutante calls its form of intervention ‘social conversation’. It consists of
 
 Resilience Councils will need to involve citizens in their activities. Two options seem feasible: randomly selecting citizens to engage with or initiating and maintaining online communities.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

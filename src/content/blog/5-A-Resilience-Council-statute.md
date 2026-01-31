@@ -6,15 +6,8 @@ date: "2024-08-22"
 updated: "2024-11-20"
 description: "How to safeguard the independence of the Resilience Councils."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (5) A Resilience Council statute
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 November 2024**  
 
 In the original concept, the Resilience Councils were to be safeguarded against dependence on fluctuating political will or governmental budgetary changes through their independence of funding by the government. As was mentioned in the [second blog post,](https://saufex.eu/) two potential sources were foreseen: the European Union and self-financing. Although this is a good first step, in itself it is not enough to guarantee RC independence.
 
@@ -44,7 +37,4 @@ This means that in my opinion, the RCs’ level of influence is to be upgraded f
 
 Naturally, especially in the beginning, the process of mediation will be seen as a paralyzing factor playing into the hands of those who initiate and spread FIMI. But, this is a temporary short-term disadvantage only that outweighs the long-term advantage of an ever more resilient society.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

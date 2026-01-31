@@ -6,15 +6,8 @@ date: "2025-02-23"
 updated: "2025-02-27"
 description: "Trying out what a belief-speaking consultative process would look like."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (34) Belief-speaking consultancy – a simulation
 
-By **Onno Hansen-Staszyński** | Last Updated: **27 February 2025**  
 
 It might seem hard to imagine a belief-speaking consultancy process rendering useful outcomes, even with the mechanisms as described in [an earlier blog post](https://saufex.eu/post/31-A-holistic-vision-on-effectively-enhancing-adolescent-resilience) in place: a method to enable the expression of opinions without fear of judgment (“Interdemocracy”), a structured approach to extraction that ensures meaningful outcomes (“Wisdom of Crowds”), and a system for aggregating and interpreting the resulting input (AI). So my wife and I organized a simulation. We asked some of our students to formulate their answers to a relevant question. We then asked ChatGPT to aggregate and interpret the answers. Below you’ll find the outcome of the simulation.
 
@@ -120,7 +113,4 @@ The simulation outcomes look promising. What needs to be established next is the
 
 We cannot wait to test the belief-speaking consultative process in a large-scale pilot that also includes an actual YRC.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

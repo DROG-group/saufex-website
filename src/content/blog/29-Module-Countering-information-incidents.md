@@ -6,15 +6,8 @@ date: "2024-10-13"
 updated: "2025-11-21"
 description: "The first module in the EMoD learning path 'Organized countering of mis and disinformation'."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (29) Module: Countering information incidents
 
-By **Onno Hansen-Staszyński** | Last Updated: **21 November 2025**  
 
 Below you’ll find the first module of the learning path ‘Organized countering of mis and disinformation’.
 
@@ -68,7 +61,4 @@ Inspired by President Trump and Elon Musk, interventions such as fact-checking a
 
 In conclusion, fact-checking either serves as a moral duty, reserved for priority cases that justify the use of resources, or could function as part of a broader strategy that addresses challenges more comprehensively but it should avoid appearing biased or interfering with freedom of speech.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

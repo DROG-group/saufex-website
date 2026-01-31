@@ -6,15 +6,8 @@ date: "2024-08-14"
 updated: "2024-11-20"
 description: "Enlarging resilience means defending society against FIMI incidents and campaigns that try to undermine people’s psychosocial integration as well as actively supporting people’s positive experiences of belonging, autonomy, achievement, and safety."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (4) Resilience
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 November 2024**  
 
 ‘Resilience’ is the defining element of the Resilience Councils. The simplest definition of resilience is “the ability to cope with shocks and to keep functioning in much the same kind of way. It is a measure of how much an ecosystem, a business, a society can change before it crosses a tipping point into some other kind of state that it then tends to stay in”. (Walker, 2020) Unfortunately, resilience seems to become a buzzword. It therefore is crucial to frame the concept of resilience in the SAUFEX project.
 
@@ -68,7 +61,4 @@ Resilience Councils in the SAUFEX project are therefore to be vigilant against f
 
 ·       Walker, B. (2020) Resilience: what it is and is not. In: _Ecology and Society_ 25(2):11. [https://doi.org/10.5751/ES-11647-250211](https://doi.org/10.5751/ES-11647-250211)
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

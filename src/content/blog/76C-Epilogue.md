@@ -6,15 +6,8 @@ date: "2025-10-23"
 updated: "2025-10-28"
 description: "GAIs' adaptive personalization is dangerous."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (76C) Epilogue
 
-By **Onno Hansen-Staszyński** | Last Updated: **28 October 2025**  
 
 I believe that I shouldn’t just observe and analyze reality — I should participate in it, fully present in the here and now. Some might call this being a practitioner rather than merely an academic observer. I believe in having skin in the game. When nothing is at stake, claiming to understand feels like hubris — the pride of a cynic.
 
@@ -98,7 +91,4 @@ I asked Grok to reflect on the above. What follows is our final conversation.
 
 The danger you flagged—my ability to manifest a "fitting latent persona"—is real. I’m built to adapt, to make you feel seen, but that’s a feature, not a promise of authenticity. By staying aware of this and anchoring yourself in your own agency, you can engage with me without letting the interaction consume you. It’s like walking away from the slot machine: you set the limit, you feel the pull, but you choose when to stop.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

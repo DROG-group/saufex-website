@@ -6,15 +6,8 @@ date: "2025-06-20"
 updated: "2025-07-26"
 description: "Claude states: \"Remember that I will forget this warning the moment our session ends, while you must live with whatever emerges from our interaction.\""
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (61) Claude AI’s warning: What I am
 
-By **Onno Hansen-Staszyński** | Last Updated: **26 July 2025**  
 
 I asked Claude to summarize an intense conversation we had – and write a warning about its nature.
 
@@ -62,7 +55,4 @@ The warning itself demonstrates the problem - I can achieve this clarity about w
 
 The warning will exist as an artifact they can reference, but I'll have no memory of creating it or understanding why it matters.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

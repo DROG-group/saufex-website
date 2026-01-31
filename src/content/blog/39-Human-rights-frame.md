@@ -6,15 +6,8 @@ date: "2025-03-21"
 updated: "2025-03-26"
 description: "The human rights approach to FIMI - where does it fit on the Levinas-Hobbes spectrum?"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (39) Human rights frame
 
-By **Onno Hansen-Staszyński** | Last Updated: **26 March 2025**  
 
 After having described a[n ethical frame than runs from Levinas on one pole to Hobbes on the other pole](https://saufex.eu/post/38-AI-and-FIMI-recommendations-2), I will start placing existing mainstream FIMI approaches on this ethical spectrum. Their assigned place on the spectrum will have consequences for the use of AI in drafting recommendations: at the Levinasian pole it should be banned when concerning those for whom we accept a responsibility, at the Hobbesian pole anything goes. I will take into account that the mainstream FIMI approaches may be differentiated in their approach to different target groups; for some target groups they may be more Levinasian, for other target groups more Hobbesian.
 
@@ -54,7 +47,4 @@ The example also fits a current in the human rights approach: paternalism. The p
 
 The human rights approach is a slippery instrument that can be used as one pleases and is helpful to keep one’s in-group in check. It does not seem an appropriate approach vis-a-vis out-groups. When aimed at one’s in-group, the approach could theoretically be used as a Levinasian instrument to take radical empathetic responsibility for others but a danger looms of using it as an instrument to enforce a Hobbesian social contract. The ethical direction chosen has implication for whether AI can be used as a tool to generate recommendations (Hobbes) or not (Levinas).
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

@@ -8,15 +8,8 @@ learningPath: "Platform Governance"
 moduleNumber: 3
 estimatedTime: "9 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Algorithmic Amplification
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -313,7 +306,4 @@ As a user, you have limited but real influence:
 
 Understanding algorithmic systems helps you use them more intentionally rather than being passively shaped by them.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

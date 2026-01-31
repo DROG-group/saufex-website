@@ -6,15 +6,8 @@ date: "2025-04-28"
 updated: "2025-05-23"
 description: "Creating an all-society approach to dealing with FIMI through a system of interconnected RCs."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (45) A system of interconnected RCs
 
-By **Onno Hansen-Staszyński** | Last Updated: **23 May 2025**  
 
 The first step in setting up Resilience Councils to address FIMI is to establish an institution that brings together all organisations already active on the supply side of FIMI, such as fact-checkers and researchers. These organisations detect, analyse, and evaluate FIMI incidents and campaigns that might otherwise go unnoticed. Gathering their representatives in a single Resilience Council not only democratizes the handling of FIMI but also creates an opportunity to standardize a currently fragmented field. By opening communication channels and fostering cooperation among them, it becomes possible to introduce common standards, both conceptual and technological, for describing, classifying, and grading FIMI incidents and campaigns.
 
@@ -66,7 +59,4 @@ By implementing this system of interconnected RCs, an all-society approach to de
 
 The description above concerns a national RC system. On an international level, I could envision an Advisory Board supporting national RCs, a European RC in which representatives of national RCs take place, a common digital infrastructure (including a dissemination platform) to facilitate standardization and interoperability, common education modules (EMoD - see: [blog post twenty](https://saufex.eu/post/20-European-Master-of-countering-Disinformation-primer)), and, optionally, a rapid response system.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

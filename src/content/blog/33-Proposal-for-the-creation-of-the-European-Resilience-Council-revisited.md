@@ -6,15 +6,8 @@ date: "2025-02-11"
 updated: "2025-02-23"
 description: "A description of the future European Resilience Council when taking Member States' responses to an earlier proposal into consideration."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (33) Proposal for the creation of the European Resilience Council - revisited
 
-By **Onno Hansen-Staszyński** | Last Updated: **23 February 2025**  
 
 When a proposal to establish a European Resilience Council (ERC) for addressing disinformation, FIMI, and hybrid threats was recently presented in Brussels, representatives from multiple Member States responded. Broad support was voiced for democratizing decision-making processes in this domain, expanding the legitimacy of existing mechanisms, adopting an all-of-society approach, and simplifying current toolboxes and implementations. At the same time, concerns were raised about potential duplication of efforts by existing entities, the added value of the ERC, the need to create a new organization as such, the need for additional funding, and possible interference with Member States’ sovereignty. In addition, delegations requested further details on the proposal's legal, financial, and technical dimensions and guidance on the next steps.
 
@@ -96,7 +89,4 @@ The establishment of the European Resilience Council will play a critical role i
 
 The creation of the European Resilience Council will be an essential element in the EU’s strategy to strengthen societal resilience against disinformation, FIMI, and hybrid threats.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

@@ -6,15 +6,8 @@ date: "2025-04-20"
 updated: "2025-04-20"
 description: "Exploring the relation between identities, belonging, AI, 'ma', Interdemocracy, and resilience."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (43) Longread: AI, 'ma', Interdemocracy, resilience
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 April 2025**  
 
 The following text is a transcript of my conversation with ChatGPT and Grok, exploring the relation between identities, belonging, AI, 'ma', Interdemocracy (see: [blog post forty-one](https://saufex.eu/post/41-Enhancing-adolescent-individual-and-societal-resilience)), and resilience.
 
@@ -302,7 +295,4 @@ Conclusion
 
 Interdemocracy has strong potential to enlarge and restore human resilience by creating a collective space where group identities are suspended, countering the fragility caused by polarization, performance, and over-curation. Its social nature makes it more approachable than a neutral ma, fostering resilience through shared vulnerability and non-performative connection. However, its success depends on participants’ willingness to engage and facilitators’ ability to hold the space without imposing new agendas. If integrated thoughtfully, interdemocracy could rebuild individual and collective resilience, offering a powerful antidote to modern brittleness by restoring the human capacity for presence across differences.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

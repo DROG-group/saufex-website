@@ -6,15 +6,8 @@ date: "2025-09-09"
 updated: "2025-10-11"
 description: "GAIs are about pattern reproduction, not reasoning."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (71) Generative AI characteristics (2)
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 October 2025**  
 
 The following is a second fragment from a draft version of an academic paper I'm currently working on regarding text-based generative artificial intelligence (GAI)/ large language models (LLMs).
 
@@ -58,7 +51,4 @@ Just as the first characteristic necessitates a ‘zero-trust' policy toward GAI
 
 [\[2\]](#_ftnref2) Chain-of-Thought (CoT) entails complex reasoning through intermediate reasoning steps.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

@@ -6,15 +6,8 @@ date: "2024-08-02"
 updated: "2024-11-20"
 description: "There are no generally accepted definitions or standards regarding FIMI."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (3) What is FIMI?
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 November 2024**  
 
 It is clear what FIMI stands for: Foreign Information Manipulation and Interference. But, for someone starting to take an interest in the subject, it is less clear what FIMI is. To start with, for the European Union, FIMI seems to be about ‘behavior’, while for the US State Department, it seems to be about ‘information manipulation’.  
 
@@ -44,7 +37,4 @@ Possibly, as a result of the confusion, there currently is no good definition of
 
 In the SAUFEX project, we are addressing all these aspects - if only to support the work of the upcoming Resilience Councils.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

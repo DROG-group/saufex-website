@@ -6,15 +6,8 @@ date: "2025-12-02"
 updated: "2025-12-11"
 description: "Adolescents in a sea of information manipulation."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (86) Unease
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 December 2025**  
 
 This blog post will be another raw observation from the classroom (see also [blog post eighty-five](https://saufex.eu/post/85-AI-and-education)). The observation concerns information manipulation. The general context is a day-long workshop for adolescents. The concrete context is our students playing the [Bad News game](https://www.getbadnews.com/en).
 
@@ -77,7 +70,4 @@ My reflection is not that our students have no sense of right and wrong. They sh
 
 [\[ii\]](#_ednref2) [https://www.theguardian.com/technology/2018/feb/20/bad-news-the-game-researchers-hope-will-vaccinate-public-against-fake-news](https://www.theguardian.com/technology/2018/feb/20/bad-news-the-game-researchers-hope-will-vaccinate-public-against-fake-news)
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

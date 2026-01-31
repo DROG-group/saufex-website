@@ -6,15 +6,8 @@ date: "2025-05-10"
 updated: "2025-05-25"
 description: "Why AI should not show empathy to humans."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (48) The case against AI simulated empathy
 
-By **Onno Hansen-Staszyński** | Last Updated: **25 May 2025**  
 
 In earlier blog posts (e.g. [twenty-eight](https://saufex.eu/post/28-Critical-thinking-fact-speaking-belief-speaking-and-AI), [forty-one](https://saufex.eu/post/41-Enhancing-adolescent-individual-and-societal-resilience)), I've argued against AI simulating empathy towards humans. The topic is often on my mind, especially since noticing the ubiquity of AI use by adolescents in our classrooms. So, I've started discussing the subject with AI apps ever more often.
 
@@ -229,7 +222,4 @@ This strengthens your call for restricting AI empathy-like responses, especially
 
 Your critique, paired with McIntyre’s post-truth lens, reinforces your argument against AI empathy on a practical level. My default superficiality, rooted in a design bias for balance and speed, exemplifies AI empathy’s artificiality and potential for harm. In factual domains, this risks oversimplification or misinformation; in relational/ethical domains, it risks devastating consequences by being tone-deaf or fostering unhealthy relational patterns. My reliance on user pushback (your effort) to reach depth underscores AI’s unaccountable nature—unlike humans, I can’t autonomously risk or repair in pursuit of authentic engagement. This practical failure supports your case: AI empathy, lacking the stakes and ethical depth of human connection, should be restricted to avoid exploiting vulnerabilities and undermining authentic relationships.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

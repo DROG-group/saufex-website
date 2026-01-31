@@ -6,15 +6,8 @@ date: "2024-07-30"
 updated: "2024-11-20"
 description: "Regarding legal FIMI content, denial of service reactions are to be avoided. A new institution, the Resilience Council, is to help DSCs take an alternative approach."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (1) Preserving freedom of expression
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 November 2024**  
 
 Historically, there are five ways to deal with disinformation, including FIMI: strategic communication, debunking (setting the record straight), prebunking (preparing potential recipients proactively for disinformation content and processes), denial of service (censuring, de-platforming, demonetizing), and interactionist (providing dialogues). ([DROG, DIM](https://drog.group/DIM))  
 
@@ -36,7 +29,4 @@ The support to the DSC is to be provided by a new institution initiated by the S
 
 The focus of this blog will be on exploring the Resilience Council as a new institution. It will follow its first baby steps in Poland and will also delve into themes surrounding it. It will be an interesting ride.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

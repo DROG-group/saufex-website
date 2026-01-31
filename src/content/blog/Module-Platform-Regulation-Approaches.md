@@ -8,15 +8,8 @@ learningPath: "Platform Governance"
 moduleNumber: 4
 estimatedTime: "10 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Platform Regulation Approaches
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -339,7 +332,4 @@ When assessing regulation, consider:
 
 No perfect system exists, but some approaches better balance competing values than others.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

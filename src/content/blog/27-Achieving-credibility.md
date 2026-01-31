@@ -6,15 +6,8 @@ date: "2025-01-19"
 updated: "2025-01-21"
 description: "There are multiple roads to achieve credibility. Fact-speaking is just one of them."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (27) Achieving credibility
 
-By **Onno Hansen-Staszyński** | Last Updated: **21 January 2025**  
 
 According to me, it is possible to see [“fact-speaking” and “belief-speaking”](https://saufex.eu/post/19-We-need-two-types-of-discourses) as complementary. To do so we need to take a step back and look at their function. Both modes of speaking aim to provide credibility to statements or narratives. Both modes do so using accuracy: “fact-speaking” strives at achieving accuracy in representing the outer world while “belief-speaking” does so in representing an inner world.
 
@@ -44,7 +37,4 @@ There are descriptions of reality that elude our individual and collective attem
 
 Hannah Arendt, in her book _Eichmann in Jerusalem_, gives us a description of how this should have looked regarding the Eichmann trial. She writes that the judges should have admitted that they did not care about Eichmann’s inner world, about his intent. In Eichmann’s view, he was just implementing what others told him to do, without base motives or inclinations. The judges should have embraced “the proposition "that a great crime offends nature, so that the very earth cries out for vengeance; that evil violates a natural harmony which only retribution can restore; that a wronged collectivity owes a duty to the moral order to punish the criminal" (Yosal Rogat).” According to Arendt, the judges should have ruled: “just as you supported and carried out a policy of not wanting to share the earth with the Jewish people and the people of a number of other nations - as though you and your superiors had any right to determine who should and who should not inhabit the world - we find that no one, that is, no member of the human race, can be expected to want to share the earth with you. This is the reason, and the only reason, you must hang."
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

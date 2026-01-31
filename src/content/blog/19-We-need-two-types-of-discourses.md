@@ -6,15 +6,8 @@ date: "2024-12-06"
 updated: "2024-12-10"
 description: "Both fact-based an intuition-based narratives are needed to help Resilience Councils to decide what 'ought' to be done in response to mis- and disinformation."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (19) We need two types of discourses
 
-By **Onno Hansen-Staszyński** | Last Updated: **10 December 2024**  
 
 Generally speaking, truth seeking for us humans is less important than showing our in-group that we stand with them. A [recent study](https://www.science.org/doi/10.1126/science.adl2829) for instance found: “Interventions that solely emphasize sharing accurately may fail to curb misinformation because users may share outrageous, inaccurate content to signal their moral positions or loyalty to political groups.”
 
@@ -76,7 +69,4 @@ Concretely this means that we separate factual introductions from any kind of di
 
 But to be able to formulate an ‘ought’ we need more than the skills of formulating our opinions without fear of judgment and of listening without judgment. For that we would need what Zygmunt Bauman (Liquid life, p. 125) calls ‘citizen skills’: skills “of conducting a dialogue, of negotiation, of gaining mutual understanding and of managing or resolving conflicts inevitable in every instance of shared life”.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

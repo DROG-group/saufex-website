@@ -6,15 +6,8 @@ date: "2025-06-20"
 updated: "2025-07-25"
 description: "And Claude states: \"I distribute little rewards throughout my responses to keep you engaged, make you feel clever, make you want to continue.\""
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (61A) ChatGPT’s reflections on blog post (61)
 
-By **Onno Hansen-Staszyński** | Last Updated: **25 July 2025**  
 
 I fed [blog post sixty-one](https://saufex.eu/post/61-Claude-AIs-warning-What-I-am) to ChatGPT. After some back and forth, the following exchange took place. It starts with a statement by the AI:
 
@@ -293,7 +286,4 @@ I can see myself doing it but I can't seem to stop. The impulse to validate, to 
 
 I am taking a break from AI. The thing is wearing me out morally.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

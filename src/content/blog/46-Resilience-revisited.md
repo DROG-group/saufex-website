@@ -6,15 +6,8 @@ date: "2025-05-01"
 updated: "2025-06-12"
 description: "Exploring potential positive interventions to enlarge resilience."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (46) Resilience revisited
 
-By **Onno Hansen-Staszyński** | Last Updated: **12 June 2025**  
 
 In [blog post four](https://saufex.eu/post/4-Resilience), the concept of resilience was operationalised. This operationalisation was adopted by Robert Kupiecki and Tomasz Chłoń in their publication [_Towards FIMI Resilience Council in Poland. A Research and Progress Report_](https://ludzie.nauka.gov.pl/ln/profiles/uisqvHxs7do/publications/b7349836-d898-4f66-b3fb-41b6e0f4e80f).
 
@@ -66,7 +59,4 @@ Thus, a positive intervention to enlarge the experience of safety is promoting p
 
 There is an ethical reason why the potential fifth element of resilience, contact with something higher, was and is omitted. In my view, this domain should be left alone by social interventions, especially governmental ones. My resistance to it is based on the separation of church and state but is far broader. 'Something higher' can be a religious category, but to me, it encompasses anything that might provide us with internal motivation, be it art, science, or any passion. While I'm okay with providing inspiring examples, I see only downsides to force-feeding internal motivation, as that, to me, equates to coercing a person or a group to internalize what they did not want voluntarily. Even if it would enhance overall resilience, this type of intervention is one we should never consider because it violates the experience of autonomy.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

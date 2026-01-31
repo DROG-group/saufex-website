@@ -6,15 +6,8 @@ date: "2025-10-08"
 updated: "2025-12-11"
 description: "Half time project recommendations based on preliminary outcomes."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (80) SAUFEX-based recommendations
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 December 2025**  
 
 With project SAUFEX being halfway, it is time to formulate recommendations regarding dealing with the information sphere, based on preliminary project outcomes.
 
@@ -44,7 +37,4 @@ Countries adopt varied approaches to managing the information sphere. To promote
 
 Recommendations on AI and other relevant topics will be drafted in the second half of the project. Preliminary recommendations on AI were published in [blog post seventy-seven](https://saufex.eu/post/77-Two-AI-literacy-recommendations).
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

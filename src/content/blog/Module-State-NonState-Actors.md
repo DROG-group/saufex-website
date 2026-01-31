@@ -8,15 +8,8 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 2
 estimatedTime: "8 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: State vs Non-State Actors in FIMI
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -274,7 +267,4 @@ Identifying who is behind operations enables:
 
 But attribution is technically and politically challenging - covered in detail in Module 5.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

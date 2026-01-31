@@ -6,15 +6,8 @@ date: "2025-10-13"
 updated: "2025-10-13"
 description: "Here we provide an overview of the ABCDE Framework"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # What is the ABCDE Framework?
 
-By **Julian** | Last Updated: **13 October 2025**  
 
 The ABCDE framework is a structured model for analyzing disinformation or influence operations. It helps break down complex cases into manageable, comparable elements.
 
@@ -74,7 +67,4 @@ The idea is to give analysts, policy makers, civil society, platforms, etc. a co
 *   In practice, analysts may use ABCDE together with other toolkits (like the DISARM framework) so that the “Behavior” component is further broken down into tactics, techniques, etc.
     
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

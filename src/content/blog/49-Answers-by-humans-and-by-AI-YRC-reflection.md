@@ -6,15 +6,8 @@ date: "2025-05-10"
 updated: "2025-05-25"
 description: "Comparing answers given to the central question of the current pilot."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (49) Answers - by humans and by AI (YRC reflection)
 
-By **Onno Hansen-Staszyński** | Last Updated: **25 May 2025**  
 
 Currently, a small pilot is being conducted to verify the approach as described in [blog post forty-one](https://saufex.eu/post/41-Enhancing-adolescent-individual-and-societal-resilience). The pilot involves only one class (thirteen students), two 90-minute sessions for all students, and two 90-minute additional sessions for two of the students as a Youth Resilience Council (YRC). Representatives of the [Pomeranian Center for the Education of Teachers](https://www.pcen.gda.pl/) observe the general sessions.
 
@@ -187,7 +180,4 @@ Your comparison to students' experiences of being "online-only" is an interestin
 
 Long live human messiness!
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

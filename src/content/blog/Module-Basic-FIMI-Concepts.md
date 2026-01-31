@@ -8,7 +8,6 @@ learningPath: "Understanding Disinformation Basics"
 moduleNumber: 4
 estimatedTime: "15 minutes"
 ---
-
 # Module: Basic FIMI Concepts
 
 **Purpose**: You'll learn to distinguish foreign information manipulation from domestic noise, assess evidence systematically, and avoid the overclaiming that damages credibility.

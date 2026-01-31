@@ -6,15 +6,8 @@ date: "2024-12-02"
 updated: "2024-12-04"
 description: "Resilience Councils might require additional organisations for youngsters."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (18) What could be the place of young people in the Resilience Councils?
 
-By **Onno Hansen-Staszyński** | Last Updated: **4 December 2024**  
 
 The description of a multi-tier Resilience Council structure in [blog post fourteen](https://saufex.eu/post/14-Resilience-Councils-A-thought-experiment) and the report on the upcoming actual Polish Resilience Council(s) in [blog post fifteen](https://saufex.eu/post/15-The-Polish-Resilience-Councils) show that representation might be a challenge. There are serious hoops in place through which anyone must jump before potentially becoming engaged in Resilience Councils.
 
@@ -76,7 +69,4 @@ Ideally, the additional organisations for youngsters should be embedded in the e
 
 A ‘thought experiment’ is a didactic tool to be used in the classroom. It is employed within the Interdemocracy format and method. The tool consists of adolescents first writing and then recording their answers to a question that the teacher prepared. The adolescents are to answer the question individually within 90 seconds in silence. The answers are to be based on an individual experience. This means the answer is to be written in the I-form without a claim to external validation. After the 90 seconds, the adolescents are asked to transcribe their answers digitally and in such a way that they may read their text aloud without being hindered by unclarities or illegible passages. The adolescents are to send their resulting digital text to a common online communication channel. Next, the teacher randomly selects all adolescents one by one to read their text to a recording device. The adolescents who are not active are requested to keep silent. The audio recordings are to be sent to the communication channel.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

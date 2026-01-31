@@ -6,15 +6,8 @@ date: "2025-03-03"
 updated: "2025-03-11"
 description: "Levinas' ethical frame is a good fit for some FIMI stakeholders but not for all. For the non-fitting stakeholders a different ethical frame is needed."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (36) AI and FIMI recommendations (1)
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 March 2025**  
 
 In the [previous blog post](https://saufex.eu/post/35-AI-should-refrain-from-belief-speaking-recommendations) Levinas’ ethics of infinite responsibility toward the Other was introduced as a lens for evaluating the role of artificial intelligence in drafting recommendations. The blog post concerned a specific use case: translating adolescent students’ belief-speaking answers into recommendations. In this blog post I extend my inquiry to a more general use case: responses to Foreign Information Manipulation and Interference (FIMI) to assess whether AI should or should not be allowed to draft recommendations in this domain.
 
@@ -86,7 +79,4 @@ Levinas’ ethical framework, with its emphasis on infinite responsibility towar
 
 The ban does not extend to cases where Levinas’ approach does not apply — namely, with non-domestic citizens on the supply side of FIMI , domestic citizens tied up in their total roles, and entities like organizations and bots. These actors, lacking the reciprocal vulnerability or individual "face" central to Levinas’ thought, fall outside the scope of infinite responsibility. Here, another ethical frame is needed, a frame that possibly does not exclude the use of AI to draft recommendations.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

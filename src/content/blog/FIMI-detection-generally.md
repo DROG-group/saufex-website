@@ -6,15 +6,8 @@ date: "2024-11-29"
 updated: "2025-04-08"
 description: "A brief overview of how FIMI is detected."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # FIMI detection generally
 
-By **Julian** | Last Updated: **8 April 2025**  
 
 Foreign Information Manipulation & Interference (FIMI) is a complex issue with various methods of detection. Some common methods include:
 
@@ -31,7 +24,4 @@ Foreign Information Manipulation & Interference (FIMI) is a complex issue with v
 
 It's important to note that detecting FIMI is an ongoing challenge, as adversaries constantly adapt their tactics. Therefore, a multi-layered approach is necessary to effectively identify and counter these threats.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

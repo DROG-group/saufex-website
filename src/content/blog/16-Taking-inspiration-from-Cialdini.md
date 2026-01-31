@@ -6,15 +6,8 @@ date: "2024-11-09"
 updated: "2024-11-20"
 description: "Linking Cialdini's principles of persuasion to the levels described in the learning path 'Anatomy of mis- and disinformation'."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (16) Taking inspiration from Cialdini
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 November 2024**  
 
 ## [](#Introduction)Introduction
 
@@ -58,7 +51,4 @@ What seems to be open to governmental organisations are the drivers seemingly li
 
 Still, even these levels should not be left to governmental organisations alone, in line with the democratic concept of keeping power in check. Enter project SAUFEX.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

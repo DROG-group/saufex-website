@@ -6,15 +6,8 @@ date: "2025-10-04"
 updated: "2025-10-11"
 description: "A summary of best practices."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (74) Toolkit of escalating responses to mis-, disinformation, and FIMI aimed at the demand side
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 October 2025**  
 
 ## [](#Phase-one-basics)Phase one: basics
 
@@ -38,7 +31,4 @@ By **Onno Hansen-Staszyński** | Last Updated: **11 October 2025**
 
 Enhance specific literacies, e.g. media literacy, digital literacy, AI literacy, citizen education.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

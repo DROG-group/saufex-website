@@ -6,15 +6,8 @@ date: "2024-07-30"
 updated: "2024-11-20"
 description: "Description of the original concept of what Resilience Councils are to be."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (2) Resilience Councils – the concept
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 November 2024**  
 
 The SAUFEX project started with a detailed concept of what Resilience Councils (RCs) should be. In this blog post, I will describe this original concept. Over time, it will become clear how much of it will survive and how much will have been adapted to reality.  
 
@@ -58,7 +51,4 @@ Regarding the funding of RCs two potential sources are foreseen: the European Un
 
 What the two potential sources of funding have in common is that they are independent of national governments, thus assuring that the RC will not be subject to fluctuating political will or governmental budgetary changes.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

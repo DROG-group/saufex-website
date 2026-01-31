@@ -6,15 +6,8 @@ date: "2025-11-26"
 updated: "2025-12-11"
 description: "A raw, observational blog post on real students and why we should look at ourselves."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (85) AI and education
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 December 2025**  
 
 This will be a raw blog post, an observation straight from the belly of our education system.
 
@@ -74,7 +67,4 @@ It seems paradoxical: on the one hand, GAI is described as a useful tool; on the
 
 Yes, we should worry about the potential harms of AI. But we should worry even more about the potential harm caused by the position we put our students in.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

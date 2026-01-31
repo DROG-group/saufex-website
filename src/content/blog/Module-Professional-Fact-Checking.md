@@ -8,15 +8,8 @@ learningPath: "Detection and Verification"
 moduleNumber: 7
 estimatedTime: "10 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Professional Fact-Checking
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -445,7 +438,4 @@ Likely trajectories:
 
 **Vision**: Fact-checking as permanent infrastructure in healthy information ecosystems, but only one component of comprehensive defense.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

@@ -8,15 +8,8 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 7
 estimatedTime: "10 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: The EU Response to FIMI
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -355,7 +348,4 @@ As a European citizen or resident, you contribute by:
 
 EU defense isn't just institutional - it requires engaged, aware citizens. Individual actions create collective resilience.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

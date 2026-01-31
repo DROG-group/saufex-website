@@ -8,15 +8,8 @@ learningPath: "Counter-Messaging Strategies"
 moduleNumber: 5
 estimatedTime: "10 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Counter-Narrative Development
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -434,7 +427,4 @@ Ethical counter-narratives strengthen democratic discourse; unethical approaches
 
 Counter-narratives offer hope competing with harmful narratives. Not perfect, but essential tool in comprehensive counter-messaging strategy.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

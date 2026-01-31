@@ -6,15 +6,8 @@ date: "2024-10-15"
 updated: "2024-11-20"
 description: "Fact checking can be a fraught enterprise. Here are the pit falls of fact checking and how they can be avoided."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Who Fact checks the fact checkers?
 
-By **Julian** | Last Updated: **20 November 2024**  
 
 Fact checking can be a fraught enterprise. Here are the pit falls of fact checking and how they can be avoided.
 
@@ -44,7 +37,4 @@ Fact checkers risk looking biased if they nitpick mistakes made by people who be
 
 **How to fix this:** Fact checking needs to address facts when that is under contention. A fact checker cannot in good faith claim to fact check a belief and instead must use different terminology about how beliefs interact with reality and other viewpoints from what the person believes. Not "they are incorrect" but rather "we should consider other factors".
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

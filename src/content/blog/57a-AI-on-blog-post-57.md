@@ -6,15 +6,8 @@ date: "2025-05-25"
 updated: "2025-07-08"
 description: "ChatGPT and Gemini react."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (57A) AI on blog post (57)
 
-By **Onno Hansen-Staszyński** | Last Updated: **8 July 2025**  
 
 I presented [blog post fifty-seven](https://saufex.eu/post/57-Longread-serious-limitations-of-AI) to ChatGPT and Gemini. Below you'll find excerpts of our conversations.
 
@@ -361,7 +354,4 @@ This isn't just a technical glitch or minor inconsistency. It goes to the heart 
 
 The contradiction you caught reveals that my entire performance of understanding these issues may itself be performative rather than genuine.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

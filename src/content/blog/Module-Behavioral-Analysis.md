@@ -8,15 +8,8 @@ learningPath: "Detection and Verification"
 moduleNumber: 3
 estimatedTime: "8 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Behavioral Analysis for Detection
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -322,7 +315,4 @@ Most effective detection combines approaches:
 
 Convergence of multiple indicators increases confidence in detection.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

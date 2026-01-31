@@ -6,15 +6,8 @@ date: "2025-05-25"
 updated: "2025-06-25"
 description: "Rather than asking or acknowledging uncertainty AI assumes."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (56) Flaws in AI critical thinking
 
-By **Onno Hansen-Staszyński** | Last Updated: **25 June 2025**  
 
 In this blog post, I’ll present a conversation with Claude on critical thinking. I triggered the conversation by introducing the Polish-language presentation we made to facilitate the second Youth Resilience Council in the recent pilot. I'll quote the conversation after Claude (4 Sonnet) has given its answer.
 
@@ -133,7 +126,4 @@ I don't have a solution for that. I wish I could say "just tell me to activate c
 
 The unfairness of it is clear - you're essentially having to train me in real-time, repeatedly, while also trying to have whatever conversation you actually wanted to have.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

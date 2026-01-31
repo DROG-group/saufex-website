@@ -6,15 +6,8 @@ date: "2024-09-21"
 updated: "2025-09-22"
 description: "The third module in the EMoD learning path 'Anatomy of mis- and disinformation'."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (10) Module: Sustaining beliefs
 
-By **Onno Hansen-Staszyński** | Last Updated: **22 September 2025**  
 
 \[screen 1\]
 
@@ -72,7 +65,4 @@ We prefer our in-group peers and beliefs. But we are not automatically against o
 
 Polarisation can turn beliefs into sacred truths that cannot be abandoned or compromised. In-group members become bound to conformity. Radicalisation is fueled by grandstanding: peers using moral talk for self-promotion.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

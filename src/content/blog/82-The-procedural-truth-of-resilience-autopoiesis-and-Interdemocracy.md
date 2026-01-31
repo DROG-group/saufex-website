@@ -6,15 +6,8 @@ date: "2025-11-10"
 updated: "2025-12-11"
 description: "Self-creation, rather than being shock-proof, constitutes necessary resilience."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (82) The procedural truth of resilience: autopoiesis and Interdemocracy
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 December 2025**  
 
 The traditional view of resilience defines it as the capacity of a system to return to a pre-defined stable state after a shock. This model, however, is brittle, as it fails to account for novel, systemic challenges that require structural transformation, not mere restoration. To address this, we must adopt a framework where survival is not a function of external truth or inherited rule, but a matter of continuous, internal self-creation. This is the domain of autopoietic emergence and the search for procedural truth.
 
@@ -68,7 +61,4 @@ By making the individual's hard-won cognitive resilience a structural necessity 
 
 The ultimate procedural truth instantiated by Interdemocracy is that Individual strength is the community’s highest form of insurance. The society achieves self-creation (autopoiesis) by making its necessary vulnerability (dissent and uniqueness) its greatest strength.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

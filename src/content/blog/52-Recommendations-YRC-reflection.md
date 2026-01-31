@@ -6,15 +6,8 @@ date: "2025-05-17"
 updated: "2025-06-03"
 description: "Comparing student and AI recommendations."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (52) Recommendations (YRC reflection)
 
-By **Onno Hansen-Staszyński** | Last Updated: **3 June 2025**  
 
 The report presented in [blog post 50](https://saufex.eu/post/50-AI-report-YRC-reflection) led to two student recommendations, drafted by the members of the Youth Resilience Council (YRC):
 
@@ -274,7 +267,4 @@ It's a powerful argument for why democratic participation isn't just morally imp
 
 Your paraphrase also suggests that the most effective policies probably need both: fact-speaking to ensure they're grounded in evidence, and belief-speaking to ensure they're grounded in lived experience and social reality.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

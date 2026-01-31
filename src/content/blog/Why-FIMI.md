@@ -6,15 +6,8 @@ date: "2024-10-10"
 updated: "2024-10-15"
 description: "An overview of why the term FIMI came into use, why it is useful in some cases but still requires further refinement."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Why FIMI?
 
-By **Julian** | Last Updated: **15 October 2024**  
 
 \[screen 1\]
 
@@ -46,7 +39,4 @@ With a more clearly defined scope actions directed at the problem could be more 
 
 However, FIMI is an evolving term, and it is not the perfect solution towards all the problems we see online. For example, when actors are being deceptive it can be difficult to tell whether they are foreign or domestic. This is why there is still active debate on the term and where to apply it.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

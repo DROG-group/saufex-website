@@ -6,15 +6,8 @@ date: "2024-10-10"
 updated: "2024-11-01"
 description: "This post highlights how disaster is the most clear cut case for when disinformation presents a clear and present danger"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Disaster, when the danger of disinformation is clearest
 
-By **Julian** | Last Updated: **1 November 2024**  
 
 Often discussions around disinformation focus on the political effects of it eroding democracy. There is lively debate on what constitutes disinformation as some claim that the term is used by bad faith actors looking to censor people's opinions.
 
@@ -28,7 +21,4 @@ Within crisis, disasters are a situations where quick access to accurate informa
 
 In crisis communications are already jammed with a deluge of disjointed information as people are trying to make sense of what they need to do. Accurate information can be a lifesaving commodity as people try to locate safe shelters and sources of food and water. Disinformation in this context is not only a distraction but can lead to decreased ability of responders to do their job effectively.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

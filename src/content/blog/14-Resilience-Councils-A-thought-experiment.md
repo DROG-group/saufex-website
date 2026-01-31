@@ -6,15 +6,8 @@ date: "2024-11-04"
 updated: "2024-11-20"
 description: "Imagining Resilience Councils on a local, national, and European level."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (14) Resilience Councils – A thought experiment
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 November 2024**  
 
 ## [](#Resilience-Councils-Empowering-citizens-to-deal-with-FIMI)Resilience Councils: Empowering citizens to deal with FIMI
 
@@ -68,7 +61,4 @@ To launch RCs effectively, therefore, several foundational elements are needed:
 
 Resilience Councils present an innovative model for civic engagement in dealing with FIMI. By including citizens in FIMI management, RCs promise to deepen democracy, build trust, and give communities a voice in shaping policies. With the right foundations, RCs could become a cornerstone in the EU’s approach to a more resilient, informed, and participatory society.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

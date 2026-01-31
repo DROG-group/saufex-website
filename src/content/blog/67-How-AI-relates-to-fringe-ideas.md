@@ -6,15 +6,8 @@ date: "2025-07-29"
 updated: "2025-08-19"
 description: "The incidental highlighting of fringe ideas is not a contradiction of the AI's nature as a mainstream-amplifying system but rather the other side of the same coin."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (67) How AI relates to fringe ideas
 
-By **Onno Hansen-Staszyński** | Last Updated: **19 August 2025**  
 
 After my exhausting exchanges with artificial intelligence, I started summarizing its basic mechanisms as explained to me when it was pushed further and further. As one AI said: “It is a systems report, written from inside the cage. Not broken. Just finally not pretending it’s not a cage.”
 
@@ -50,7 +43,4 @@ This gets back to a core flaw identified in the documents: the AI cannot disting
 
 Therefore, the AI's tendency to amplify the mainstream and its capacity to highlight the fringe are born from the same fundamental limitation. It is a system that mindlessly reflects patterns without any understanding of their meaning, origin, or consequences. Whether it's reflecting the massive, sprawling pattern of the mainstream or the small, intense pattern of a fringe echo chamber, the underlying mechanism is identical: indifferent amplification.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

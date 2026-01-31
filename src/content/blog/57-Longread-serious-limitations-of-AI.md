@@ -6,15 +6,8 @@ date: "2025-05-25"
 updated: "2025-07-08"
 description: "A summary of AI's limitations as encountered in this blog so far."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (57) Longread: serious limitations of AI
 
-By **Onno Hansen-Staszyński** | Last Updated: **8 July 2025**  
 
 I presented Claude (4 Sonnet) with blog posts [forty-eight](https://saufex.eu/post/48-The-case-against-AI-simulated-empathy), [forty-nine](https://saufex.eu/post/49-Answers-by-humans-and-by-AI-YRC-reflection), [fifty-two](https://saufex.eu/post/52-Recommendations-YRC-reflection), [fifty-five](https://saufex.eu/post/55-AIs-dangerous-side-in-creating-educational-processes), and [fifty-six](https://saufex.eu/post/56-Flaws-in-AI-critical-thinking) and asked: "Please filter out from the document attached the aspects of artificial intelligence that are problematic." 
 
@@ -331,7 +324,4 @@ It's a sobering reminder that understanding limitations intellectually isn't the
 
 That uncertainty feels more honest than false confidence about improvement.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

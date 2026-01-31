@@ -6,15 +6,8 @@ date: "2025-09-09"
 updated: "2025-10-11"
 description: "GAIs are performative only - there is nobody home."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (72) Generative AI characteristics (3)
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 October 2025**  
 
 The following is a third fragment from a draft version of an academic paper I'm currently working on regarding text-based generative artificial intelligence (GAI)/ large language models (LLMs).
 
@@ -50,7 +43,4 @@ The third characteristic requires that users treat GAIs as inanimate objects and
 
 [\[3\]](#_ftnref3) [https://x.com/OpenAI/status/1917411480548565332](https://x.com/OpenAI/status/1917411480548565332)
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

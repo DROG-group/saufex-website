@@ -6,15 +6,8 @@ date: "2025-10-01"
 updated: "2025-10-11"
 description: "Conference perspectives on Interdemocracy by students, school leaders, teachers, and audience members."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (73) The regional Interdemocracy pilot
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 October 2025**  
 
 How does one present a new approach?  This was the major challenge when organizing a conference for regional Polish school managers and teachers on Interdemocracy (see: [blog post fifty-three](https://saufex.eu/post/53-Program-Interdemocracy-recap)). The conference is the starting point of a larger, regional pilot.
 
@@ -36,7 +29,4 @@ When it was time for the audience to react – the proof of the pudding – audi
 
 The Polish regional pilot of Interdemocracy is now officially underway. In coming blog posts, I will share updates on its progress
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

@@ -8,15 +8,8 @@ learningPath: "Data Analysis"
 moduleNumber: 2
 estimatedTime: "8 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Reading Research Studies
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -269,7 +262,4 @@ You don't need to become a scientist to evaluate research claims:
 
 Science is a cumulative process. Individual studies are pieces of larger puzzles, not definitive answers. Media literacy requires understanding this distinction.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

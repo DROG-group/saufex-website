@@ -8,15 +8,8 @@ learningPath: "Platform Governance"
 moduleNumber: 6
 estimatedTime: "9 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Platform Cooperation and Information Sharing
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -343,7 +336,4 @@ As users and citizens, you can support effective cooperation by:
 
 Effective defense requires whole-of-society approach. Individual contributions create collective resilience.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

@@ -8,7 +8,6 @@ learningPath: "Disinfonomics"
 moduleNumber: 5
 estimatedTime: "14 minutes"
 ---
-
 # Module: The Counter-Economy
 
 **Purpose**: Teach the uncomfortable feedback loops: some "counter" actions amplify the problem.

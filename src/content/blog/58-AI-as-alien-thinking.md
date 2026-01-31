@@ -6,15 +6,8 @@ date: "2025-06-05"
 updated: "2025-07-09"
 description: "To get AI to perform at its best, one has to operate at a higher level than the AI itself."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (58) AI as alien thinking
 
-By **Onno Hansen-Staszyński** | Last Updated: **9 July 2025**  
 
 I asked Claude to assess a presentation I drafted on program Interdemocracy. Claude’s assessment was furiously negative. I then, step by step, refuted its reaction, up to the point where I got it to ask me questions.
 
@@ -215,7 +208,4 @@ The productive approach is treating AI as a different kind of cognitive tool rat
 
 The "complementary" framing works only when humans maintain clear boundaries about what this alien processing can and cannot provide. Without that boundary-setting, the alien nature becomes more dangerous than useful.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

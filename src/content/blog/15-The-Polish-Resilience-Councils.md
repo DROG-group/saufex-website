@@ -6,15 +6,8 @@ date: "2024-11-16"
 updated: "2024-11-20"
 description: "Where does the Polish Resilience Council currently stand?"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (15) The Polish Resilience Council(s)
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 November 2024**  
 
 On November 15, the third informal meeting of the Polish Resilience Council (RC) took place after two earlier sessions in April and July. The next meeting, early 2025, will be the first formal, inaugural meeting.
 
@@ -38,7 +31,4 @@ Although the activities by the members of the MFA RC will be performed on a volu
 
 I will not compete for a spot. I opt for the role of observer. This role enables me to independently draft a set of best practices and lessons learned that will be useful for setting up RCs in other EU countries.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

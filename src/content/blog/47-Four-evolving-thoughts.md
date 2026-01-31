@@ -6,15 +6,8 @@ date: "2025-05-07"
 updated: "2025-05-10"
 description: "Four thoughts that consistently return in my blog posts."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (47) Four evolving thoughts
 
-By **Onno Hansen-Staszyński** | Last Updated: **10 May 2025**  
 
 Reviewing my previous blog posts, I’ve noticed that certain thoughts consistently return. Together, they capture the unique selling points of the approach I propose in the blog posts thus far.
 
@@ -36,7 +29,4 @@ My blog posts try to avoid abstract declarations or symbolic tech-legal fixes. I
 
 Participation is treated as a pilot strategy for societal change, not a procedural checkbox. Resilience is defined as experiences of autonomy, belonging, achievement, and safety, thereby opening the door to concretely defining what we should protect and support. Also proposed is an ethical scale, from radical empathy (Levinas) to radical tribalism (Hobbes), to map the moral assumptions behind different approaches to deal with FIMI, leading to a clear boundary: at the Levinasian side of the scale, AI should be used only in the service of "fact-speak" input and output. Finally, I follow a basics-first logic: Interdemocracy comes before any attempt to "educate" citizens. Only once people feel safe and heard does focusing on civic skills or media literacy make sense.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

@@ -6,15 +6,8 @@ date: "2025-10-14"
 updated: "2025-10-14"
 description: "I dive into existing issues that have become apparent with the widespread use of AI"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Perhaps the Flaws aren’t with AI, They’re With Us
 
-By **Julian** | Last Updated: **14 October 2025**  
 
 Now before you think this is paid for by a big tech and that I’m trying to let them off the hook. I’m not. AI is built and used irresponsibly from its carbon footprint to its complicity in user deaths. However, what I will argue is that the areas where we are seeing problems with people interacting with AI is where we already face genuine societal problems.
 
@@ -40,7 +33,4 @@ We live in lonely times In the US a CDC survey found [1 in 3 U.S. adults report
 
 A one size fits all solution as always will not work. The EU’s AI Act needs to be supplemented with initiatives that address the underlying harms that AI causes. We need to invest in people as much as we invest in AI. People need safety nets when in danger of occupational replacement, resources for re-education if their sector is impact. But on a deeper level we need people to have the time to think critically, to be supported to do in-depth research on their democratic systems and how they can move their interests forward and most importantly to be able to be there for each other. Each of these is a mammoth undertaking, but humanity is always worth investing in.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

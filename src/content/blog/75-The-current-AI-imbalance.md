@@ -6,15 +6,8 @@ date: "2025-10-11"
 updated: "2025-10-13"
 description: "AI’s imbalance: mass adoption through user alignment, force-feeding, and circular investments without technological maturity."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (75) The current AI imbalance
 
-By **Onno Hansen-Staszyński** | Last Updated: **13 October 2025**  
 
 ## [](#Introduction)Introduction
 
@@ -112,7 +105,4 @@ Not all agree with this bleak picture. But even if the AI sector finds an econom
 
 [\[20\]](#_ftnref20) Bain & Company (2025). _$2 trillion in new revenue needed to fund AI’s scaling trend - Bain & Company’s 6th annual Global Technology Report__. Press release_. [https://www.bain.com/about/media-center/press-releases/20252/%242-trillion-in-new-revenue-needed-to-fund-ais-scaling-trend---bain--companys-6th-annual-global-technology-report/](https://www.bain.com/about/media-center/press-releases/20252/%242-trillion-in-new-revenue-needed-to-fund-ais-scaling-trend---bain--companys-6th-annual-global-technology-report/) Accessed: 10.11.2025
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

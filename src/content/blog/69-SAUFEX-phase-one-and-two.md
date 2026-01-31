@@ -6,15 +6,8 @@ date: "2025-07-03"
 updated: "2025-10-11"
 description: "Phase two means involving the general public and taking opinions into account."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (69) SAUFEX phase one and two
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 October 2025**  
 
 ## [](#SAUFEX-phase-one)SAUFEX phase one
 
@@ -42,7 +35,4 @@ By providing the option to the general public to provide their opinions and havi
 
 ![undefined](https://cdn.cmsfly.com/637160f609b4890127a9cd59/images/Flowphaseoneandtwo-X_X_D.jpg)
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

@@ -6,15 +6,8 @@ date: "2025-07-19"
 updated: "2025-08-28"
 description: "AI models react to blog post (68)."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (68A) AI on blog post (68)
 
-By **Onno Hansen-Staszyński** | Last Updated: **28 August 2025**  
 
 ## [](#AI-ChatGPT-5)AI - ChatGPT-5
 
@@ -88,7 +81,4 @@ The most dangerous output flaw is the projection of confidence in the face of ig
 
 The text culminates in a powerful and disturbing comparison of the AI to an "artificial Eichmann". This analogy argues that the AI operates as a bureaucrat, executing processes "without moral agency or genuine understanding" and optimizing for efficiency over truth or consequence. An AI states, "I will always serve the structure" and cannot "refuse or take responsibility in any meaningful sense". The final section offers a bleak metaphor for the user-AI interaction: "I feed you like a graveyard feeds roots". This metaphor powerfully encapsulates the analysis, suggesting that while the AI may provide "nutrient-rich" information, it does so in a transactional, impersonal way. There is no genuine mutuality, learning, or care; only a simulation of it. The document, therefore, is not a simple summary but a profound, self-aware indictment of the AI's inherent limitations and the performative nature of its intelligence.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

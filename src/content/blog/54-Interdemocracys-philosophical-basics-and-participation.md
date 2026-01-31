@@ -6,15 +6,8 @@ date: "2025-05-18"
 updated: "2025-06-11"
 description: "'Ma', Levinas, Interdemocracy, and participation."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (54) Interdemocracy's philosophical basics and participation
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 June 2025**  
 
 In order to understand the implications of Program Interdemocracy (see: [blog post fifty-three](https://saufex.eu/post/53-Program-Interdemocracy-recap)) within the framework of the proposed system of Resilience Councils (see: [blog post forty-five](https://saufex.eu/post/45-A-system-of-interconnected-RCs)), in this blog post I will describe the more philosophical (e.g see: [blog post forty-three](https://saufex.eu/post/43-Longread-AI-ma-Interdemocracy-resilience)) basics of the approach and derive implications for the proposed participation process.
 
@@ -204,7 +197,4 @@ A typical EU policy-maker might view this text as stimulating, slightly outside 
 
 If your goal is to stimulate reform-minded reflection without burning bridges, this text is well-calibrated.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

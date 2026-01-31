@@ -6,15 +6,8 @@ date: "2025-02-11"
 updated: "2025-02-12"
 description: "The second module in the EMoD learning path 'Organized countering of mis and disinformation'."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (32) Module: Countering information campaigns
 
-By **Onno Hansen-Staszyński** | Last Updated: **12 February 2025**  
 
 \[screen 1\]
 
@@ -132,7 +125,4 @@ It is hard to state anything conclusive about the effectiveness of this type of 
 
 • Limited knowledge exists about the longevity of effects.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

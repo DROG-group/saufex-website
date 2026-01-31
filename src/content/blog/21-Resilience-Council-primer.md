@@ -6,15 +6,8 @@ date: "2024-12-08"
 updated: "2024-12-18"
 description: "The why, the what, and the how of Resilience Councils."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (21) Resilience Council primer
 
-By **Onno Hansen-Staszyński** | Last Updated: **18 December 2024**  
 
 ## [](#Why-install-Resilience-Councils-\(RCs\)?)Why install Resilience Councils (RCs)?
 
@@ -121,7 +114,4 @@ Task 4:
 *   Standardised measurement mechanisms.
     
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

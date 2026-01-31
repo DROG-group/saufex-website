@@ -8,15 +8,8 @@ learningPath: "Understanding FIMI Operations"
 moduleNumber: 6
 estimatedTime: "9 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Assessing FIMI Impact
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -310,7 +303,4 @@ Impact assessment uncertainty doesn't mean inaction:
 
 Impact assessment informs strategy, but defense doesn't require certainty about past effects - reasonable concern about potential harm suffices.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

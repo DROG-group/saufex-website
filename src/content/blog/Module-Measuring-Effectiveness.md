@@ -8,15 +8,8 @@ learningPath: "Counter-Messaging Strategies"
 moduleNumber: 6
 estimatedTime: "11 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Measuring Counter-Messaging Effectiveness
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -460,7 +453,4 @@ Evidence-based counter-messaging requires measurement infrastructure and culture
 
 **Conclusion**: Congratulations on completing the EMoD Detection and Verification and Counter-Messaging learning paths. You now have comprehensive understanding of detecting manipulation and effectively countering it. Apply this knowledge to build more resilient information ecosystems.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

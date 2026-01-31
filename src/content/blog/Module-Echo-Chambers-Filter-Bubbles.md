@@ -8,15 +8,8 @@ learningPath: "Understanding Disinformation Basics"
 moduleNumber: 5
 estimatedTime: "9 minutes"
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # Module: Echo Chambers and Filter Bubbles
 
-By **SAUFEX Consortium** | Last Updated: **23 January 2026**
 
 [screen 1]
 
@@ -419,7 +412,4 @@ They won't disappear - how to cope:
 
 Understanding echo chambers and filter bubbles is first step to addressing them. With awareness comes agency - you can choose to diversify your information environment even when algorithms don't.
 
-## Subscribe now &
-Get the latest updates
 
-Subscribe

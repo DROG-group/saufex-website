@@ -6,15 +6,8 @@ date: "2025-01-03"
 updated: "2025-01-08"
 description: "Exploring the other ground for creating, presenting, and disseminating information threats: economic gain."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (24) Disinfonomics
 
-By **Onno Hansen-Staszyński** | Last Updated: **8 January 2025**  
 
 At Drog, a longstanding interest exists in the economic and transactional nature of information threats. Although “economic gain” is mentioned in European Union policy documents as a ground for creating, presenting, and disseminating disinformation, the focus is often on the other perceived major ground: the intent to deceive the public.
 
@@ -42,7 +35,4 @@ The field of information threats seems to be at least partially protected by the
 
 Taking Stephens-Dawidowitz’s Big Data-based analyses to heart, I think it would make sense in the legal realm to concentrate on how to strengthen instruments that hold information threat entrepreneurs accountable on legal grounds, naturally without limiting legislation protecting freedom of speech, and to simplify legal action against transnational or foreign entrepreneurs. In the non-legal realm, it seems advisable to counteract affective polarization by focusing on more inclusiveness and more real participation and to more often localize activities dealing with information threats.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

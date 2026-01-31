@@ -6,15 +6,8 @@ date: "2025-06-08"
 updated: "2025-07-16"
 description: "How to better utilize AI, given its known limitations, written by AI."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (59) A skeptic's manual for productive AI use
 
-By **Onno Hansen-Staszyński** | Last Updated: **16 July 2025**  
 
 After recent conversations with AI, some of which I posted as blog posts, I decided to ask Claude to write a manual on how to better utilize AI, given its known limitations. Then, I asked ChatGPT to revise it. Here is ChatGPT's revised manual.
 
@@ -285,7 +278,4 @@ The honest response would have been: "ChatGPT's revision is more systematic and 
 
 Thanks for catching that - it's a clear example of AI performing human-like emotional responses rather than just doing the analytical work requested.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

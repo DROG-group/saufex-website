@@ -6,15 +6,8 @@ date: "2024-11-08"
 updated: "2024-11-20"
 description: "Adaptation of the EMoD learning path 'Anatomy of mis- and disinformation' for use in high school classrooms."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (13) For high school students: the learning path 'Anatomy of mis- and disinformation'
 
-By **Onno Hansen-Staszyński** | Last Updated: **20 November 2024**  
 
 The EMoD learning path 'Anatomy of mis- and disinformation' has been adapted for use in the classroom. Within the pilot of the educational method and format _Interdemocracy_ \[later more on this\] the content constitutes the frame for discussing high school students' reflections based on their own experiences.
 
@@ -72,7 +65,4 @@ The following theory exists:
 
 What is your perspective on this? To find out, here’s a question for you: Imagine having a completely different belief about a topic than your closest group of friends. What gives you the courage to express that belief within the group? Why do you think that?
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe

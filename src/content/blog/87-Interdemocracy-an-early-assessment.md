@@ -6,15 +6,8 @@ date: "2025-11-11"
 updated: "2025-12-11"
 description: "Interdemocracy's implementation challenges."
 ---
-
-[![Logo](https://cdn.dorik.com/5ffdabc144afdb0011b83e1d/62474e909f34ad00115b4d4f/images/Saufex_09cgctgm.png)](https://saufex.eu/)
-
-*   [Contact](mailto:info@saufex.eu)
-*   [Join Discord](https://discord.gg/bvaGd5rahu)
-
 # (87) Interdemocracy – an early assessment
 
-By **Onno Hansen-Staszyński** | Last Updated: **11 December 2025**  
 
 ## [](#Introduction)Introduction
 
@@ -75,7 +68,4 @@ Individuals should see the act of self-expression as an act of autonomy, belongi
 
 Whether the intervention is realistic depends both institutions and individuals. When the first move is expected to be undertaken by institutions, their responsiveness and adaptibility becomes they key factor determining feasiibility of Interdemocracy. But we can move beyond this dependency and accept the act of self-expression as an act of self-realisation and self-resilience building.
 
-## Subscribe now &  
-Get the latest updates
 
-Subscribe
