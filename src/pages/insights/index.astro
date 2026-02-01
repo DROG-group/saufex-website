@@ -131,47 +131,49 @@ const defaultResultsText = defaultTopic === 'all'
     </div>
   </section>
 
-  <script>
-    // Topic filtering
-    const filterBtns = document.querySelectorAll('.filter-btn');
-    const postCards = document.querySelectorAll('.post-card');
-    const resultsCount = document.getElementById('results-count');
-    const defaultTopic = {JSON.stringify(defaultTopic)};
+  <script is:inline>
+    if (typeof document !== 'undefined') {
+      // Topic filtering
+      const filterBtns = document.querySelectorAll('.filter-btn');
+      const postCards = document.querySelectorAll('.post-card');
+      const resultsCount = document.getElementById('results-count');
+      const defaultTopic = {JSON.stringify(defaultTopic)};
 
-    const applyFilter = (topic) => {
-      // Update active state
-      filterBtns.forEach(b => b.classList.remove('filter-btn--active'));
-      const activeBtn = Array.from(filterBtns).find(btn => btn.getAttribute('data-topic') === topic);
-      activeBtn?.classList.add('filter-btn--active');
+      const applyFilter = (topic) => {
+        // Update active state
+        filterBtns.forEach(b => b.classList.remove('filter-btn--active'));
+        const activeBtn = Array.from(filterBtns).find(btn => btn.getAttribute('data-topic') === topic);
+        activeBtn?.classList.add('filter-btn--active');
 
-      // Filter posts
-      let visibleCount = 0;
-      postCards.forEach(card => {
-        const cardTopic = card.getAttribute('data-topic');
-        if (topic === 'all' || cardTopic === topic) {
-          card.style.display = '';
-          visibleCount++;
+        // Filter posts
+        let visibleCount = 0;
+        postCards.forEach(card => {
+          const cardTopic = card.getAttribute('data-topic');
+          if (topic === 'all' || cardTopic === topic) {
+            card.style.display = '';
+            visibleCount++;
+          } else {
+            card.style.display = 'none';
+          }
+        });
+
+        // Update results count
+        if (topic === 'all') {
+          resultsCount.textContent = `Showing all ${visibleCount} articles`;
         } else {
-          card.style.display = 'none';
+          resultsCount.textContent = `Showing ${visibleCount} articles in "${topic}"`;
         }
+      };
+
+      filterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+          const topic = btn.getAttribute('data-topic');
+          if (topic) applyFilter(topic);
+        });
       });
 
-      // Update results count
-      if (topic === 'all') {
-        resultsCount.textContent = `Showing all ${visibleCount} articles`;
-      } else {
-        resultsCount.textContent = `Showing ${visibleCount} articles in "${topic}"`;
-      }
-    };
-
-    filterBtns.forEach(btn => {
-      btn.addEventListener('click', () => {
-        const topic = btn.getAttribute('data-topic');
-        if (topic) applyFilter(topic);
-      });
-    });
-
-    applyFilter(defaultTopic);
+      applyFilter(defaultTopic);
+    }
   </script>
 
 </BaseLayout>
