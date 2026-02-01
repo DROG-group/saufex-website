@@ -70,6 +70,11 @@ const topics = Object.entries(topicCounts)
   .map(([topic, count]) => ({ topic, count }));
 
 const totalPosts = posts.length;
+const defaultTopic = topicCounts['General'] ? 'General' : 'all';
+const defaultCount = defaultTopic === 'all' ? totalPosts : topicCounts[defaultTopic];
+const defaultResultsText = defaultTopic === 'all'
+  ? `Showing all ${defaultCount} articles`
+  : `Showing ${defaultCount} articles in "${defaultTopic}"`;
 ---
 
 <BaseLayout title="Insights" description="Analysis, opinions, and updates on combating foreign information manipulation from the SAUFEX team.">
@@ -89,11 +94,11 @@ const totalPosts = posts.length;
   <section class="filters-section">
     <div class="container">
       <div class="filters">
-        <button class="filter-btn filter-btn--active" data-topic="all">
+        <button class:list={['filter-btn', { 'filter-btn--active': defaultTopic === 'all' }]} data-topic="all">
           All <span class="filter-count">{totalPosts}</span>
         </button>
         {topics.map(({ topic, count }) => (
-          <button class="filter-btn" data-topic={topic}>
+          <button class:list={['filter-btn', { 'filter-btn--active': topic === defaultTopic }]} data-topic={topic}>
             {topic} <span class="filter-count">{count}</span>
           </button>
         ))}
@@ -104,7 +109,7 @@ const totalPosts = posts.length;
   <!-- Posts Grid -->
   <section class="content-section">
     <div class="container">
-      <p class="results-count" id="results-count">Showing all {totalPosts} articles</p>
+      <p class="results-count" id="results-count">{defaultResultsText}</p>
       <div class="posts-grid posts-grid--full" id="posts-grid">
         {postsWithTopics.map((post, i) => (
           <a href={`/insights/${post.data.slug || post.id}`} class="post-card" data-topic={post.topic}>
@@ -131,35 +136,42 @@ const totalPosts = posts.length;
     const filterBtns = document.querySelectorAll('.filter-btn');
     const postCards = document.querySelectorAll('.post-card');
     const resultsCount = document.getElementById('results-count');
+    const defaultTopic = {JSON.stringify(defaultTopic)};
+
+    const applyFilter = (topic) => {
+      // Update active state
+      filterBtns.forEach(b => b.classList.remove('filter-btn--active'));
+      const activeBtn = Array.from(filterBtns).find(btn => btn.getAttribute('data-topic') === topic);
+      activeBtn?.classList.add('filter-btn--active');
+
+      // Filter posts
+      let visibleCount = 0;
+      postCards.forEach(card => {
+        const cardTopic = card.getAttribute('data-topic');
+        if (topic === 'all' || cardTopic === topic) {
+          card.style.display = '';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      // Update results count
+      if (topic === 'all') {
+        resultsCount.textContent = `Showing all ${visibleCount} articles`;
+      } else {
+        resultsCount.textContent = `Showing ${visibleCount} articles in "${topic}"`;
+      }
+    };
 
     filterBtns.forEach(btn => {
       btn.addEventListener('click', () => {
         const topic = btn.getAttribute('data-topic');
-
-        // Update active state
-        filterBtns.forEach(b => b.classList.remove('filter-btn--active'));
-        btn.classList.add('filter-btn--active');
-
-        // Filter posts
-        let visibleCount = 0;
-        postCards.forEach(card => {
-          const cardTopic = card.getAttribute('data-topic');
-          if (topic === 'all' || cardTopic === topic) {
-            card.style.display = '';
-            visibleCount++;
-          } else {
-            card.style.display = 'none';
-          }
-        });
-
-        // Update results count
-        if (topic === 'all') {
-          resultsCount!.textContent = `Showing all ${visibleCount} articles`;
-        } else {
-          resultsCount!.textContent = `Showing ${visibleCount} articles in "${topic}"`;
-        }
+        if (topic) applyFilter(topic);
       });
     });
+
+    applyFilter(defaultTopic);
   </script>
 
 </BaseLayout>
