@@ -315,14 +315,20 @@ const recentPosts = posts.slice(1, 4);
         <div class="section__header">
           <span class="section__title">Success Stories</span>
         </div>
-        {successStories.map((story) => (
+        {successStories.map((story) => {
+          const storyUrl = story.url || `/insights/${story.slug}`;
+          const isExternal = storyUrl.startsWith('http');
+          const isPdf = storyUrl.endsWith('.pdf');
+          const target = isExternal || isPdf ? '_blank' : undefined;
+          const rel = isExternal || isPdf ? 'noopener' : undefined;
+          return (
           <div class="story-card">
             <div class="story-card__content">
               <span class="story-card__label">Case Study</span>
               <h3 class="story-card__title">{story.title}</h3>
               <p class="story-card__summary">{story.summary}</p>
               <span class="story-card__highlight">{story.highlight}</span>
-              <a href={`/insights/${story.slug}`} class="story-card__link">
+              <a href={storyUrl} class="story-card__link" target={target} rel={rel}>
                 Read the full story
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <path d="M5 12h14M12 5l7 7-7 7"/>
@@ -333,7 +339,8 @@ const recentPosts = posts.slice(1, 4);
               <span class="story-card__icon">PL</span>
             </div>
           </div>
-        ))}
+          );
+        })}
       </div>
     </section>
   )}

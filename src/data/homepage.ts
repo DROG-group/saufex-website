@@ -45,6 +45,7 @@ export const successStories = [
     title: "Poland's Resilience Council",
     summary: 'First EU nation to implement SAUFEX Resilience Council, integrating government, civil society, and academic experts to counter election disinformation.',
     slug: '15-The-Polish-Resilience-Councils',
+    url: '/Resilience-Council-Handbook.pdf',
     highlight: 'Now inspiring similar councils across EU'
   }
 ];
