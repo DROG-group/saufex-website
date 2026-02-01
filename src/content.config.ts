@@ -11,6 +11,7 @@ const blog = defineCollection({
     updated: z.string().optional(),
     slug: z.string().optional(),
     topic: z.string().optional(), // Optional: will auto-categorize if not set
+    draft: z.boolean().optional(),
   }),
 });
 

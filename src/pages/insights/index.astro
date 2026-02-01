@@ -46,7 +46,7 @@ function getPostTopic(title: string, explicitTopic?: string): string {
 }
 
 // Get all blog posts, sorted by date (newest first)
-const allPosts = await getCollection('blog');
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 const posts = allPosts.sort((a, b) => {
   const dateA = new Date(a.data.date);
   const dateB = new Date(b.data.date);

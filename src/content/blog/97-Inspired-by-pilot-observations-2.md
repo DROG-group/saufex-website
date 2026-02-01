@@ -5,6 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-02-01"
 updated: "2026-02-01"
 description: "Why intervention-first teaching roles clash with autonomy-preserving deliberation."
+draft: true
 ---
 Ongoing empirical regional piloting of program Interdemocracy indicates a systematic difference between two professional role types within the same institutional setting: teachers on the one hand, and school psychologists or pedagogists on the other. This difference proves decisive for the feasibility of democratic, autonomy-preserving deliberation.
 
