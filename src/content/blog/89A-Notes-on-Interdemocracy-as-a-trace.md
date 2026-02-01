@@ -6,7 +6,7 @@ date: "2025-12-19"
 updated: "2025-12-20"
 description: "Ma, Chater, Giddens, Goffman, Bauman."
 ---
-In t[he previous blog post](/insights/89-Interdemocracy-as-a-trace), I described Interdemocracy as a trace. Below there are some thoughts that have emerged since then.
+In the [previous blog post](/insights/89-Interdemocracy-as-a-trace), I described Interdemocracy as a trace. Below there are some thoughts that have emerged since then.
 
 ## Ma
 
