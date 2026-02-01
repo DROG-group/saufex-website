@@ -3,9 +3,53 @@ import { getCollection } from 'astro:content';
 import { spotlight, mediaMentions, successStories } from '../data/homepage';
 import { tools } from '../data/tools';
 
+// Auto-categorize posts based on title keywords
+function getPostTopic(title: string, explicitTopic?: string): string {
+  if (explicitTopic) return explicitTopic;
+
+  const titleLower = title.toLowerCase();
+
+  // EMOD/Training modules
+  if (titleLower.includes('module') || titleLower.includes('emod') || titleLower.includes('learning path')) {
+    return 'EMOD Training';
+  }
+
+  // Resilience Councils
+  if (titleLower.includes('resilience council') || titleLower.includes('resilience councils')) {
+    return 'Resilience Councils';
+  }
+
+  // Policy & Governance
+  if (titleLower.includes('policy') || titleLower.includes('dsa') || titleLower.includes('regulation') ||
+      titleLower.includes('governance') || titleLower.includes('proposal')) {
+    return 'Policy';
+  }
+
+  // FIMI & Disinformation
+  if (titleLower.includes('fimi') || titleLower.includes('disinformation') || titleLower.includes('misinformation') ||
+      titleLower.includes('manipulation') || titleLower.includes('narrative')) {
+    return 'FIMI Analysis';
+  }
+
+  // AI & Technology
+  if (titleLower.includes('ai') || titleLower.includes('artificial intelligence') || titleLower.includes('technology') ||
+      titleLower.includes('algorithm') || titleLower.includes('platform')) {
+    return 'AI & Technology';
+  }
+
+  // Research & Theory
+  if (titleLower.includes('research') || titleLower.includes('study') || titleLower.includes('analysis') ||
+      titleLower.includes('belief') || titleLower.includes('psychology')) {
+    return 'Research';
+  }
+
+  return 'General';
+}
+
 // Get latest posts
 const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 const posts = allPosts
+  .filter((post) => getPostTopic(post.data.title, post.data.topic) === 'General')
   .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
   .slice(0, 6);
 

@@ -3,10 +3,10 @@
 export const spotlight = {
   active: true,
   type: 'book' as const,
-  title: 'Disinfonomics: The Market of Lies',
-  description: 'An economic framework for understanding and undermining disinformation. By Bram Alkema.',
-  image: '/images/disinfonomics-cover.jpg',
-  cta: { text: 'Download PDF', url: '/disinfonomics.pdf' }
+  title: 'Resilience Council Handbook',
+  description: 'Practical guidance for establishing and sustaining Resilience Councils.',
+  image: '/images/saufex-overview.svg',
+  cta: { text: 'Download PDF', url: '/Resilience-Council-Handbook.pdf' }
 };
 
 export const mediaMentions = [
