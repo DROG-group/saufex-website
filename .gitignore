@@ -27,3 +27,6 @@ pnpm-debug.log*
 _scratch/
 CLAUDE.md
 README.md
+
+# Ignore local PDF
+M6 Milestone Handbook and Training Material EMOD.pdf
