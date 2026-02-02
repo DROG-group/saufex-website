@@ -9,7 +9,7 @@ const isDev = import.meta.env?.DEV ?? process.env.NODE_ENV !== 'production';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://new.saufex.eu',
+  site: 'https://saufex.eu',
   output: 'static',
   integrations: [
     sitemap({
