@@ -3,7 +3,7 @@ title: "(97) Inspired by pilot observations (2)"
 slug: "97-Inspired-by-pilot-observations-2"
 author: "Onno Hansen-Staszyński"
 date: "2026-02-01"
-updated: "2026-02-01"
+updated: "2026-02-04"
 description: "Why intervention-first teaching roles clash with autonomy-preserving deliberation."
 draft: false
 ---
