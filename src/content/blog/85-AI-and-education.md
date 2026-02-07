@@ -10,7 +10,7 @@ This will be a raw blog post, an observation straight from the belly of our educ
 
 Yesterday we provided an introduction on GAI for our students, like we did before. There were eight students in our class today. In contrast to other classes, a vast majority did not seem to care about what was being said.
 
-## )Students on AI (1)
+## Students on AI (1)
 
 After some initial interactions, the students started opening up and started explaining the positive sides of GAI. They were so persistent in stressing the upsides that I asked them to write these down, by means of our method. This is their list:
 
@@ -32,7 +32,7 @@ After some initial interactions, the students started opening up and started exp
 
 The answers do not reflect well on the support our educational system provides them. But do they also reflect poorly on the students?
 
-## )Students on AI (2)
+## Students on AI (2)
 
 I asked the students to write down their thoughts the following topic: if GAI is so great, wouldn’t it not make sense for them to be allowed to use AI during exams? These are their answers:
 
