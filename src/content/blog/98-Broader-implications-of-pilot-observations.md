@@ -50,6 +50,6 @@ Paternalism often seeks to erase small, irreducible "islands of belonging" in fa
 - The intervention: Adopting a "psychologist state" model that recognizes the layered nature of the individual. This model acknowledges that the state can never fully know, nor should fully know the total reality of its citizens.
 - The result: This transforms the state from a governor of meaning (an entity that defines truth for its subjects) into a neutral infrastructure for autonomy.
 
-Conclusion
+## Conclusion
 
 Countering the undemocratic liberal current requires a state that listens before it knows. By institutionalizing "belief-speaking" and observation-first roles, a feedback loop is created that forces technocratic systems to confront the irreducible reality of the people they serve. The law remains a necessary tool, but it is redefined as a servant of human autonomy rather than a moral end in itself.
