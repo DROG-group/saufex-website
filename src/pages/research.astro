@@ -3,30 +3,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 const publications = [
   {
-    title: "SAUFEX: A Unified Framework for Building European Resilience Against Foreign Information Manipulation and Interference",
-    type: "Journal Article",
-    url: "#",
-    author: "SAUFEX Consortium",
-    description: "Comprehensive theoretical framework presenting SAUFEX's approach to countering FIMI through standardization, knowledge consolidation, and coordinated governance.",
-    status: "planned"
-  },
-  {
-    title: "Policy Pathways for Establishing European Resilience Councils: A Comparative Analysis and Implementation Framework",
-    type: "Journal Article",
-    url: "#",
-    author: "SAUFEX Consortium",
-    description: "Comparative analysis of institutional design and implementation of Resilience Councils, with case studies from Poland and Lithuania pilots.",
-    status: "planned"
-  },
-  {
-    title: "AI-Augmented Disinformation: Challenges and Pathways for Democratic Resilience",
-    type: "Journal Article",
-    url: "#",
-    author: "SAUFEX Consortium",
-    description: "Analysis of generative AI's transformative effects on disinformation production and targeting, with multi-layered defense strategies for democratic societies.",
-    status: "planned"
-  },
-  {
     title: "International Disinformation: A Handbook for Analysis and Response",
     type: "Book",
     url: "https://brill.com/display/title/71367",
@@ -68,12 +44,62 @@ const publications = [
     url: "https://docs.saufex.eu/STATE-OF-FIMI-draft.pdf",
     description: "Draft analysis of the current state of foreign information manipulation and interference in Europe.",
     status: "published"
+  },
+  {
+    title: "SAUFEX: A Unified Framework for Building European Resilience Against Foreign Information Manipulation and Interference",
+    type: "Journal Article",
+    url: "#",
+    author: "SAUFEX Consortium",
+    description: "Comprehensive theoretical framework presenting SAUFEX's approach to countering FIMI through standardization, knowledge consolidation, and coordinated governance.",
+    status: "planned"
+  },
+  {
+    title: "Policy Pathways for Establishing European Resilience Councils: A Comparative Analysis and Implementation Framework",
+    type: "Journal Article",
+    url: "#",
+    author: "SAUFEX Consortium",
+    description: "Comparative analysis of institutional design and implementation of Resilience Councils, with case studies from Poland and Lithuania pilots.",
+    status: "planned"
+  },
+  {
+    title: "AI-Augmented Disinformation: Challenges and Pathways for Democratic Resilience",
+    type: "Journal Article",
+    url: "#",
+    author: "SAUFEX Consortium",
+    description: "Analysis of generative AI's transformative effects on disinformation production and targeting, with multi-layered defense strategies for democratic societies.",
+    status: "planned"
   }
 ];
 
 const conferences = [
-  // Add your conference presentations here as they happen
-  // Target: Minimum 3 presentations (Semesters 3-6)
+  {
+    title: "Helsinki Conference on Civil Society",
+    type: "Conference",
+    date: "April 2025",
+    description: "Panel discussion on engaging civil society in the fight against disinformation.",
+    presenter: "SAUFEX Consortium"
+  },
+  {
+    title: "Helsinki SAUFEX Event",
+    type: "Conference",
+    date: "April 2025",
+    description: "Project gathering showcasing SAUFEX progress and collaborative outputs.",
+    presenter: "SAUFEX Consortium"
+  },
+  {
+    title: "Current State of Detection and Response to FIMI",
+    type: "Webinar",
+    date: "September 2025",
+    description: "Expert panel on FIMI detection technologies and response mechanisms.",
+    presenter: "SAUFEX Consortium"
+  },
+  {
+    title: "Disinformation Resilience in Poland",
+    type: "Panel",
+    date: "November 2025",
+    description: "Discussion on building disinformation resilience in Poland with practical insights and case studies.",
+    presenter: "Piotr Sosnowski & Sara Nowacka"
+  }
 ];
 
 const technicalReports = [
@@ -248,7 +274,7 @@ const deliverables = [
     <div class="container">
       <div class="section__header">
         <span class="section__title">Conference Presentations</span>
-        <span class="section__meta">Target: Minimum 3 presentations | Current: {conferences.length}</span>
+        <span class="section__meta">Events & presentations | {conferences.length} completed</span>
       </div>
 
       {conferences.length > 0 ? (
@@ -264,7 +290,10 @@ const deliverables = [
                 </svg>
               </div>
               <div class="resource-item__content">
-                <span class="resource-item__type">{conf.type}</span>
+                <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+                  <span class="resource-item__type">{conf.type}</span>
+                  <span class="status-badge status-badge--completed">{conf.date}</span>
+                </div>
                 <h3 class="resource-item__title">{conf.title}</h3>
                 <p class="resource-item__description">{conf.description}</p>
                 {conf.presenter && <span class="resource-item__author">Presented by {conf.presenter}</span>}

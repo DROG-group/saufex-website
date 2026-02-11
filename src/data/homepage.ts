@@ -11,17 +11,45 @@ export const spotlight = {
 
 export const mediaMentions = [
   {
+    source: 'Polskie Radio Koszalin',
+    title: 'Grzegorz Rzeczkowski on fake news, hate speech and troll farms',
+    url: 'https://prk24.pl/91465482/',
+    date: '2026-02-07',
+    language: 'pl'
+  },
+  {
+    source: 'TVP INFO',
+    title: 'Did Epstein work on Russia\'s orders? Conclusions from new files',
+    url: 'https://www.tvp.info/91417018/',
+    date: '2026-02-04',
+    language: 'pl'
+  },
+  {
+    source: 'Radio Krakow',
+    title: 'Rzeczkowski on Braun\'s actions at Auschwitz: deliberate antisemitism incitement',
+    url: 'https://www.radiokrakow.pl/audycje/',
+    date: '2025-11-24',
+    language: 'pl'
+  },
+  {
+    source: 'YouTube',
+    title: 'Grzegorz Rzeczkowski Exposes Kremlin Infiltration',
+    url: 'https://www.youtube.com/watch?v=bJSO8dQntUA',
+    date: '2025-10-01',
+    language: 'en'
+  },
+  {
+    source: 'YouTube',
+    title: 'How Russia & Putin Recruits Spies? Inside the Polish Railway Sabotage',
+    url: 'https://www.youtube.com/watch?v=vCvDv0o8_RU',
+    date: '2025-09-01',
+    language: 'en'
+  },
+  {
     source: 'TOK FM',
     title: 'Russia spends $4B to mess with our heads',
     url: 'https://www.tokfm.pl/ludzie/rosja-wydaje-4-mld-dolarow-by-mieszac-nam-w-glowach-co-na-to-polska',
     date: '2024-11-15',
-    language: 'pl'
-  },
-  {
-    source: 'Nauka w Polsce',
-    title: 'PORT leads EU consortium on disinformation',
-    url: 'https://naukawpolsce.pl/aktualnosci/news%2C100663%2Cwroclaw-lukasiewicz-port-liderem-konsorcjum-w-projekcie-dot-walki-z',
-    date: '2024-10-20',
     language: 'pl'
   },
   {
@@ -30,13 +58,6 @@ export const mediaMentions = [
     url: 'https://port.lukasiewicz.gov.pl/en/lukasiewicz-port-is-the-leader-of-eu-international-project-on-countering-disinformation/',
     date: '2024-09-15',
     language: 'en'
-  },
-  {
-    source: 'iRozhlas',
-    title: 'Poland journalists face Russian influence',
-    url: 'https://www.irozhlas.cz/zpravy-svet/polsko-novinar-vyhrozovani-vliv-rusko-rzeckowski-rsf_2507290702_ula',
-    date: '2024-07-29',
-    language: 'cs'
   }
 ];
 

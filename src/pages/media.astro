@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { mediaMentions } from '../data/homepage';
 
 const podcastEpisodes = [
   { title: "Piotr Sosnowski and Sara Nowacka", date: "November 19, 2025", description: "Discussion on disinformation resilience in Poland." },
@@ -25,6 +26,35 @@ const podcastEpisodes = [
       <p class="page-header__subtitle">
         Podcast episodes featuring experts in disinformation, democracy, and digital resilience, plus recordings from our webinars and events.
       </p>
+    </div>
+  </section>
+
+  <!-- Press & Appearances -->
+  <section class="content-section">
+    <div class="container">
+      <div class="section__header">
+        <span class="section__title">Press & Appearances</span>
+      </div>
+
+      <div class="press-grid">
+        {mediaMentions.map((mention) => (
+          <a href={mention.url} target="_blank" rel="noopener" class="press-card">
+            <span class="press-card__source">{mention.source}</span>
+            <h3 class="press-card__title">{mention.title}</h3>
+            <div class="press-card__meta">
+              <span class="press-card__lang">{mention.language.toUpperCase()}</span>
+              <span>{new Date(mention.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}</span>
+            </div>
+            <div class="press-card__arrow">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                <polyline points="15 3 21 3 21 9"/>
+                <line x1="10" y1="14" x2="21" y2="3"/>
+              </svg>
+            </div>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
 
@@ -326,6 +356,79 @@ const podcastEpisodes = [
     left: 0;
     width: 100%;
     height: 100%;
+  }
+
+  .press-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--space-md);
+    max-width: 900px;
+  }
+
+  .press-card {
+    display: flex;
+    flex-direction: column;
+    padding: var(--space-md);
+    background: var(--color-light);
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 12px;
+    text-decoration: none;
+    transition: all 0.3s;
+    position: relative;
+  }
+
+  .press-card:hover {
+    border-color: var(--color-purple);
+    transform: translateY(-2px);
+  }
+
+  .press-card__source {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-purple);
+    margin-bottom: var(--space-xs);
+  }
+
+  .press-card__title {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-dark);
+    margin-bottom: var(--space-sm);
+    flex: 1;
+  }
+
+  .press-card__meta {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    font-size: 0.75rem;
+    color: var(--color-muted);
+  }
+
+  .press-card__lang {
+    display: inline-block;
+    padding: 2px 6px;
+    background: rgba(107, 76, 230, 0.1);
+    border-radius: 4px;
+    font-weight: 600;
+    color: var(--color-purple);
+    font-size: 0.65rem;
+  }
+
+  .press-card__arrow {
+    position: absolute;
+    top: var(--space-md);
+    right: var(--space-md);
+    color: var(--color-muted);
+    transition: all 0.2s;
+  }
+
+  .press-card:hover .press-card__arrow {
+    color: var(--color-purple);
+    transform: translate(2px, -2px);
   }
 
   @media (max-width: 1024px) {
