@@ -2,10 +2,10 @@
 title: "(98) Broader implications of pilot observations"
 slug: "98-Broader-implications-of-pilot-observations"
 author: "Onno Hansen-Staszyński"
-date: "2026-02-01"
-updated: "2026-02-01"
+date: "2026-02-11"
+updated: "2026-02-11"
 description: "From epistemic paternalism to observation-first governance."
-draft: true
+draft: false
 ---
 ## Introduction
 
