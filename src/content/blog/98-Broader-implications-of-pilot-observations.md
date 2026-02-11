@@ -1,6 +1,6 @@
 ---
-title: "(98) Broader implications of pilot observations"
-slug: "98-Broader-implications-of-pilot-observations"
+title: "(98) Broader implications of the pilot observations"
+slug: "98-Broader-implications-of-the-pilot-observations"
 author: "Onno Hansen-Staszyński"
 date: "2026-02-11"
 updated: "2026-02-11"
