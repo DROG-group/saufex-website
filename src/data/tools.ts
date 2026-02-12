@@ -51,11 +51,11 @@ Whether you're a journalist, fact-checker, policy maker, or educator, EMOD gives
     longDescription: `GetResilience is the practical entry point for the SAUFEX Resilience Council model. While the full SAUFEX vision includes formal, expert-level councils advising governments and Digital Services Coordinators, GetResilience focuses on the citizen-driven foundation: enabling any trained EU citizen to form a council, document platform violations with proper evidence, and coordinate reports across borders under the Digital Services Act.
 
 Councils that build a track record of quality reporting through GetResilience can work toward formal recognition, including DSA Trusted Flagger status. The platform complements the broader SAUFEX framework described in the Resilience Council Handbook.`,
-    url: 'https://getresilience.tactcheck.com',
+    url: 'https://getresilience.eu',
     status: 'live',
     cta: {
       text: 'Launch a Council',
-      url: 'https://getresilience.tactcheck.com'
+      url: 'https://getresilience.eu'
     },
     secondaryCta: {
       text: 'Download Handbook',
