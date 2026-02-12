@@ -47,10 +47,10 @@ Whether you're a journalist, fact-checker, policy maker, or educator, EMOD gives
     id: 'getresilience',
     name: 'GetResilience',
     tagline: 'Citizen-led Resilience Councils',
-    description: 'A decentralized platform enabling any citizen to establish a Resilience Council and bridge the gap between EU citizens and DSA implementation.',
-    longDescription: `GetResilience democratizes the fight against disinformation by empowering citizens to create their own Resilience Councils.
+    description: 'The citizen-facing platform for establishing grassroots Resilience Councils that coordinate DSA violation reports to EU regulators.',
+    longDescription: `GetResilience is the practical entry point for the SAUFEX Resilience Council model. While the full SAUFEX vision includes formal, expert-level councils advising governments and Digital Services Coordinators, GetResilience focuses on the citizen-driven foundation: enabling any trained EU citizen to form a council, document platform violations with proper evidence, and coordinate reports across borders under the Digital Services Act.
 
-The platform provides the structure, tools, and guidance needed to establish a functioning council that can coordinate responses to information manipulation at the local level, while connecting to the broader European framework.`,
+Councils that build a track record of quality reporting through GetResilience can work toward formal recognition, including DSA Trusted Flagger status. The platform complements the broader SAUFEX framework described in the Resilience Council Handbook.`,
     url: 'https://getresilience.tactcheck.com',
     status: 'live',
     cta: {
