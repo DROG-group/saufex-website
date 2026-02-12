@@ -51,11 +51,11 @@ Whether you're a journalist, fact-checker, policy maker, or educator, EMOD gives
     longDescription: `GetResilience democratizes the fight against disinformation by empowering citizens to create their own Resilience Councils.
 
 The platform provides the structure, tools, and guidance needed to establish a functioning council that can coordinate responses to information manipulation at the local level, while connecting to the broader European framework.`,
-    url: 'https://getresilience.eu',
+    url: 'https://getresilience.tactcheck.com',
     status: 'live',
     cta: {
       text: 'Launch a Council',
-      url: 'https://getresilience.eu'
+      url: 'https://getresilience.tactcheck.com'
     },
     secondaryCta: {
       text: 'Download Handbook',
