@@ -214,7 +214,7 @@ const recentPosts = posts.slice(1, 4);
             <img src={spotlight.image} alt="" loading="lazy">
           </div>
           <div class="spotlight__content">
-            <span class="spotlight__label">{spotlight.type === 'book' ? 'New Publication' : spotlight.type === 'tool' ? 'New Tool' : 'Announcement'}</span>
+            <span class="spotlight__label">{spotlight.type === 'book' ? 'New Publication' : spotlight.type === 'tool' ? 'New Tool' : spotlight.type === 'report' ? 'Policy Brief' : 'Announcement'}</span>
             <h2 class="spotlight__title">{spotlight.title}</h2>
             <p class="spotlight__description">{spotlight.description}</p>
             <a href={spotlight.cta.url} class="spotlight__cta">

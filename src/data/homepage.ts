@@ -2,11 +2,11 @@
 
 export const spotlight = {
   active: true,
-  type: 'book' as const,
-  title: 'Resilience Council Handbook',
-  description: 'Practical guidance for establishing and sustaining Resilience Councils.',
+  type: 'report' as const,
+  title: 'Policy Brief: Five EU-funded Projects Recommend Stronger Measures to Counter FIMI',
+  description: 'Ten key recommendations from ATHENA, EU-HYBNET, FERMI, SAUFEX and VIGILANT for policymakers to counter foreign information manipulation and interference.',
   image: '/images/saufex-overview.svg',
-  cta: { text: 'Download PDF', url: '/Resilience-Council-Handbook.pdf' }
+  cta: { text: 'Read Policy Brief', url: 'https://docs.saufex.eu/Policy%20brief%20-%204%20Feb%202026%20(1).pdf' }
 };
 
 export const mediaMentions = [
