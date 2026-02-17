@@ -10,6 +10,6 @@ Some real-world results from the SAUFEX project. Our partner the University of W
 
 That report helped lead to the creation of Poland's Council for Resilience, which launched in April 2025 at the Ministry of Foreign Affairs. It brings together 22 experts from NGOs and universities to analyse disinformation threats, develop policy responses, and support public education on the topic.
 
-As Robert Kupiecki put it: "Resilience is not born from top-down orders. It is built through long-term cooperation, education, transparency."
+As Robert Kupiecki put it: "Resilience is not born from top-down orders. Rather, it is built through long-term cooperation, education, transparency, and trust: in institutions, in experts, and in one another."
 
 This is exactly the kind of thing SAUFEX is about - turning research into something that actually makes a difference.

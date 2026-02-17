@@ -10,4 +10,4 @@ Our partner DROG put out a new game with GLOBSEC and Google.org called Rig It. Y
 
 It follows the same idea behind their other games like Bad News (which has had over 15 million players in 50+ countries), Go Viral!, and Harmony Square. You learn how manipulation works by trying it yourself, which makes you better at spotting it.
 
-Give it a try at [rigit.world](https://rigit.world)
+Give it a try at [rigitgame.com](https://www.rigitgame.com)
