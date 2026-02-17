@@ -43,5 +43,36 @@ export default config({
         }),
       },
     }),
+    news: collection({
+      label: 'News',
+      slugField: 'slug',
+      path: 'src/content/news/*',
+      format: { contentField: 'content' },
+      schema: {
+        title: fields.text({
+          label: 'Title',
+          validation: { isRequired: true },
+        }),
+        slug: fields.text({
+          label: 'URL Slug',
+          validation: { isRequired: true },
+        }),
+        date: fields.date({
+          label: 'Publish Date',
+          validation: { isRequired: true },
+        }),
+        description: fields.text({
+          label: 'Description',
+          multiline: true,
+        }),
+        partner: fields.text({
+          label: 'Partner',
+          description: 'Which partner this news is about (e.g. DROG, Faktabaari, Debunk)',
+        }),
+        content: fields.markdoc({
+          label: 'Content',
+        }),
+      },
+    }),
   },
 });
