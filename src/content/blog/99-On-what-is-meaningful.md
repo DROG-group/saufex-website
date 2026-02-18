@@ -43,4 +43,4 @@ This insight leads to an uncomfortable conclusion: the legitimacy of such proces
 Yet this is not a failure of democracy. It is its defining feature. Democracy does not derive its value from delivering optimal outcomes or consistent decisions. Its value lies in the fact that collective judgments are made under acknowledged uncertainty, in the presence of others whose claims cannot be fully absorbed into rules. The fragility of this arrangement is not something to be engineered away. It is the condition under which democratic legitimacy remains alive.
 When democratic systems lose this fragility -- when procedure replaces judgment and closure replaces responsibility -- they may become efficient, but they also become shallow. What remains works, but it no longer answers to those it governs.
 
-Seen this way, the persistent discomfort of democratic deliberation is not a sign of dysfunction. It is a signal that something ethically significant is still happening.
+Seen this way, the persistent discomfort of democratic deliberation is not a sign of dysfunction. It is a signal that something ethically significant is happening.
