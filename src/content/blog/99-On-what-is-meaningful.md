@@ -4,7 +4,7 @@ slug: "99-On-what-is-meaningful"
 author: "Onno Hansen-Staszyński"
 date: "2026-02-18"
 updated: "2026-02-18"
-description: "A reflection on YRC deliberation, minority positions, and what makes decisions meaningful."
+description: "A reflection on Youth Resilience Council deliberation, minority positions, and what makes decisions meaningful."
 draft: false
 ---
 ## Introduction
