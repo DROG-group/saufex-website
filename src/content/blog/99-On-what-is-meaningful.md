@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-02-01"
 updated: "2026-02-01"
 description: "A reflection on YRC deliberation, minority positions, and what makes decisions meaningful."
-draft: true
+draft: false
 ---
 ## Introduction
 
