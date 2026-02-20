@@ -1,6 +1,6 @@
 ---
-title: "(100) A history of the concept of the Youth Resilience Council"
-slug: "100-A-history-of-the-concept-of-the-Youth-Resilience-Council"
+title: "(100) A history of the Youth Resilience Council concept"
+slug: "100-A-history-the-Youth-Resilience-Council-concept"
 author: "Onno Hansen-Staszyński"
 date: "2026-02-20"
 updated: "2026-02-20"
