@@ -41,6 +41,6 @@ If the new Polish National Council for Digital Services (in Polish: Krajowa Rada
 - Although the National Council for Digital Services is not a Resilience Council, it can be seen as its umbrella. It should have similar approaches and responsibilities as the Resilience Council in the SAUFEX project.  
 - The Polish name of the Council is: Krajowa Rada Uslug Cyfrowych (KRUC).
 
-## Sources
+## Source
 
 - https://www.sejm.gov.pl/sejm10.nsf/druk.xsp?nr=1757
