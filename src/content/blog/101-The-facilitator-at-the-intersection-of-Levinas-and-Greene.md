@@ -1,6 +1,6 @@
 ---
-title: "(100) The facilitator at the intersection of Levinas and Greene"
-slug: "100-The-facilitator-at-the-intersection-of-Levinas-and-Greene"
+title: "(101) The facilitator at the intersection of Levinas and Greene"
+slug: "101-The-facilitator-at-the-intersection-of-Levinas-and-Greene"
 author: "Onno Hansen-Staszyński"
 date: "2026-02-01"
 updated: "2026-02-01"
