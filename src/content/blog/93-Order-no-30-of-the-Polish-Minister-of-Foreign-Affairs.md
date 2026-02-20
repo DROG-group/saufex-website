@@ -41,4 +41,5 @@ This Order enters into force on the day of its signing.
 
 ## Sources
 
-- https://www.gov.pl/web/dyplomacja/zarzadzenie-nr-30-ministra-spraw-zagranicznych-z-dnia-24-kwietnia-2024-r
+- [https://www.gov.pl/web/dyplomacja/zarzadzenie-nr-30-ministra-spraw-zagranicznych-z-dnia-24-kwietnia-2024-r
+](https://www.gov.pl/web/dyplomacja/zarzadzenie-nr-30-ministra-spraw-zagranicznych-z-dnia-11-wrzesnia-2024-r-w-sprawie-rady-konsultacyjnej-do-spraw-odpornosci-na-dezinformacje-miedzynarodowa-przy-ministrze-spraw-zagranicznych)
