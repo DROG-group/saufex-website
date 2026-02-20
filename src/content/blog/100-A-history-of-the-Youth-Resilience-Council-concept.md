@@ -8,7 +8,7 @@ description: "An overview of the development of the concept: from origins to pre
 draft: false
 ---
 ## Introduction
-Having documented the origins and current state of the “Resilience Council” concept in the recently published ([Resilience Council handbook](https://saufex.eu/Resilience-Council-Handbook.pdf)), it is timely to examine the development of the “Youth Resilience Council” concept.
+Having documented the origins and current state of the “Resilience Council” concept in the recently published [Resilience Council handbook](https://saufex.eu/Resilience-Council-Handbook.pdf), it is timely to examine the development of the “Youth Resilience Council” concept.
 
 ## Project Saufex
 Both concepts trace back to the Horizon-funded EU project Saufex that explores more effective ways to deal with potentially harmful information challenges. While the Resilience Council was ([explicitly conceptualized](https://saufex.eu/insights/2-Resilience-Councils-the-concept/)) from the outset, the extension of this framework to systematically include the general public emerged more tentatively and exploratory. The project design anticipated an active role for citizens; however, the institutional format and procedural architecture of such participation were not predefined. Two potential roads were nevertheless identified. First, the establishment of stochocratic Citizen Panels tasked with drafting policy recommendations, inspired by ([Ursula von der Leyen’s 2022 initiative on participatory democracy](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/new-push-european-democracy/conference-future-europe_en)). Second, the use of crowdsourcing mechanisms to strengthen the co-creation of research and innovation agendas and substantive content.
