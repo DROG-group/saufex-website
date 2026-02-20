@@ -49,7 +49,7 @@ function getPostTopic(title: string, explicitTopic?: string): string {
 // Get latest posts
 const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 const posts = allPosts
-  .filter((post) => getPostTopic(post.data.title, post.data.topic) === 'General')
+  .filter((post) => getPostTopic(post.data.title, post.data.topic) !== 'EMOD Training')
   .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
   .slice(0, 6);
 
