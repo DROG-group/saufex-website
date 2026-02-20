@@ -43,5 +43,4 @@ If the new Polish National Council for Digital Services (in Polish: Krajowa Rada
 
 ## Sources
 
-- https://orka.sejm.gov.pl/Druki10ka.nsf/0/4D8FD7FD8F7C1D1CC1258BFA004FE4CE/%24File/630.pdf
-- https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=630
+- https://www.sejm.gov.pl/sejm10.nsf/druk.xsp?nr=1757
