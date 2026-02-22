@@ -2,8 +2,8 @@
 title: "(102) Post-script"
 slug: "102-Post-script"
 author: "Onno Hansen-Staszyński"
-date: "2026-02-17"
-updated: "2026-02-17"
+date: "2026-03-04"
+updated: "2026-03-04"
 description: "Interdemocracy does not work as a performative obligation."
 draft: true
 ---
