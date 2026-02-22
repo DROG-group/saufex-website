@@ -4,7 +4,7 @@ slug: "101-The-facilitator-at-the-intersection-of-Levinas-and-Greene"
 author: "Onno Hansen-Staszyński"
 date: "2025-02-25"
 updated: "2025-02-25"
-description: Balancing ethics and utilitarianism as a facilitator.
+description: Balancing ethics and utilitarianism.
 draft: true
 ---
 The facilitator is neither a neutral moderator nor a moral authority, and explicitly not a utilitarian decision-maker. Their role is defined by a carefully structured ethical position that sits at the intersection of Levinasian ethics and a Greene-inspired, experience-based utilitarianism. This position is not a synthesis or reconciliation of the two traditions. Rather, it is a disciplined coexistence that preserves their tension.
@@ -12,14 +12,14 @@ The two frameworks are separated across time and function, not blended into a si
 
 ## Levinas
 At the foundation of this model is a Levinasian account of subjectivity. The facilitator does not begin as an autonomous self who later decides to care for others. Instead, they exist only through exposure to the Other. Responsibility is not something they take on; it precedes them and constitutes who they are. They cannot meaningfully be responsible for themselves except through responsibility for the Other. For this reason, love, trust, and care are not emotions, techniques, or professional stances.
-They are ontological commitments. The facilitator exists in faith that the encounter with the Other is real. This faith is not a hypothesis to be tested, but the condition that makes ethical presence possible.
+These are ontological commitments. The facilitator exists in faith that the encounter with the Other is real. This faith is not a hypothesis to be tested, but the condition that makes ethical presence possible.
 Because of this starting point, many standard psychological strategies are excluded from the outset. Emotional distancing, role insulation, resilience understood as hardening, self-validation through impact narratives, or professional neutrality as withdrawal all assume a self that can secure itself independently of the encounter. In this framework, harm to the facilitator does not come from caring too much. It comes from the falsification of care, from encounters that are simulated, instrumentalized, or absorbed into systems that do not respond. Cynicism does not arise from exposure itself, but from bad faith.
 At the same time, the facilitator is not passive, sacrificial, or naive. Vulnerability is paired with discernment, and this discernment operates within the encounter. A central instrument of discernment is experienced hurt.
-Hurt
+
+## Hurt
 Hurt is not treated as pathology, emotional excess, or personal injury. It functions as a diagnostic signal within the encounter itself. Phenomenologically, it indicates that the genuineness of the meeting is breaking down. Hurt arises when exposure risks becoming one-sided, when care is being consumed instrumentally, or when openness is performed without reciprocal sincerity. Crucially, hurt does not arise from disagreement, difficulty, or even hostility. It arises specifically from a distortion of relation.
 When such hurt appears during an encounter, it authorizes a time-out. This time-out is neither withdrawal nor punishment. It is a structural interruption that reduces intensity without closing the relationship. Its purpose is ethical maintenance: to prevent exposure from becoming falsified and to make room for the possibility of reconstructing a genuine meeting. The facilitator does not accuse, moralize, or retreat into self-protection. They interrupt in order to test whether the encounter can survive the naming of distortion.
 This interruption creates a moment of ethical uncertainty for the Other. Without being stated explicitly, it asks whether the encounter was entered in good faith or approached as entitlement or convenience. The question is posed structurally rather than verbally. The facilitator remains decentered, but acquires procedural authority precisely in order to preserve the integrity of the encounter.
-
 ## Resentment
 After the encounter, the key diagnostic is no longer hurt but resentment. If resentment appears in response to the time-out, it indicates that care was expected to be uninterrupted, that exposure was being consumed, and that reciprocity was not intended. If resentment does not appear and the interruption is accepted, then genuineness has been restored.
 In this way, hurt functions as an ethical perception within the encounter, while resentment functions as a diagnostic signal post-encounter. Together, they allow the facilitator to remain exposed without becoming exploitable.
