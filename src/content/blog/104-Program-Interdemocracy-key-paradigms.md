@@ -4,7 +4,7 @@ slug: "104-Program-Interdemocracy-key-paradigms"
 author: "Onno Hansen-Staszyński"
 date: "2025-03-18"
 updated: "2025-03-18"
-description: "A brief description of the post (shown in blog listing)."
+description: "Getting from individual autonomy to collective recommendations."
 draft: true
 ---
 ## Stage one
