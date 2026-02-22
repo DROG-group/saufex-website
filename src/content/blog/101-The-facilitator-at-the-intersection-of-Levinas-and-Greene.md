@@ -4,7 +4,7 @@ slug: "101-The-facilitator-at-the-intersection-of-Levinas-and-Greene"
 author: "Onno Hansen-Staszyński"
 date: "2025-02-25"
 updated: "2025-02-25"
-description: Balancing ethics and utilitarianism as a facilitator."
+description: Balancing ethics and utilitarianism as a facilitator.
 draft: true
 ---
 The facilitator is neither a neutral moderator nor a moral authority, and explicitly not a utilitarian decision-maker. Their role is defined by a carefully structured ethical position that sits at the intersection of Levinasian ethics and a Greene-inspired, experience-based utilitarianism. This position is not a synthesis or reconciliation of the two traditions. Rather, it is a disciplined coexistence that preserves their tension.
