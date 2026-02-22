@@ -28,4 +28,5 @@ The findings point to several critical implications for democratic training and 
 - Facilitation should be treated as a high-risk epistemic role requiring stronger safeguards than procedural rules or ethical intentions alone.
 - Naive realism functions as a personal cognitive underpinning that enables role-defined system autopoiesis gatekeeping.
 - Democratic autopoiesis is more plausibly initiated at th individual level and within protected interaction spaces than through direct institutional reform.
+## Take-away
 In sum, the empirical evidence challenges optimistic assumptions about neutral facilitation within hierarchical institutions and highlights the need to address epistemic authority, cognitive realism, and role identity as central design variables in any attempt to institutionalize democratic belief-speaking.
