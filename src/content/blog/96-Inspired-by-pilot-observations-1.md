@@ -10,7 +10,7 @@ In this blog post I share some observations from the pilot mentioned in blog pos
 
 ## The facilitation
 
-The facilitators were parents of the students. This seems like a good choice: it puts the facilitator in the same social world as the participants. The facilitators approached the sessions very carefully, as if they were aware that their role was to maintain a fragile balance between structure and openness.
+The facilitators were teachers of the students. This seems like a good choice: it puts the facilitator in the same social world as the participants. The facilitators approached the sessions very carefully, as if they were aware that their role was to maintain a fragile balance between structure and openness.
 
 The facilitation is a constant balancing act: too much guidance becomes instruction; too little guidance becomes chaos. The structured, non-judgmental, dynamic specification makes it possible for the group to open up, but only if the facilitator can be trusted as neutral. The main skill here is restraint: the facilitator must keep the process alive without steering the content.
 
