@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2025-02-27"
 updated: "2025-02-27"
 description: "What to do when a single dissenting voice occurs in a mass of consent."
-draft: true
+draft: false
 ---
 In a Youth Resilience Council (YRC) meeting following the one described in [blog post ninety-nine](https://saufex.eu/insights/99-On-what-is-meaningful/), a minority position voiced by a pilot participant (see: [blog post seventy-three](https://saufex.eu/insights/73-The-regional-Interdemocracy-pilot/)) was considered for the second time. This time, the minority consisted of a single individual.
 ## Moral stance
