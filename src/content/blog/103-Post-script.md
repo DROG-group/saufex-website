@@ -1,6 +1,6 @@
 ---
-title: "(102) Post-script"
-slug: "102-Post-script"
+title: "(103) Post-script"
+slug: "103-Post-script"
 author: "Onno Hansen-Staszyński"
 date: "2026-03-04"
 updated: "2026-03-04"
