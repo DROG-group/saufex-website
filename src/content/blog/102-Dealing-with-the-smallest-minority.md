@@ -2,8 +2,8 @@
 title: "(102) Dealing with the smallest minority"
 slug: "102-Dealing-with-the-smallest-minority"
 author: "Onno Hansen-Staszyński"
-date: "2025-02-27"
-updated: "2025-02-27"
+date: "2026-02-27"
+updated: "2026-02-27"
 description: "What to do when a single dissenting voice occurs in a mass of consent."
 draft: false
 ---
