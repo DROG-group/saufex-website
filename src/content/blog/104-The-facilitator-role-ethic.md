@@ -1,6 +1,6 @@
 ---
-title: "(103) The facilitator role ethic"
-slug: "103-The-facilitator-role-ethic"
+title: "(104) The facilitator role ethic"
+slug: "104-The-facilitator-role-ethic"
 author: "Onno Hansen-Staszyński"
 date: "2026-03-11"
 updated: "2026-03-11"
