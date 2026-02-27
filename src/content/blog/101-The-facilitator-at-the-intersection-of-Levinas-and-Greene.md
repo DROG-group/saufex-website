@@ -2,8 +2,8 @@
 title: "(101) The facilitator at the intersection of Levinas and Greene"
 slug: "101-The-facilitator-at-the-intersection-of-Levinas-and-Greene"
 author: "Onno Hansen-Staszyński"
-date: "2025-02-25"
-updated: "2025-02-25"
+date: "2026-02-25"
+updated: "2026-02-25"
 description: Balancing ethics and utilitarianism.
 draft: false
 ---
