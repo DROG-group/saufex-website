@@ -1,6 +1,6 @@
 ---
-title: "Dealing with the smallest minority"
-slug: "Dealing-with-the-smallest-minority"
+title: "(102) Dealing with the smallest minority"
+slug: "102-Dealing-with-the-smallest-minority"
 author: "Onno Hansen-Staszyński"
 date: "2025-02-27"
 updated: "2025-02-27"
