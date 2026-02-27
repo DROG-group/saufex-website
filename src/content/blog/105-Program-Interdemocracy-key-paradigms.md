@@ -1,6 +1,6 @@
 ---
-title: "(104) Program Interdemocracy - key paradigms"
-slug: "104-Program-Interdemocracy-key-paradigms"
+title: "(105) Program Interdemocracy - key paradigms"
+slug: "105-Program-Interdemocracy-key-paradigms"
 author: "Onno Hansen-Staszyński"
 date: "2025-03-18"
 updated: "2025-03-18"
