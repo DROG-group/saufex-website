@@ -7,7 +7,7 @@ updated: "2026-03-04"
 description: "Program Interdemocracy does not work as a performative obligation."
 draft: false
 ---
-In the event an Interdemocracy facilitator interprets their role as "formal," as was observed during a session within the Interdemocracy pilot (see: [blog post seventy-three](https://saufex.eu/insights/73-The-regional-Interdemocracy-pilot/)), all elements that make up the format of Interdemocracy become a performative obligation, a procedure that needs to be implemented for the sake of getting the implementation done.
+In the event an Interdemocracy facilitator interprets their role as "formal," as was observed during a session within the Interdemocracy pilot (see: [blog post seventy-three](https://saufex.eu/insights/73-The-regional-Interdemocracy-pilot/)), all elements that make up the format of Interdemocracy seem to become a performative obligation, a procedure that needs to be implemented for the sake of getting the implementation done.
 ## Effects of a formal approach
 When a teacher plays their part of facilitator formally, students start experiencing the elements that make up Interdemocracy as meaningless tasks; hardly any sense of purpose emerges. No "ma" (see: [blog post fourty-three](https://saufex.eu/insights/43-Longread-AI-ma-Interdemocracy-resilience/)) is brought about, just a dull emptiness. While "ma" is a space that holds the potential to embed content, in this case the space between students, elements, and statements is a mere empty interval between tasks, a boring non-event. This emptiness is reflected in student statements; many proclaim to have no opinion, to see no sense, or worse, they simply agree with whatever is happening to get it over with.
 ## Restraint, not withdrawal
