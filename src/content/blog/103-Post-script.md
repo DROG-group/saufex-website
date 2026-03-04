@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-03-04"
 updated: "2026-03-04"
 description: "Interdemocracy does not work as a performative obligation."
-draft: true
+draft: false
 ---
 In the event, an Interdemocracy facilitator interprets their role as "formal," all elements that make up the format of Interdemocracy become a performative obligation, a procedure that needs to be implemented for the sake of getting the implementation done. Maybe this interpretation of the role of facilitator is chosen by overly ambitious or insecure teachers.
 ## Effects of a formal approach
