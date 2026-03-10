@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-03-11"
 updated: "2026-03-11"
 description: "Democratic facilitator do's and don'ts."
-draft: true
+draft: false
 ---
 What emerges from the earlier observation-based texts (blog posts [ninety-six](https://saufex.eu/insights/96-Inspired-by-pilot-observations-1/) to [one-hundred-and-three](https://saufex.eu/insights/103-Post-script/)) is not a checklist of techniques, but a role ethic encompassing what is to be actively practiced, actively resisted, and structurally protected to provide democratic belief-speaking with a low-friction embedding.
 ## Core Structural Insight (the backbone behind the do’s and don’ts)
