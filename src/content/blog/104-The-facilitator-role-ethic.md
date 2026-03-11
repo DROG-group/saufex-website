@@ -8,7 +8,7 @@ description: "Democratic facilitator do's and don'ts."
 draft: false
 ---
 What emerges from the earlier observation-based texts (blog posts [ninety-six](https://saufex.eu/insights/96-Inspired-by-pilot-observations-1/) to [one-hundred-and-three](https://saufex.eu/insights/103-Post-script/)) is not a checklist of techniques, but a role ethic encompassing what is to be actively practiced, actively resisted, and structurally protected to provide democratic belief-speaking with a low-friction embedding.
-## Core Structural Insight (the backbone behind the do’s and don’ts)
+## Core structural insight (the backbone behind the do’s and don’ts)
 Facilitation is a high-risk epistemic position embedded in systems that default toward authority, closure, and intervention.
 Therefore:
 - Good intentions are insufficient.
