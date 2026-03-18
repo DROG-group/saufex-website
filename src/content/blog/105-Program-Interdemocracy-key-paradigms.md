@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2025-03-18"
 updated: "2025-03-18"
 description: "Getting from individual autonomy to collective recommendations."
-draft: true
+draft: false
 ---
 ## Stage one
 The precondition of collective intelligence in democracy is engineered independence at the input stage. The independence is empowered by a reversal of the information flow paradigm: not data to apps but apps to data. For individuals formulating their perspective in writing and submitting it, listening to others after they have formulated and submitted their perspective, and being listened to after others have formulated and submitted their perspective is part of their autopoiesis within a setting of “ma”. 
