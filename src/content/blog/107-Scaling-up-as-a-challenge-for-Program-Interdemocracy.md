@@ -1,6 +1,6 @@
 ---
-title: "(106) Scaling-up as a challenge for Program Interdemocracy"
-slug: "106-Scaling-up-as-a-challenge-for-Program-Interdemocracy"
+title: "(107) Scaling-up as a challenge for Program Interdemocracy"
+slug: "107-Scaling-up-as-a-challenge-for-Program-Interdemocracy"
 author: "Onno Hansen-Staszyński"
 date: "2025-03-25"
 updated: "2025-03-25"
