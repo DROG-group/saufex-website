@@ -36,7 +36,8 @@ As a result of the participation elements in the pilot three recommendations wer
 ### Recommendation one, regarding students’ right to participation
 -	A significant portion of eighth-grade students want to have a greater influence on decisions about school trips and their course, because it gives them a sense of control over how they spend their time.
 -	Students want to decide on test dates, the length of classes and breaks, because they are stressed and need time to rest.
--	Acknowledge that some students do not know how or believe that their opinion will not be able to change anything at school.\
+-	Acknowledge that some students do not know how or believe that their opinion will not be able to change anything at school.
+
 Sent to: The Board of Education in Gdańsk and the Youth Regional Assembly of the Pomeranian Voivodeship
 
 ### Recommendation two, regarding educational use of artificial intelligence
@@ -44,6 +45,7 @@ It is worthwhile for a teacher, in matters concerning the use of Artificial Inte
 -	Artificial intelligence often makes mistakes, fails to specify answers, frequently invents facts or incorrectly solves the tasks assigned to it. Because of these errors, we often lose time making corrections, which can be frustrating. It is important to note that AI can make mistakes in any field, both in the sciences and the humanities, which may result in lower grades for students.
 -	The lack of authenticity, emotions, and the provision of information not intended for young people (and others) by AI leads to the suppression of creativity in young minds and the replacement of humans in many areas, resulting in intellectual laziness.
 -	A significant portion of students do not use AI or have only had positive experiences with it.
+
 Sent to: The Pomeranian Center for Teacher Education
 
 ### Recommendation three, regarding how to organize sessions in the classroom on “difficult subjects”
@@ -51,6 +53,7 @@ Teachers planning to discuss a “difficult topic” during classes should be aw
 -	Students would like to be listened to with empathy and engagement, with the assurance that the conversation will remain confidential.
 -	Students feel anxious about speaking due to the reactions of their peers and the teacher; they would like a prior conversation to take place, allowing a certain bond and relationship to be established. Thanks to this, students will open up to one another and stop feeling judged.
 -	A significant portion of students are reluctant to talk about difficult topics in front of the whole class because it causes them stress.
+
 Sent to: The Pomeranian Center for Teacher Education and the Pedagogical Institute of the University of Gdańsk
 
 ### Next steps
