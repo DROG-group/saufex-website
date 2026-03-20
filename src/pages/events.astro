@@ -1,0 +1,452 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const events = [
+  // 2025 — November
+  {
+    title: 'Scientific Conference "Understanding and Addressing Digital Inequalities"',
+    type: "Conference",
+    date: "20–21 November 2025",
+    description: 'Presentation of the paper "Generative AI–triggered digital inequality: Pathways, mechanisms, and proposed interventions." Publication forthcoming in Cadmus, the EUI research repository.',
+    location: "Florence, Italy",
+    organiser: "European University Institute (EUI)",
+    url: "https://www.eui.eu/events?id=574491"
+  },
+  {
+    title: "North Macedonian Media Literacy Days",
+    type: "Workshop",
+    date: "18 November 2025",
+    description: "Workshop for regulators and Interdemocracy workshop for students. Organised by the Agency for Audio and Audiovisual Media Services.",
+    location: "Skopje, North Macedonia",
+    url: "https://mediumskapismenost.mk/european-masterclass-on-tackling-disinformation-held/?lang=en"
+  },
+  {
+    title: "2025 EU-Western Balkans Media Literacy Conference",
+    type: "Conference",
+    date: "17 November 2025",
+    description: "Informal presentation on Resilience Councils, societal resilience, and Interdemocracy. Policy Brief on FIMI flagging tool discussed with EEAS representatives.",
+    location: "Skopje, North Macedonia"
+  },
+  {
+    title: "Interdemocracy Pilot 3 Launch",
+    type: "Pilot",
+    date: "November 2025 – March 2026",
+    description: "Workshops for 14 teachers in 16 classes across 10 schools, involving approximately 200 students. Organised by the Citizen Project foundation and PCEN.",
+    location: "Pomeranian region, Poland",
+    url: "http://doskonalenie.cen.gda.pl/oferta/szkolenia-warsztaty-seminaria/projekt-edukacyjny-interdemokracja-laboratorium-komunikacji-i-partycypacji-szkolenie-dla-nauczycieli/"
+  },
+  // 2025 — October
+  {
+    title: "Disinfo 2025",
+    type: "Conference",
+    date: "15–16 October 2025",
+    description: 'Presentation of the GetResilience platform. Resulted in a Policy Brief to EEAS: "The case for a plug-and-play end-user FIMI flagging tool."',
+    location: "Ljubljana, Slovenia",
+    url: "https://www.disinfo.eu/conference-2025/"
+  },
+  {
+    title: "Baltic Youth Waves for Democracy 2025",
+    type: "Conference",
+    date: "27 October 2025",
+    description: "Presentation on AI in FIMI-related decision-making and Interdemocracy. Organised within the framework of the Polish Presidency of the Council of Baltic Sea States.",
+    location: "Gdańsk, Poland",
+    url: "https://cbss.org/youth/join-us/baltic-youth-waves-for-democracy-2025/"
+  },
+  // 2025 — September
+  {
+    title: '"Interdemokracja" — Laboratorium komunikacji i partycypacji dla szkół podstawowych',
+    type: "Workshop",
+    date: "30 September 2025",
+    description: "Multiple presentations on Interdemocracy and societal resilience for primary school management and teachers. Organised by PCEN and FCP. Led to the launch of Interdemocracy Pilot 3.",
+    location: "Gdańsk, Poland",
+    url: "https://www.pcen.gda.pl/serwisy-tematyczne/historia-i-wos-2/szkolenia-wrzesien-grudzien-2025/"
+  },
+  {
+    title: "High-Level Conference on Building Democratic Resilience to Disinformation",
+    type: "Conference",
+    date: "17 September 2025",
+    description: "Informal presentation on Resilience Councils, societal resilience, and Interdemocracy.",
+    location: "Malta"
+  },
+  {
+    title: "RESIST: Strengthening Societal Resilience to Disinformation in Europe — Kick-off Meeting",
+    type: "Conference",
+    date: "18 September 2025",
+    description: "Informal presentation on Resilience Councils, societal resilience, and Interdemocracy.",
+    location: "Malta"
+  },
+  // 2025 — June
+  {
+    title: "Enhancing Societal Resilience Through Listening and Being Heard",
+    type: "Conference",
+    date: "5–6 June 2025",
+    description: "Multiple presentations and session moderation on Interdemocracy, societal resilience, and democratisation of FIMI-related decision-making. Organised within the framework of the Polish Presidency of the Council of the EU. Resulted in publication of a booklet on Interdemocracy.",
+    location: "Helsinki, Finland",
+    url: "https://interdemocracy.wordpress.com/enhancing-societal-resilience-through-listening-and-being-heard-workshop-presentation/"
+  },
+  {
+    title: "Civil Society as a Factor of Resilience and Preparedness to Crisis Phenomena in the Contemporary EU",
+    type: "Conference",
+    date: "9–10 June 2025",
+    description: "Informal presentation on Resilience Councils, societal resilience, and Interdemocracy. Organised within the framework of the Polish Presidency of the Council of the EU.",
+    location: "Gdańsk, Poland"
+  },
+  // 2025 — May
+  {
+    title: "Interdemocracy Pilot 2",
+    type: "Pilot",
+    date: "May 2025",
+    description: "Workshops for students and teachers at one school (4 classes, 3 teachers, approximately 80 students). Positively assessed by the Polish MFA and PCEN. Led to a cooperation contract with PCEN for Pilot 3.",
+    location: "Gdańsk, Poland"
+  },
+  {
+    title: "The Role of CSOs in Ensuring the Health Security of Children and Young People within the EU",
+    type: "Conference",
+    date: "15 May 2025",
+    description: "Informal presentation on Resilience Councils, societal resilience, and Interdemocracy. Organised within the framework of the Polish Presidency of the Council of the EU.",
+    location: "Warsaw, Poland"
+  },
+  // 2025 — April
+  {
+    title: "Global Age Assurance Standards Summit 2025",
+    type: "Conference",
+    date: "9 April 2025",
+    description: "Informal presentation on Resilience Councils, the DSC, and Youth Resilience Councils.",
+    location: "Amsterdam, the Netherlands"
+  },
+  // 2025 — March
+  {
+    title: "Democracy Shield in Countering FIMI Conference",
+    type: "Conference",
+    date: "6–7 March 2025",
+    description: "Panel moderation, workshop for FIMI experts on EMoD-derived topics. Organised by the Polish Embassy in Finland and the European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE). First EMoD pilot tests presented.",
+    location: "Helsinki, Finland",
+    url: "https://soundcloud.com/saufex/panel-discussion-from-the-march-6th-2025-helsinki-saufex-event"
+  },
+  {
+    title: "Flagship Conference on Inclusive Education",
+    type: "Conference",
+    date: "17–18 March 2025",
+    description: "Informal presentation on Resilience Councils, societal resilience, and Interdemocracy. Organised within the framework of the Polish Presidency of the Council of the EU.",
+    location: "Warsaw, Poland"
+  },
+  // 2025 — February
+  {
+    title: "European Commission Education Talks",
+    type: "Interview",
+    date: "25 February 2025",
+    description: 'Interview on Interdemocracy and societal resilience: "The challenges of teaching critical thinking to young people."',
+    location: "Online",
+    url: "https://school-education.ec.europa.eu/en/discover/expert-views/education-talks-challenges-teaching-critical-thinking-young-people"
+  },
+  // 2024
+  {
+    title: "Civil Society Experts Forum on Combatting Foreign Information Manipulation and Interference",
+    type: "Conference",
+    date: "18 October 2024",
+    description: "Active participation by consortium representatives.",
+    location: "Taipei, Taiwan"
+  },
+  {
+    title: "EU DisinfoLab Annual Conference",
+    type: "Conference",
+    date: "9–10 October 2024",
+    description: "Active participation by consortium representatives.",
+    location: "Riga, Latvia"
+  },
+  {
+    title: "Establishment of the Pilot Resilience Council",
+    type: "Milestone",
+    date: "September 2024",
+    description: "Advisory body to the Minister of Foreign Affairs of the Republic of Poland, composed of representatives from science, media, and civil society.",
+    location: "Warsaw, Poland"
+  },
+  {
+    title: "SAUFEX Kick-off Meeting",
+    type: "Milestone",
+    date: "15 February 2024",
+    description: "Face-to-face kick-off meeting with all project partners."
+  }
+];
+
+// Group events by year
+const eventsByYear: Record<string, typeof events> = {};
+for (const event of events) {
+  const yearMatch = event.date.match(/\d{4}/);
+  const year = yearMatch ? yearMatch[0] : 'Other';
+  if (!eventsByYear[year]) eventsByYear[year] = [];
+  eventsByYear[year].push(event);
+}
+const years = Object.keys(eventsByYear).sort((a, b) => Number(b) - Number(a));
+
+const typeColors: Record<string, string> = {
+  'Conference': '#6b4ce6',
+  'Workshop': '#0d9488',
+  'Pilot': '#2563eb',
+  'Interview': '#ea580c',
+  'Milestone': '#d97706',
+};
+---
+
+<BaseLayout title="Events" description="Conferences, workshops, and events where SAUFEX has been present.">
+
+  <!-- Page Header -->
+  <section class="page-header">
+    <div class="container">
+      <span class="page-header__label">Conferences & Workshops</span>
+      <h1 class="page-header__title">Events</h1>
+      <p class="page-header__subtitle">
+        SAUFEX has been present at major European conferences and events on FIMI, information resilience, media literacy, and democratic participation.
+      </p>
+    </div>
+  </section>
+
+  {years.map((year) => (
+    <section class="content-section">
+      <div class="container">
+        <div class="section__header">
+          <span class="section__title">{year}</span>
+          <span class="section__meta">{eventsByYear[year].length} events</span>
+        </div>
+
+        <div class="events-list">
+          {eventsByYear[year].map((event) => {
+            const color = typeColors[event.type] || '#6b4ce6';
+            const Tag = event.url ? 'a' : 'div';
+            return event.url ? (
+              <a href={event.url} target="_blank" rel="noopener" class="event-item">
+                <div class="event-item__date-col">
+                  <span class="event-item__date">{event.date.replace(/ \d{4}$/, '').replace(/ 2025.*/, '').replace(/ 2024.*/, '')}</span>
+                  {event.location && <span class="event-item__location">{event.location}</span>}
+                </div>
+                <div class="event-item__content">
+                  <div class="event-item__meta">
+                    <span class="event-item__type" style={`color: ${color}; background: ${color}15;`}>{event.type}</span>
+                  </div>
+                  <h3 class="event-item__title">{event.title}</h3>
+                  <p class="event-item__description">{event.description}</p>
+                </div>
+                <div class="event-item__arrow">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                    <polyline points="15 3 21 3 21 9"/>
+                    <line x1="10" y1="14" x2="21" y2="3"/>
+                  </svg>
+                </div>
+              </a>
+            ) : (
+              <div class="event-item">
+                <div class="event-item__date-col">
+                  <span class="event-item__date">{event.date.replace(/ \d{4}$/, '').replace(/ 2025.*/, '').replace(/ 2024.*/, '')}</span>
+                  {event.location && <span class="event-item__location">{event.location}</span>}
+                </div>
+                <div class="event-item__content">
+                  <div class="event-item__meta">
+                    <span class="event-item__type" style={`color: ${color}; background: ${color}15;`}>{event.type}</span>
+                  </div>
+                  <h3 class="event-item__title">{event.title}</h3>
+                  <p class="event-item__description">{event.description}</p>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  ))}
+
+  <!-- Additional presence note -->
+  <section class="content-section">
+    <div class="container">
+      <div class="additional-note">
+        <p>Throughout 2024, SAUFEX was also present at events organised by NATO, the EU Joint Research Centre (JRC), the European Union Institute for Security Studies (EUISS), and the European External Action Service (EEAS). Consortium members also appeared as experts on Polish television (TVP, TVN).</p>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>
+
+<style>
+  .page-header {
+    padding: calc(80px + var(--space-2xl)) 0 var(--space-xl);
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+  }
+
+  .page-header__label {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-xs);
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--color-purple);
+    margin-bottom: var(--space-md);
+  }
+
+  .page-header__label::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    background: var(--color-gold);
+    border-radius: 50%;
+  }
+
+  .page-header__title {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    margin-bottom: var(--space-sm);
+  }
+
+  .page-header__subtitle {
+    font-size: 1.1rem;
+    color: var(--color-muted);
+    max-width: 65ch;
+  }
+
+  .section__header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-lg);
+  }
+
+  .section__meta {
+    font-size: 0.85rem;
+    color: var(--color-muted);
+    font-weight: 500;
+  }
+
+  .events-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    max-width: 900px;
+  }
+
+  .event-item {
+    display: flex;
+    gap: var(--space-lg);
+    padding: var(--space-md) var(--space-lg);
+    background: var(--color-light);
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 12px;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s;
+  }
+
+  a.event-item:hover {
+    border-color: var(--color-purple);
+    transform: translateX(4px);
+  }
+
+  .event-item__date-col {
+    flex-shrink: 0;
+    width: 140px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding-top: 4px;
+  }
+
+  .event-item__date {
+    font-family: var(--font-display);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-dark);
+  }
+
+  .event-item__location {
+    font-size: 0.75rem;
+    color: var(--color-muted);
+  }
+
+  .event-item__content {
+    flex: 1;
+  }
+
+  .event-item__meta {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    margin-bottom: var(--space-xs);
+  }
+
+  .event-item__type {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 3px 8px;
+    border-radius: 100px;
+  }
+
+  .event-item__title {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-dark);
+    margin-bottom: var(--space-xs);
+  }
+
+  .event-item__description {
+    font-size: 0.875rem;
+    color: var(--color-muted);
+    margin: 0;
+    line-height: 1.6;
+  }
+
+  .event-item__arrow {
+    flex-shrink: 0;
+    color: var(--color-muted);
+    transition: all 0.2s;
+    align-self: center;
+  }
+
+  a.event-item:hover .event-item__arrow {
+    color: var(--color-purple);
+    transform: translate(2px, -2px);
+  }
+
+  .additional-note {
+    max-width: 700px;
+    padding: var(--space-lg);
+    background: rgba(107, 76, 230, 0.03);
+    border: 1px solid rgba(107, 76, 230, 0.1);
+    border-radius: 12px;
+    color: var(--color-muted);
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+
+  .additional-note p {
+    margin: 0;
+  }
+
+  @media (max-width: 768px) {
+    .event-item {
+      flex-direction: column;
+      gap: var(--space-sm);
+      padding: var(--space-md);
+    }
+
+    .event-item__date-col {
+      width: auto;
+      flex-direction: row;
+      align-items: center;
+      gap: var(--space-sm);
+    }
+
+    .event-item__arrow {
+      display: none;
+    }
+
+    .section__header {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>
