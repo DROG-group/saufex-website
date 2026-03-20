@@ -51,7 +51,7 @@ Sent to: The Pomeranian Center for Teacher Education
 ### Recommendation three, regarding how to organize sessions in the classroom on “difficult subjects”
 Teachers planning to discuss a “difficult topic” during classes should be aware of the following observations from students:
 -	Students would like to be listened to with empathy and engagement, with the assurance that the conversation will remain confidential.
--	Students feel anxious about speaking due to the reactions of their peers and the teacher; they would like a prior conversation to take place, allowing a certain bond and relationship to be established. Thanks to this, students will open up to one another and stop feeling judged.
+-	Students feel anxious about speaking due to the reactions of their peers and the teacher; a majority would like a prior conversation to take place, allowing a certain bond and relationship to be established. Thanks to this, students will open up to one another and stop feeling judged.
 -	A significant portion of students are reluctant to talk about difficult topics in front of the whole class because it causes them stress.
 
 Sent to: The Pomeranian Center for Teacher Education and the Pedagogical Institute of the University of Gdańsk
