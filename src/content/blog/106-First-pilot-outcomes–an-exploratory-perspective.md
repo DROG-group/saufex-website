@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-03-20"
 updated: "2025-03-20"
 description: "Pilot outcomes based on the perspectives of participating teachers."
-draft: true
+draft: false
 ---
 ## Introduction
 To establish the validity of some of the conceptualization of democratization and decentralization of decision-making processes by project Saufex, a pilot (see: [blog post seventy-three](https://saufex.eu/insights/73-The-regional-Interdemocracy-pilot/)) was initiated in the Pomeranian voivodeship (Poland). The pilot runs from November 2025 to June 2026 and consists of two parts: a school-related and an institution-related part. The pilot is organized by the Pomeranian Center for Teacher Education and the Citizen Project Foundation.
