@@ -11,7 +11,7 @@ draft: true
 
 ## 1. Methodology and context of the process
 This observation constitutes an analysis of processes occurring during workshop sessions at Primary School No. 47 in Gdynia, carried out within the program “Interdemocracy – laboratory of communication and participation.” From the perspective of learning psychology, monitoring facilitating attitudes is an activity of strategic importance, enabling a transition from transmissive, expository methods toward building an environment based on subjectivity. Verification of the quality of interactions in this model is key to understanding how a safe space influences the cognitive and social processes of our students.
-**Key parameters of the observational process:**
+### **Key parameters of the observational process:**
 - Dates of session implementation: January 12, 2026 (session no. 3) and February 9, 2026 (session no. 4).
 - Location: Primary School No. 47 in Gdynia.
 - Framework program: Interdemocracy – laboratory of communication and participation.
