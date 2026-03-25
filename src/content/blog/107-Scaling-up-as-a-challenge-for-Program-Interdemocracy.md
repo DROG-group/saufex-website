@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2025-03-25"
 updated: "2025-03-25"
 description: "How to expand Program Interdemocracy from pilot to a true whole-of-society approach."
-draft: true
+draft: false
 ---
 ## Scaling-up
 The current target group of Program Interdemocracy is school-going adolescents, but the ultimate goal is full societal inclusion. Scaling-up is not epistemically linear and introduces the risk of compositional distortion.
