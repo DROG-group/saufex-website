@@ -32,7 +32,6 @@ The phenomenon of learning from one another gained a real dimension in Primary S
 
 ## 5. Final conclusions and recommendations for pedagogical practice
 The implementation of the facilitation paradigm within the “Interdemocracy” program generated measurable benefits in the quality of the class’s social climate. The most important effects of the process are summarized in the table below:\
-**Identified effect — Impact on the student — Significance for the didactic process**
 | **Identified effect** | **Impact on the student**| **Significance for the didactic process**|
 | ------------- | ------------- | ------------- |
 | Sovereignty of expression | Development of an internal sense of control and the courage to be authentic | Transition from reproduction of knowledge to critical thinking and creative analysis |
