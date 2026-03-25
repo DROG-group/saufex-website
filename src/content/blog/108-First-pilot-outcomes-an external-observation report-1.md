@@ -33,9 +33,11 @@ The phenomenon of learning from one another gained a real dimension in Primary S
 ## 5. Final conclusions and recommendations for pedagogical practice
 The implementation of the facilitation paradigm within the “Interdemocracy” program generated measurable benefits in the quality of the class’s social climate. The most important effects of the process are summarized in the table below:\
 **Identified effect — Impact on the student — Significance for the didactic process**
-Sovereignty of expression — Development of an internal sense of control and the courage to be authentic. — Transition from reproduction of knowledge to critical thinking and creative analysis.\
-Elimination of decision paralysis — Reduction of fear of error, ridicule, and social exclusion. — Optimization of conditions for public expression and taking responsibility for one’s words.\
-Building a learning community — Increase in empathy, mutual respect, and understanding of diversity of attitudes. — Transformation of the class into a safe support system conducive to group synergy.\
+| **Identified effect** | **Impact on the student**| **Significance for the didactic process**|
+| ------------- | ------------- | ------------- |
+| Sovereignty of expression | Development of an internal sense of control and the courage to be authentic | Transition from reproduction of knowledge to critical thinking and creative analysis |
+Elimination of decision paralysis | Reduction of fear of error, ridicule, and social exclusion | Optimization of conditions for public expression and taking responsibility for one’s words |
+| Building a learning community | Increase in empathy, mutual respect, and understanding of diversity of attitudes | Transformation of the class into a safe support system conducive to group synergy |
 In summary, the results of the observation of the conducted sessions at Primary School No. 47 in Gdynia clearly indicate the necessity of institutionalizing the facilitating attitude as a competency standard for the entire teaching staff. Building a modern, democratic school requires a departure from a culture of control toward a culture of safety. Continuation of the “Interdemocracy” program in this spirit is crucial for shaping conscious and self-confident citizens.
 
 ## Workshops conducted within the educational program:
