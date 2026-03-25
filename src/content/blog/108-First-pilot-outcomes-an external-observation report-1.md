@@ -40,8 +40,7 @@ Elimination of decision paralysis | Reduction of fear of error, ridicule, and so
 ### In summary
 The results of the observation of the conducted sessions at Primary School No. 47 in Gdynia clearly indicate the necessity of institutionalizing the facilitating attitude as a competency standard for the entire teaching staff. Building a modern, democratic school requires a departure from a culture of control toward a culture of safety. Continuation of the “Interdemocracy” program in this spirit is crucial for shaping conscious and self-confident citizens.
 
-## Workshops conducted within the educational program:
-“Interdemocracy – laboratory of communication and participation”:
+## Workshops conducted within the educational program: “Interdemocracy – laboratory of communication and participation”
 - support the development of students’ social, communication, and participatory competencies 
 - respond to current challenges of the contemporary world: disinformation, polarization
 and the crisis of social trust 
