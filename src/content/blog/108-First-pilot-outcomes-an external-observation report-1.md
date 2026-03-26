@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2025-03-27"
 updated: "2025-03-27"
 description: "The first observation report on Interdemocracy’s third pilot by a Pomeranian Center for Teacher Education’s representative."
-draft: true
+draft: false
 ---
 *Observation of sessions no. 3 and 4 within the educational program: “Interdemocracy – laboratory of communication and participation” by teacher–consultant at PCEN in Gdańsk for history/civics (WOS) Grzegorz Rutkowski*
 
