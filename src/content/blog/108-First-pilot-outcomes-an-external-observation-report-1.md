@@ -1,6 +1,6 @@
 ---
 title: "(108) First pilot outcomes – an external observation report (1)"
-slug: "108-First-pilot-outcomes-an external-observation report-1"
+slug: "108-First-pilot-outcomes-an-external-observation-report-1"
 author: "Onno Hansen-Staszyński"
 date: "2025-03-27"
 updated: "2025-03-27"
