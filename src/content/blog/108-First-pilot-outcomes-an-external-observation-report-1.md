@@ -31,7 +31,7 @@ From a facilitation perspective, the process of “mutually hearing one another�
 The phenomenon of learning from one another gained a real dimension in Primary School No. 47. The possibility of listening to peers’ perspectives under conditions free from evaluative pressure significantly broadened the cognitive horizons of participants. This process promotes an attitude of empathy and curiosity about another person. The conclusions from the observation indicate a change in the social fabric of the class: thanks to better mutual acquaintance, self-acceptance occurred, which makes the group more resistant to conflicts and ready for project-based cooperation. Sensitivity in this context became not a weakness, but a resource building confidence in public speaking.
 
 ## 5. Final conclusions and recommendations for pedagogical practice
-The implementation of the facilitation paradigm within the “Interdemocracy” program generated measurable benefits in the quality of the class’s social climate. The most important effects of the process are summarized in the table below:\
+The implementation of the facilitation paradigm within the “Interdemocracy” program generated measurable benefits in the quality of the class’s social climate. The most important effects of the process are summarized in the table below:
 | **Identified effect** | **Impact on the student**| **Significance for the didactic process**|
 | ------------- | ------------- | ------------- |
 | Sovereignty of expression | Development of an internal sense of control and the courage to be authentic | Transition from reproduction of knowledge to critical thinking and creative analysis |
