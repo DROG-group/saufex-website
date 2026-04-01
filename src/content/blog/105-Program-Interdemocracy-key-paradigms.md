@@ -2,8 +2,8 @@
 title: "(105) Program Interdemocracy - key paradigms"
 slug: "105-Program-Interdemocracy-key-paradigms"
 author: "Onno Hansen-Staszyński"
-date: "2025-03-18"
-updated: "2025-03-18"
+date: "2026-03-18"
+updated: "2026-03-18"
 description: "Getting from individual autonomy to collective recommendations."
 draft: false
 ---
