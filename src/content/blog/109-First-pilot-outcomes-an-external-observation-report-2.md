@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2025-04-01"
 updated: "2025-04-01"
 description: " The second observation report on Interdemocracy’s third pilot by a Pomeranian Center for Teacher Education’s representative."
-draft: true
+draft: false
 ---
 ## Description of the observation of classes conducted using the “Interdemocracy” method and format 
 *by Łukasz Franków - Teacher-consultant for psychological and pedagogical support, PCEN*\
