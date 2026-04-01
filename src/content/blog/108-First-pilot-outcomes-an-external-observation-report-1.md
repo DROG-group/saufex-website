@@ -2,8 +2,8 @@
 title: "(108) First pilot outcomes – an external observation report (1)"
 slug: "108-First-pilot-outcomes-an-external-observation-report-1"
 author: "Onno Hansen-Staszyński"
-date: "2025-03-27"
-updated: "2025-03-27"
+date: "2026-03-27"
+updated: "2026-03-27"
 description: "The first observation report on Interdemocracy’s third pilot by a Pomeranian Center for Teacher Education’s representative."
 draft: false
 ---
