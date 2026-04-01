@@ -2,8 +2,8 @@
 title: "(107) Scaling-up as a challenge for Program Interdemocracy"
 slug: "107-Scaling-up-as-a-challenge-for-Program-Interdemocracy"
 author: "Onno Hansen-Staszyński"
-date: "2025-03-25"
-updated: "2025-03-25"
+date: "2026-03-25"
+updated: "2026-03-25"
 description: "How to expand Program Interdemocracy from pilot to a true whole-of-society approach."
 draft: false
 ---
