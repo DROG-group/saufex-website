@@ -358,3 +358,16 @@ while enabling:
 - accountable validation 
 - adversarial resilience 
 - policy-grade intelligence generation 
+
+## What the architecture does
+This architecture enables a scalable, legally compliant pipeline that turns raw user reports into validated, actionable notices without relying on user profiling or automated legal decisions.
+
+It works by separating:
+- signal collection (open, low-friction, often anonymous),
+- human validation (via a certified Resilience Council),
+- and legal submission (DSA-compliant notices).
+
+Trust is built through structured data, aggregation, and expert review, not user identity or reputation. The system itself never makes legal claims—it only supports humans—so liability stays with identifiable actors. At the same time, it generates systemic risk intelligence (e.g., coordinated campaigns) without tracking individuals.
+
+### In summary
+The architecture enables a privacy-preserving, human-in-the-loop infrastructure for producing reliable legal and policy-grade signals from untrusted input at scale.
