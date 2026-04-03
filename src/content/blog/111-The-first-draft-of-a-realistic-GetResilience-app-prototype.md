@@ -302,7 +302,7 @@ Additional safeguards
 - cross-RC calibration 
 - meta-governance layer
 
-### Systemic risk intelligence layer\
+### Systemic risk intelligence layer
 Capabilities
 - TTP pattern extraction 
 - campaign detection 
@@ -317,7 +317,7 @@ Constraint
 - no user-level linkage 
 - content-level only
 
-### Failure mode design\
+### Failure mode design
 False positive cascade
 - triggers audit 
 - cluster re-evaluation 
