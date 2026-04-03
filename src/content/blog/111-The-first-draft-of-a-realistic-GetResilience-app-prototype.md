@@ -183,15 +183,19 @@ System role
 - pre-fill structure 
 - validate completeness 
 - maintain audit logs\
+
 Constraint
 - system cannot assert legal claims 
 - all notices require human-origin attestation\
-G. Submission Layer\
+
+**G. Submission Layer**\
 → Art. 16 + Platform Interfaces\
+
 Multi-channel delivery
 - API 
 - structured email 
 - trusted flagger channels\
+
 Notice includes
 - legal basis 
 - reasoning 
@@ -200,8 +204,10 @@ Notice includes
 - audit metadata
 - platform-specific adapters 
 - platform intelligence module tracking: acceptance rates; response times; rejection patterns\
-H. Post-submission lifecycle\
+
+**H. Post-submission lifecycle**\
 → Art. 17, 20, 21\
+
 Processes\
 - platform response tracking 
 - counter-notice handling 
@@ -210,49 +216,59 @@ Processes\
 - escalation to DSC 
 - structured ingestion of platform statements of reasons 
 - feedback loop into RC accuracy and taxonomy\
-I. SLA model\
+
+**I. SLA model**\
 → Art. 20 + Art. 34\
+
 Dual-track SLA\
 | **Track** | **Purpose**| 
 | ------------- | ------------- | 
 | Legal SLA | notice validation |
 | Intelligence SLA | FIMI detection |
+
 Additional rules
 - automatic escalation 
 - priority bump via virality 
-- capacity-based threshold adjustment 
+- capacity-based threshold adjustment\
+
 ### GDPR and identity architecture\
 Principles
 - data minimisation 
 - purpose limitation 
 - privacy by design\
+
 Identity model
 | **Layer** | **Identity**| 
 | ------------- | ------------- | 
 | L0 | none |
 | L1 | optional|
 | L2+ | required |
+
 Techniques
 - pseudonymous IDs 
 - separate identity vault 
 - strict retention policies
 - strict functional data separation 
 - cryptographic detachment for erasure conflicts\
+
 ### Anti-Abuse Architecture
 Non-Profiling Trust Model
 - no persistent profiling 
 - no behavioural scoring 
 - trust derived from structure + aggregation\
+
 Flag-level signals
 - completeness 
 - coherence 
 - evidence quality\
+
 Aggregation metrics
 - volume 
 - diversity 
 - consistency 
 - temporal distribution 
 - cluster integrity\
+
 Session-level safeguards
 - temporary session IDs 
 - velocity limits 
@@ -264,66 +280,80 @@ Adversarial detection
 - linguistic similarity 
 - anomaly detection 
 - operates at cluster level only\
+
 RC as trust anchor\
 All legal trust derives from RC:
 - identifiable 
 - certified 
 - accountable\
+
 ### Decentralisation Model\
 RC creation
 - open but governed\
+
 Requirements
 - standard schema adoption 
 - certification 
 - conflict-of-interest declaration\
+- 
 Additional safeguards
 - periodic audits 
 - cross-RC calibration 
 - meta-governance layer\
+
 ### Systemic risk intelligence layer\
 Capabilities
 - TTP pattern extraction 
 - campaign detection 
 - cross-platform signal correlation\
+
 Outputs
 - ttp_pattern_id
 - confidence
 - affected_jurisdictions\
+
 Constraint
 - no user-level linkage 
 - content-level only\
+
 ### Failure mode design\
 False positive cascade
 - triggers audit 
 - cluster re-evaluation 
 - RC performance impact\
+
 Coordinated silence attack
 - external signal ingestion 
 - anomaly detection on absence\
+
 Platform non-compliance
 - escalation to DSC 
 - aggregated evidence bundles\
+
 ### Key Trade-offs
 - Low friction vs abuse → aggregation + cost imposition + RC gating 
 - Anonymous input vs legal robustness → separation of signal and notice 
 - Liability vs automation → human-only legal assertions 
 - GDPR vs effectiveness → content-centric trust model 
 - Scale vs expertise → triage + SLA + prioritisation\
+
 ### Strategic Position
 The system functions as:
 - A distributed, human-validated evidence generation and escalation infrastructure for information integrity in the EU.\
+
 It aligns with:
 - DSA 
 - GDPR 
 - Saufex objectives\
+
 ### Final Note
 This architecture avoids:
 - automated legal claims 
 - user profiling 
 - uncontrolled reporting\
+
 while enabling:
 - scalable signal collection 
 - accountable validation 
 - adversarial resilience 
 - policy-grade intelligence generation 
-
