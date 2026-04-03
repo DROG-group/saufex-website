@@ -49,7 +49,7 @@ RC override requires:
 Relevant provisions:
 - Art. 16(1–2): submission mechanisms 
 - Art. 16(3): sufficiently precise and substantiated notice\
-\
+
 Flow
 - URL submission (no login required) 
 - Lightweight classification: harm type (illegal / harmful / FIMI signal); optional AI suggestion (strictly non-binding, non-authoritative) 
