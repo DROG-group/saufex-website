@@ -38,14 +38,14 @@ To prevent legal ambiguity and liability leakage, all content is strictly routed
 | FIMI signal | Intelligence pipeline only |
 ### Enforcement at schema level
 legal_eligibility: {eligible, not_eligible, requires_rc_override}\
-\
+
 RC override requires:
 - explicit legal reasoning 
 - multi-member consensus attestation 
 ### End-to-End Flow
 **A. Intake layer (frictionless but controlled)**\
 → DSA Art. 16 (Notice & Action Mechanism)\
-\
+
 Relevant provisions:
 - Art. 16(1–2): submission mechanisms 
 - Art. 16(3): sufficiently precise and substantiated notice\
@@ -55,25 +55,25 @@ Flow
 - Lightweight classification: harm type (illegal / harmful / FIMI signal); optional AI suggestion (strictly non-binding, non-authoritative) 
 - Minimal structured input: guided reasoning templates 
 - Optional identity: anonymous (default); logged-in (email / eID optional)\
-\
+
 Safeguards
 - adaptive rate limiting 
 - progressive friction (CAPTCHA, cooldowns) 
 - duplicate clustering 
 - non-identity-based cost imposition (proof-of-work, entropy checks)\
-\
+
 Constraint
 - No submissions at this stage are transmitted to platforms 
 
 **B. Normalisation and structuring layer**\
 → Art. 16(3)(a–d)\
-\
+
 Requirements enforced
 - explanation of illegality 
 - precise location 
 - identity (if applicable) 
 - good faith statement\
-\
+
 Flag unit\
 Flag {
   content_id
@@ -90,7 +90,7 @@ Flag {
   evidence_origin
   ai_influence_flag
 }\
-\
+
 Key features
 - Dual taxonomy: Legal (DSA); Analytical (FIMI/TTP) 
 - Jurisdiction resolver ensures legal basis validity 
@@ -98,23 +98,30 @@ Key features
 
 **C. Aggregation Layer**\
 → Art. 20, 23, 34]\
-Purpose\
-Mitigate abuse while preserving anonymity\
+
+Purpose
+- Mitigate abuse while preserving anonymity\
+
 Operations
 - cluster similar flags 
 - compute: volume; diversity (session-level only); consistency; temporal patterns\
+
 Metrics
 - cluster integrity score 
 - semantic variance 
 - burst anomaly detection\
+
 Output
 - Signal strength score (content-level only)\
+
 Constraints
 - no identity-based weighting 
 - no persistent reputation systems 
 - no cross-session user linkage\
+
 **D. Triage layer**\
 → Art. 34–35\
+
 Functions
 - severity classification 
 - urgency detection (virality, time sensitivity) 
