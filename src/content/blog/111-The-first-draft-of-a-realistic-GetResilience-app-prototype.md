@@ -34,7 +34,7 @@ To prevent legal ambiguity and liability leakage, all content is strictly routed
 | ------------- | ------------- | 
 | Illegal content | Eligible for DSA Art. 16 notice |
 | Harmful but legal | Not eligible for notice; systemic risk only |
-| FIMI signal | Intelligence pipeline only |\
+| FIMI signal | Intelligence pipeline only |\\
 **Enforcement at schema level**
 legal_eligibility: {eligible, not_eligible, requires_rc_override}\
 RC override requires:
