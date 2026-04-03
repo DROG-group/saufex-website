@@ -8,7 +8,7 @@ description: "A brief description of the post (shown in blog listing)."
 draft: true
 ---
 ## Introduction
-While the preliminary outline of the [GetResilience app]( https://getresilience.eu/) provocatively proposes a simplification of the current challenging flagging process under the DSA, a realistic prototype needs to adhere to both the DSA and the Saufex objectives and results and solve ten major dilemmas (see: [blog post 110](https://saufex.eu/insights/110-The-ten-dilemmas-for-the-GetResilience-app/)\
+While the preliminary outline of the [GetResilience app]( https://getresilience.eu/) provocatively proposes a simplification of the current challenging flagging process under the DSA, a realistic prototype needs to adhere to both the DSA and the Saufex objectives and results and solve ten major dilemmas (see: [blog post 110](https://saufex.eu/insights/110-The-ten-dilemmas-for-the-GetResilience-app/)).\
 Below a first draft of the architecture of the GetResilience app prototype is presented.
 ## Architecture draft
 ### Core design principle: layered legitimacy pipeline
