@@ -43,7 +43,7 @@ RC override requires:
 - multi-member consensus attestation 
 ### End-to-End Flow
 **A. Intake layer (frictionless but controlled)**\
-→ DSA Art. 16 (Notice & Action Mechanism)\\
+→ DSA Art. 16 (Notice & Action Mechanism)\
 Relevant provisions:
 - Art. 16(1–2): submission mechanisms 
 - Art. 16(3): sufficiently precise and substantiated notice\
