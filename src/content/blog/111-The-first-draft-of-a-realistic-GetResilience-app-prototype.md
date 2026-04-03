@@ -15,7 +15,8 @@ Below a first draft of the architecture of the GetResilience app prototype is pr
 The system enforces graduated evidentiary weight while strictly avoiding:
 - user profiling 
 - automated legal attribution 
-- automated generation of legally valid notices\ 
+- automated generation of legally valid notices\
+
 | **Layer** | **Actor**| **Legal weight**|**Liability**|
 | ------------- | ------------- | ------------- | ------------- |
 | L0 | Anonymous / low-friction user | Signal only | None |
