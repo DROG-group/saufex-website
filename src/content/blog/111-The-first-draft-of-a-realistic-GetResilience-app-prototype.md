@@ -221,7 +221,7 @@ Processes
 **I. SLA model**\
 → Art. 20 + Art. 34
 
-Dual-track SLA\
+Dual-track SLA
 | **Track** | **Purpose**| 
 | ------------- | ------------- | 
 | Legal SLA | notice validation |
@@ -232,7 +232,7 @@ Additional rules
 - priority bump via virality 
 - capacity-based threshold adjustment
 
-### GDPR and identity architecture\
+### GDPR and identity architecture
 Principles
 - data minimisation 
 - purpose limitation 
