@@ -134,22 +134,28 @@ Priority tiers:
 - High 
 - Standard 
 - Low\
+
 Additional controls
 - cluster integrity affects priority 
 - backpressure mechanism when RC capacity is exceeded\
+
 Constraint
 - no legal determinations\
+
 **E. Resilience Council (RC) layer**\
 → Art. 16, 20, 22\
+
 Structure
 - jurisdiction-specific 
 - domain-specific 
 - certified, identifiable members\
+
 Governance hardening
 - randomised case assignment 
 - conflict-of-interest declaration (mandatory) 
 - shadow review system 
-- cross-RC calibration\ 
+- cross-RC calibration\
+
 Decision model (expanded)\
 decision_type:
   - validated_illegal
@@ -157,18 +163,22 @@ decision_type:
   - insufficient_evidence
   - non_actionable
   - systemic_risk_only\
+
 Additional outputs
 - confidence_level: [low, medium, high]
 - disagreement_flag: true/false\
-F. Attestation model\
+
+**F. Attestation model**\
 → Art. 16(3)(d)\
+
 Modes
-| **Mode** | **Actor**| **Risk**|
+| **Mode** | **Actor** | **Risk** |
 | ------------- | ------------- | ------------- |
 | User-attested | Identified user | Low |
 | RC-attested | RC member | Medium |
 | RC-consensus | Multiple RC | Lower |
 | System-assisted RC | RC + tooling | Controlled |
+
 System role
 - pre-fill structure 
 - validate completeness 
