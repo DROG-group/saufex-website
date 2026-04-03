@@ -117,16 +117,17 @@ Output
 Constraints
 - no identity-based weighting 
 - no persistent reputation systems 
-- no cross-session user linkage\
+- no cross-session user linkage
 
 **D. Triage layer**\
-→ Art. 34–35\
+→ Art. 34–35
 
 Functions
 - severity classification 
 - urgency detection (virality, time sensitivity) 
 - deduplication refinement 
-- queue prioritisation\
+- queue prioritisation
+
 Output\
 Priority tiers:
 - Critical 
