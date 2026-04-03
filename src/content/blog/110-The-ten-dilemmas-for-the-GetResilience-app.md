@@ -28,7 +28,7 @@ The challenge for the app is to resolve the following major dilemmas:
 -	The app should have low entrance friction for end-users but should not be a target for adversarial gaming, e.g. "mass-flagging" by bots or coordinated actors to censor legitimate speech;
 -	The DSA process requires a good faith statement but the app needs to allow for anonymous flagging;
 -	The DSA process requires a good faith statement which makes AI automation of the flagging flow that would enable mass access to flagging a challenge;
--	The DSA requires flagger accountability and trustworthiness but that triggers GDPR risks.
+-	The DSA requires flagger accountability and trustworthiness but that triggers GDPR risks;
 -	Non-anonymous flagging potentially triggers the GDPR but the app should be as automized as possible;
 -	Regular end-users are not trained in legal details but insufficient knowledge of the details potentially disqualifies the flag: e.g. reporting non-illegal FIMI as "illegal content" leads to "liability leakage" and regulatory rejection;
 -	The DSC is to be informed at an earlier stage and more comprehensively but the DSA flags are platform-oriented;
