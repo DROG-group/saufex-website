@@ -14,12 +14,12 @@ The GetResilience app is to enable mass-flagging of illegal and potential harmfu
 ### Saufex objectives
 - Standardise knowledge, building on existing good practices to further develop a common and standardised framework for FIMI analysis; 
 - De-centralise and democratise processes around FIMI analysis and response; 
-- Incorporate community-driven quality assurance processes and expand theoretical understandings of FIMI within the defender community.” 
+- Incorporate community-driven quality assurance processes and expand theoretical understandings of FIMI within the defender community.
 ### Saufex outcomes
 The objectives aim to achieve the following outcomes:
 - Enable proactive detection, analysis, and countermoves in case of foreign attempts to undermine democratic processes and develop a better understanding of the Tactics, Techniques, and Procedures (TTPs) involved in these attempts. 
 - Create an improved response system for policymakers and other stakeholders so that they are better equipped at dealing with FIMI threats. 
-- Improve coordination among EU member states and international partners in combating FIMI and provide a better theoretical understanding of the tension between the tenets of democracy and FIMI.” 
+- Improve coordination among EU member states and international partners in combating FIMI and provide a better theoretical understanding of the tension between the tenets of democracy and FIMI.
 
 ## Major dilemmas
 The challenge for the app is to resolve the following major dilemmas:
