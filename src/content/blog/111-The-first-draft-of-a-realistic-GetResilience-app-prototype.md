@@ -288,7 +288,7 @@ All legal trust derives from RC:
 - certified 
 - accountable
 
-### Decentralisation Model\
+### Decentralisation Model
 RC creation
 - open but governed
 
@@ -296,7 +296,7 @@ Requirements
 - standard schema adoption 
 - certification 
 - conflict-of-interest declaration
-- 
+
 Additional safeguards
 - periodic audits 
 - cross-RC calibration 
