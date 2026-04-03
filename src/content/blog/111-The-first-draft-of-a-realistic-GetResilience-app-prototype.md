@@ -38,12 +38,12 @@ To prevent legal ambiguity and liability leakage, all content is strictly routed
 | FIMI signal | Intelligence pipeline only |
 ### Enforcement at schema level
 legal_eligibility: {eligible, not_eligible, requires_rc_override}\
-\RC override requires:
+RC override requires:
 - explicit legal reasoning 
 - multi-member consensus attestation 
 ### End-to-End Flow
 **A. Intake layer (frictionless but controlled)**\
-→ DSA Art. 16 (Notice & Action Mechanism)\\
+→ DSA Art. 16 (Notice & Action Mechanism)\
 Relevant provisions:
 - Art. 16(1–2): submission mechanisms 
 - Art. 16(3): sufficiently precise and substantiated notice\
@@ -51,12 +51,12 @@ Flow
 - URL submission (no login required) 
 - Lightweight classification: harm type (illegal / harmful / FIMI signal); optional AI suggestion (strictly non-binding, non-authoritative) 
 - Minimal structured input: guided reasoning templates 
-- Optional identity: anonymous (default); logged-in (email / eID optional)\\
+- Optional identity: anonymous (default); logged-in (email / eID optional)\
 Safeguards
 - adaptive rate limiting 
 - progressive friction (CAPTCHA, cooldowns) 
 - duplicate clustering 
-- non-identity-based cost imposition (proof-of-work, entropy checks)\\
+- non-identity-based cost imposition (proof-of-work, entropy checks)\
 Constraint
 - No submissions at this stage are transmitted to platforms 
 
