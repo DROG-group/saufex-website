@@ -367,7 +367,7 @@ It works by separating:
 - human validation (via a certified Resilience Council),
 - and legal submission (DSA-compliant notices).
 
-Trust is built through structured data, aggregation, and expert review, not user identity or reputation. The system itself never makes legal claims—it only supports humans—so liability stays with identifiable actors. At the same time, it generates systemic risk intelligence (e.g., coordinated campaigns) without tracking individuals.
+Trust is built through structured data, aggregation, and expert review, not user identity or reputation. The system itself never makes legal claims so liability stays with identifiable actors. At the same time, it generates systemic risk intelligence (e.g., coordinated campaigns) without tracking individuals.
 
 ### In summary
 The draft architecture enables a privacy-preserving, human-in-the-loop infrastructure for producing reliable legal and policy-grade signals from untrusted input at scale.
