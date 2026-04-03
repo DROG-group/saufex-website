@@ -26,9 +26,9 @@ The system enforces graduated evidentiary weight while strictly avoiding:
 | L4 | System-assisted RC notice | DSA-compliant notice (enhanced) | RC (primary), system (tooling only) |\
 
 **Key principles**
-•	No automated system generates legally meaningful notices independently 
-•	All legally relevant notices originate from identifiable human actors 
-•	The system operates strictly as decision-support tooling, not a legal actor 
+-	No automated system generates legally meaningful notices independently
+-	All legally relevant notices originate from identifiable human actors 
+- The system operates strictly as decision-support tooling, not a legal actor 
 ### Content Classification Boundary
 To prevent legal ambiguity and liability leakage, all content is strictly routed:
 | **Category** | **Legal path**|
