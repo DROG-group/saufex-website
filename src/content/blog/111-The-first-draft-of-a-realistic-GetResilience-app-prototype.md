@@ -89,7 +89,7 @@ Flag {
   provenance
   evidence_origin
   ai_influence_flag
-}\
+}
 
 Key features
 - Dual taxonomy: Legal (DSA); Analytical (FIMI/TTP) 
