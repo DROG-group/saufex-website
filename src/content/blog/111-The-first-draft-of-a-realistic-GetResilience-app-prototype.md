@@ -48,27 +48,32 @@ RC override requires:
 \
 Relevant provisions:
 - Art. 16(1–2): submission mechanisms 
-- Art. 16(3): sufficiently precise and substantiated notice\\
+- Art. 16(3): sufficiently precise and substantiated notice\
+\
 Flow
 - URL submission (no login required) 
 - Lightweight classification: harm type (illegal / harmful / FIMI signal); optional AI suggestion (strictly non-binding, non-authoritative) 
 - Minimal structured input: guided reasoning templates 
-- Optional identity: anonymous (default); logged-in (email / eID optional)\\
+- Optional identity: anonymous (default); logged-in (email / eID optional)\
+\
 Safeguards
 - adaptive rate limiting 
 - progressive friction (CAPTCHA, cooldowns) 
 - duplicate clustering 
 - non-identity-based cost imposition (proof-of-work, entropy checks)\
+\
 Constraint
 - No submissions at this stage are transmitted to platforms 
 
 **B. Normalisation and structuring layer**\
 → Art. 16(3)(a–d)\
+\
 Requirements enforced
 - explanation of illegality 
 - precise location 
 - identity (if applicable) 
 - good faith statement\
+\
 Flag unit\
 Flag {
   content_id
@@ -85,6 +90,7 @@ Flag {
   evidence_origin
   ai_influence_flag
 }\
+\
 Key features
 - Dual taxonomy: Legal (DSA); Analytical (FIMI/TTP) 
 - Jurisdiction resolver ensures legal basis validity 
