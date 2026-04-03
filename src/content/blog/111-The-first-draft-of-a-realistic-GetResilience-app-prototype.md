@@ -95,6 +95,7 @@ Key features
 - Dual taxonomy: Legal (DSA); Analytical (FIMI/TTP) 
 - Jurisdiction resolver ensures legal basis validity 
 - Structured good-faith record stored per flag\
+\
 **C. Aggregation Layer**\
 → Art. 20, 23, 34]\
 Purpose\
