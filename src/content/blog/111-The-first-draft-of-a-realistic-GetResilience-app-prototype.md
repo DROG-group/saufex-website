@@ -56,7 +56,7 @@ Safeguards
 - adaptive rate limiting 
 - progressive friction (CAPTCHA, cooldowns) 
 - duplicate clustering 
-- non-identity-based cost imposition (proof-of-work, entropy checks)\
+- non-identity-based cost imposition (proof-of-work, entropy checks)\\
 Constraint
 - No submissions at this stage are transmitted to platforms 
 
