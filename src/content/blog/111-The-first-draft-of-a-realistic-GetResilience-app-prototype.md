@@ -37,8 +37,8 @@ To prevent legal ambiguity and liability leakage, all content is strictly routed
 | Harmful but legal | Not eligible for notice; systemic risk only |
 | FIMI signal | Intelligence pipeline only |
 ### Enforcement at schema level
-legal_eligibility: {eligible, not_eligible, requires_rc_override}\\
-RC override requires:
+legal_eligibility: {eligible, not_eligible, requires_rc_override}\
+\RC override requires:
 - explicit legal reasoning 
 - multi-member consensus attestation 
 ### End-to-End Flow
