@@ -38,12 +38,14 @@ To prevent legal ambiguity and liability leakage, all content is strictly routed
 | FIMI signal | Intelligence pipeline only |
 ### Enforcement at schema level
 legal_eligibility: {eligible, not_eligible, requires_rc_override}\
+\
 RC override requires:
 - explicit legal reasoning 
 - multi-member consensus attestation 
 ### End-to-End Flow
 **A. Intake layer (frictionless but controlled)**\
 → DSA Art. 16 (Notice & Action Mechanism)\
+\
 Relevant provisions:
 - Art. 16(1–2): submission mechanisms 
 - Art. 16(3): sufficiently precise and substantiated notice\\
