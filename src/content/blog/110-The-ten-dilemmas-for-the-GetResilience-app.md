@@ -4,7 +4,7 @@ slug: "110-The-ten-dilemmas-for-the-GetResilience-app"
 author: "Onno Hansen-Staszyński"
 date: "2026-04-08"
 updated: "2026-04-08"
-description: "A brief description of the post (shown in blog listing)."
+description: "Flagging under DSA is not as straightforward as it might seem."
 draft: true
 ---
 ## Introduction
