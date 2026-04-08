@@ -124,18 +124,18 @@ RC members must:
 
 ## 7. Core workflows
 #### 7.1 Track A - notice production
-L0 signal
-↓
-RC triage and independent verification (L2)
-↓
-Draft legal notice with reasoning
-↓
-Independent concurrence by two additional RC members
-↓
-3-of-N consensus (L3)
-↓
-Notice signed by RC members
-↓
+L0 signal\
+↓\
+RC triage and independent verification (L2)\
+↓\
+Draft legal notice with reasoning\
+↓\
+Independent concurrence by two additional RC members\
+↓\
+3-of-N consensus (L3)\
+↓\
+Notice signed by RC members\
+↓\
 Submission to target platform (Art. 16)
 
 **Properties**:
