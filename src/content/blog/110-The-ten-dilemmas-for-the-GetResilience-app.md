@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-04-08"
 updated: "2026-04-08"
 description: "Flagging under the DSA is not as straightforward as it might seem."
-draft: true
+draft: false
 ---
 ## Introduction
 The GetResilience app is to enable mass-flagging of illegal and potential harmful content. The app needs to operate under two major constraints:
