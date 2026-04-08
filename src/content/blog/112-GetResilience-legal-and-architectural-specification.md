@@ -42,7 +42,7 @@ The separation ensures that:
 - legal claims are deliberate and accountable, and 
 - large-scale input remains non-legal and non-attributable 
 
-## 2. Legal entity and regulatory position**
+## 2. Legal entity and regulatory position
 Proposed entity: Stichting GetResilience (Netherlands)
 
 ### 2.1 DSA Classification
@@ -190,7 +190,7 @@ Reclassified as Track B signal
 **Output**:
 - aggregated, anonymised reports\
 
-** Constraints**
+**Constraints**
 - No legal claims 
 - No individual attribution 
 - No enforcement actions 
