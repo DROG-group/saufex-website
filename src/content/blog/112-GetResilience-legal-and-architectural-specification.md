@@ -184,12 +184,15 @@ Reclassified as Track B signal
 ### 7.4 Track B - intelligence aggregation
 **Inputs**:
 - L0 and L1 signals\
+
 **Processing**:
 - clustering 
 - pattern detection 
 - cross-platform correlation\
+
 **Output**:
 - aggregated, anonymised reports\
+
 **Constraints**
 - No legal claims 
 - No individual attribution 
@@ -201,18 +204,23 @@ Maintained because:
 - no active role in content creation 
 - knowledge arises only after human validation 
 - expeditious action pathways exist\
+
 **Art. 8 - no general monitoring**
 - event-driven processing only 
-- no proactive scanning obligations 
+- no proactive scanning obligations\
+
 **Art. 16 - notice and action**
 - high-quality, structured notices 
 - identifiable human notifiers 
-- substantiated legal reasoning 
+- substantiated legal reasoning\
+
 **Art. 17 - statement of reasons**
-- implemented for internal moderation decisions 
+- implemented for internal moderation decisions\
+
 **Art. 18 - criminal offences**
 - direct reporting to law enforcement 
-- human-in-the-loop validation 
+- human-in-the-loop validation\
+
 **Art. 23 - misuse prevention**
 - rate limiting 
 - anti-abuse safeguards 
@@ -224,7 +232,8 @@ Maintained because:
 
 ### 9.2 Special Categories of Data (Art. 9)
 **Track A**
-- Art. 9(2)(f) — establishment, exercise, or defence of legal claims 
+- Art. 9(2)(f) — establishment, exercise, or defence of legal claims\
+
 **Track B**
 - Art. 9(2)(g) — substantial public interest 
 - Conditional on applicability under Dutch law (UAVG) 
@@ -236,7 +245,7 @@ Maintained because:
 - Anonymisation before aggregation 
 - No automated decisions with legal effects (Art. 22) 
 
-10. Anti-abuse and trust model
+## 10. Anti-abuse and trust model
 **L0 safeguards**
 - rate limiting 
 - CAPTCHA / proof-of-work 
