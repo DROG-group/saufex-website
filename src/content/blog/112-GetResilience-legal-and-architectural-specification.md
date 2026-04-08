@@ -175,11 +175,11 @@ ELSE:\
 Reclassified as Track B signal
 
 **Safeguards**\
-•	Mandatory human validation 
-•	“Reasonable suspicion” standard 
-•	Time-bound review 
-•	Full audit logging 
-•	Jurisdiction-aware routing 
+- Mandatory human validation 
+- “Reasonable suspicion” standard 
+- Time-bound review 
+- Full audit logging 
+- Jurisdiction-aware routing 
 
 ### 7.4 Track B - intelligence aggregation
 **Inputs**:
@@ -190,7 +190,6 @@ Reclassified as Track B signal
 - cross-platform correlation\
 **Output**:
 - aggregated, anonymised reports\
-
 **Constraints**
 - No legal claims 
 - No individual attribution 
