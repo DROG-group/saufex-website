@@ -155,23 +155,23 @@ The platform maintains:
 As a hosting provider, GetResilience must directly inform competent law enforcement authorities when aware of information giving rise to a suspicion of a criminal offence involving a threat to life or safety.
 
 **Workflow**\
-Signal enters system
-↓
-Automated pre-filter (non-decisional)
-↓
-Priority review queue
-↓
-Rapid human assessment by RC member (L2-light)
-↓
-IF reasonable suspicion:
-   ↓
+Signal enters system\
+↓\
+Automated pre-filter (non-decisional)\
+↓\
+Priority review queue\
+↓\
+Rapid human assessment by RC member (L2-light)\
+↓\
+IF reasonable suspicion:\
+   ↓\
 Direct notification to:
  - competent national authority (e.g. Dutch law enforcement)
-  - or Europol, where appropriate
-   ↓
+  - or Europol, where appropriate\
+   ↓\
 Optional parallel notification to target platform\
-ELSE:
-   ↓
+ELSE:\
+   ↓\
 Reclassified as Track B signal
 
 **Safeguards**\
