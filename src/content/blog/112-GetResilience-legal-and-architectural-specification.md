@@ -232,7 +232,7 @@ Maintained because:
 
 ### 9.2 Special Categories of Data (Art. 9)
 **Track A**
-- Art. 9(2)(f) — establishment, exercise, or defence of legal claims\
+- Art. 9(2)(f) — establishment, exercise, or defence of legal claims
 
 **Track B**
 - Art. 9(2)(g) — substantial public interest 
