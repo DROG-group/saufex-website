@@ -174,7 +174,7 @@ ELSE:\
    ↓\
 Reclassified as Track B signal
 
-**Safeguards**\
+**Safeguards**
 - Mandatory human validation 
 - “Reasonable suspicion” standard 
 - Time-bound review 
