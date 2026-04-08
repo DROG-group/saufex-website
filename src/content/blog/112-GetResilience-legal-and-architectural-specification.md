@@ -112,7 +112,8 @@ At L0, the system does not allow:
 ### 6.3 Legal characterisation
 L0 inputs are treated as:
 - non-attributable signals 
-- metadata about third-party content\
+- metadata about third-party content
+
 They:
 - do not constitute legal claims 
 - do not independently establish “actual knowledge” under Art. 6 DSA 
