@@ -249,11 +249,13 @@ Maintained because:
 **L0 safeguards**
 - rate limiting 
 - CAPTCHA / proof-of-work 
-- entropy and anomaly detection\
+- entropy and anomaly detection
+
 **System-level protections**
 - cluster-based adversarial detection 
 - no persistent behavioural profiling 
-- no reputation scoring\
+- no reputation scoring
+
 **Trust Model**\
 Trust is derived from:
 - structured validation 
