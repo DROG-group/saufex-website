@@ -266,7 +266,8 @@ Trust is derived from:
 **RC members**
 - act as co-signatories 
 - contribute legal reasoning 
-- operate under explicit informed consent \
+- operate under explicit informed consent
+
 **Stichting GetResilience**\
 Retains ultimate responsibility for: 
 - system operation 
