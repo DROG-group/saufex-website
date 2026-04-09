@@ -268,16 +268,16 @@ Trust is derived from:
 - contribute legal reasoning 
 - operate under explicit informed consent
 
-**Stichting GetResilience**
+**Stichting GetResilience**\
 Retains ultimate responsibility for: 
 - system operation 
 - compliance 
 - procedural integrity 
 
-## Conclusion
+## Conclusion\
 Version 1.3 establishes GetResilience as:
 - a human-centred DSA enforcement support system 
 - a privacy-preserving intelligence infrastructure 
-- a legally grounded, co-responsible architecture\
+- a legally grounded, co-responsible architecture
 
 While preserving its core innovation: **The structural separation of anonymous signal generation from accountable legal action.**
