@@ -280,4 +280,4 @@ Version 1.3 establishes GetResilience as:
 - a privacy-preserving intelligence infrastructure 
 - a legally grounded, co-responsible architecture\
 
-While preserving its core innovation: **The structural separation of anonymous signal generation from accountable legal action**
+While preserving its core innovation: **The structural separation of anonymous signal generation from accountable legal action.**
