@@ -268,7 +268,7 @@ Trust is derived from:
 - contribute legal reasoning 
 - operate under explicit informed consent
 
-**Stichting GetResilience**\
+**Stichting GetResilience**
 Retains ultimate responsibility for: 
 - system operation 
 - compliance 
