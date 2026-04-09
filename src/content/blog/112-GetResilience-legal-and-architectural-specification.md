@@ -274,7 +274,7 @@ Retains ultimate responsibility for:
 - compliance 
 - procedural integrity 
 
-## Conclusion\
+## Conclusion
 Version 1.3 establishes GetResilience as:
 - a human-centred DSA enforcement support system 
 - a privacy-preserving intelligence infrastructure 
