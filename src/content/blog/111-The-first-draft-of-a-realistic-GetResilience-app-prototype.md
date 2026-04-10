@@ -4,7 +4,7 @@ slug: "111-The-first-draft-of-a-realistic-GetResilience-app-prototype"
 author: "Onno Hansen-Staszyński"
 date: "2025-01-01"
 updated: "2025-01-01"
-description: "A brief description of the post (shown in blog listing)."
+description: "Taking a legally realistic approach to designing a mass-flagging app."
 draft: false
 ---
 ## Introduction
