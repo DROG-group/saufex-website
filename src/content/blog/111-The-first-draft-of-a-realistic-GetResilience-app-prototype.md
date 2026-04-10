@@ -39,7 +39,7 @@ To prevent legal ambiguity and liability leakage, all content is strictly routed
 | FIMI signal | Intelligence pipeline only |
 
 
-\### Enforcement at schema level
+### Enforcement at schema level
 legal_eligibility: {eligible, not_eligible, requires_rc_override}
 
 **RC override requires**:
