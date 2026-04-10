@@ -38,6 +38,7 @@ To prevent legal ambiguity and liability leakage, all content is strictly routed
 | Harmful but legal | Not eligible for notice; systemic risk only |
 | FIMI signal | Intelligence pipeline only |
 
+
 ### Enforcement at schema level
 legal_eligibility: {eligible, not_eligible, requires_rc_override}
 
@@ -181,6 +182,7 @@ decision_type:
 | RC-consensus | Multiple RC | Lower |
 | System-assisted RC | RC + tooling | Controlled |
 
+
 **System role**
 - pre-fill structure 
 - validate completeness 
@@ -228,6 +230,7 @@ decision_type:
 | Legal SLA | notice validation |
 | Intelligence SLA | FIMI detection |
 
+
 **Additional rules**
 - automatic escalation 
 - priority bump via virality 
@@ -245,6 +248,7 @@ Principles
 | L0 | none |
 | L1 | optional|
 | L2+ | required |
+
 
 **Techniques**
 - pseudonymous IDs 
