@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2025-01-01"
 updated: "2025-01-01"
 description: "A brief description of the post (shown in blog listing)."
-draft: true
+draft: false
 ---
 ## Introduction
 While the preliminary outline of the [GetResilience app]( https://getresilience.eu/) provocatively proposes a simplification of the current challenging flagging process under the DSA, a realistic prototype needs to adhere to both the DSA and the Saufex objectives and results, and solve ten major dilemmas (see: [blog post 110](https://saufex.eu/insights/110-The-ten-dilemmas-for-the-GetResilience-app/)).\
