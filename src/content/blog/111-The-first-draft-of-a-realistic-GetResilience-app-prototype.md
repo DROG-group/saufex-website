@@ -25,7 +25,7 @@ The system enforces graduated evidentiary weight while strictly avoiding:
 | L3 | RC validated notice | DSA-compliant notice | RC + platform |
 | L4 | System-assisted RC notice | DSA-compliant notice (enhanced) | RC (primary), system (tooling only) |
 
-
+\
 **Key principles**
 -	No automated system generates legally meaningful notices independently
 -	All legally relevant notices originate from identifiable human actors 
