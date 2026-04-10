@@ -7,6 +7,8 @@ updated: "2026-04-13"
 description: "The 1.3 version of the mass-flagging app architecture."
 draft: true
 --- 
+The following is the outcome of iterative rounds of DROG brainstorming and reflections triggered by blog posts [110](https://saufex.eu/insights/110-The-ten-dilemmas-for-the-GetResilience-app/) and [111](https://saufex.eu/insights/111-The-first-draft-of-a-realistic-GetResilience-app-prototype/).
+
 ## Abstract
 GetResilience is a citizen-led infrastructure designed to support enforcement and systemic risk analysis under Regulation (EU) 2022/2065 (Digital Services Act, DSA) and Regulation (EU) 2016/679 (GDPR).
 
