@@ -40,42 +40,42 @@ To prevent legal ambiguity and liability leakage, all content is strictly routed
 ### Enforcement at schema level
 legal_eligibility: {eligible, not_eligible, requires_rc_override}
 
-RC override requires:
+**RC override requires**:
 - explicit legal reasoning 
 - multi-member consensus attestation 
 ### End-to-End Flow
 **A. Intake layer (frictionless but controlled)**\
 → DSA Art. 16 (Notice & Action Mechanism)
 
-Relevant provisions:
+**Relevant provisions**:
 - Art. 16(1–2): submission mechanisms 
 - Art. 16(3): sufficiently precise and substantiated notice
 
-Flow
+**Flow**
 - URL submission (no login required) 
 - Lightweight classification: harm type (illegal / harmful / FIMI signal); optional AI suggestion (strictly non-binding, non-authoritative) 
 - Minimal structured input: guided reasoning templates 
 - Optional identity: anonymous (default); logged-in (email / eID optional)
 
-Safeguards
+**Safeguards**
 - adaptive rate limiting 
 - progressive friction (CAPTCHA, cooldowns) 
 - duplicate clustering 
 - non-identity-based cost imposition (proof-of-work, entropy checks)
 
-Constraint
+**Constraint**
 - No submissions at this stage are transmitted to platforms 
 
 **B. Normalisation and structuring layer**\
 → Art. 16(3)(a–d)
 
-Requirements enforced
+**Requirements enforced**
 - explanation of illegality 
 - precise location 
 - identity (if applicable) 
 - good faith statement
 
-Flag unit\
+**Flag unit**\
 Flag {
   content_id
   url
@@ -92,7 +92,7 @@ Flag {
   ai_influence_flag
 }
 
-Key features
+**Key features**
 - Dual taxonomy: Legal (DSA); Analytical (FIMI/TTP) 
 - Jurisdiction resolver ensures legal basis validity 
 - Structured good-faith record stored per flag
@@ -100,22 +100,22 @@ Key features
 **C. Aggregation Layer**\
 → Art. 20, 23, 34]
 
-Purpose
+**Purpose**
 - Mitigate abuse while preserving anonymity
 
-Operations
+**Operations**
 - cluster similar flags 
 - compute: volume; diversity (session-level only); consistency; temporal patterns
 
-Metrics
+**Metrics**
 - cluster integrity score 
 - semantic variance 
 - burst anomaly detection
 
-Output
+**Output**
 - Signal strength score (content-level only)
 
-Constraints
+**Constraints**
 - no identity-based weighting 
 - no persistent reputation systems 
 - no cross-session user linkage
@@ -123,41 +123,41 @@ Constraints
 **D. Triage layer**\
 → Art. 34–35
 
-Functions
+**Functions**
 - severity classification 
 - urgency detection (virality, time sensitivity) 
 - deduplication refinement 
 - queue prioritisation
 
-Output\
+**Output**\
 Priority tiers:
 - Critical 
 - High 
 - Standard 
 - Low
 
-Additional controls
+**Additional controls**
 - cluster integrity affects priority 
 - backpressure mechanism when RC capacity is exceeded
 
-Constraint
+**Constraint**
 - no legal determinations
 
 **E. Resilience Council (RC) layer**\
 → Art. 16, 20, 22
 
-Structure
+**Structure**
 - jurisdiction-specific 
 - domain-specific 
 - certified, identifiable members
 
-Governance hardening
+**Governance hardening**
 - randomised case assignment 
 - conflict-of-interest declaration (mandatory) 
 - shadow review system 
 - cross-RC calibration
 
-Decision model (expanded)\
+**Decision model (expanded)**\
 decision_type:
   - validated_illegal
   - validated_terms_violation
@@ -165,14 +165,14 @@ decision_type:
   - non_actionable
   - systemic_risk_only
 
-Additional outputs
+**Additional outputs**
 - confidence_level: [low, medium, high]
 - disagreement_flag: true/false
 
 **F. Attestation model**\
 → Art. 16(3)(d)
 
-Modes
+**Modes**
 | **Mode** | **Actor** | **Risk** |
 | ------------- | ------------- | ------------- |
 | User-attested | Identified user | Low |
@@ -180,24 +180,24 @@ Modes
 | RC-consensus | Multiple RC | Lower |
 | System-assisted RC | RC + tooling | Controlled |
 
-System role
+**System role**
 - pre-fill structure 
 - validate completeness 
 - maintain audit logs
 
-Constraint
+**Constraint**
 - system cannot assert legal claims 
 - all notices require human-origin attestation
 
 **G. Submission Layer**\
 → Art. 16 + Platform Interfaces
 
-Multi-channel delivery
+**Multi-channel delivery**
 - API 
 - structured email 
 - trusted flagger channels
 
-Notice includes
+**Notice includes**
 - legal basis 
 - reasoning 
 - evidence 
@@ -209,7 +209,7 @@ Notice includes
 **H. Post-submission lifecycle**\
 → Art. 17, 20, 21
 
-Processes
+**Processes**
 - platform response tracking 
 - counter-notice handling 
 - complaint workflows 
@@ -221,13 +221,13 @@ Processes
 **I. SLA model**\
 → Art. 20 + Art. 34
 
-Dual-track SLA
+**Dual-track SLA**
 | **Track** | **Purpose**| 
 | ------------- | ------------- | 
 | Legal SLA | notice validation |
 | Intelligence SLA | FIMI detection |
 
-Additional rules
+**Additional rules**
 - automatic escalation 
 - priority bump via virality 
 - capacity-based threshold adjustment
@@ -238,14 +238,14 @@ Principles
 - purpose limitation 
 - privacy by design
 
-Identity model
+**Identity model**
 | **Layer** | **Identity**| 
 | ------------- | ------------- | 
 | L0 | none |
 | L1 | optional|
 | L2+ | required |
 
-Techniques
+**Techniques**
 - pseudonymous IDs 
 - separate identity vault 
 - strict retention policies
@@ -258,76 +258,76 @@ Non-Profiling Trust Model
 - no behavioural scoring 
 - trust derived from structure + aggregation
 
-Flag-level signals
+**Flag-level signals**
 - completeness 
 - coherence 
 - evidence quality
 
-Aggregation metrics
+**Aggregation metrics**
 - volume 
 - diversity 
 - consistency 
 - temporal distribution 
 - cluster integrity
 
-Session-level safeguards
+**Session-level safeguards**
 - temporary session IDs 
 - velocity limits 
 - no cross-session linkage 
 - short TTL
 
-Adversarial detection
+**Adversarial detection**
 - burst detection 
 - linguistic similarity 
 - anomaly detection 
 - operates at cluster level only
 
-RC as trust anchor\
+**RC as trust anchor**\
 All legal trust derives from RC:
 - identifiable 
 - certified 
 - accountable
 
 ### Decentralisation Model
-RC creation
+**RC creation**
 - open but governed
 
-Requirements
+**Requirements**
 - standard schema adoption 
 - certification 
 - conflict-of-interest declaration
 
-Additional safeguards
+**Additional safeguards**
 - periodic audits 
 - cross-RC calibration 
 - meta-governance layer
 
 ### Systemic risk intelligence layer
-Capabilities
+**Capabilities**
 - TTP pattern extraction 
 - campaign detection 
 - cross-platform signal correlation
 
-Outputs
+**Outputs**
 - ttp_pattern_id
 - confidence
 - affected_jurisdictions
 
-Constraint
+**Constraint**
 - no user-level linkage 
 - content-level only
 
 ### Failure mode design
-False positive cascade
+**False positive cascade**
 - triggers audit 
 - cluster re-evaluation 
 - RC performance impact
 
-Coordinated silence attack
+**Coordinated silence attack**
 - external signal ingestion 
 - anomaly detection on absence
 
-Platform non-compliance
+**Platform non-compliance**
 - escalation to DSC 
 - aggregated evidence bundles
 
@@ -339,10 +339,10 @@ Platform non-compliance
 - Scale vs expertise → triage + SLA + prioritisation
 
 ### Strategic Position
-The system functions as:
+**The system functions as**:
 - A distributed, human-validated evidence generation and escalation infrastructure for information integrity in the EU.
 
-It aligns with:
+**It aligns with**:
 - DSA 
 - GDPR 
 - Saufex objectives
