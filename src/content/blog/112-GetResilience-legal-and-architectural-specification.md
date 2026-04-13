@@ -89,7 +89,7 @@ No legal claim may originate below L2 (see Section 5).
 | L0 | Anonymous user | Signal output | No legal status |
 | L1 | Identified user | Structured output | Limited evidentiary value |
 | L2 | RC member | Legal assessment | Draft notice |
-| L2 | Light RC member | Rapid threat validation | Art. 18 escalation |
+| L2 | RC member (light) | Rapid threat validation | Art. 18 escalation |
 | L3 | 3-of-N RC members | Validated consensus | Art. 16 notice |
 
 
