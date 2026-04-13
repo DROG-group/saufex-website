@@ -128,6 +128,14 @@ const conferences = [
     date: "November 2025",
     description: "Discussion on building disinformation resilience in Poland with practical insights and case studies.",
     presenter: "Piotr Sosnowski & Sara Nowacka"
+  },
+  {
+    title: "Democratizing and Decentralizing the DSA",
+    type: "Conference",
+    date: "April 2026",
+    description: "Presentation on how GetResilience decentralises and democratises FIMI analysis and response under the Digital Services Act.",
+    presenter: "Onno Hansen-Staszyński",
+    url: "/Democratizing-and-Decentralizing-the-DSA-GetResilience.pdf"
   }
 ];
 
@@ -136,13 +144,6 @@ const technicalReports = [
     title: "GetResilience v2.0 — System Configuration",
     description: "Human-readable specification of the GetResilience platform: dual-track architecture, actor model, signal intake, workflows, DSA/GDPR compliance, security, and audit logging.",
     url: "/GetResilience-System-Configuration-v2.0.pdf",
-    author: "Onno Hansen-Staszyński",
-    status: "completed"
-  },
-  {
-    title: "Democratizing and Decentralizing the DSA",
-    description: "Conference presentation on how GetResilience decentralises and democratises processes around FIMI analysis and response under the Digital Services Act.",
-    url: "/Democratizing-and-Decentralizing-the-DSA-GetResilience.pdf",
     author: "Onno Hansen-Staszyński",
     status: "completed"
   },
@@ -323,25 +324,54 @@ const deliverables = [
       {conferences.length > 0 ? (
         <div class="resource-list">
           {conferences.map((conf) => (
-            <div class="resource-item resource-item--alt">
-              <div class="resource-item__icon">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
-                  <circle cx="9" cy="7" r="4"></circle>
-                  <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
-                  <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
-                </svg>
-              </div>
-              <div class="resource-item__content">
-                <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
-                  <span class="resource-item__type">{conf.type}</span>
-                  <span class="status-badge status-badge--completed">{conf.date}</span>
+            conf.url ? (
+              <a href={conf.url} target="_blank" class="resource-item resource-item--alt">
+                <div class="resource-item__icon">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                    <circle cx="9" cy="7" r="4"></circle>
+                    <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                    <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                  </svg>
                 </div>
-                <h3 class="resource-item__title">{conf.title}</h3>
-                <p class="resource-item__description">{conf.description}</p>
-                {conf.presenter && <span class="resource-item__author">Presented by {conf.presenter}</span>}
+                <div class="resource-item__content">
+                  <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+                    <span class="resource-item__type">{conf.type}</span>
+                    <span class="status-badge status-badge--completed">{conf.date}</span>
+                  </div>
+                  <h3 class="resource-item__title">{conf.title}</h3>
+                  <p class="resource-item__description">{conf.description}</p>
+                  {conf.presenter && <span class="resource-item__author">Presented by {conf.presenter}</span>}
+                </div>
+                <div class="resource-item__arrow">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                    <polyline points="15 3 21 3 21 9"/>
+                    <line x1="10" y1="14" x2="21" y2="3"/>
+                  </svg>
+                </div>
+              </a>
+            ) : (
+              <div class="resource-item resource-item--alt">
+                <div class="resource-item__icon">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                    <circle cx="9" cy="7" r="4"></circle>
+                    <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                    <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                  </svg>
+                </div>
+                <div class="resource-item__content">
+                  <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+                    <span class="resource-item__type">{conf.type}</span>
+                    <span class="status-badge status-badge--completed">{conf.date}</span>
+                  </div>
+                  <h3 class="resource-item__title">{conf.title}</h3>
+                  <p class="resource-item__description">{conf.description}</p>
+                  {conf.presenter && <span class="resource-item__author">Presented by {conf.presenter}</span>}
+                </div>
               </div>
-            </div>
+            )
           ))}
         </div>
       ) : (
