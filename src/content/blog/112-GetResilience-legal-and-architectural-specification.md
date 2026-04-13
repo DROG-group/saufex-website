@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-04-13"
 updated: "2026-04-13"
 description: "The 1.3 version of the mass-flagging app architecture."
-draft: true
+draft: false
 --- 
 The following is the outcome of iterative rounds of DROG brainstorming and reflections triggered by blog posts [110](https://saufex.eu/insights/110-The-ten-dilemmas-for-the-GetResilience-app/) and [111](https://saufex.eu/insights/111-The-first-draft-of-a-realistic-GetResilience-app-prototype/).
 
