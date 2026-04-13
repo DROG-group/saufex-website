@@ -133,6 +133,20 @@ const conferences = [
 
 const technicalReports = [
   {
+    title: "GetResilience v2.0 — System Configuration",
+    description: "Human-readable specification of the GetResilience platform: dual-track architecture, actor model, signal intake, workflows, DSA/GDPR compliance, security, and audit logging.",
+    url: "/GetResilience-System-Configuration-v2.0.pdf",
+    author: "Onno Hansen-Staszyński",
+    status: "completed"
+  },
+  {
+    title: "GetResilience v2.0 — JSON Schema",
+    description: "Machine-readable JSON Schema (Draft 2020-12) defining the hardened system configuration for GetResilience deployments, including validation rules and data structures.",
+    url: "/GetResilience-JSON-v2.0.pdf",
+    author: "Onno Hansen-Staszyński",
+    status: "completed"
+  },
+  {
     title: "Report on Building STIX 2.1 Extensions",
     description: "Technical documentation for cyber threat intelligence exchange extensions.",
     semester: "4-5",
@@ -442,29 +456,58 @@ const deliverables = [
     <div class="container">
       <div class="section__header">
         <span class="section__title">Technical Reports</span>
-        <span class="section__meta">Forthcoming documentation and datasets</span>
+        <span class="section__meta">Documentation and datasets</span>
       </div>
 
       <div class="resource-list">
         {technicalReports.map((report) => (
-          <div class="resource-item resource-item--alt resource-item--inactive">
-            <div class="resource-item__icon">
-              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path>
-                <polyline points="14 2 14 8 20 8"></polyline>
-                <line x1="12" y1="18" x2="12" y2="12"></line>
-                <line x1="9" y1="15" x2="15" y2="15"></line>
-              </svg>
-            </div>
-            <div class="resource-item__content">
-              <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
-                <span class="resource-item__type">Technical Report</span>
-                <span class="status-badge status-badge--planned">Semester {report.semester}</span>
+          report.status === 'completed' ? (
+            <a href={report.url} target="_blank" class="resource-item resource-item--alt">
+              <div class="resource-item__icon resource-item__icon--deliverable">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path>
+                  <polyline points="14 2 14 8 20 8"></polyline>
+                  <line x1="12" y1="18" x2="12" y2="12"></line>
+                  <line x1="9" y1="15" x2="15" y2="15"></line>
+                </svg>
               </div>
-              <h3 class="resource-item__title">{report.title}</h3>
-              <p class="resource-item__description">{report.description}</p>
+              <div class="resource-item__content">
+                <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+                  <span class="resource-item__type">Technical Report</span>
+                  <span class="status-badge status-badge--completed">✓ Completed</span>
+                </div>
+                <h3 class="resource-item__title">{report.title}</h3>
+                <p class="resource-item__description">{report.description}</p>
+                {report.author && <span class="resource-item__author">By {report.author}</span>}
+              </div>
+              <div class="resource-item__arrow">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                  <polyline points="15 3 21 3 21 9"/>
+                  <line x1="10" y1="14" x2="21" y2="3"/>
+                </svg>
+              </div>
+            </a>
+          ) : (
+            <div class="resource-item resource-item--alt resource-item--inactive">
+              <div class="resource-item__icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path>
+                  <polyline points="14 2 14 8 20 8"></polyline>
+                  <line x1="12" y1="18" x2="12" y2="12"></line>
+                  <line x1="9" y1="15" x2="15" y2="15"></line>
+                </svg>
+              </div>
+              <div class="resource-item__content">
+                <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+                  <span class="resource-item__type">Technical Report</span>
+                  <span class="status-badge status-badge--planned">Semester {report.semester}</span>
+                </div>
+                <h3 class="resource-item__title">{report.title}</h3>
+                <p class="resource-item__description">{report.description}</p>
+              </div>
             </div>
-          </div>
+          )
         ))}
       </div>
     </div>
