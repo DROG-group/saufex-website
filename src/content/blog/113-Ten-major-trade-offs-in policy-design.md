@@ -4,9 +4,10 @@ slug: "113-Ten-major-trade-offs-in policy-design"
 author: "Onno Hansen-Staszyński"
 date: "2026-04-22"
 updated: "2026-04-22"
-description: "A preliminary list of choices we've encountered so far."
+description: "A preliminary list of choices to make when drafting policies."
 draft: true
 ---
+## Ten choices
 - Risk-oriented versus rights-oriented
 - Content-oriented versus procedural and technical compliance-oriented
 - Centralization-oriented versus decentralization-oriented
