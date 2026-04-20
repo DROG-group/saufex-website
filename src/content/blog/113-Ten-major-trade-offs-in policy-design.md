@@ -7,7 +7,7 @@ updated: "2026-04-22"
 description: "A preliminary list of choices to make when drafting policies."
 draft: true
 ---
-## Ten choices
+## A preliminary list of ten choices
 - Risk-oriented versus rights-oriented
 - Content-oriented versus procedural and technical compliance-oriented
 - Centralization-oriented versus decentralization-oriented
