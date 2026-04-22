@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-04-22"
 updated: "2026-04-22"
 description: "A preliminary list of choices to make when drafting policies."
-draft: true
+draft: false
 ---
 ## A preliminary list of ten choices
 - Risk-oriented versus rights-oriented
