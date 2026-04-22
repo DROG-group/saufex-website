@@ -1,6 +1,6 @@
 ---
 title: "(113) Ten major trade-offs in policy design"
-slug: "113-Ten-major-trade-offs-in policy-design"
+slug: "113-Ten-major-trade-offs-in-policy-design"
 author: "Onno Hansen-Staszyński"
 date: "2026-04-22"
 updated: "2026-04-22"
