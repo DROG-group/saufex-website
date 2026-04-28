@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-04-29"
 updated: "2026-04-29"
 description: "Policy design trade-offs proposed by project Saufex."
-draft: true
+draft: false
 ---
 Based on the list of ten preliminary policy design trade-offs (see: [blog post 113]( https://saufex.eu/insights/113-Ten-major-trade-offs-in-policy-design/)), it is possible to draft a profile for societal resilience-enhancing policy choices according to Saufex.
 ## Risk-oriented
