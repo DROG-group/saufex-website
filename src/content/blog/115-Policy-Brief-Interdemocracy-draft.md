@@ -9,7 +9,7 @@ draft: true
 ---
 Strengthening democratic resilience and social cohesion through scalable educational innovation\
 **To: European Commission**\
-**Date: April 2026**
+**Date: May 2026**
 ## Executive summary
 This brief presents findings from 'Interdemocracy' pilots conducted in Poland (2024-2026). The model addresses the crisis of social trust, polarization, and disinformation by transforming schools into hubs of democratic resilience. Utilizing a dual-process model of autopoiesis and participation, the pilots demonstrated observable improvements in student agency, psychological safety, and institutional responsiveness.
 ## 1. The challenge
