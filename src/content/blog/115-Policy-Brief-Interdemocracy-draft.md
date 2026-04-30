@@ -36,6 +36,6 @@ The pilot successfully translated classroom dialogue into actionable recommendat
 ## 5. Policy recommendations
 - Scale nationally/EU-wide: Implement the session format as a horizontal supplement.
 - Institutionalize facilitation: Train teachers in 'facilitator' competencies and procedural fairness.
-- AI Integration: Use AI for aggregation and synthesis to maintain human agency.
+- AI integration: Use AI for aggregation and synthesis to maintain human agency.
 
 This document is based on the Saufex Project (Horizon Europe) and pilot outcomes validated by the Polish Ministry of Foreign Affairs and PCEN Gdańsk.
