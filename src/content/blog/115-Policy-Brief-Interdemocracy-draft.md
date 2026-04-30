@@ -26,6 +26,7 @@ Teacher observations revealed consistent improvements in classroom dynamics (Lik
 | Reduced group pressure | 4.27 | 3.78 | Priority on authentic knowledge |
 | Openness to peers | 4.18 | 3.89 | Reduction in judgment |
 | Facilitator comfort | 4.17 (S2) | 3.56 (S4) | Professional unburdening |
+
 **Qualitative breakthroughs**
 - The 'productive silence': External observers identified silence as a diagnostic indicator of deep cognitive processing.
 - Vulnerable groups: Students typically silent in traditional settings began expressing views due to the removal of 'fear of evaluation.'
