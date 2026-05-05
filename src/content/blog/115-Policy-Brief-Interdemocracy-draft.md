@@ -4,7 +4,7 @@ slug: "115-Policy-Brief-Interdemocracy-draft"
 author: "Onno Hansen-Staszyński"
 date: "2026-05-06"
 updated: "2026-05-06"
-description: "An introduction to the value of Interdemocracy in education and beyond."
+description: "The case for introducing Interdemocracy in education."
 draft: true
 ---
 Strengthening democratic resilience and social cohesion through scalable educational innovation\
