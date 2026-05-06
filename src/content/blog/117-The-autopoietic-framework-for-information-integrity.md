@@ -1,13 +1,13 @@
 ---
-title: " The autopoietic framework for information integrity"
-slug: "The-autopoietic-framework-for-information-integrity"
+title: "(117) The autopoietic framework for information integrity"
+slug: "117-The-autopoietic-framework-for-information-integrity"
 author: "Onno Hansen-Staszyński"
 date: "2026-05-20"
 updated: "2026-05-20"
 description: "Applying the logic of blog post 116 to the field of FIMI."
 draft: true
 --- 
-This blog post extends the framework outlined in blog post 116 - originally developed for teachers and educational settings - to FIMI practitioners and the broader digital and media landscape. The central question is whether this approach remains valid in this new context, and if so, what implications it holds for the field of FIMI.
+This blog post extends the framework outlined in [blog post 116](https://saufex.eu/insights/116-On-educational-settings-and-teachers/) - originally developed for teachers and educational settings - to FIMI practitioners and the broader digital and media landscape. The central question is whether this approach remains valid in this new context, and if so, what implications it holds for the field of FIMI.
 ## Step 1
 Human autopoiesis can be understood as self-maintaining, self-realizing, and self-correcting organization mediated by generalized regulatory processes triggered by potentially destabilizing threats to, or opportunities for enhancement of, organismic viability, coherence, or adaptive functioning.
 ## Step 2
@@ -17,7 +17,7 @@ This emphasis on citizen experience gains further significance in light of Joshu
 ## Step 4
 Given institutional co-responsibility for citizens’ well-being, design and regulation of digital and media landscapes should, all else being equal, minimize conditions that are appraised as threatening and preferentially cultivate conditions appraised as opportunity-enhancing.
 ## Step 5
-Within Saufex conditions that are appraised as threatening and as opportunity-enhancing have been identified (see: blog post: 46). Under the threatening category fall: enhanced experiences of learned helplessness, polarisation and alienation, relativism and nihilism real or imagined threats to the citizen’s physical and psychological health. Under the opportunity enhancing category fall: enhanced experiences of participation in a process where voices are genuinely considered and acted upon, inclusion in an inclusive group, growth-oriented framed ability and adversity, and predictable and responsive communication that avoids being judgmental.
+Within Saufex conditions that are appraised as threatening and as opportunity-enhancing have been identified (see: [blog post: 46](https://saufex.eu/insights/46-Resilience-revisited/)). Under the threatening category fall: enhanced experiences of learned helplessness, polarisation and alienation, relativism and nihilism real or imagined threats to the citizen’s physical and psychological health. Under the opportunity enhancing category fall: enhanced experiences of participation in a process where voices are genuinely considered and acted upon, inclusion in an inclusive group, growth-oriented framed ability and adversity, and predictable and responsive communication that avoids being judgmental.
 ## Step 6
 This framework can be interpreted as a utilitarian meta-ethical stance grounded in Joshua Greene’s notion of a shared experiential “common currency.” Because experience is structurally shared across individuals as a function of human autopoietic organization, it provides a broadly generalizable basis for digital and media landscapes across diverse intra- and inter-group contexts.
 ## Step 7
