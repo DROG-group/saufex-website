@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-05-06"
 updated: "2026-05-06"
 description: "The case for introducing Interdemocracy in education."
-draft: true
+draft: false
 ---
 Strengthening democratic resilience and social cohesion through scalable educational innovation\
 **To: European Commission**\
