@@ -4,7 +4,7 @@ slug: "118-The-technology-layer"
 author: "Onno Hansen-Staszyński"
 date: "2026-05-27"
 updated: "2026-05-07"
-description: "How technology could fit into the Levinasian ethical and Greenean utilitarian frames"
+description: "How technology could fit into the Levinasian ethical and Greenean utilitarian frames."
 draft: true
 ---
 What does the Levinas- and Greene-informed framework developed across previous blog posts imply for the design of Saufex’s technological architecture?
