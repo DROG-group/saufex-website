@@ -23,7 +23,7 @@ Human ethical life itself still exceeds the system and emerges primarily through
 
 ## Step 5
 The result is a dual mode in which the modes are fully separated.\
-Human encounters are to be based on a Levinasian ethics for ethical responsibility, meaning, and transcendence beyond system categories.]
+Human encounters are to be based on a Levinasian ethics for ethical responsibility, meaning, and transcendence beyond system categories.\
 The technological mediation layer is to be based on a Greene-like utilitarianism based on basic human needs for routine coordination, procedural fairness, institutional trust, conflict minimization, and large-scale interoperability. 
 
 ## Step 6
