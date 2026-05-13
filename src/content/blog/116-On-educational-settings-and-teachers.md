@@ -8,7 +8,7 @@ description: "From autopoiesis to KPIs and ethics."
 draft: false
 ---
 ## Step 1
-Human autopoiesis can be understood as self-maintaining, self-realizing, and self-correcting organization mediated by generalized regulatory processes triggered by potentially destabilizing threats to, or opportunities for enhancement of, organismic viability, coherence, or adaptive functioning.
+Human autopoiesis can be understood as self-maintaining, self-realizing, and self-correcting organization mediated by generalized regulatory processes triggered by potentially destabilizing threats to, or opportunities for enhancement of organismic viability, coherence, or adaptive functioning.
 
 ## Step 2
 If educational settings are understood as malleable contexts, they can be designed in ways that are perceived by students as threatening, opportunity-enhancing, or neither. The distinction among these categories lies not in the settings themselves, but in students’ subjective appraisal of them. Consequently, the manner in which educational settings are experienced substantially shapes student autopoiesis by influencing the regulatory processes through which students maintain, realize, and correct themselves. Student experience should therefore constitute a key performance indicator in the design and evaluation of educational settings.
