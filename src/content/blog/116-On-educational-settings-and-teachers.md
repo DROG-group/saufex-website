@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-05-13"
 updated: "2026-05-13"
 description: "From autopoiesis to KPIs and ethics."
-draft: true
+draft: false
 ---
 ## Step 1
 Human autopoiesis can be understood as self-maintaining, self-realizing, and self-correcting organization mediated by generalized regulatory processes triggered by potentially destabilizing threats to, or opportunities for enhancement of, organismic viability, coherence, or adaptive functioning.
