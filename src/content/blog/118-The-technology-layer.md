@@ -3,7 +3,7 @@ title: "(118) The technology layer"
 slug: "118-The-technology-layer"
 author: "Onno Hansen-Staszyński"
 date: "2026-05-27"
-updated: "2026-05-07"
+updated: "2026-05-27"
 description: "How technology could fit into the Levinasian ethical and Greenean utilitarian frames."
 draft: true
 ---
