@@ -26,10 +26,10 @@ Under this framework, all individuals possess personal ontologies, including exp
 
 ## Forms of personal ontology
 When mapped across two dimensions — priority reality source (external/internal) and priority rule source (external/internal) — four forms emerge:
-•	Social alignment (priorities: external reality source, external rule source),
-•	Values-based belonging (priorities: external reality source, internal rule source),
-•	Interdependent agency (priorities: internal reality source, external rule source), and
-•	Moral autonomy (priorities: internal reality source, internal rule source).
+-	Social alignment (priorities: external reality source, external rule source),
+-	Values-based belonging (priorities: external reality source, internal rule source),
+-	Interdependent agency (priorities: internal reality source, external rule source), and
+-	Moral autonomy (priorities: internal reality source, internal rule source).
 
 ## Most democratic form of personal ontology
 Within democracy, the most compatible form is interdependent agency. It preserves interpretive autonomy while maintaining commitment to collectively binding democratic rules. Citizens are neither passive recipients of elite truth nor isolated sovereign selves detached from collective obligation. They remain capable of independent judgment while recognizing the legitimacy of democratic coordination.
