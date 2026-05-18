@@ -1,0 +1,43 @@
+---
+title: "(121) Democratic procedure"
+slug: "121-Democratic-procedure"
+author: "Onno Hansen-Staszyński"
+date: "2026-06-17"
+updated: "2026-06-17"
+description: "From concepts to operational principles for democratic participation and institutional design."
+draft: true
+---
+## Introduction
+Blog posts 116 to 120 progressively developed the theoretical foundations of Interdemocracy. Together, these posts moved from democratic resilience and autopoiesis towards adaptive cognition, personal ontology, and the conditions necessary for legitimate democratic participation. The Interdemocracy process constitutes the procedural operationalization of these earlier theoretical developments.
+
+## Resilience
+Blog post 116 argued that democratic resilience cannot be reduced to institutional robustness or fact correction alone. Resilience also depends on the ability of democratic systems to integrate distributed perspectives without collapsing into fragmentation or epistemic domination. The Interdemocracy participation process operationalizes this principle through simultaneous independent input collection, large-scale aggregation of perspectives, iterative ratification, and institutional feedback loops. Rather than treating participation as symbolic consultation, the framework attempts to structure participation as a recursive resilience mechanism.
+
+## Autopoiesis
+Blog post 117 introduced autopoiesis as a framework for understanding democracy as a process of ongoing self-production. The communication structure of Interdemocracy directly follows from this logic. First-person articulation, independent perspective formation, attentive listening, randomized speaking order, and the prohibition on peer correction are all intended to create conditions under which participants can formulate and reformulate perspectives with minimal external domination during the initial participation phase. The objective is not consensus production but the creation of procedural conditions that stimulate autonomous articulation and exposure to plural perspectives.
+
+## Tech
+Blog post 118 focused on technological mediation and the risk that digital systems increasingly shape cognition and participation in opaque ways. The role of AI within Interdemocracy is intentionally constrained by this concern. Artificial intelligence is used only as an infrastructural aggregation tool operating under human supervision. It clusters and organizes perspectives but does not replace political judgment or determine legitimate outcomes. Multiple clustering procedures are incorporated specifically to reduce procedural dependence on a single computational pathway. Technology is therefore positioned as a bounded support structure for democratic participation rather than as a substitute for democratic agency.
+
+## Cognition
+Blog post 119 argued that cognition is adaptive, socially embedded, environmentally mediated, and identity-sensitive. Consequently, democratic participation should not primarily focus on correcting citizens from above, but on structuring environments that stimulate reflection, autonomous articulation, and self-correction. The procedural directives of Interdemocracy directly operationalize this principle. Students formulate perspectives independently before exposure to peer reactions. Interaction is temporarily suspended during perspective formation. Perspective formulation unfolds in successive stages - handwritten, digital, and spoken - to stimulate recursive reflection and personal responsibility. The framework therefore regulates communicative conditions rather than directly regulating substantive beliefs.
+
+## Personal ontology
+Blog post 120 replaced the distinction between “fact-speaking” and “belief-speaking” with the broader concept of personal ontology. This shift also fundamentally alters the role of the teacher within Interdemocracy. In conventional educational environments, teachers function as subject-bound epistemic authorities whose task is to guide students towards curriculum-defined forms of knowledge. This structure easily generates benevolent interventionism grounded in naïve realism: the implicit tendency to experience one’s own interpretations as objective while perceiving alternative interpretations as comparatively subjective or distorted. As a result, teacher intervention often appears as morally necessary correction rather than as the exercise of epistemic power.
+The facilitator model within Interdemocracy is designed to partially suspend this asymmetry during the participation phase. Facilitators do not evaluate the substance of perspectives articulated by students. Their task is procedural rather than epistemically directive. The framework is therefore subject-agnostic rather than domain-specific, while its boundaries are legal rather than curricular. The facilitator’s role is not guardianship through continuous correction, but ethical responsibility through procedural stewardship.
+
+## Legal boundary
+A central procedural principle within Interdemocracy is that students may formulate perspectives freely “as long as it is legal.” This principle operationalizes one of the central transitions developed throughout blog posts 119 and 120: the movement from epistemic correction towards procedural engagement. If cognition is adaptive and individuals operate through personal ontologies, democratic legitimacy cannot primarily depend upon institutional filtering of perspectives prior to articulation. Participation itself must constitute the starting point of democratic formation.
+
+## Interdependent agency
+Within the framework developed in blog post 120, this principle is particularly connected to the ontology form of interdependent agency, characterized by the combination of an internal reality source and an external rule source. Participants formulate perspectives from their own internally grounded interpretations, experiences, and judgments. Simultaneously, the procedural boundaries governing participation are externally defined through legal constraints rather than subjective institutional preferences. Interdemocracy therefore attempts to combine maximal interpretive autonomy with stable procedural order.
+The significance of this structure lies in the externalization of the participation boundary. The limits of permissible articulation are not determined by teacher approval, institutional ideology, emotional comfort, expert truth arbitration, or prevailing conceptions of acceptable opinion. Instead, the boundary condition is transferred to legality. This substantially reduces epistemic paternalism because facilitators no longer function as substantive gatekeepers deciding which perspectives are sufficiently correct, responsible, or legitimate to be articulated during the participation phase.
+
+## Educational setting
+In procedural terms, this transforms the role of the educational setting itself. Many civic education models implicitly prioritize norm conformity, sanctioned viewpoints, or elite communicative styles. Interdemocracy instead seeks to establish a structurally pluralistic entry point into participation. Students are permitted to formulate perspectives independently within a stable external rule structure. Procedural neutrality does not imply epistemic equivalence between all perspectives; it implies temporary restraint in epistemic intervention during the articulation phase.
+Participation therefore precedes correction. 
+This distinction is significant because democratic disengagement frequently emerges when individuals experience themselves as morally categorized, cognitively managed, or procedurally filtered prior to articulation.
+At the same time, the legal boundary prevents the framework from collapsing into relativism. The recognition that participants operate through personal ontologies does not imply the absence of institutional limits. Rather, Interdemocracy seeks to maximize interpretive plurality while preserving procedural order through externally grounded democratic constraints. Ontological plurality is therefore recognized without dissolving democratic boundaries.
+
+## Conclusion
+Interdemocracy translates theory to practice. As an implementable civic design, it ensures that concepts such as autopoiesis, ontology, cognition, and resilience are more than just theoretical musings; they are operational principles for democratic participation and institutional design.
