@@ -8,7 +8,7 @@ description: "From information reception to preserving human democratic agency."
 draft: true
 ---
 ## Introduction
-In the blog posts so far, ten information-related layers form a developmental stack in which each higher layer depends on the relative stability of the previous one. The movement is from immediate informational interaction toward the preservation of long-term democratic-human agency under conditions of informational and technological pressure. The framework therefore begins not with ideology or governance, but with the basic problem of how humans encounter and process reality.
+In the blog posts so far, ten information-related layers form a developmental stack in which each higher layer ideally depends on the relative stability of the previous one. The movement is from immediate informational interaction toward the preservation of long-term democratic-human agency under conditions of informational and technological pressure. The framework therefore begins not with ideology or governance, but with the basic problem of how humans encounter and process reality.
 
 ## Layer one
 The first layer, information integrity, concerns the level of signals, claims, narratives, incidents, campaigns, and manipulation attempts. At this stage the central issue is whether individuals and institutions are capable of distinguishing authentic from manipulated information and organic from coordinated behavior. This includes activities such as detection, classification, reporting, verification, debunking, and strategic communication.
