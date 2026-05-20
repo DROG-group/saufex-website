@@ -2,8 +2,8 @@
 title: "(121) Democratic operationalization"
 slug: "121-Democratic-operationalization"
 author: "Onno Hansen-Staszyński"
-date: "2026-06-17"
-updated: "2026-06-17"
+date: "2026-06-15"
+updated: "2026-06-15"
 description: "From concepts to operational principles for democratic participation and institutional design."
 draft: true
 ---
