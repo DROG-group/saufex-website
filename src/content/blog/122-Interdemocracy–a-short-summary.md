@@ -2,8 +2,8 @@
 title: "(122) Interdemocracy – a short summary"
 slug: "122-Interdemocracy–a-short-summary"
 author: "Onno Hansen-Staszyński"
-date: "2026-06-24"
-updated: "2026-06-24"
+date: "2026-06-17"
+updated: "2026-06-17"
 description: "What you should know about Interdemocracy."
 draft: true
 ---
