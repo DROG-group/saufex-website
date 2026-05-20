@@ -25,7 +25,7 @@ This is why facilitation, ethical process, procedural integrity, and anti-domina
 ## Legitimacy
 Indeed, anti-democratic attitudes may often arise downstream from relational and procedural deprivation. When individuals are systematically excluded from meaningful influence, denied recognition, or treated primarily as administratively manageable populations rather than relationally significant persons, distrust and disengagement become understandable responses. The erosion of democratic legitimacy is therefore not merely institutional but developmental. Over time, people can lose the expectations, dispositions, and capacities required for democratic participation itself.
 
-## Makable
+## Not fixed
 Democratic capacity should therefore be understood as developmentally cultivable rather than fixed. Sustained procedural-relational environments can strengthen the human abilities necessary for democratic life: listening, cooperation, tolerance for disagreement, reflective judgment, and shared problem-solving under conditions of uncertainty. Democratic resilience depends less upon achieving perfect consensus than upon preserving the ethical and relational conditions under which adaptive participation remains possible.
 
 ## Task
