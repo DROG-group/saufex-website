@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-05-20"
 updated: "2026-05-20"
 description: "Applying the logic of blog post 116 to the field of FIMI."
-draft: true
+draft: false
 --- 
 This blog post extends the framework outlined in [blog post 116](https://saufex.eu/insights/116-On-educational-settings-and-teachers/) - originally developed for teachers and educational settings - to FIMI practitioners and the broader digital and media landscape. The central question is whether this approach remains valid in this new context, and if so, what implications it holds for the field of FIMI.
 ## Step 1
