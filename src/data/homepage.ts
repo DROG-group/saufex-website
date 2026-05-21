@@ -11,6 +11,13 @@ export const spotlight = {
 
 export const mediaMentions = [
   {
+    source: 'Sprawdzam To',
+    title: 'For Russia, Poland is the battleground — the stakes are 1920 all over again',
+    url: 'https://sprawdzamto.pl/artykul/2026-05/polska-rosji-polem-bitwy-stawka-1920',
+    date: '2026-05-16',
+    language: 'pl'
+  },
+  {
     source: 'Polskie Radio Koszalin',
     title: 'Grzegorz Rzeczkowski on fake news, hate speech and troll farms',
     url: 'https://prk24.pl/91465482/',
