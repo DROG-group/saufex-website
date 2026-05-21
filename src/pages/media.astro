@@ -3,11 +3,39 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { mediaMentions } from '../data/homepage';
 
-// Get news posts, sorted by date (newest first)
+// Merge news collection + press mentions into a single chronological list
 const allNews = await getCollection('news', ({ data }) => !data.draft);
-const newsPosts = allNews.sort((a, b) => {
-  return new Date(b.data.date).getTime() - new Date(a.data.date).getTime();
-});
+
+type CoverageItem = {
+  source: string;
+  title: string;
+  description?: string;
+  url: string;
+  date: string;
+  language: string;
+  isExternal: boolean;
+};
+
+const coverage: CoverageItem[] = [
+  ...allNews.map((post) => ({
+    source: post.data.partner || 'SAUFEX',
+    title: post.data.title,
+    description: post.data.description,
+    url: `/news/${post.data.slug || post.id}`,
+    date: post.data.date,
+    language: 'en',
+    isExternal: false,
+  })),
+  ...mediaMentions.map((m) => ({
+    source: m.source,
+    title: m.title,
+    description: undefined,
+    url: m.url,
+    date: m.date,
+    language: m.language,
+    isExternal: true,
+  })),
+].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
 const podcastEpisodes = [
   { title: "Piotr Sosnowski and Sara Nowacka", date: "November 19, 2025", description: "Discussion on disinformation resilience in Poland." },
@@ -23,39 +51,60 @@ const podcastEpisodes = [
 ];
 ---
 
-<BaseLayout title="Media" description="Podcast episodes and webinar recordings from the SAUFEX project.">
+<BaseLayout title="Media" description="News, press coverage, podcast episodes and webinar recordings from the SAUFEX project.">
 
   <!-- Page Header -->
   <section class="page-header">
     <div class="container">
-      <span class="page-header__label">Listen & Watch</span>
+      <span class="page-header__label">Read, Listen & Watch</span>
       <h1 class="page-header__title">Media</h1>
       <p class="page-header__subtitle">
-        Podcast episodes featuring experts in disinformation, democracy, and digital resilience, plus recordings from our webinars and events.
+        News and press coverage of the SAUFEX project, plus podcast episodes featuring experts in disinformation, democracy and digital resilience, and recordings from our webinars and events.
       </p>
     </div>
   </section>
 
-  <!-- News -->
-  {newsPosts.length > 0 && (
+  <!-- News & Press -->
+  {coverage.length > 0 && (
     <section class="content-section">
       <div class="container">
         <div class="section__header">
-          <span class="section__title">News</span>
+          <span class="section__title">News & Press</span>
         </div>
 
         <div class="news-grid">
-          {newsPosts.map((post) => (
-            <a href={`/news/${post.data.slug || post.id}`} class="news-card">
+          {coverage.map((item) => (
+            <a
+              href={item.url}
+              class="news-card"
+              target={item.isExternal ? '_blank' : undefined}
+              rel={item.isExternal ? 'noopener' : undefined}
+            >
               <div class="news-card__header">
-                {post.data.partner && <span class="news-card__partner">{post.data.partner}</span>}
+                <span class="news-card__partner">{item.source}</span>
                 <span class="news-card__date">
-                  {new Date(post.data.date).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' })}
+                  {new Date(item.date).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' })}
                 </span>
               </div>
-              <h3 class="news-card__title">{post.data.title}</h3>
-              {post.data.description && (
-                <p class="news-card__excerpt">{post.data.description}</p>
+              <h3 class="news-card__title">{item.title}</h3>
+              {item.description && (
+                <p class="news-card__excerpt">{item.description}</p>
+              )}
+              {(item.language !== 'en' || item.isExternal) && (
+                <div class="news-card__footer">
+                  {item.language !== 'en' && (
+                    <span class="news-card__lang">{item.language.toUpperCase()}</span>
+                  )}
+                  {item.isExternal && (
+                    <span class="news-card__external" aria-label="External link">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                        <polyline points="15 3 21 3 21 9"/>
+                        <line x1="10" y1="14" x2="21" y2="3"/>
+                      </svg>
+                    </span>
+                  )}
+                </div>
               )}
             </a>
           ))}
@@ -63,35 +112,6 @@ const podcastEpisodes = [
       </div>
     </section>
   )}
-
-  <!-- Press & Appearances -->
-  <section class="content-section">
-    <div class="container">
-      <div class="section__header">
-        <span class="section__title">Press & Appearances</span>
-      </div>
-
-      <div class="press-grid">
-        {mediaMentions.map((mention) => (
-          <a href={mention.url} target="_blank" rel="noopener" class="press-card">
-            <span class="press-card__source">{mention.source}</span>
-            <h3 class="press-card__title">{mention.title}</h3>
-            <div class="press-card__meta">
-              <span class="press-card__lang">{mention.language.toUpperCase()}</span>
-              <span>{new Date(mention.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}</span>
-            </div>
-            <div class="press-card__arrow">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
-                <polyline points="15 3 21 3 21 9"/>
-                <line x1="10" y1="14" x2="21" y2="3"/>
-              </svg>
-            </div>
-          </a>
-        ))}
-      </div>
-    </div>
-  </section>
 
   <!-- Podcast Section -->
   <section class="content-section">
@@ -461,57 +481,14 @@ const podcastEpisodes = [
     line-height: 1.6;
   }
 
-  .press-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: var(--space-md);
-    max-width: 900px;
-  }
-
-  .press-card {
-    display: flex;
-    flex-direction: column;
-    padding: var(--space-md);
-    background: var(--color-light);
-    border: 1px solid rgba(0,0,0,0.08);
-    border-radius: 12px;
-    text-decoration: none;
-    transition: all 0.3s;
-    position: relative;
-  }
-
-  .press-card:hover {
-    border-color: var(--color-purple);
-    transform: translateY(-2px);
-  }
-
-  .press-card__source {
-    font-size: 0.7rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: var(--color-purple);
-    margin-bottom: var(--space-xs);
-  }
-
-  .press-card__title {
-    font-family: var(--font-display);
-    font-size: 1rem;
-    font-weight: 600;
-    color: var(--color-dark);
-    margin-bottom: var(--space-sm);
-    flex: 1;
-  }
-
-  .press-card__meta {
+  .news-card__footer {
     display: flex;
     align-items: center;
-    gap: var(--space-sm);
-    font-size: 0.75rem;
-    color: var(--color-muted);
+    gap: var(--space-xs);
+    margin-top: var(--space-sm);
   }
 
-  .press-card__lang {
+  .news-card__lang {
     display: inline-block;
     padding: 2px 6px;
     background: rgba(107, 76, 230, 0.1);
@@ -519,19 +496,18 @@ const podcastEpisodes = [
     font-weight: 600;
     color: var(--color-purple);
     font-size: 0.65rem;
+    letter-spacing: 0.05em;
   }
 
-  .press-card__arrow {
-    position: absolute;
-    top: var(--space-md);
-    right: var(--space-md);
+  .news-card__external {
+    display: inline-flex;
+    align-items: center;
     color: var(--color-muted);
-    transition: all 0.2s;
+    transition: color 0.2s;
   }
 
-  .press-card:hover .press-card__arrow {
+  .news-card:hover .news-card__external {
     color: var(--color-purple);
-    transform: translate(2px, -2px);
   }
 
   @media (max-width: 1024px) {
