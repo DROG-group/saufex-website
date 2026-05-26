@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-05-27"
 updated: "2026-05-27"
 description: "How technology could fit into the Levinasian ethical and Greenean utilitarian frames."
-draft: true
+draft: false
 ---
 What does the Levinas- and Greene-informed framework developed across previous blog posts imply for the design of Saufex’s technological architecture?
 
