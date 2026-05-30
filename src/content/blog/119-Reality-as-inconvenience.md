@@ -12,4 +12,4 @@ Anyone who is in frequent contact with large institutions might have observed th
 ## Pathology
 Some degree of abstraction is unavoidable; institutions need simplified models to make a complex world legible and manageable. The pathology begins when those models become insulated from corrective feedback. At that point, institutions stop engaging with reality and start managing perceptions of reality instead.
 ## Citizen responsibility
- It is therefore the responsibility of citizens to provide that corrective feedback - to force institutions back into contact with the world as it is, rather than the world as they have modeled it to be.
+It is therefore the responsibility of citizens to provide that corrective feedback - to force institutions back into contact with the world as it is, rather than the world as they have modeled it to be.
