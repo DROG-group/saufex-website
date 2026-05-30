@@ -1,6 +1,6 @@
 ---
-title: "(120) Personal ontology"
-slug: "120-Personal-ontology"
+title: "(121) Personal ontology"
+slug: "121-Personal-ontology"
 author: "Onno Hansen-Staszyński"
 date: "2026-06-10"
 updated: "2026-06-10"
