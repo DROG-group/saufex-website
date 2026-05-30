@@ -1,10 +1,10 @@
 ---
-title: "(124) An emergent ethical-political framework"
-slug: "124-An-emergent-ethical-political-framework"
+title: "(125) An emergent ethical-political framework"
+slug: "125-An-emergent-ethical-political-framework"
 author: "Onno Hansen-Staszyński"
 date: "2026-07-01"
 updated: "2026-07-01"
-description: "An attempt to summarize 123 blog posts as a coherent frame."
+description: "An attempt to summarize 124 blog posts as a coherent frame."
 draft: true
 ---
 ## Introduction
