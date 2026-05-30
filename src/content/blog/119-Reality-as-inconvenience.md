@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-05-30"
 updated: "2026-05-30"
 description: "Why citizen feedback is needed.”
-draft: false
+draft: true
 ---
 ## Introduction
 Anyone who is in frequent contact with large institutions might have observed this: for large institutions, reality is an inconvenience. Instead of conforming to facts, they seem to manufacture local versions of reality within the bubbles they control, then use the resulting feedback loop as proof that their policies are correct.
