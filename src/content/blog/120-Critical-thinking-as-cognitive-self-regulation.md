@@ -1,6 +1,6 @@
 ---
-title: "(119) Critical thinking as cognitive self-regulation"
-slug: "119-Critical-thinking-as-cognitive-self-regulation"
+title: "(120) Critical thinking as cognitive self-regulation"
+slug: "120-Critical-thinking-as-cognitive-self-regulation"
 author: "Onno Hansen-Staszyński"
 date: "2026-06-03"
 updated: "2026-06-03"
