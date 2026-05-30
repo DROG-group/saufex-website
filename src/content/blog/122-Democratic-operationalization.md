@@ -1,6 +1,6 @@
 ---
-title: "(121) Democratic operationalization"
-slug: "121-Democratic-operationalization"
+title: "(122) Democratic operationalization"
+slug: "122-Democratic-operationalization"
 author: "Onno Hansen-Staszyński"
 date: "2026-06-15"
 updated: "2026-06-15"
