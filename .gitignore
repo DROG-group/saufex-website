@@ -28,5 +28,6 @@ _scratch/
 CLAUDE.md
 README.md
 
-# Ignore local PDF
+# Ignore local PDFs (working docs, not served — served PDFs live in public/)
 M6 Milestone Handbook and Training Material EMOD.pdf
+D3.2 Report on AI-based Tools effectiveness.pdf
