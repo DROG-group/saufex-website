@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-06-03"
 updated: "2026-06-03"
 description: "Critical thinking is much more than a compentence."
-draft: true
+draft: false
 ---
 ## Introduction
 Critical thinking is usually defined as an individual capacity for logical analysis, evidence evaluation, and misinformation detection. While these competencies remain important, the definition is incomplete because cognition does not occur independently from the environments within which individuals function.
