@@ -1,6 +1,6 @@
 ---
-title: "(124) The information stack"
-slug: "124-The-information-stack"
+title: "(125) The information stack"
+slug: "125-The-information-stack"
 author: "Onno Hansen-Staszyński"
 date: "2026-06-24"
 updated: "2026-06-24"
