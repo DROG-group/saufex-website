@@ -4,7 +4,7 @@ slug: "120-Critical-thinking-as-cognitive-self-regulation"
 author: "Onno Hansen-Staszyński"
 date: "2026-06-03"
 updated: "2026-06-03"
-description: "Critical thinking is much more than a compentence."
+description: "Critical thinking is much more than a competence."
 draft: false
 ---
 ## Introduction
