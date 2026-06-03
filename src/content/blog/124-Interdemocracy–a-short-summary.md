@@ -1,6 +1,6 @@
 ---
-title: "(123) Interdemocracy – a short summary"
-slug: "123-Interdemocracy–a-short-summary"
+title: "(124) Interdemocracy – a short summary"
+slug: "124-Interdemocracy–a-short-summary"
 author: "Onno Hansen-Staszyński"
 date: "2026-06-17"
 updated: "2026-06-17"
