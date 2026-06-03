@@ -8,7 +8,7 @@ description: "From concepts to operational principles for democratic participati
 draft: true
 ---
 ## Introduction
-Blog posts [116](https://saufex.eu/insights/116-On-educational-settings-and-teachers/) to [120](https://saufex.eu/insights/120-Personal-ontology/) progressively developed the theoretical foundations of Interdemocracy. Together, these posts moved from democratic resilience and autopoiesis towards adaptive cognition, personal ontology, and the conditions necessary for legitimate democratic participation. The Interdemocracy process constitutes the procedural operationalization of these earlier theoretical developments.
+Previous blog posts progressively developed the theoretical foundations of Interdemocracy. Together, these posts moved from democratic resilience and autopoiesis towards adaptive cognition, personal ontology, and the conditions necessary for legitimate democratic participation. The Interdemocracy process constitutes the procedural operationalization of these earlier theoretical developments.
 
 ## Resilience
 [Blog post 116](https://saufex.eu/insights/116-On-educational-settings-and-teachers/) argued that democratic resilience cannot be reduced to institutional robustness or fact correction alone. Resilience also depends on the ability of democratic systems to integrate distributed perspectives without collapsing into fragmentation or epistemic domination. The Interdemocracy participation process operationalizes this principle through simultaneous independent input collection, large-scale aggregation of perspectives, iterative ratification, and institutional feedback loops. Rather than treating participation as symbolic consultation, the framework attempts to structure participation as a recursive resilience mechanism.
