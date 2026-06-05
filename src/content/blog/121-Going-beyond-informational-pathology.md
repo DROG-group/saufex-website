@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-06-05"
 updated: "2025-06-05"
 description: " What we ourselves can do."
-draft: true
+draft: false
 ---  
 ## Introduction
 In [blog post 119](https://saufex.eu/insights/119-Reality-as-inconvenience/), the notion of institutional informational pathology was introduced: the condition in which institutions operate through simplified information models that have become insulated from corrective feedback. At that stage, preserving the model becomes institutionally more important than testing whether the model remains accurate. This pathology tends to reveal itself through two characteristic indicators.
