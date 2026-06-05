@@ -14,8 +14,9 @@ At the same time, excessive reliance on centralized informational correction may
 Democratic resilience therefore requires not only informational safeguards, but also participatory and psychosocial conditions enabling reciprocal democratic reality-testing across society and institutions alike.\
 **This policy brief proposes a complementary democratic resilience framework centered on psychosocial integration: the ability of citizens to sustain autonomy, belonging, and achievement within democratic life.**\
 The framework introduces two interconnected mechanisms developed within the SAUFEX project:
-- Interdemocracy - a structured participatory methodology designed to strengthen autonomous perspective formation under conditions of polarization, conformity pressure, and algorithmic influence. 
-- Resilience Councils (RCs) - decentralized civic structures connecting citizen participation, FIMI expertise, institutional responsiveness, and democratic feedback processes.\
+- **Interdemocracy** - a structured participatory methodology designed to strengthen autonomous perspective formation under conditions of polarization, conformity pressure, and algorithmic influence. 
+- **Resilience Councils** (RCs) - decentralized civic structures connecting citizen participation, FIMI expertise, institutional responsiveness, and democratic feedback processes.\
+
 Unlike conventional media literacy or purely narrative- and security-oriented resilience approaches, this framework does not primarily treat democratic vulnerability as an informational deficit. Instead, it approaches psychosocial fragmentation, participatory weakening, and institutional disconnection from lived societal realities as interconnected structural vulnerabilities increasingly exploitable by manipulative actors and potentially amplified by emerging AI systems.\
 Given the European Union’s competence boundaries, this brief does not propose harmonized educational or constitutional mandates. Instead, **it recommends that EU institutions support voluntary guidance frameworks, pilot coordination, exchanges of good practices, interoperable resilience methodologies, research initiatives, and funding mechanisms enabling Member States and civil society actors to adapt Interdemocracy and Resilience Council approaches within their own institutional contexts.**
 
