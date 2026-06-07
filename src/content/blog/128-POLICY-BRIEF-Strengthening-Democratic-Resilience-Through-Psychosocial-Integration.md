@@ -1,9 +1,9 @@
 ---
-title: "(127) POLICY BRIEF - Strengthening Democratic Resilience Through Psychosocial Integration"
-slug: "127-POLICY-BRIEF-Strengthening-Democratic-Resilience-Through-Psychosocial-Integration"
+title: "(128) POLICY BRIEF - Strengthening Democratic Resilience Through Psychosocial Integration"
+slug: "128-POLICY-BRIEF-Strengthening-Democratic-Resilience-Through-Psychosocial-Integration"
 author: "Onno Hansen-Staszyński"
-date: "2026-07-08"
-updated: "2026-07-08"
+date: "2026-07-15"
+updated: "2026-07-15"
 description: " A European Framework for Interdemocracy and Resilience Councils."
 draft: true
 ---
