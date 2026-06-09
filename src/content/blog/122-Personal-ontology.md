@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-06-10"
 updated: "2026-06-10"
 description: "Replacing the concept of “belief-speaking”."
-draft: true
+draft: false
 ---
 ## Introduction
 Lewandowsky describes belief-speaking as the second democratic discourse alongside fact-speaking (see: [blog post 30](https://saufex.eu/insights/30-Specialist-module-Two-perceptions-of-honesty-Lewandowsky/)): a mode of communication through which individuals express commitments, identities, moral intuitions, and social orientations that cannot be reduced to empirical verification alone. The distinction is useful because it recognizes that democratic life cannot operate through factual adjudication alone. Citizens do not merely exchange propositions about objective reality; they also articulate attachments, obligations, fears, aspirations, loyalties, and normative visions concerning how collective life ought to be organized.
