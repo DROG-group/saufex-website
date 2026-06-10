@@ -4,7 +4,7 @@ slug: "129-The-challenge-of-implicit-cruelty"
 author: "Onno Hansen-Staszyński"
 date: "2026-07-22"
 updated: "2026-07-22"
-description: "An anthropological synthesis of where our societies stand and what we could do."
+description: "An anthropological synthesis of where our societies stand and how we might respond."
 draft: true
 ---
 ## The problem
