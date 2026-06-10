@@ -8,13 +8,13 @@ description: "On how partial dislocation is reproduced and amplified."
 draft: true
 ---
 ## Introduction
-In blog post 129, it was argued that many contemporary societies are characterized not by complete alienation or collapse, but by partial dislocation. People continue to function. They maintain relationships, work, participate, and navigate daily life. Yet much of this functioning increasingly resembles getting by rather than flourishing.
+In [blog post 129](https://saufex.eu/insights/129-The-challenge-of-implicit-cruelty/), it was argued that many contemporary societies are characterized not by complete alienation or collapse, but by partial dislocation. People continue to function. They maintain relationships, work, participate, and navigate daily life. Yet much of this functioning increasingly resembles getting by rather than flourishing.
 
 ## Paradox
 This leads to an apparent paradox. If people are still functioning, even if only at the level of getting by, why do contemporary societies appear increasingly polarized, hostile, reactive, and fragile?
 
 ## Continuity systems
-Following-up on blog post 91, a speculative answer may lie in the mechanisms through which people maintain continuity. Human beings require continuity. We need enough stability to experience ourselves as the same person from one day to the next. We need enough predictability to orient ourselves in reality and enough recognition to sustain meaningful relationships.\
+Following-up on [blog post 91](https://saufex.eu/insights/91-Learning-path-Demand-side/), a speculative answer may lie in the mechanisms through which people maintain continuity. Human beings require continuity. We need enough stability to experience ourselves as the same person from one day to the next. We need enough predictability to orient ourselves in reality and enough recognition to sustain meaningful relationships.\
 Historically, continuity was supported by a broad ecology of institutions, communities, traditions, professions, religions, and shared cultural narratives. As many of these structures weakened and social life became ever more fluid, continuity itself became more localized. People increasingly construct continuity through family, friendship, profession, neighborhood, community, shared experiences, and digital affiliations.\
 These continuity systems become the little islands of trust that remain available in conditions of partial dislocation. They provide enough stability for people to get by. Yet continuity systems possess an important characteristic. They are most effective when they disappear from view. The more successfully a continuity system provides stability, meaning, and orientation, the less likely its inhabitants are to recognize it as a continuity system at all.
 
