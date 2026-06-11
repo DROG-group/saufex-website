@@ -26,7 +26,7 @@ The continuity is real. The coherence may be more partial than it appears.
 This possibility introduces a paradox. The same conditions that make continuity systems necessary may prevent ontologies from ever becoming fully complete. Partial dislocation encourages people to defend continuity more strongly because continuity becomes more valuable. Yet the same fluidity that creates this need for continuity may continuously expose people to new situations, experiences, contradictions, ambiguities, and perspectives. As a result, contemporary ontologies may become both hardened and unfinished. They are hardened because they are defended. They are unfinished because they are never fully settled.\
 This may explain why people often appear simultaneously certain and uncertain, defensive and curious, rigid and adaptable. 
 
-## The source of leeway
+## A source of leeway
 If ontologies remain unfinished, then leeway becomes easier to understand. Leeway does not require people to abandon their ontology. It merely requires that their ontology remains incomplete enough to encounter reality beyond itself.\
 The possibility of appreciating another person's experience may arise precisely because one's own ontology remains under continuous construction. A person may defend an interpretation while simultaneously sensing that reality contains more than that interpretation.\
 The continuity system provides stability. The unfinished ontology preserves openness. Perhaps leeway emerges from the tension between the two.
