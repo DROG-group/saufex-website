@@ -23,7 +23,7 @@ Students simultaneously participate in multiple realities: family life, friendsh
 A second difficulty may be even more important. Schools belong to the public domain. They evaluate, assess, observe, record, and certify. These functions are necessary. Yet they also shape how students relate to educational institutions.\
 Many students learn to distinguish between what belongs in school and what belongs outside school. The distinction is often implicit. Some experiences are perceived as appropriate for the classroom. Others are reserved for friendship groups, online communities, family relationships, or private reflection. The result is that educational institutions may continuously interact with students while simultaneously remaining disconnected from significant parts of their lived reality.
 
-Concerns
+## Concerns
 Blog posts [96](https://saufex.eu/insights/96-Inspired-by-pilot-observations-1/) through [104](https://saufex.eu/insights/104-The-facilitator-role-ethic/) explored the role of the facilitator in creating conditions for participation. One recurring observation was that students do not automatically open up simply because they are invited to do so. Discomfort often remains present. Students may hesitate because they assume they will be misunderstood, judged, or ridiculed. At an age in which social exclusion is a genuine concern, becoming vulnerable in front of peers can feel risky. Students may also fear disappointing teachers or appearing too different in the eyes of their classmates.\
 These concerns do not necessarily produce deception. More often, they produce selective visibility. Students reveal enough to participate successfully in educational life. Yet many of the realities that shape them remain hidden.
 
