@@ -8,7 +8,7 @@ description: "Even though no system is in closer proximity to minors than the ed
 draft: true
 ---
 ## Introduction
-[Blog post 137](https://saufex.eu/insights/137-Why-a Digital-Services-Coordinator-needs-a-Youth-Resilience-Council /) argued that a Digital Services Coordinator requires mechanisms that help maintain contact with the realities experienced by minors. A Youth Resilience Council (YRC) supported by Interdemocracy was proposed as one possible solution. Yet the challenge of reality contact is not limited to digital regulation. It may be equally relevant to education itself.\
+[Blog post 137](https://saufex.eu/insights/137-Why-a Digital-Services-Coordinator-needs-a-Youth-Resilience-Council/) argued that a Digital Services Coordinator requires mechanisms that help maintain contact with the realities experienced by minors. A Youth Resilience Council (YRC) supported by Interdemocracy was proposed as one possible solution. Yet the challenge of reality contact is not limited to digital regulation. It may be equally relevant to education itself.\
 At first sight, this may seem surprising. Schools are among the few institutions that interact with young people on a daily basis. Teachers spend years with students. Educational institutions observe students continuously. If any institution possesses access to student reality, it would appear to be schools. Yet many educators recognize a paradox. Despite constant contact, schools often know surprisingly little about the realities students inhabit.
 
 ## The paradox of proximity
