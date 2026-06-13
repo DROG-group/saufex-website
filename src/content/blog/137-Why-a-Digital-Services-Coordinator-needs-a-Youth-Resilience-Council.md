@@ -1,6 +1,6 @@
 ---
 title: "(137) Why a Digital Services Coordinator needs a Youth Resilience Council"
-slug: "137-Why-a Digital-Services-Coordinator-needs-a-Youth-Resilience-Council"
+slug: "137-Why-a-Digital-Services-Coordinator-needs-a-Youth-Resilience-Council"
 author: "Onno Hansen-Staszyński"
 date: "2026-09-04"
 updated: "2026-09-04"
