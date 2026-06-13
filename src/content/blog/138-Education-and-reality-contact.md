@@ -1,4 +1,3 @@
-138 Education and reality contact
 ---
 title: "(138) Education and reality contact"
 slug: "138-Education-and-reality-contact"
