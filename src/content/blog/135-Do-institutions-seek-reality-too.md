@@ -4,7 +4,7 @@ slug: "135-Do-institutions-seek-reality-too"
 author: "Onno Hansen-Staszyński"
 date: "2026-08-28"
 updated: "2026-08-28"
-description: "Autopoietic correction to stay aligned with reality."
+description: "Autopoietic correction are needed to stay aligned with reality."
 draft: true
 ---
 ## Introduction
