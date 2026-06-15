@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-06-15"
 updated: "2026-06-15"
 description: "From concepts to operational principles for democratic participation and institutional design."
-draft: true
+draft: false
 ---
 ## Introduction
 Previous blog posts progressively developed the theoretical foundations of Interdemocracy. Together, these posts moved from democratic resilience and autopoiesis towards adaptive cognition, personal ontology, and the conditions necessary for legitimate democratic participation. The Interdemocracy process constitutes the procedural operationalization of these earlier theoretical developments.
