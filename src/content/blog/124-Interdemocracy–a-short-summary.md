@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-06-16"
 updated: "2026-06-16"
 description: "What you should know about Interdemocracy."
-draft: true
+draft: false
 ---
 ## Introduction
 „Interdemocracy” is a developmental framework for democratic resilience built on the premise that healthy democracy depends first on psychosocial integration rather than on information control or ideological alignment. Drawing on psychosocial integration theories, the model assumes that students become more resistant to alienation, polarization, de-empoweing, and manipulative environments when they experience meaningful forms of agency, recognition, inclusion, and participation within democratic settings.
