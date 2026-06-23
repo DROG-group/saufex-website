@@ -44,7 +44,7 @@ As a result, digital systems increasingly operate directly upon continuity syste
 The target is not necessarily epistemic influence. The target is captivation.
 
 ## The recursive cycle
-A dangerous recursive cycle seems to emerge. Partial dislocation increases dependence on continuity systems. Continuity systems generate naive realism. Naive realism increases sensitivity to disruption. Digital systems amplify disruption. Amplified disruption increases dependence on continuity systems. The cycle then repeats.\
+A dangerous recursive cycle seems to emerge. Partial dislocation increases dependence on continuity systems. Continuity systems generate naive realism. Naive realism increases sensitivity to otherness as a threat. Digital systems amplify this threat. Amplified threats increase dependence on continuity systems. The cycle then repeats.\
 Over time, continuity systems become simultaneously more necessary, more fragile, more defensive, and less aware of their own contingency.\
 This is where fragmentation becomes weaponized. Not because fragmentation itself is new. But because contemporary technologies increasingly operate upon the very mechanisms through which people maintain continuity.
 
