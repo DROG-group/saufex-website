@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-06-24"
 updated: "2026-06-24"
 description: "From information reception to preserving human democratic agency."
-draft: true
+draft: false
 ---
 ## Introduction
 In the blog posts so far, ten information-related layers form a developmental stack in which each higher layer ideally depends on the relative stability of the previous one. The movement is from immediate informational interaction toward the preservation of long-term democratic-human agency under conditions of informational and technological pressure. The framework therefore begins not with ideology or governance, but with the basic problem of how humans encounter and process reality.
