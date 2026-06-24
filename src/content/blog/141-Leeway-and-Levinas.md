@@ -1,5 +1,5 @@
 ---
-title: "(141) Leeway and Levinas?"
+title: "(141) Leeway and Levinas"
 slug: "141-Leeway-and-Levinas"
 author: "Onno Hansen-Staszyński"
 date: "2026-09-30"
