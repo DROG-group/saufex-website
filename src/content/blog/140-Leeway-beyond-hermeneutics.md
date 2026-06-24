@@ -7,50 +7,50 @@ updated: "2026-09-23"
 description: "Leeway from a cognitive and social perspective."
 draft: true
 ---
-**Introduction**
+## Introduction
 Blog posts [131](https://saufex.eu/insights/131-Leeway/) through [139](https://saufex.eu/insights/139-How-leeway-might-become-possible/) approached leeway primarily from a hermeneutic perspective. Leeway was introduced as the possibility of encountering an ontology one does not share without immediately experiencing it as a threat. Curiosity appeared capable of activating this possibility. Sustained engagement sometimes seemed to create a relational space resembling the Japanese concept of ma. Subsequent posts explored how unfinished ontologies, lived reality, rapport, and institutional reality contact might help explain why such moments remain possible. Taken together, these posts described what leeway might look like.\
 In this blog post, leeway is approached from the perspective of cognitive and social theory: How could leeway be seen when applying that lens.
 
-**Not gullibility**
+## Not gullibility
 One possible starting point comes from cognitive science. Human beings know far less than they often imagine. As Steven Sloman and Philip Fernbach have argued (The knowledge illusion, 2017), much of what individuals regard as their own knowledge is in fact distributed across other people, institutions, technologies, and social practices. Individuals routinely rely on knowledge they do not themselves possess. Communication is therefore not optional. It is one of the conditions that make human cognition possible.\
 Precisely because people depend so heavily on information provided by others, communication creates vulnerabilities. Information can be incomplete, mistaken, misleading, manipulative, or deceptive. A recurring assumption in public debate is that people are epistemically gullible and therefore vulnerable to persuasion. As discussed in blog posts [17](https://saufex.eu/insights/17-Not-them-but-us/), [19](https://saufex.eu/insights/19-We-need-two-types-of-discourses/), [25](https://saufex.eu/insights/25-Not-undemocratic-not-illiberal/) and [128](https://saufex.eu/insights/128-POLICY-BRIEF-Strengthening-Democratic-Resilience-Through-Psychosocial-Integration/), this assumption often carries paternalistic implications.\
 Hugo Mercier (Not born yesterday, 2020) argues the opposite. Human beings appear remarkably vigilant. They routinely evaluate the plausibility of claims, the trustworthiness of sources, the competence of speakers, and the consistency of messages with existing knowledge. By default, people tend to reject information that conflicts with their existing understanding of the world. This vigilance is not a flaw. It is one of the reasons communication remains viable. Without vigilance, social learning would quickly become unreliable.\
 This observation resonates with a recurring theme in the previous posts. People do not appear attracted to every claim equally. Rather, they seem particularly attentive to what appears connected to reality. Epistemic vigilance may therefore help explain why perceived reality contact repeatedly emerged as a trigger for leeway in earlier posts.\
 Yet vigilance creates another question: If people are naturally vigilant, how does reality remain capable of challenging existing interpretations?
 
-**Correction**
+## Correction
 A complementary answer emerges from Andy Clark's work (The experience machine, 2023). Several earlier posts suggested that reality itself may play a special role in opening leeway. Clark's work offers one possible explanation. Human beings do not merely interpret reality. They continuously anticipate it. Successful action depends upon maintaining sufficient contact with reality for expectations to be corrected when they no longer work.\
 Discrepancies generate pressure for adjustment. Successful navigation of reality depends upon ongoing correction. In this sense, cognition can be understood as a continuous process of reducing discrepancies between expectations and experience.\
 If this were the whole story, change would appear straightforward. Reality contradicts an expectation. The expectation changes. Yet everyday experience suggests otherwise. People frequently encounter discrepancies without revising their interpretations. They reinterpret evidence, dismiss sources, rationalize inconsistencies, or simply ignore information.\
 The question therefore becomes more precise: How can correction occur within a system that is also designed to be vigilant?\
 The answer may lie not inside individual cognition but in the social contexts within which cognition operates.
 
-**Reasoning and social life**
+## Reasoning and social life
 Mercier offers a useful clue. Reasoning is often discussed as if it were primarily an individual activity. Yet much reasoning appears to have evolved in social contexts. Human beings produce reasons, exchange reasons, evaluate reasons, and challenge reasons. This social character helps explain an otherwise puzzling phenomenon.\
 Reasoning can contribute to correction. But reasoning can also contribute to resistance. People are often highly critical of arguments presented by others while remaining comparatively uncritical of arguments that support their existing positions. At the same time, exposure to discussion, criticism, and competing arguments often improves collective judgement. Reasoning therefore appears neither inherently corrective nor inherently defensive. It can become either. The outcome depends partly on the conditions under which reasoning occurs.\
 At this point another factor becomes relevant. Jay Van Bavel and Dominic Packer (The power of us, 2021) write that people rarely evaluate information independently of their social identities. Beliefs are often embedded within various networks of belonging, trust, status, and group membership. Disagreement therefore carries costs. Revising an interpretation is not merely an epistemic act. It may also affect one's relationship to a group. Robert Kurzban's work points in a similar direction. Human reasoning does not occur in a social vacuum. Individuals navigate reputational concerns, alliances, and social expectations alongside questions of truth and accuracy.\
 Correction, in other words, is rarely only about evidence. It is also about belonging, recognition, status, and social position. Revising an interpretation may change not only what one believes but also how one relates to others and how others relate in return.
 
-**Continuity**
+## Continuity
 At this point another distinction becomes relevant. Many theories assume that people defend beliefs, ideologies, identities, or worldviews as such. Nick Chater's work (The mind is flat, 2018) suggests a somewhat different possibility. What appears as a stable worldview may be less stable than it seems. Human beings continuously construct interpretations that remain sufficiently coherent with previous interpretations. Beneath apparent consistency lies an ongoing process of improvisation.\
 Thought processes proceed in individual cycles. Each cycle builds upon previous cycles without simply repeating them. Continuity emerges not from a fixed ontology but from the ongoing reconstruction of earlier thought cycles, thereby producing coherence. Yet each reconstruction also contains the possibility of deviation. Continuity is therefore preserved not through repetition but through creative variation.\
 What emerges is not a fixed ontology but a continuity. Following Chater, what may be protected is not a stable worldview but coherence and continuity across these ongoing cycles of interpretation.\
 Clark's notion of precision may be particularly relevant here. Not every discrepancy receives equal weight. Expectations associated with identity, belonging, competence, or continuity may acquire greater precision than more peripheral assumptions. As a result, contradictory information may not simply challenge a belief. It may challenge an expectation that has become deeply invested with significance.\
 This helps explain why challenges to existing interpretations may generate resistance. The challenge is not merely intellectual. It threatens coherence and expectations that have acquired high precision over time. The issue is not simply whether a proposition is true or false. The issue is whether coherence can absorb it.
 
-**Liquid modernity**
+## Liquid modernity
 This observation becomes particularly relevant under conditions described by Zygmunt Bauman (Identity, 2004; Liquid life, 2005; Liquid times, 2007). Bauman argues that identities have become fragmented and ontologies insufficient to solidify. This means that continuity and coherence become increasingly valuable because stable forms of orientation become scarcer. Yet continuity also becomes increasingly difficult to stabilize because individuals encounter a growing variety of realities, relationships, and perspectives. Contemporary ontologies therefore appear simultaneously more defensive and more unfinished as was described in blog post [133]()https://saufex.eu/insights/133-The-paradox-of-unfinished-ontologies/.
 
-**Leeway**
+## Leeway
 This brings us back to leeway. The previous blog posts described leeway as a capacity to remain present in the face of ontological difference. The present discussion suggests a complementary description. From a cognitive-social perspective, leeway may be understood as the condition under which epistemic vigilance remains sufficiently open to correction by reality.\
 The distinction matters. Leeway does not require abandoning vigilance. Nor does it require suspending judgement. Leeway remains compatible with doubt, criticism, disagreement, and caution. What changes is that discrepant information remains available for consideration.\
 Reality is not immediately rejected. Continuity and coherence are not immediately defended. The interaction remains open.\
 Taking this perspective, several observations from earlier posts now appear in a different light. Curiosity prolongs engagement with discrepancy. Rapport reduces the social risks associated with revision. Reality contact increases the likelihood that discrepant information will be taken seriously. Each helps create conditions under which vigilance remains open rather than defensive.
 
-**Ma revisited**
+## Ma revisited
 The concept of ma can also be reconsidered from this perspective. Rather than a space in which differences disappear, ma may be a space in which closure is temporarily deferred. Neither participant abandons their continuity system. Neither participant absorbs the other. Both remain sufficiently open for reality to continue participating in the encounter. The result is not agreement. The result is the possibility that reality becomes larger than either participant's continuity system anticipated.
 
-**A tentative mechanism**
+## A tentative mechanism
 The question posed at the beginning of this blog post was whether leeway could be described beyond hermeneutics. A speculative answer seems possible.\
 The previous blog posts repeatedly suggested that reality remains capable of exceeding existing ontologies. Cognitive and social theory may help explain why. Human beings depend upon socially distributed knowledge and therefore upon communication. They possess sophisticated mechanisms of epistemic vigilance that protect them from unreliable information. At the same time, successful action requires continuous correction in response to reality. These demands do not always align.\
 Social identities, reputational concerns, and commitments to continuity can all increase resistance to correction. Under conditions of liquid modernity and partial dislocation, continuity becomes increasingly valuable while simultaneously becoming more difficult to maintain.\
