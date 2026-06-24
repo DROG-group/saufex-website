@@ -30,7 +30,7 @@ The question is whether institutions sometimes respond not only to evidence itse
 Fact-speaking provides evidence, accountability, and reasoned argument. These functions remain indispensable. Yet institutions may also require some form of belief-speaking. Not in the sense of replacing evidence with conviction, but in the sense of remaining visibly connected to lived experiences. If institutions become exclusively fact-speaking, they may risk appearing detached from reality. If institutions become exclusively belief-speaking, they may risk abandoning evidence. The challenge may therefore not be choosing between the two. The challenge may be preserving a visible connection between them.
 
 ## The temptation
-If this interpretation contains some truth, then institutions may face a temptation similar to that faced by individuals. Individuals seek continuity by defending ontologies. Institutions may seek legitimacy by demonstrating proximity to reality.\
+In this interpretation, institutions may face a temptation similar to that faced by individuals. Individuals seek continuity by defending ontologies. Institutions may seek legitimacy by demonstrating proximity to reality.\
 Sometimes this may be beneficial. Institutions may become more responsive to experiences that were previously ignored. Sometimes it may be problematic. Institutions may become vulnerable to symbolic politics, moral panics, or highly visible experiences that overshadow more complex evidence. The same mechanism could therefore strengthen or weaken democratic governance.
 
 ## A tentative question
