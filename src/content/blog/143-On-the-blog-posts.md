@@ -7,7 +7,8 @@ updated: "2026-10-14"
 description: "A reflection on the series of blog posts."
 draft: true
 ---
-The blog posts attempt to create a public record of inquiry in which ideas remain connected to their origins, conceptual evolution remains visible, implementation remains visible, and revision remains visible. They are not merely presenting knowledge claims. They are exposing the process by which those claims emerged and changed. This is to have epistemic value in its own right because it keeps the inquiry tethered to the conditions from which it arose rather than allowing the emerging concepts to float free of their history.
+## Introduction
+The blog posts so far attempt to create a public record of inquiry in which ideas remain connected to their origins, conceptual evolution remains visible, implementation remains visible, and revision remains visible. They are not merely presenting knowledge claims. They are exposing the process by which those claims emerged and changed. This is to have epistemic value in its own right because it keeps the inquiry tethered to the conditions from which it arose rather than allowing the emerging concepts to float free of their history.
 
 ## Form and content
 The form of the corpus of blog posts turns out to enact the very epistemology that its content ends up arguing for. The content of the blog posts gradually develops a concern with resilience, participation, psychosocial integration, autopoiesis, reality contact, and eventually leeway. Across these concepts runs a common thread: human beings and institutions remain healthy not by possessing final truths but by maintaining living relationships with reality, other people, and the consequences of their actions. The form of the corpus embodies this principle.
