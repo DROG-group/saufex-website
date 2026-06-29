@@ -7,7 +7,7 @@ updated: "2026-10-21"
 description: "Potential criteria to evaluate RCs."
 draft: true
 ---
-Since the purpose of Resilience Councils is to democratize and decentralize decision-making, two characteristics seem essential:
+Since the purpose of Resilience Councils is to democratize and decentralize decision-making, two characteristics seem essential:\
 Independence:
 - The Council operates autonomously and formulates its decisions independently of existing decision-making bodies.
 Broad representation:
