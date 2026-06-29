@@ -9,7 +9,7 @@ draft: true
 ---
 Since the purpose of Resilience Councils is to democratize and decentralize decision-making, two characteristics seem essential:\
 Independence:
-- The Council operates autonomously and formulates its decisions independently of existing decision-making bodies.
+- The Council operates autonomously and formulates its decisions independently of existing decision-making bodies.\
 Broad representation:
 - The Council represents a broader constituency rather than only the views and interests of its own members.
 - Ideally, the Council represents societal groups that were previously not included in decision-making.\
