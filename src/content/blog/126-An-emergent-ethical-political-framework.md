@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-07-01"
 updated: "2026-07-01"
 description: "An attempt to summarize earlier blog posts as a coherent frame."
-draft: true
+draft: false
 ---
 ## Introduction
 Societies collapse under two opposite but equally destructive conditions: when power disappears entirely, and when power loses its ethical and reality-based relation to human beings. A society without power cannot coordinate collective action, maintain order, or respond to crisis. Yet power detached from ethical responsibility and critical feedback eventually corrodes the very social bonds that make collective life possible. Power is therefore both necessary and dangerous. Its coercive and violent capacities must remain constrained by ethical obligations grounded in human relations and non-hierarchical epistemic feedback loops.
