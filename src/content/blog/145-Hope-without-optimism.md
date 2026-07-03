@@ -12,7 +12,8 @@ draft: true
 If you'd receive the attached selection of blog posts [132, 134, 139, 140, 141, 142], how would you interpret Interdemocracy?\
 **ChatGPT**\
 Based on these blog posts, I would interpret Interdemocracy not primarily as a pedagogy of deliberation, participation, or dialogue, but as an epistemic infrastructure. Its purpose is to create the conditions under which people can perceive aspects of reality that their own continuity systems cannot generate on their own.\
-Several themes consistently point in that direction.\
+Several themes consistently point in that direction.
+
 **1. The core problem is not disagreement but epistemic closure**\
 Throughout these posts, democracy is not presented as suffering mainly from polarization, misinformation, or lack of civic skills. Those are symptoms.\
 The deeper problem is that people live within what the author calls continuity systems—ongoing constructions of coherence that are simultaneously necessary and defensive. They allow us to function, but they also filter reality.\
