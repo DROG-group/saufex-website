@@ -25,7 +25,7 @@ It is carefully distinguished from:
 - empathy,
 - agreement,
 - compromise,
-- consensus.\
+- consensus.
 
 Instead, it is defined as the temporary suspension of the assumption that one's ontology exhausts reality.\
 That is quite a radical move.\
