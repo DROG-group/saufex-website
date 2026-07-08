@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-07-08"
 updated: "2026-07-08"
 description: "The paradigm shift underlying the need for epistemic democratization and decentralization."
-draft: true
+draft: false
 ---
 ## Introduction
 The design of liberal democracy requires an upgrade. Since the constitutional frameworks of Montesquieu and James Madison were developed, the nature of democratic vulnerability has changed profoundly. Whereas the central challenge of early liberal constitutionalism was the decentralization of coercive political power against monarchy and autocracy, contemporary democracies increasingly face the concentration of epistemic and informational power in the hands of big tech and media molochs. It is time for a new round of democratization and decentralization.
