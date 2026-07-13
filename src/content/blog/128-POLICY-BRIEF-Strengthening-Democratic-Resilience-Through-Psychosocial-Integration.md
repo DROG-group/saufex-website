@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-07-15"
 updated: "2026-07-15"
 description: "A European Framework for Interdemocracy and Resilience Councils. Proposed priority pilot group: adolescents aged thirteen to eighteen."
-draft: true
+draft: false
 ---
 ## Executive Summary
 European democracies face increasing pressure from Foreign Information Manipulation and Interference (FIMI), affective polarization, declining institutional trust, and digitally accelerated social fragmentation. Existing responses have largely focused on reactive measures such as content moderation, debunking, platform governance, and cybersecurity-oriented interventions. While these instruments remain necessary, they insufficiently address the broader democratic conditions that enable manipulative dynamics to succeed.\
