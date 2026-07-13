@@ -4,7 +4,7 @@ slug: "128-POLICY-BRIEF-Strengthening-Democratic-Resilience-Through-Psychosocial
 author: "Onno Hansen-Staszyński"
 date: "2026-07-15"
 updated: "2026-07-15"
-description: "A European Framework for Interdemocracy and Resilience Councils. Proposed pilot group: adolescents aged thirteen to eighteen."
+description: "A European Framework for Interdemocracy and Resilience Councils. Proposed priority pilot group: adolescents aged thirteen to eighteen."
 draft: true
 ---
 ## Executive Summary
