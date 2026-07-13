@@ -4,7 +4,7 @@ slug: "128-POLICY-BRIEF-Strengthening-Democratic-Resilience-Through-Psychosocial
 author: "Onno Hansen-Staszyński"
 date: "2026-07-15"
 updated: "2026-07-15"
-description: " A European Framework for Interdemocracy and Resilience Councils."
+description: "A European Framework for Interdemocracy and Resilience Councils. Proposed pilot group: adolescents aged thirteen to eighteen."
 draft: true
 ---
 ## Executive Summary
@@ -56,10 +56,16 @@ Degradation at any of these layers may weaken democratic resilience overall.
 - **Supporting Zero-Trust AI Literacy** The European Commission could support voluntary AI literacy guidance frameworks emphasizing that generative AI systems are probabilistic rather than authoritative, simulated rather than empathic, and fundamentally incapable of reliably guaranteeing truthfulness or epistemic reliability without human oversight. awareness that these systems are optimized primarily for coherence, fluency, contextual plausibility, and user responsiveness rather than factual accuracy. AI literacy initiatives could additionally address synthetic persuasion dynamics, hallucination risks, cognitive outsourcing, social dependency effects, erosion of perspective ownership, and the importance of preserving human interpretive agency, critical judgment, and democratic accountability.
 - **Preserving Human Accountability** Within ongoing implementation of the Digital Services Act (DSA), the EU could continue encouraging approaches in which automated systems support detection and clustering while judgment-level decisions and recommendations remain subject to meaningful human oversight, democratic accountability, and procedural transparency.
 
-## 7. Supporting Privacy-Preserving Participation Infrastructure
+## Minors
+The most appropriate first implementation of Interdemocracy, Resilience Councils, and governed AI is with minors. They are among the populations most directly affected by the design and governance of digital platforms, yet their perspectives are only marginally incorporated into the public decision-making processes that shape these environments. Recent debates on smartphone restrictions, social media bans, and earlier public-health measures during the COVID-19 pandemic demonstrate that policies with profound consequences for minors have generally been developed without a systematic procedure for eliciting and integrating their experiences. This creates both a democratic and an epistemic deficit. From a democratic perspective, children have a recognized right to express their views on matters affecting them. Epistemically, excluding a highly relevant population experiencing platform-mediated risks deprives the DSC of an important source of evidence about those risks.\
+Minors also constitute an unusually suitable pilot population from a methodological perspective. Educational institutions make it possible to present identical questions simultaneously to large numbers of participants. thereby preventing prior interaction before individual reflection takes place. Interdemocracy reinforces this independence through its facilitation methodology, ensuring that participants formulate their perspectives autonomously. Consequently, the resulting observations satisfy one of the key conditions identified by James Surowiecki for extracting the wisdom of crowds: the independence of individual judgments. The process thus produces more than conventional consultation or opinion polling that is subject to social biases. It generates a structured, procedurally robust, and epistemically defensible layer of societal evidence that complements the DSC's existing proxy-based information sources while simultaneously strengthening democratic resilience among the youngest citizens.\
+The suitability of the proposed infrastructure for minors is highest for adolescents - young people aged thirteen to eighteen. Thirteen is the threshold age proposed by the recent report [Child safety online – protecting and empowering minors in a digital world](https://commission.europa.eu/document/download/d833504d-5ec3-4fac-945f-38e7d0bd5326_en?filename=Special-panel-report.pdf). The report states: “Until they demonstrate that their services are safe by design, social media and other digital services providers should have restricted access to children under the age of 13 in the EU.” It adds that for older minors “further precautionary age restrictions may be introduced by Member States”. These restrictions should be introduced only after consultation with the minors potentially affected.
+
+
+## 8. Supporting Privacy-Preserving Participation Infrastructure
 The European Union could support research and innovation programs exploring decentralized participation infrastructures in which individuals by design rather than by regulation are serviced with greater control over personal data, participation mechanisms with minimized behavioral incentives and profiling, and applications operating within citizen-controlled data environments. 
 
-## 8. Strategic Contribution of the Framework
+## 9. Strategic Contribution of the Framework
 
 | **Existing Approach** | **Primary Focus** | **Limitation** | **Contribution of This Framework** |
 | --- | --- | ---| --- |
@@ -74,5 +80,5 @@ European democratic resilience cannot rely exclusively on reactive defense mecha
 Democratic systems may themselves become vulnerable when citizens increasingly experience governance primarily through informational management rather than reciprocal participation and democratic responsiveness.\
 **Interdemocracy and Resilience Councils offer a complementary framework focused on psychosocial integration, participatory legitimacy, institutional responsiveness, autonomous perspective formation, and continuous democratic correction.**\
 **Rather than prescribing uniform democratic models, the European Union can play a constructive enabling role by supporting experimentation, interoperability, research, pilot coordination, and exchanges of good practices across Member States while respecting subsidiarity, institutional pluralism, constitutional diversity, and freedom of expression.**\
-**By strengthening participatory capacity, institutional adaptability, and democratic reality-testing simultaneously, European democracies may improve not only resistance to manipulation, but also their long-term capacity for legitimate self-correction under conditions of rapid social and technological change.**
-
+**By strengthening participatory capacity, institutional adaptability, and democratic reality-testing simultaneously, European democracies may improve not only resistance to manipulation, but also their long-term capacity for legitimate self-correction under conditions of rapid social and technological change.**\
+**Our advice is to start piloting the proposed infrastructure for minors aged thirteen to eighteen.**
