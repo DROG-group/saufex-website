@@ -2,8 +2,8 @@
 title: "(128) POLICY BRIEF - Strengthening Democratic Resilience Through Psychosocial Integration"
 slug: "128-POLICY-BRIEF-Strengthening-Democratic-Resilience-Through-Psychosocial-Integration"
 author: "Onno Hansen-Staszyński"
-date: "2026-07-15"
-updated: "2026-07-15"
+date: "2026-07-13"
+updated: "2026-07-13"
 description: "A European Framework for Interdemocracy and Resilience Councils. Proposed priority pilot group: adolescents aged thirteen to eighteen."
 draft: false
 ---
