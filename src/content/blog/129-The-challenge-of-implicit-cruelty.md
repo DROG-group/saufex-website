@@ -2,10 +2,10 @@
 title: " (129) The challenge of implicit cruelty"
 slug: "129-The-challenge-of-implicit-cruelty"
 author: "Onno Hansen-Staszyński"
-date: "2026-07-22"
-updated: "2026-07-22"
+date: "2026-07-15"
+updated: "2026-07-15"
 description: "An anthropological synthesis of where our societies stand and how we might respond."
-draft: true
+draft: false
 ---
 ## The problem
 Modern societies increasingly seem to mistake functional survivability for meaningful human flourishing. This confusion shapes not only politics and economics, but also how contemporary societies understand agency, autonomy, resilience, participation, and even personhood itself.
