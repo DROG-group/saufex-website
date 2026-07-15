@@ -2,8 +2,8 @@
 title: "(134) What opens leeway?"
 slug: "134-What-opens-leeway"
 author: "Onno Hansen-Staszyński"
-date: "2026-08-26"
-updated: "2026-08-26"
+date: "2026-08-19"
+updated: "2026-08-19"
 description: "Reality as an antidote to ontological hardening."
 draft: true
 ---
