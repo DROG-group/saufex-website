@@ -2,8 +2,8 @@
 title: "(130) Continuity systems and the crisis of normality"
 slug: "130-Continuity-systems-and-the-crisis-of-normality"
 author: "Onno Hansen-Staszyński"
-date: "2026-07-29"
-updated: "2026-07-29"
+date: "2026-07-22"
+updated: "2026-07-22"
 description: "On how partial dislocation is reproduced and amplified."
 draft: true
 ---
