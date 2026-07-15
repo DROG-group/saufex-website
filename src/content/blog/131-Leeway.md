@@ -2,8 +2,8 @@
 title: "(131) Leeway"
 slug: "131-Leeway"
 author: "Onno Hansen-Staszyński"
-date: "2026-08-05"
-updated: "2026-08-05"
+date: "2026-07-29"
+updated: "2026-07-29"
 description: "A possible antidote to democratic pathologies."
 draft: true
 ---
