@@ -2,8 +2,8 @@
 title: "(132) Leeway – curiosity - ma"
 slug: "132-Leeway–curiosity–ma"
 author: "Onno Hansen-Staszyński"
-date: "2026-08-12"
-updated: "2026-08-12"
+date: "2026-08-05"
+updated: "2026-08-05"
 description: "Linking leeway to classroom observations."
 draft: true
 ---
