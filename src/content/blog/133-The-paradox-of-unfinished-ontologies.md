@@ -2,8 +2,8 @@
 title: "(133) The paradox of unfinished ontologies"
 slug: "133-The-paradox-of-unfinished-ontologies"
 author: "Onno Hansen-Staszyński"
-date: "2026-08-19"
-updated: "2026-08-19"
+date: "2026-08-12"
+updated: "2026-08-12"
 description: "Leeway as a possible effect of identity fragmentation."
 draft: true
 ---
