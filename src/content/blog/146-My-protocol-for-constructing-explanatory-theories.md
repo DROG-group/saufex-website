@@ -16,30 +16,30 @@ The method is to optimize for transparency of theory construction. The reader sh
 - Follow the governing transition rule: “Because concept A cannot explain phenomenon X, concept B must be introduced.”
 - Introduce only concepts that resolve genuine explanatory gaps. Every concept must earn its place by adding necessary explanatory power.
   - Do not introduce a concept merely because it names the phenomenon that requires explanation. Distinguish between describing an unresolved challenge and explaining its mechanism. A concept earns its place only if it identifies the underlying process that makes the resolution possible. Before introducing any concept, ask: “Does this concept explain why the transition can occur, or does it only describe the fact that the transition occurs?” If it only describes the phenomenon, delay its introduction and continue searching for the mechanism.
-  -Prefer mechanism-level concepts over bridge concepts. Avoid concepts that merely connect two stages by restating the problem in new language. Each introduced concept should reduce the explanatory burden by showing how a previously impossible step becomes possible.
-  -For every introduced concept, explicitly state the failure of the previous framework that makes the concept necessary. Then state what new explanatory capacity the concept provides. If either cannot be stated clearly, the concept has not yet earned its place.
+  - Prefer mechanism-level concepts over bridge concepts. Avoid concepts that merely connect two stages by restating the problem in new language. Each introduced concept should reduce the explanatory burden by showing how a previously impossible step becomes possible.
+  - For every introduced concept, explicitly state the failure of the previous framework that makes the concept necessary. Then state what new explanatory capacity the concept provides. If either cannot be stated clearly, the concept has not yet earned its place.
 - Maintain a strict distinction between phenomenon, mechanism, and principle. Do not introduce a phenomenon-level description as if it were a mechanism. Do not introduce a mechanism as if it were the final principle. Each conceptual layer should only appear when the previous layer reaches its explanatory limit.
-  -Phenomenon: What happens? 
-  -Mechanism: What process allows it to happen? 
-  -Principle: What deeper rule explains why that mechanism exist
-  -Ensure every paragraph performs one of three functions: introduces a necessary distinction,  resolves an explanatory challenge,  establishes why the next conceptual step is required. 
+  - Phenomenon: What happens? 
+  - Mechanism: What process allows it to happen? 
+  - Principle: What deeper rule explains why that mechanism exist
+  - Ensure every paragraph performs one of three functions: introduces a necessary distinction,  resolves an explanatory challenge,  establishes why the next conceptual step is required. 
 - Remove any paragraph whose absence does not create an explanatory gap. 
 ## Filters
 - Necessity filter: Is the previous framework insufficient?
 - Explanatory power filter: Does this new concept explain the transition, or merely label it?
 - Level filter: Maintain a strict distinction between phenomenon, mechanism, and principle. Do not introduce a phenomenon-level description as if it were a mechanism. Do not introduce a mechanism as if it were the final principle. Each conceptual layer should only appear when the previous layer reaches its explanatory limit.
-  -Phenomenon: What happens? 
-  -Mechanism: What process allows it to happen? 
-  -Principle: What deeper rule explains why that mechanism exists?
+  - Phenomenon: What happens? 
+  - Mechanism: What process allows it to happen? 
+  - Principle: What deeper rule explains why that mechanism exists?
 - Constraint filter: Given what has already been established, what is the least conceptual change that makes further explanation possible?
 - Coherence filters:
-  -Generative coherence of concepts: Is very concept introduced only when forced by an explanatory gap?
-  -Generative coherence of sources: Is every source introduced only when it supplies the concept needed to cross that gap.
+  - Generative coherence of concepts: Is very concept introduced only when forced by an explanatory gap?
+  - Generative coherence of sources: Is every source introduced only when it supplies the concept needed to cross that gap.
 - Explanatory filter - ask:
-  -Which thinker first encountered this precise explanatory limit?
-  -What minimal concept did they introduce?
-  -Does that concept resolve only the current gap, or does it import unnecessary theoretical commitments?
-  -Is there an earlier or simpler concept that achieves the same explanatory advance?
+  - Which thinker first encountered this precise explanatory limit?
+  - What minimal concept did they introduce?
+  - Does that concept resolve only the current gap, or does it import unnecessary theoretical commitments?
+  - Is there an earlier or simpler concept that achieves the same explanatory advance?
 ## Structure
 - Establish the initial framework. 
 - Identify an unresolved challenge in the form of an explanatory gap. 
