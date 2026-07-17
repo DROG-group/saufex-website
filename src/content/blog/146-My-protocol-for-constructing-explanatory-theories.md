@@ -18,8 +18,7 @@ The method is to optimize for transparency of theory construction. The reader sh
   - Do not introduce a concept merely because it names the phenomenon that requires explanation. Distinguish between describing an unresolved challenge and explaining its mechanism. A concept earns its place only if it identifies the underlying process that makes the resolution possible. Before introducing any concept, ask: “Does this concept explain why the transition can occur, or does it only describe the fact that the transition occurs?” If it only describes the phenomenon, delay its introduction and continue searching for the mechanism.
   - Prefer mechanism-level concepts over bridge concepts. Avoid concepts that merely connect two stages by restating the problem in new language. Each introduced concept should reduce the explanatory burden by showing how a previously impossible step becomes possible.
   - For every introduced concept, explicitly state the failure of the previous framework that makes the concept necessary. Then state what new explanatory capacity the concept provides. If either cannot be stated clearly, the concept has not yet earned its place.
-- Ensure every paragraph performs one of three functions: introduces a necessary distinction,  resolves an explanatory challenge,  establishes why the next conceptual step is required. 
-- Remove any paragraph whose absence does not create an explanatory gap. 
+- Ensure every paragraph performs one of three functions: introduces a necessary distinction,  resolves an explanatory challenge,  establishes why the next conceptual step is required. Remove any paragraph that does not perform any of these three functions. 
 ## Filters
 - Necessity filter: Is the previous framework insufficient?
 - Explanatory power filter: Does this new concept explain the transition, or merely label it?
