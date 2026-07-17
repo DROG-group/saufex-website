@@ -20,8 +20,8 @@ The method is to optimize for transparency of theory construction. The reader sh
   - For every introduced concept, explicitly state the failure of the previous framework that makes the concept necessary. Then state what new explanatory capacity the concept provides. If either cannot be stated clearly, the concept has not yet earned its place.
 - Ensure every paragraph performs one of three functions: introduces a necessary distinction,  resolves an explanatory challenge,  establishes why the next conceptual step is required. Remove any paragraph that does not perform any of these three functions. 
 ## Filters
-- Necessity filter: Is the previous framework insufficient?
-- Explanatory power filter: Does this new concept explain the transition, or merely label it?
+- Necessity filter: Is a previous framework insufficient?
+- Explanatory power filter: Does a new concept explain the transition, or merely label it?
 - Level filter: Maintain a strict distinction between phenomenon, mechanism, and principle. Do not introduce a phenomenon-level description as if it were a mechanism. Do not introduce a mechanism as if it were the final principle. Each conceptual layer should only appear when the previous layer reaches its explanatory limit.
   - Phenomenon: What happens? 
   - Mechanism: What process allows it to happen? 
@@ -31,7 +31,7 @@ The method is to optimize for transparency of theory construction. The reader sh
   - Generative coherence of concepts: Is very concept introduced only when forced by an explanatory gap?
   - Generative coherence of sources: Is every source introduced only when it supplies the concept needed to cross that gap.
 - Explanatory filter - ask:
-  - Which thinker first encountered this precise explanatory limit?
+  - Which thinker or researcher first encountered this precise explanatory limit?
   - What minimal concept did they introduce?
   - Does that concept resolve only the current gap, or does it import unnecessary theoretical commitments?
   - Is there an earlier or simpler concept that achieves the same explanatory advance?
