@@ -21,8 +21,8 @@ The method is to optimize for transparency of theory construction. The reader sh
 - Maintain a strict distinction between phenomenon, mechanism, and principle. Do not introduce a phenomenon-level description as if it were a mechanism. Do not introduce a mechanism as if it were the final principle. Each conceptual layer should only appear when the previous layer reaches its explanatory limit.
   - Phenomenon: What happens? 
   - Mechanism: What process allows it to happen? 
-  - Principle: What deeper rule explains why that mechanism exist
-  - Ensure every paragraph performs one of three functions: introduces a necessary distinction,  resolves an explanatory challenge,  establishes why the next conceptual step is required. 
+  - Principle: What deeper rule explains why that mechanism exist?
+- Ensure every paragraph performs one of three functions: introduces a necessary distinction,  resolves an explanatory challenge,  establishes why the next conceptual step is required. 
 - Remove any paragraph whose absence does not create an explanatory gap. 
 ## Filters
 - Necessity filter: Is the previous framework insufficient?
