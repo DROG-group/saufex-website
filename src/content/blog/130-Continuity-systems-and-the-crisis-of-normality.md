@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-07-22"
 updated: "2026-07-22"
 description: "On how partial dislocation is reproduced and amplified."
-draft: true
+draft: false
 ---
 ## Introduction
 In [blog post 129](https://saufex.eu/insights/129-The-challenge-of-implicit-cruelty/), it was argued that many contemporary societies are characterized not by complete alienation or collapse, but by partial dislocation. People continue to function. They maintain relationships, work, participate, and navigate daily life. Yet much of this functioning increasingly resembles getting by rather than flourishing.
