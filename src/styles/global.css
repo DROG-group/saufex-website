@@ -794,36 +794,85 @@ button:focus-visible {
   margin-top: var(--space-sm);
 }
 
-.footer__social-label {
-  margin-top: var(--space-md);
-  font-size: 0.75rem;
+/* Shared social links (component: SocialLinks.astro) */
+.social__label {
   font-weight: 600;
-  letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: rgba(255,255,255,0.55);
+  letter-spacing: 0.08em;
 }
 
-.footer__social {
+.social__row {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-sm);
-  margin-top: var(--space-sm);
 }
 
-.footer__social a {
+.social__row a {
   display: flex;
   align-items: center;
   justify-content: center;
+  border-radius: 50%;
+  transition: transform 0.2s, background 0.2s, color 0.2s, border-color 0.2s;
+}
+
+/* Footer variant — dark background */
+.social--footer .social__label {
+  display: block;
+  margin-top: var(--space-md);
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.55);
+}
+
+.social--footer .social__row {
+  margin-top: var(--space-sm);
+}
+
+.social--footer .social__row a {
   width: 44px;
   height: 44px;
   background: rgba(255,255,255,0.1);
-  border-radius: 50%;
   color: rgba(255,255,255,0.8);
-  transition: transform 0.2s, background 0.2s, color 0.2s;
 }
 
-.footer__social a:hover {
+.social--footer .social__row a:hover {
   background: var(--color-purple);
+  color: white;
+  transform: translateY(-3px);
+}
+
+/* Hero variant — large, light background, top of the home page */
+.social--hero {
+  margin-top: var(--space-xl);
+}
+
+.social--hero .social__label {
+  display: block;
+  font-size: 0.8rem;
+  letter-spacing: 0.15em;
+  color: var(--color-muted);
+  margin-bottom: var(--space-sm);
+}
+
+.social--hero .social__row {
+  gap: var(--space-sm);
+}
+
+.social--hero .social__row a {
+  width: 56px;
+  height: 56px;
+  background: rgba(107, 76, 230, 0.08);
+  border: 1px solid rgba(107, 76, 230, 0.18);
+  color: var(--color-purple);
+}
+
+.social--hero .social__row a svg {
+  width: 26px;
+  height: 26px;
+}
+
+.social--hero .social__row a:hover {
+  background: var(--color-purple);
+  border-color: var(--color-purple);
   color: white;
   transform: translateY(-3px);
 }
