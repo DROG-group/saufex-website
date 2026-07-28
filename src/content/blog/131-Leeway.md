@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-07-29"
 updated: "2026-07-29"
 description: "A possible antidote to democratic pathologies."
-draft: true
+draft: false
 ---
 ## Introduction
 [Blog post 91](https://saufex.eu/insights/91-Learning-path-Demand-side/) explored how personal ontologies emerge from lived experience. Experiences become interpretations. Interpretations become patterns. Patterns gradually become assumptions about how reality works. Biases such as confirmation bias and naïve realism help stabilize these assumptions, while social groups reinforce them further.\
