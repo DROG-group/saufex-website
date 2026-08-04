@@ -8,7 +8,7 @@ const publications = [
     url: "/Interdemocracy-Future-of-Education-2026.pdf",
     author: "Onno Hansen-Staszyński & Beata Staszyńska-Hansen",
     description: "A paper on the educational dimension of the EU Horizon project SAUFEX. It argues that including non-state experts alone cannot democratise responses to Foreign Information Manipulation and Interference (FIMI); meaningful democratisation needs structured public participation. The paper presents Interdemocracy as a didactical framework through which adolescents take part in structured consultation while developing citizen skills, managing the epistemic asymmetry between teachers and students so authentic student participation is preserved. Our contribution to the 16th International Conference The Future of Education (Florence, 18–19 June 2026), published in the conference proceedings on pages 499–505.",
-    video: "https://www.youtube.com/watch?v=XszY-VbnQO0",
+    presentation: "/Interdemocracy-Future-of-Education-2026-Slides.pdf",
     status: "published"
   },
   {
@@ -329,10 +329,10 @@ const deliverables = [
                 </svg>
               </div>
             </a>
-            {pub.video && (
-              <a href={pub.video} target="_blank" rel="noopener" class="resource-video-link">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
-                Watch the accompanying video
+            {pub.presentation && (
+              <a href={pub.presentation} target="_blank" rel="noopener" class="resource-aux-link">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+                View the presentation
               </a>
             )}
             </div>
@@ -680,7 +680,7 @@ const deliverables = [
     flex-direction: column;
   }
 
-  .resource-video-link {
+  .resource-aux-link {
     display: inline-flex;
     align-items: center;
     gap: 8px;
@@ -688,13 +688,12 @@ const deliverables = [
     margin: 8px 0 0 calc(44px + var(--space-md));
     font-size: 0.8rem;
     font-weight: 600;
-    color: #c4302b;
+    color: var(--color-purple);
     text-decoration: none;
     transition: color 0.2s;
   }
 
-  .resource-video-link:hover {
-    color: #ff0000;
+  .resource-aux-link:hover {
     text-decoration: underline;
   }
 
