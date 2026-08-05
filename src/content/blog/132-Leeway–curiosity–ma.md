@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-08-05"
 updated: "2026-08-05"
 description: "Linking leeway to classroom observations."
-draft: true
+draft: false
 ---
 ## Introduction
 If [blog post 131](https://saufex.eu/insights/131-Leeway/) is correct, meaningful coexistence remains possible because human beings possess a degree of leeway: the capacity to encounter an ontology they do not share without immediately experiencing it as a threat or as irrelevant.
