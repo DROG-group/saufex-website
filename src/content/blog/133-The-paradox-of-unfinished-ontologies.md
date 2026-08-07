@@ -2,10 +2,10 @@
 title: "(133) The paradox of unfinished ontologies"
 slug: "133-The-paradox-of-unfinished-ontologies"
 author: "Onno Hansen-Staszyński"
-date: "2026-08-12"
-updated: "2026-08-12"
+date: "2026-08-07"
+updated: "2026-08-07"
 description: "Leeway as a possible effect of identity fragmentation."
-draft: true
+draft: false
 ---
 ## Introduction
 Blog posts [129](https://saufex.eu/insights/129-The-challenge-of-implicit-cruelty/) and [130](https://saufex.eu/insights/130-Continuity-systems-and-the-crisis-of-normality/) argued that several characteristics of contemporary societies appear to strengthen ontology hardening. Partial dislocation increases dependence on continuity systems. Continuity systems become invisible and experienced as universal normality. Affective polarization encourages disagreement to be interpreted as threat. Digital technologies increasingly amplify activation, conflict, status anxieties, and symbolic distinctions.\
