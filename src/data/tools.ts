@@ -32,7 +32,7 @@ Whether you're a journalist, fact-checker, policy maker, or educator, EMOD gives
     status: 'live',
     cta: {
       text: 'Try EMOD',
-      url: 'https://emod.saufex.eu'
+      url: 'https://emodplus.tactcheck.com/'
     },
     features: [
       'Expert-contributed content',
