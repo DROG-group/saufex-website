@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-08-19"
 updated: "2026-08-19"
 description: "Reality as an antidote to ontological hardening."
-draft: true
+draft: false
 ---
 ## Introduction
 Several strands in the series of blog posts appear to converge on a common question. Blog posts [96]( https://saufex.eu/insights/96-Inspired-by-pilot-observations-1/) through [104]( https://saufex.eu/insights/104-The-facilitator-role-ethic/) explored the role of the facilitator in participatory settings. One recurring observation was that identical procedures could produce very different outcomes. Students sometimes remained formal, cautious, and detached. At other times they opened up, became curious, and engaged with one another in unexpected ways. The difference often seemed related not to the procedure itself but to the facilitator's presence, passion, ethical care, and willingness to genuinely engage.\
