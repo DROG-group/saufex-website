@@ -2,10 +2,10 @@
 title: "(135) Do institutions seek reality too?"
 slug: "135-Do-institutions-seek-reality-too"
 author: "Onno Hansen-Staszyński"
-date: "2026-08-26"
-updated: "2026-08-26"
+date: "2026-08-19"
+updated: "2026-08-19"
 description: "Autopoietic correction are needed to stay aligned with reality."
-draft: true
+draft: false
 ---
 ## Introduction
 [Blog post 134]( https://saufex.eu/insights/134-What-opens-leeway/) tentatively proposed that leeway may open when people encounter signs that another person, institution, or narrative remains connected to lived reality. Facts, arguments, and narratives do not necessarily lose their importance. Yet they may become less effective when they appear detached from reality as experienced by those receiving them.\
