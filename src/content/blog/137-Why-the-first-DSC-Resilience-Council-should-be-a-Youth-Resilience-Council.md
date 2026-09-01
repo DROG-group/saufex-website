@@ -4,7 +4,7 @@ slug: "137-Why-the-first-DSC-Resilience-Council-should-be-a-Youth-Resilience-Cou
 author: "Onno Hansen-Staszyński"
 date: "2026-09-02"
 updated: "2026-09-02"
-description: "Much needed corrective feedback through YRCs and Interdemocracy."
+description: "YRCs and Interdemocracy are to provide corrective feedback."
 draft: true
 ---
 ## Introduction
