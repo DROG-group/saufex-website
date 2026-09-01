@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-09-02"
 updated: "2026-09-02"
 description: "YRCs and Interdemocracy are to provide corrective feedback."
-draft: true
+draft: false
 ---
 ## Introduction
 [Blog post 136](https://saufex.eu/insights/136-Why-a-Digital-Services-Coordinator-needs-a-Resilience-Council/) argued that the Digital Services Coordinator faces a structural epistemic problem. Its understanding of systemic risks is necessarily reconstructed through proxies: platform reports, researcher access, trusted flaggers, complaints, audits, and other mediated sources. These sources are indispensable, but each provides only a partial view of the social reality with which systemic risks interact.\
