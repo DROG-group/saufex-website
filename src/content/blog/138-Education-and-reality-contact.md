@@ -8,7 +8,7 @@ description: "Even though the education system has prolonged proximity to studen
 draft: false
 ---
 ## Introduction
-[Blog post 137](https://saufex.eu/insights/137-Why-a-Digital-Services-Coordinator-needs-a-Youth-Resilience-Council/) argued that a Digital Services Coordinator requires mechanisms that help maintain contact with the realities experienced by minors. A Youth Resilience Council (YRC) supported by Interdemocracy was proposed as a possible solution. Yet the challenge of reality contact is not limited to digital regulation. It may be equally relevant to education.\
+[Blog post 137](https://saufex.eu/insights/137-Why-the-first-DSC-Resilience-Council-should-be-a-Youth-Resilience-Council/) argued that a Digital Services Coordinator requires mechanisms that help maintain contact with the realities experienced by minors. A Youth Resilience Council (YRC) supported by Interdemocracy was proposed as a possible solution. Yet the challenge of reality contact is not limited to digital regulation. It may be equally relevant to education.\
 At first sight, this may seem surprising. Schools are among the few institutions that interact with young people on a near daily basis. Teachers spend years with students. Educational institutions observe students continuously. If any institution possesses access to student reality, it would appear to be schools. Yet many educators recognize a paradox. Despite constant contact, schools often know surprisingly little about the realities students inhabit.
 
 ## The paradox of proximity
