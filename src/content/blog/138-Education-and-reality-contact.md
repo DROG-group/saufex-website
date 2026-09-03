@@ -4,7 +4,7 @@ slug: "138-Education-and-reality-contact"
 author: "Onno Hansen-Staszyński"
 date: "2026-09-04"
 updated: "2026-09-04"
-description: "Even though no system is in closer proximity to minors than the education system, that does not mean education is in contact with student reality."
+description: "Even though the education system has prolonged proximity to students, this does not mean education is in close contact with student reality."
 draft: true
 ---
 ## Introduction
