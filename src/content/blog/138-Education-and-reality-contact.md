@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-09-04"
 updated: "2026-09-04"
 description: "Even though the education system has prolonged proximity to students, this does not mean education is in close contact with student reality."
-draft: true
+draft: false
 ---
 ## Introduction
 [Blog post 137](https://saufex.eu/insights/137-Why-a-Digital-Services-Coordinator-needs-a-Youth-Resilience-Council/) argued that a Digital Services Coordinator requires mechanisms that help maintain contact with the realities experienced by minors. A Youth Resilience Council (YRC) supported by Interdemocracy was proposed as a possible solution. Yet the challenge of reality contact is not limited to digital regulation. It may be equally relevant to education.\
