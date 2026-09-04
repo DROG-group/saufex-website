@@ -2,8 +2,8 @@
 title: "(142) Leeway and Interdemocracy"
 slug: "142-Leeway-and-Interdemocracy"
 author: "Onno Hansen-Staszyński"
-date: "2026-10-07"
-updated: "2026-10-07"
+date: "2026-09-23"
+updated: "2026-09-23"
 description: "How Interdemocracy aligns with the concept of leeway."
 draft: true
 --- 
