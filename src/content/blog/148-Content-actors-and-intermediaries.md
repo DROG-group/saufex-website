@@ -26,7 +26,7 @@ Can the intermediary exercise control over the content actor’s content?
   - to release/ transfer the content when the content actor changes intermediary?
 - User sovereignty (decision): Does the content actor have to trust the intermediary 
   - to ask for their authorisation before performing computations on their content?
-- Governance sovereignty (execution/ accountability): Does the content actor have to trust the intermediary: 
+- Governance sovereignty (execution/accountability): Does the content actor have to trust the intermediary: 
   - to respect specific computations authorised by the content actor?
   - to interpret the authorisation correctly?
   - to execute the authorised computations correctly?
