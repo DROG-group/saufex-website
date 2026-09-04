@@ -2,8 +2,8 @@
 title: " (144) A proposal for the evaluation of SAUFEX outcomes regarding Resilience Councils"
 slug: "144-A-proposal-for-the-evaluation-of-SAUFEX-outcomes-regarding-Resilience-Councils"
 author: "Onno Hansen-Staszyński"
-date: "2026-10-21"
-updated: "2026-10-21"
+date: "2026-10-07"
+updated: "2026-10-07"
 description: "Potential criteria to evaluate RCs."
 draft: true
 ---
