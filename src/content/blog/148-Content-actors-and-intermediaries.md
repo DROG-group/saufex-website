@@ -22,17 +22,17 @@ To establish the responsibilities and accountabilities of the intermediary, and 
 ## Content responsibility checklist
 Can the intermediary exercise control over the content actor’s content?
 - Data sovereignty (data): Does the content actor have to trust the intermediary: 
- - with custody of the content?
- - to release/ transfer the content when the content actor changes intermediary?
+  - with custody of the content?
+  - to release/ transfer the content when the content actor changes intermediary?
 - User sovereignty (decision): Does the content actor have to trust the intermediary 
- - to ask for their authorisation before performing computations on their content?
+  - to ask for their authorisation before performing computations on their content?
 - Governance sovereignty (execution/ accountability): Does the content actor have to trust the intermediary: 
- - to respect specific computations authorised by the content actor?
- - to interpret the authorisation correctly?
- - to execute the authorised computations correctly?
- - to execute consequential computations correctly?
- - to check its own process correctly?
- - to report accurately what it has done?
+  - to respect specific computations authorised by the content actor?
+  - to interpret the authorisation correctly?
+  - to execute the authorised computations correctly?
+  - to execute consequential computations correctly?
+  - to check its own process correctly?
+  - to report accurately what it has done?
 
 ## Risk accountability checklist
 How is responsibility for downstream risks distributed? Ask of an intermediary:
