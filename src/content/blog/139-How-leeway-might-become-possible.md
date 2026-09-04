@@ -2,8 +2,8 @@
 title: "(139) How leeway might become possible"
 slug: "139-How-leeway-might-become-possible"
 author: "Onno Hansen-Staszyński"
-date: "2026-09-16"
-updated: "2026-09-16"
+date: "2026-09-09"
+updated: "2026-09-09"
 description: "Exploring multiple disciples for leeway-adjacent concepts."
 draft: true
 ---
