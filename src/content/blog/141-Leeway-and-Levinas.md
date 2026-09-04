@@ -2,8 +2,8 @@
 title: "(141) Leeway and Levinas"
 slug: "141-Leeway-and-Levinas"
 author: "Onno Hansen-Staszyński"
-date: "2026-09-30"
-updated: "2026-09-30"
+date: "2026-09-18"
+updated: "2026-09-18"
 description: "How leeway aligns with Levinas’ ethical approach."
 draft: true
 ---
