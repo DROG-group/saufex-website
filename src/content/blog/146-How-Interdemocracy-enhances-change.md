@@ -2,8 +2,8 @@
 title: "(146) How Interdemocracy enhances change"
 slug: "146-How-Interdemocracy-enhances-change"
 author: "Onno Hansen-Staszyński"
-date: "2026-11-11"
-updated: "2026-11-11"
+date: "2026-10-21"
+updated: "2026-10-21"
 description: "A simple procedural constraint opens up the option of change."
 draft: true
 ---
