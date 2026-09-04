@@ -2,8 +2,8 @@
 title: "(143) On the blog posts"
 slug: "143-On-the-blog-posts"
 author: "Onno Hansen-Staszyński"
-date: "2026-10-14"
-updated: "2026-10-14"
+date: "2026-09-30"
+updated: "2026-09-30"
 description: "A reflection on the series of blog posts."
 draft: true
 ---
