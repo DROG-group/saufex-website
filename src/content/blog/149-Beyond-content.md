@@ -17,7 +17,7 @@ Can the data actor exercise control over their data or must they trust an applic
   - to release/ transfer the data when the data actor changes provider?
 - User sovereignty (decision): Does the data actor have to trust the application: 
   - to ask for their authorisation before performing computations on their data?
-- Governance sovereignty (execution/ accountability): Does the data actor have to trust the application: 
+- Governance sovereignty (execution/accountability): Does the data actor have to trust the application: 
   - to respect specific computations authorised by the data actor?
   - to interpret the authorisation correctly?
   - to execute the authorised computations correctly?
