@@ -2,8 +2,8 @@
 title: "(147) The hidden architecture of Interdemocracy"
 slug: "147-The-hidden-architecture-of-Interdemocracy"
 author: "Onno Hansen-Staszyński"
-date: "2026-11-18"
-updated: "2026-11-18"
+date: "2026-10-28"
+updated: "2026-10-28"
 description: "The architectural principle that explains why the Interdemocracy elements function as a whole."
 draft: true
 ---
