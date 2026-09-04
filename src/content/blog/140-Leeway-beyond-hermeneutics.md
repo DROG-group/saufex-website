@@ -2,8 +2,8 @@
 title: "(140) Leeway beyond hermeneutics"
 slug: "140-Leeway-beyond-hermeneutics"
 author: "Onno Hansen-Staszyński"
-date: "2026-09-23"
-updated: "2026-09-23"
+date: "2026-09-16"
+updated: "2026-09-16"
 description: "Leeway from a cognitive and social perspective."
 draft: true
 ---
