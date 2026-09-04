@@ -1,6 +1,6 @@
 ---
-title: "(146) My protocol for constructing explanatory theories"
-slug: "146-My-protocol-for-constructing-explanatory-theories"
+title: "(145) My protocol for constructing explanatory theories"
+slug: "145-My-protocol-for-constructing-explanatory-theories"
 author: "Onno Hansen-Staszyński"
 date: "2026-11-04"
 updated: "2026-11-04"
