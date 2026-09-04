@@ -2,8 +2,8 @@
 title: "(145) My protocol for constructing explanatory theories"
 slug: "145-My-protocol-for-constructing-explanatory-theories"
 author: "Onno Hansen-Staszyński"
-date: "2026-11-04"
-updated: "2026-11-04"
+date: "2026-10-14"
+updated: "2026-10-14"
 description: "Reverse engineering my blog posts writing method."
 draft: true
 ---
