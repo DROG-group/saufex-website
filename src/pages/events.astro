@@ -18,7 +18,12 @@ const events = [
     date: "25–26 June 2026",
     description: "A two-day conference at the Permanent Representation of Poland to the EU, convening the FIMI defenders' community to exchange views on the European Democracy Shield and the European Centre for Democratic Resilience (ECDR), the evolution of FIMI threats and response tools (including AI-based tools), regulatory developments, and the whole-of-society approach. Sessions covered Resilience Councils against FIMI and civil society in action, with contributions from SAUFEX consortium partners including DROG, Faktabaari and PORT Łukasiewicz.",
     location: "Brussels, Belgium",
-    organiser: "Permanent Representation of Poland to the EU"
+    organiser: "Permanent Representation of Poland to the EU",
+    images: [
+      "/images/events/all-hands-brussels-1.jpeg",
+      "/images/events/all-hands-brussels-2.jpeg",
+      "/images/events/all-hands-brussels-3.jpeg"
+    ]
   },
   // 2026 — March
   {
@@ -282,6 +287,15 @@ const typeColors: Record<string, string> = {
                   </div>
                   <h3 class="event-item__title">{event.title}</h3>
                   <p class="event-item__description">{event.description}</p>
+                  {event.images && (
+                    <div class="event-item__images">
+                      {event.images.map((src, i) => (
+                        <a href={src} target="_blank" rel="noopener" class="event-item__photo" aria-label={`${event.title} — photo ${i + 1}`}>
+                          <img src={src} alt={`${event.title} — photo ${i + 1}`} loading="lazy" width="1600" height="1200" />
+                        </a>
+                      ))}
+                    </div>
+                  )}
                 </div>
               </div>
             );
@@ -433,6 +447,41 @@ const typeColors: Record<string, string> = {
     color: var(--color-muted);
     margin: 0;
     line-height: 1.6;
+  }
+
+  .event-item__images {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-sm);
+    margin-top: var(--space-md);
+  }
+
+  .event-item__photo {
+    display: block;
+    border-radius: 8px;
+    overflow: hidden;
+    aspect-ratio: 4 / 3;
+    background: rgba(0,0,0,0.04);
+    border: 1px solid rgba(0,0,0,0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .event-item__photo:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+  }
+
+  .event-item__photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  @media (max-width: 640px) {
+    .event-item__images {
+      grid-template-columns: repeat(2, 1fr);
+    }
   }
 
   .event-item__arrow {
