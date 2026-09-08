@@ -28,7 +28,7 @@ Interdemocracy provides at least some of these circumstances. Its basic layer in
 ## In summary
 - Autonomy: I constitute myself.
 - Autopoiesis: I cannot fully correct myself.
-- Leeway / ma: I become capable of encountering what exceeds me.
+- Leeway/ ma: I become capable of encountering what exceeds me.
 - Responsibility: I remain receptive to Others and new experiences.
 - Belonging: Others remain receptive to me.
 - Achievement: Through my relation with Others and my new experiences, I become more capable of self-correction and self-continuation.
