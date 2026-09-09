@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-09-09"
 updated: "2026-09-09"
 description: "Exploring multiple disciples for leeway-adjacent concepts."
-draft: true
+draft: false
 ---
 ## Introduction
 Blog posts [131](https://saufex.eu/insights/131-Leeway/) through [134](https://saufex.eu/insights/134-What-opens-leeway/) proposed a speculative sequence. Human beings appear capable of encountering ontologies they do not share without immediately experiencing them as threats. This capacity was described as leeway. Blog post [132](https://saufex.eu/insights/132-Leeway–curiosity–ma/) suggested that curiosity may help activate this leeway, while blog posts [133](https://saufex.eu/insights/133-The-paradox-of-unfinished-ontologies/) and 134 explored how lived reality and perceived connections to reality may help sustain it.\
