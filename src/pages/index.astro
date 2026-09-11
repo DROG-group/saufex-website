@@ -57,28 +57,38 @@ const posts = allPosts
 const featuredPost = posts[0];
 const recentPosts = posts.slice(1, 4);
 
-// News + press coverage for the home page (mirrors the Media page), newest first
+// News + press coverage for the home page (mirrors the Media page).
+// Take the latest of EACH so press mentions always show — news posts have
+// more recent dates and would otherwise crowd them out — then merge newest-first.
+const byDateDesc = (a: { date: string }, b: { date: string }) =>
+  new Date(b.date).getTime() - new Date(a.date).getTime();
+
 const homeNews = await getCollection('news', ({ data }) => !data.draft);
-const coverage = [
-  ...homeNews.map((post) => ({
+const latestNews = homeNews
+  .map((post) => ({
     source: post.data.partner || 'SAUFEX',
     title: post.data.title,
     url: `/news/${post.data.slug || post.id}`,
     date: post.data.date,
     language: 'en',
     isExternal: false,
-  })),
-  ...mediaMentions.map((m) => ({
+  }))
+  .sort(byDateDesc)
+  .slice(0, 3);
+
+const latestPress = [...mediaMentions]
+  .map((m) => ({
     source: m.source,
     title: m.title,
     url: m.url,
     date: m.date,
     language: m.language,
     isExternal: true,
-  })),
-]
-  .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
-  .slice(0, 6);
+  }))
+  .sort(byDateDesc)
+  .slice(0, 3);
+
+const coverage = [...latestNews, ...latestPress].sort(byDateDesc);
 ---
 
 <!DOCTYPE html>
