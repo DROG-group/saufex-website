@@ -56,6 +56,29 @@ const posts = allPosts
 
 const featuredPost = posts[0];
 const recentPosts = posts.slice(1, 4);
+
+// News + press coverage for the home page (mirrors the Media page), newest first
+const homeNews = await getCollection('news', ({ data }) => !data.draft);
+const coverage = [
+  ...homeNews.map((post) => ({
+    source: post.data.partner || 'SAUFEX',
+    title: post.data.title,
+    url: `/news/${post.data.slug || post.id}`,
+    date: post.data.date,
+    language: 'en',
+    isExternal: false,
+  })),
+  ...mediaMentions.map((m) => ({
+    source: m.source,
+    title: m.title,
+    url: m.url,
+    date: m.date,
+    language: m.language,
+    isExternal: true,
+  })),
+]
+  .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+  .slice(0, 6);
 ---
 
 <!DOCTYPE html>
@@ -301,21 +324,27 @@ const recentPosts = posts.slice(1, 4);
     </div>
   </section>
 
-  <!-- In The Media - Press coverage -->
-  {mediaMentions.length > 0 && (
+  <!-- News & Press -->
+  {coverage.length > 0 && (
     <section class="media-mentions">
       <div class="container">
         <div class="section__header">
-          <span class="section__title">In The Media</span>
+          <span class="section__title">News & Press</span>
+          <a href="/media" class="section__link">View all →</a>
         </div>
         <div class="mentions-grid">
-          {mediaMentions.map((mention) => (
-            <a href={mention.url} target="_blank" rel="noopener" class="mention-card">
-              <span class="mention-card__source">{mention.source}</span>
-              <h3 class="mention-card__title">{mention.title}</h3>
+          {coverage.map((item) => (
+            <a
+              href={item.url}
+              class="mention-card"
+              target={item.isExternal ? '_blank' : undefined}
+              rel={item.isExternal ? 'noopener' : undefined}
+            >
+              <span class="mention-card__source">{item.source}</span>
+              <h3 class="mention-card__title">{item.title}</h3>
               <div class="mention-card__meta">
-                <span class="mention-card__lang">{mention.language}</span>
-                <span>{new Date(mention.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}</span>
+                <span class="mention-card__lang">{item.language}</span>
+                <span>{new Date(item.date).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}</span>
               </div>
             </a>
           ))}
