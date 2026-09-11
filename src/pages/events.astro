@@ -57,14 +57,18 @@ const events = [
     date: "18 November 2025",
     description: "Workshop for regulators and Interdemocracy workshop for students. Organised by the Agency for Audio and Audiovisual Media Services.",
     location: "Skopje, North Macedonia",
-    url: "https://mediumskapismenost.mk/european-masterclass-on-tackling-disinformation-held/?lang=en"
+    url: "https://mediumskapismenost.mk/european-masterclass-on-tackling-disinformation-held/?lang=en",
+    links: [
+      "https://mediumskapismenost.mk/media-literacy-days/?lang=en"
+    ]
   },
   {
     title: "2025 EU-Western Balkans Media Literacy Conference",
     type: "Conference",
     date: "17 November 2025",
     description: "Informal presentation on Resilience Councils, societal resilience, and Interdemocracy. Policy Brief on FIMI flagging tool discussed with EEAS representatives.",
-    location: "Skopje, North Macedonia"
+    location: "Skopje, North Macedonia",
+    url: "https://mediumskapismenost.mk/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%b8-%d0%b4%d0%b5%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d0%bc%d0%b5%d0%b4%d0%b8%d1%83%d0%bc%d1%81%d0%ba%d0%b0-%d0%bf%d0%b8%d1%81%d0%bc%d0%b5/?lang=en"
   },
   {
     title: "Interdemocracy Pilot 3 Launch",
@@ -81,7 +85,10 @@ const events = [
     date: "15–16 October 2025",
     description: 'Presentation of the GetResilience platform. Resulted in a Policy Brief to EEAS: "The case for a plug-and-play end-user FIMI flagging tool."',
     location: "Ljubljana, Slovenia",
-    url: "https://www.disinfo.eu/conference-2025/"
+    url: "https://www.disinfo.eu/conference-2025/",
+    links: [
+      "https://www.disinfo.eu/disinfo2025-programme"
+    ]
   },
   {
     title: "Baltic Youth Waves for Democracy 2025",
@@ -98,21 +105,26 @@ const events = [
     date: "30 September 2025",
     description: "Multiple presentations on Interdemocracy and societal resilience for primary school management and teachers. Organised by PCEN and FCP. Led to the launch of Interdemocracy Pilot 3.",
     location: "Gdańsk, Poland",
-    url: "https://www.pcen.gda.pl/serwisy-tematyczne/historia-i-wos-2/szkolenia-wrzesien-grudzien-2025/"
+    url: "https://www.pcen.gda.pl/serwisy-tematyczne/historia-i-wos-2/szkolenia-wrzesien-grudzien-2025/",
+    links: [
+      "https://www.pcen.gda.pl/informacje-pcen/widziane-oczami-uczestnikow/"
+    ]
   },
   {
     title: "High-Level Conference on Building Democratic Resilience to Disinformation",
     type: "Conference",
     date: "17 September 2025",
     description: "Informal presentation on Resilience Councils, societal resilience, and Interdemocracy.",
-    location: "Malta"
+    location: "Malta",
+    url: "https://maltacoe.gov.mt/policy-programme/high-level-conference-on-building-democratic-resilience-to-disinformation/"
   },
   {
     title: "RESIST: Strengthening Societal Resilience to Disinformation in Europe — Kick-off Meeting",
     type: "Conference",
     date: "18 September 2025",
     description: "Informal presentation on Resilience Councils, societal resilience, and Interdemocracy.",
-    location: "Malta"
+    location: "Malta",
+    url: "https://www.coe.int/en/web/freedom-expression/resist-strengthening-societal-resilience-to-disinformation-in-europe"
   },
   // 2025 — June
   {
@@ -131,7 +143,8 @@ const events = [
     type: "Conference",
     date: "9–10 June 2025",
     description: "Informal presentation on Resilience Councils, societal resilience, and Interdemocracy. Organised within the framework of the Polish Presidency of the Council of the EU.",
-    location: "Gdańsk, Poland"
+    location: "Gdańsk, Poland",
+    url: "https://polish-presidency.consilium.europa.eu/en/events/conference-civil-society-as-a-factor-of-resilience/"
   },
   {
     title: "Security Research Event 2025",
@@ -171,14 +184,19 @@ const events = [
     date: "6–7 March 2025",
     description: "Panel moderation, workshop for FIMI experts on EMoD-derived topics. Organised by the Polish Embassy in Finland and the European Centre of Excellence for Countering Hybrid Threats (Hybrid CoE). First EMoD pilot tests presented.",
     location: "Helsinki, Finland",
-    url: "https://soundcloud.com/saufex/panel-discussion-from-the-march-6th-2025-helsinki-saufex-event"
+    url: "https://soundcloud.com/saufex/panel-discussion-from-the-march-6th-2025-helsinki-saufex-event",
+    links: [
+      "https://soundcloud.com/saufex/panel-discussion-march-6th-2025-helsinki-conference-part-2",
+      "https://www.gov.pl/web/suomi/seminaarit-eu-democracy-shield-in-counting-foreign-information-manipulation-and-interference-fimi"
+    ]
   },
   {
     title: "Flagship Conference on Inclusive Education",
     type: "Conference",
     date: "17–18 March 2025",
     description: "Informal presentation on Resilience Councils, societal resilience, and Interdemocracy. Organised within the framework of the Polish Presidency of the Council of the EU.",
-    location: "Warsaw, Poland"
+    location: "Warsaw, Poland",
+    url: "https://polish-presidency.consilium.europa.eu/en/events/flagship-presidency-conferences-on-inclusive-education/"
   },
   // 2025 — February
   {
@@ -243,6 +261,8 @@ function linkLabel(u: string): string {
     const h = new URL(u).hostname.replace(/^www\./, '');
     if (h.includes('linkedin')) return 'LinkedIn post';
     if (h.includes('youtube') || h.includes('youtu.be')) return 'Watch recording';
+    if (h.includes('soundcloud')) return 'Listen';
+    if (h.includes('facebook')) return 'Facebook post';
     return 'More info';
   } catch { return 'Link'; }
 }
