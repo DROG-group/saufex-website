@@ -4,6 +4,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const events = [
   // 2026 — July
   {
+    title: "Meeting with Polonia at the Polish Embassy in Finland",
+    type: "Meeting",
+    date: "29 July 2026",
+    description: "SAUFEX delegation to the Polish Embassy in Finland for a meeting with the Polonia community in Helsinki.",
+    location: "Helsinki, Finland"
+  },
+  {
     title: '"All Hands on Deck" Seminar',
     type: "Seminar",
     date: "28 July 2026",
@@ -32,7 +39,32 @@ const events = [
       "https://www.linkedin.com/posts/saufex_saufex-activity-7478069273714688000-yx82"
     ]
   },
+  {
+    title: "Future of Education Conference",
+    type: "Conference",
+    date: "19 June 2026",
+    description: "SAUFEX speaking contribution at the Future of Education conference in Florence.",
+    location: "Florence, Italy",
+    url: "https://conference.pixel-online.net/FOE/programme.php"
+  },
+  // 2026 — April
+  {
+    title: "Global Age Assurance Standards Summit 2026",
+    type: "Conference",
+    date: "14 April 2026",
+    description: "Presentation based on the GetResilience platform at the Global Age Assurance Standards Summit 2026 in Manchester.",
+    location: "Manchester, United Kingdom",
+    url: "https://events.ringcentral.com/events/global-age-assurance-standards-summit-2026/registration"
+  },
   // 2026 — March
+  {
+    title: "Interdemocracy Conference: Rola facylitatora w edukacji – szanse i wyzwania",
+    type: "Conference",
+    date: "13 March 2026",
+    description: "Moderation and speaking contribution at the Interdemocracy conference 'Rola facylitatora w edukacji – szanse i wyzwania' (the role of the facilitator in education — opportunities and challenges).",
+    location: "Gdańsk, Poland",
+    url: "https://www.facebook.com/PCENGdansk/posts/pfbid02v4crB8kZtQjshG95JP426V6SmWQwo5vFHwoQX5UxK2uxpb8ZSGkZXCteViMudUy3l"
+  },
   {
     title: "Hatedemics Project Expert Meeting at Civitas University",
     type: "Conference",
@@ -207,6 +239,15 @@ const events = [
     location: "Online",
     url: "https://school-education.ec.europa.eu/en/discover/expert-views/education-talks-challenges-teaching-critical-thinking-young-people"
   },
+  // 2025 — January
+  {
+    title: "Council of the EU Horizontal Working Party on Resilience and Hybrid Threats",
+    type: "Meeting",
+    date: "17 January 2025",
+    description: "SAUFEX delegate and speaker at the Council of the European Union Horizontal Working Party on Enhancing Resilience and Countering Hybrid Threats.",
+    location: "Brussels, Belgium",
+    url: "https://www.consilium.europa.eu/en/council-eu/preparatory-bodies/horizontal-working-party-on-enhancing-resilience-and-countering-hybrid-threats/"
+  },
   // 2024
   {
     title: "Civil Society Experts Forum on Combatting Foreign Information Manipulation and Interference",
@@ -254,6 +295,8 @@ const typeColors: Record<string, string> = {
   'Pilot': '#2563eb',
   'Interview': '#ea580c',
   'Milestone': '#d97706',
+  'Seminar': '#0891b2',
+  'Meeting': '#475569',
 };
 
 function linkLabel(u: string): string {
