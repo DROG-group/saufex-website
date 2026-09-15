@@ -9,7 +9,7 @@ draft: true
 ---
 ## Introduction
 Blog posts [131](https://saufex.eu/insights/131-Leeway/) through [139](https://saufex.eu/insights/139-How-leeway-might-become-possible/) approached leeway primarily from a hermeneutic perspective. Leeway was introduced as the possibility of encountering an ontology one does not share without immediately experiencing it as a threat. Curiosity appeared capable of activating this possibility. Sustained engagement sometimes seemed to create a relational space resembling the Japanese concept of ma. Subsequent posts explored how unfinished ontologies, lived reality, rapport, and institutional reality contact might help explain why such moments remain possible. Taken together, these posts described what leeway might look like.\
-In this blog post, leeway is approached from the perspective of cognitive and social theory: How could leeway be seen when applying that lens.
+In this blog post, leeway is approached from the perspective of cognitive and social theory: How could leeway be seen when applying that lens?
 
 ## Not gullibility
 One possible starting point comes from cognitive science. Human beings know far less than they often imagine. As Steven Sloman and Philip Fernbach have argued (The knowledge illusion, 2017), much of what individuals regard as their own knowledge is in fact distributed across other people, institutions, technologies, and social practices. Individuals routinely rely on knowledge they do not themselves possess. Communication is therefore not optional. It is one of the conditions that make human cognition possible.\
