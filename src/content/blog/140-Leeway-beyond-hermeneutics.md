@@ -21,7 +21,7 @@ Yet vigilance creates another question: If people are naturally vigilant, how do
 ## Correction
 A complementary answer emerges from Andy Clark's work (The experience machine, 2023). He claims that human beings do not merely interpret reality. They continuously anticipate it. Successful action depends upon maintaining sufficient contact with reality for expectations to be corrected when they no longer work. Discrepancies generate pressure for adjustment. In this sense, cognition can be understood as a continuous process of reducing discrepancies between expectations and experience.\
 If this were the whole story, change would appear straightforward. Reality contradicts an expectation. The expectation changes. Yet everyday experience suggests otherwise. People frequently encounter discrepancies without revising their interpretations. They reinterpret evidence, dismiss sources, rationalize inconsistencies, or simply ignore information.\
-The question therefore becomes more precise: How can correction occur within a system that is also designed to be vigilant?\
+The question of this blog post therefore becomes more precise: How can correction occur within a system that is also designed to be vigilant?\
 The answer may lie not inside individual cognition but in the social contexts within which cognition operates.
 
 ## Reasoning and social life
