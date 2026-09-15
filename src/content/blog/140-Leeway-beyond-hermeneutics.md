@@ -8,7 +8,7 @@ description: "Leeway from a cognitive and social perspective."
 draft: true
 ---
 ## Introduction
-Blog posts [131](https://saufex.eu/insights/131-Leeway/) through [139](https://saufex.eu/insights/139-How-leeway-might-become-possible/) approached leeway primarily from a hermeneutic perspective. Leeway was introduced as the condition of encountering an ontology one does not share without immediately experiencing it as a threat. Curiosity appeared capable of activating this condition. Sustained engagement sometimes seemed to create a relational space resembling the Japanese concept of ma. Subsequent posts explored how unfinished ontologies, lived reality, rapport, and institutional reality contact might help explain why such moments remain possible.\
+Blog posts [131](https://saufex.eu/insights/131-Leeway/) through [139](https://saufex.eu/insights/139-How-leeway-might-become-possible/) approached leeway primarily from a hermeneutic perspective. Leeway was introduced as the condition for encountering an ontology one does not share without immediately experiencing it as a threat. Curiosity appeared capable of activating this condition. Sustained engagement sometimes seemed to create a relational space resembling the Japanese concept of ma. Subsequent posts explored how unfinished ontologies, lived reality, rapport, and institutional reality contact might help explain why such moments remain possible.\
 In this blog post, leeway is approached from the perspective of cognitive and social theory: How could leeway be seen when applying that lens?
 
 ## Not gullibility
