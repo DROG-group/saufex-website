@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-09-18"
 updated: "2026-09-18"
 description: "How leeway aligns with Levinas’ ethical approach."
-draft: true
+draft: false
 ---
 ## Introduction
 [Blog post 140](saufex.eu/insights/140-Leeway-beyond-hermeneutics/) proposed a tentative mechanism for leeway. Human beings appear simultaneously dependent upon correction and resistant to it. They require reality contact to navigate the world, yet they also depend upon continuity systems that provide coherence and orientation. Leeway was described as the condition under which epistemic vigilance remains sufficiently open for reality to challenge continuity before defensive closure occurs.\
