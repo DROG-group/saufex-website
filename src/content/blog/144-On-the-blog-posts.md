@@ -1,6 +1,6 @@
 ---
-title: "(143) On the blog posts"
-slug: "143-On-the-blog-posts"
+title: "(144) On the blog posts"
+slug: "144-On-the-blog-posts"
 author: "Onno Hansen-Staszyński"
 date: "2026-09-30"
 updated: "2026-09-30"
