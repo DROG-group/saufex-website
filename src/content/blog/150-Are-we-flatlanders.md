@@ -9,7 +9,7 @@ draft: true
 ---
 
 ## Introduction
-Blog posts [146](https://saufex.eu/insights/146-How-Interdemocracy-enhances-change/) and [147](https://saufex.eu/insights/147-The-hidden-architecture-of-Interdemocracy/) have probed how individuals encounter reality through the relational organizations by which they constitute meaning. An individual does not simply receive reality as a collection of facts. What becomes meaningful depends on how the elements of experience are related to one another. The resulting relational organizations can be understood as personal ontologies: particular ways in which a person organizes the world so that it becomes intelligible.\
+Blog posts [147](https://saufex.eu/insights/147-How-Interdemocracy-enhances-change/) and [148](https://saufex.eu/insights/148-The-hidden-architecture-of-Interdemocracy/) have probed how individuals encounter reality through the relational organizations by which they constitute meaning. An individual does not simply receive reality as a collection of facts. What becomes meaningful depends on how the elements of experience are related to one another. The resulting relational organizations can be understood as personal ontologies: particular ways in which a person organizes the world so that it becomes intelligible.\
 But this raised a problem. If a personal ontology determines how reality becomes meaningful, then it is necessarily limited. No person can establish all possible relations among everything they encounter. Every personal ontology makes some relations salient while leaving others unnoticed. Reality therefore exceeds the organization through which any individual encounters it.
 
 ## Information deficit
