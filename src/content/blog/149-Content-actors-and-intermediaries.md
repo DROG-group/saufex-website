@@ -1,6 +1,6 @@
 ---
-title: "(148) Content actors and intermediaries"
-slug: "148-Content-actors-and-intermediaries"
+title: "(149) Content actors and intermediaries"
+slug: "149-Content-actors-and-intermediaries"
 author: "Onno Hansen-Staszyński"
 date: "2026-11-04"
 updated: "2026-11-04"
