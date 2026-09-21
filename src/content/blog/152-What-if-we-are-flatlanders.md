@@ -1,6 +1,6 @@
 ---
-title: "(151) What if we are flatlanders?"
-slug: "151-What-if-we-are-flatlanders"
+title: "(152) What if we are flatlanders?"
+slug: "152-What-if-we-are-flatlanders"
 author: "Onno Hansen-Staszyński"
 date: "2026-11-20"
 updated: "2025-11-20"
