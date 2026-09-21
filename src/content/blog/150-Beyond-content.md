@@ -1,6 +1,6 @@
 ---
-title: "(149) Beyond content"
-slug: "149-Beyond-content"
+title: "(150) Beyond content"
+slug: "150-Beyond-content"
 author: "Onno Hansen-Staszyński"
 date: "2026-11-11"
 updated: "2026-11-11"
