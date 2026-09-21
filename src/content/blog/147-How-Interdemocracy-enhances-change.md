@@ -1,6 +1,6 @@
 ---
-title: "(146) How Interdemocracy enhances change"
-slug: "146-How-Interdemocracy-enhances-change"
+title: "(147) How Interdemocracy enhances change"
+slug: "147-How-Interdemocracy-enhances-change"
 author: "Onno Hansen-Staszyński"
 date: "2026-10-21"
 updated: "2026-10-21"
