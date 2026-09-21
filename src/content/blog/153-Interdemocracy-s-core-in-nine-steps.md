@@ -1,6 +1,6 @@
 ---
-title: "(152) Interdemocracy’s core in nine steps"
-slug: "152-Interdemocracy-s-core-in-nine-steps"
+title: "(153) Interdemocracy’s core in nine steps"
+slug: "153-Interdemocracy-s-core-in-nine-steps"
 author: "Onno Hansen-Staszyński"
 date: "2026-11-27"
 updated: "2026-11-27"
