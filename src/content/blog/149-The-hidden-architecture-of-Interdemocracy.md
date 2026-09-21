@@ -1,6 +1,6 @@
 ---
-title: "(148) The hidden architecture of Interdemocracy"
-slug: "148-The-hidden-architecture-of-Interdemocracy"
+title: "(149) The hidden architecture of Interdemocracy"
+slug: "149-The-hidden-architecture-of-Interdemocracy"
 author: "Onno Hansen-Staszyński"
 date: "2026-10-28"
 updated: "2026-10-28"
