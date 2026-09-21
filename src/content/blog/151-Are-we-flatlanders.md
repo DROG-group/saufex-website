@@ -1,6 +1,6 @@
 ---
-title: "(150) Are we flatlanders?"
-slug: "150-Are-we-flatlanders"
+title: "(151) Are we flatlanders?"
+slug: "151-Are-we-flatlanders"
 author: "Onno Hansen-Staszyński"
 date: "2026-11-18"
 updated: "2026-11-18"
