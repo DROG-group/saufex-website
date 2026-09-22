@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-09-23"
 updated: "2026-09-23"
 description: "How Interdemocracy concretely aligns with the concept of leeway."
-draft: true
+draft: false
 --- 
 ## Introduction
 [Blog post 141](https://saufex.eu/insights/141-Leeway-and-Levinas/) suggested that leeway may be understood as the ethical and cognitive condition under which reality can enter continuity through the Other. Interdemocracy’s specific method and format are designed to make perspectives embodied by others visible without immediately transforming them into objects of reaction, judgment, persuasion, or correction.
