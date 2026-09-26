@@ -2,8 +2,8 @@
 title: "(143) Leeway for professionals - ten commandments"
 slug: "143-Leeway-for-professionals-ten-commandments"
 author: "Onno Hansen-Staszyński"
-date: "2026-09-25"
-updated: "2025-09-25"
+date: "2026-09-28"
+updated: "2025-09-28"
 description: "How professionals could improve their interpretation of reality."
 draft: true
 ---
