@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-09-28"
 updated: "2025-09-28"
 description: "How professionals could improve their interpretation of reality."
-draft: true
+draft: false
 ---
 ## 1. Do not mistake your frame for reality.
 Your professional frame is a way of making reality intelligible. It is not reality itself. What appears relevant, irrelevant, normal, exceptional, factual, problematic, or actionable already depends partly on the frame through which you are looking.
