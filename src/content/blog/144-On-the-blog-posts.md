@@ -4,7 +4,7 @@ slug: "144-On-the-blog-posts"
 author: "Onno Hansen-Staszyński"
 date: "2026-09-30"
 updated: "2026-09-30"
-description: "A reflection on the series of blog posts."
+description: "The blog posts as a public record of how ideas developed, changed, and were revised—and why that process is itself part of the argument."
 draft: true
 ---
 ## Introduction
