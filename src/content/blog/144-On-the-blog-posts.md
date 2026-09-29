@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-09-30"
 updated: "2026-09-30"
 description: "The blog posts as a public record of how ideas developed, changed, and were revised—and why that process is itself part of the argument."
-draft: true
+draft: false
 ---
 ## Introduction
 The blog posts so far attempt to create a public record of inquiry in which ideas remain connected to their origins, conceptual evolution remains visible, implementation remains visible, and revision remains visible. They are not merely presenting knowledge claims. They are exposing the process by which those claims emerged and changed. This is to have epistemic value in its own right because it keeps the inquiry tethered to the conditions from which it arose rather than allowing the emerging concepts to float free of their history.
