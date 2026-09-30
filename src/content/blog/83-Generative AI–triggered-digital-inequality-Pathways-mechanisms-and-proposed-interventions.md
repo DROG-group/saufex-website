@@ -1,6 +1,6 @@
 ---
-title: "Generative AI–triggered digital inequality: Pathways, mechanisms, and proposed interventions"
-slug: "Generative AI–triggered-digital-inequality-Pathways-mechanisms-and-proposed-interventions"
+title: "(83)Generative AI–triggered digital inequality: Pathways, mechanisms, and proposed interventions"
+slug: "83-Generative AI–triggered-digital-inequality-Pathways-mechanisms-and-proposed-interventions"
 author: "Onno Hansen-Staszyński"
 date: "2025-11-20"
 updated: "2025-11-20"
