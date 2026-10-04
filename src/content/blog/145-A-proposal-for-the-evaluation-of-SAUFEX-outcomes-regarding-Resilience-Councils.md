@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-10-07"
 updated: "2026-10-07"
 description: "Potential criteria to evaluate RCs."
-draft: false
+draft: true
 ---
 ## Characteristics
 Since the purpose of Resilience Councils is to democratize and decentralize decision-making, three characteristics seem essential:
