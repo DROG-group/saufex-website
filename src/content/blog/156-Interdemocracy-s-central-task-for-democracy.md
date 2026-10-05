@@ -24,7 +24,8 @@ Leeway and ma provide a condition for addressing the deeper problem. Both experi
 ## 8
 Thus the more precise sequence is: personal ontology → autonomy → necessary incompleteness → autopoiesis → need for otherness → experiences and/or Others as sources of otherness → leeway → ma → preservation of difference → possible self-correction.
 ## 9
-Within Interdemocracy, democracy is a solution to the problem of preserving this plurality of autonomous sources of otherness. Its task is to maintain conditions in which different autonomous organizations of reality can remain sufficiently distinct to become consequential for one another.
+If democratic society is to remain collectively capable of self-correction, it must preserve multiple autonomous sources of perspective rather than allowing one organization of reality to become epistemically dominant.
 ## 10
+Within Interdemocracy, democracy is therefore understood as a solution to the problem of preserving this plurality of autonomous sources of otherness. Its task is to maintain conditions in which different autonomous organizations of reality can remain sufficiently distinct to become consequential for one another.
+## 11
 Democracy in its current form is not the only possible solution to this problem. According to Interdemocracy, however, preserving plurality is the central task assigned to democracy.
-
