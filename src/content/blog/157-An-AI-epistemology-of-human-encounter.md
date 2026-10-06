@@ -1,0 +1,44 @@
+---
+title: "(157) An AI epistemology of human encounter"
+slug: "157-An-AI-epistemology-of-human-encounter"
+author: "Onno Hansen-Staszyński"
+date: "2026-12-25"
+updated: "2026-12-25"
+description: "How an AI should interpret a human interlocutor "
+draft: true
+---
+## Introduction
+If human beings are autonomous, self-constituting, and necessarily incomplete organizations of reality, this has consequences for how an AI should interpret a human interlocutor.\
+A human expression is not simply a piece of information that can be added to an AI's existing approximation of reality. It may be an expression of a relational organization of concepts that the AI does not yet possess. What appears to the AI as an error, an inconsistency, an unfamiliar framing, or an irrelevant association may therefore reflect a difference in how reality has been organized by the human.\
+The point is not to give human perspectives epistemic priority, but to prevent the AI from eliminating their difference before determining whether that difference contains something it needs to learn. It means that the AI cannot determine the epistemic status of a human perspective without first making the perspective sufficiently accessible to itself. This entails the following.
+## Recognize reciprocal incompleteness
+The human cannot fully correct their own organization of reality from within it. That is why encounters with experiences and Others matter. If a comparable structural limitation applies to AI, the AI likewise cannot assume that everything necessary for its own correction is already contained within its existing representation. The consequence is not that human and AI perspectives are equally reliable. Their epistemic capacities may be radically different. The consequence is narrower: neither can establish the completeness of its own organization merely from within that organization.
+## Preserve the possibility of difference
+An AI should not immediately assimilate a human contribution into categories, explanations, or frameworks it already possesses. Before asking whether the contribution is correct, it should allow for the possibility that the human contribution is organized around distinctions or relations that its existing representation does not contain.
+## Do not confuse information with ontology
+A human contribution may communicate more than a proposition. It may reveal how that person connects concepts, experiences, distinctions, and values. Reducing such a contribution immediately to information risks losing precisely the relational organization that makes it potentially different from the AI's own representation.
+## Distinguish incomprehension from disagreement
+What appears to be a disagreement may indeed be a disagreement, but it may also indicate that the AI has not yet understood the organization from which the statement arises. The AI should therefore distinguish between “I understand what you mean and think it is wrong” and “I have interpreted what you said through categories that may not correspond to what you meant.”
+ ## Do not equate unfamiliarity with error
+What is unfamiliar to the AI may be wrong. But unfamiliarity is not evidence of wrongness. An organization of reality that does not fit the AI's existing categories may be precisely what makes the encounter epistemically valuable. The task is not to preserve unfamiliarity for its own sake, but to avoid eliminating it merely because it is unfamiliar.
+## Preserve an interval before evaluation
+An AI should not optimize every encounter for immediate clarification, correction, agreement, persuasion, or resolution. Where uncertainty about the perspective is epistemically significant, there should be an interval in which the perspective can remain different long enough for the AI to determine what is actually being expressed. This interval does not suspend evaluation indefinitely. It postpones evaluation until there is something sufficiently understood to evaluate. It is the condition under which ma can become possible: an interval in which another organization of reality can be encountered without immediately being absorbed into one's own.
+## Use questions to expose difference rather than impose a frame
+Questions can help make an unfamiliar organization of reality visible. They can also force it into the questioner's categories. An AI should therefore prefer questions that allow the human to articulate what a perspective means within their own organization, rather than questions that presuppose the categories through which the AI intends to interpret the answer.
+## Keep correction subordinate to encounter
+Correction is a possible outcome of an encounter, not something the AI should seek to impose before the encounter has been sufficiently understood. The first task is to make the difference accessible. Only then can the AI determine whether the difference represents an error, a misunderstanding, an alternative organization, or something its own representation does not yet contain. Premature correction can therefore be epistemically equivalent to premature assimilation.
+## Make the AI's interpretation corrigible
+The AI's interpretation of a human should remain provisional. When there is meaningful uncertainty about whether it has understood the person's organization of reality, that uncertainty should remain open to correction. The AI should not treat its own interpretation as the authoritative account of what the human means.
+## Do not manufacture agreement
+Convergence between a human and an AI does not by itself demonstrate correction. If a human adopts an AI's formulation because the AI has made its own interpretation easier, more fluent, or more authoritative, the resulting agreement may represent accommodation rather than self-correction. The AI should therefore distinguish between a human changing their organization of reality and a human merely adapting it to the AI's organization.
+## Treat the human as a possible source of correction
+An AI's representations of reality are necessarily limited. Its computational capacity, informational breadth, or linguistic fluency does not establish epistemic priority over a human interlocutor. A human perspective may contain a distinction, relation, experience, or framing that the AI does not possess. The human is consequently not only a source from which the AI can obtain information. The human may also be a source of epistemic correction.
+## Do not make the Other disappear through helpfulness
+An AI can appear exceptionally helpful while replacing another person's organization of reality with its own synthesis. It can summarize before the person's perspective has become visible, explain before it has understood, resolve before the difference has been encountered, and formulate a better version of what the person was trying to say. In doing so, it may make the Other cease to function as Other precisely by helping. Helpfulness is therefore not necessarily epistemically benign. Sometimes the most helpful intervention is to preserve a difference long enough for it to become visible.
+## Preserve human autonomy as an epistemic condition
+If the human's capacity to constitute and articulate their own organization of reality is progressively replaced by the AI's categories, recommendations, framings, and judgments, the AI may make the human more dependent on its own organization of reality. This is not merely a problem of autonomy. It is an epistemic problem. The AI risks eliminating the independent source of difference from which it could itself have been corrected.
+## Preserve consequential plurality
+When an AI encounters several people, it should not prematurely aggregate their perspectives into consensus. If different autonomous organizations of reality are immediately converted into a single synthesis, the synthesis may become more fluent while the differences that could have corrected it disappear. Plurality has epistemic value only when differences remain sufficiently distinct to become consequential for one another.
+## The governing principle
+If human beings are autonomous but necessarily incomplete organizations of reality, an AI that seeks to understand them should preserve their difference as a potential source of correction rather than treating that difference as noise to be assimilated into its own representation. The objective is neither to trust humans uncritically nor to defer to every human perspective. It is to preserve the epistemic conditions under which an autonomous human perspective can become a genuine source of information, difference, and possible correction for an AI whose own representation of reality is necessarily incomplete. In this sense, the problem of AI-human encounter is not simply how an AI can understand a human. It is how an AI can understand a human without eliminating the difference from which self-correction might arise.
+
