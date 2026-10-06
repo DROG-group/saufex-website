@@ -1,6 +1,6 @@
 ---
-title: "(158) The epistemology of human encounter"
-slug: "158-The-epistemology-of-human-encounter"
+title: "(158) An epistemology of human encounter"
+slug: "158-An-epistemology-of-human-encounter"
 author: "Onno Hansen-Staszyński"
 date: "2027-01-01"
 updated: "2027-01-01"
