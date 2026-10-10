@@ -2,8 +2,8 @@
 title: "(150) Beyond content"
 slug: "150-Beyond-content"
 author: "Onno Hansen-Staszyński"
-date: "2026-11-11"
-updated: "2026-11-11"
+date: "2026-10-28"
+updated: "2026-10-28"
 description: "Establishing the responsibilities and accountabilities of data applications."
 draft: true
 ---
