@@ -2,8 +2,8 @@
 title: "(149) Content actors and intermediaries"
 slug: "149-Content-actors-and-intermediaries"
 author: "Onno Hansen-Staszyński"
-date: "2026-11-04"
-updated: "2026-11-04"
+date: "2026-10-23"
+updated: "2026-10-23"
 description: "Establishing the responsibilities and accountabilities of content intermediaries."
 draft: true
 ---
