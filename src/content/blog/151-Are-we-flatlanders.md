@@ -2,8 +2,8 @@
 title: "(151) Are we flatlanders?"
 slug: "151-Are-we-flatlanders"
 author: "Onno Hansen-Staszyński"
-date: "2026-11-18"
-updated: "2026-11-18"
+date: "2026-10-30"
+updated: "2026-10-30"
 description: " What if every attempt to correct our ontology is itself made from within an ontology?"
 draft: true
 ---
