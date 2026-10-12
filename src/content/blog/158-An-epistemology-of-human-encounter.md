@@ -2,8 +2,8 @@
 title: "(158) An epistemology of human encounter"
 slug: "158-An-epistemology-of-human-encounter"
 author: "Onno Hansen-Staszyński"
-date: "2027-01-01"
-updated: "2027-01-01"
+date: "2026-11-25"
+updated: "2026-11-25"
 description: "How to relevantly encounter an Other person or persons."
 draft: true
 --- 
