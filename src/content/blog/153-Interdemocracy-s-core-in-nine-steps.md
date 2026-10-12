@@ -2,8 +2,8 @@
 title: "(153) Interdemocracy’s core in nine steps"
 slug: "153-Interdemocracy-s-core-in-nine-steps"
 author: "Onno Hansen-Staszyński"
-date: "2026-11-27"
-updated: "2026-11-27"
+date: "2026-11-06"
+updated: "2026-11-06"
 description: "From personal ontologies to Interdemocracy procedures."
 draft: true
 ---
