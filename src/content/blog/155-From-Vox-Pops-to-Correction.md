@@ -2,8 +2,8 @@
 title: "(155) From Vox Pops to Correction"
 slug: "155-From-Vox-Pops-to-Correction"
 author: "Onno Hansen-Staszyński"
-date: "2026-12-11"
-updated: "2026-12-11"
+date: "2026-11-13"
+updated: "2026-11-13"
 description: " How journalism can hear what it does not yet know how to ask."
 draft: true
 ---
