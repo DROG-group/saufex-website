@@ -2,8 +2,8 @@
 title: "(159) An epistemology of information encounter"
 slug: "159-An-epistemology-of-information-encounter"
 author: "Onno Hansen-Staszyński"
-date: "2027-01-08"
-updated: "2027-01-08"
+date: "2026-11-27"
+updated: "2026-11-27"
 description: "How to relevantly encounter information."
 draft: true
 ---
