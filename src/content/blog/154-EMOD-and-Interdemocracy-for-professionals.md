@@ -2,8 +2,8 @@
 title: "(154) EMOD and Interdemocracy for professionals"
 slug: "154-EMOD-and-Interdemocracy-for-professionals"
 author: "Onno Hansen-Staszyński"
-date: "2026-12-04"
-updated: "2026-12-04"
+date: "2026-11-11"
+updated: "2026-11-11"
 description: "How to deal with interpretative distortion."
 draft: true
 ---
