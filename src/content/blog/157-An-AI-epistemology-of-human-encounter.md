@@ -2,8 +2,8 @@
 title: "(157) An AI epistemology of human encounter"
 slug: "157-An-AI-epistemology-of-human-encounter"
 author: "Onno Hansen-Staszyński"
-date: "2026-12-25"
-updated: "2026-12-25"
+date: "2026-11-20"
+updated: "2026-11-20"
 description: "How an AI should interpret a human interlocutor "
 draft: true
 ---
