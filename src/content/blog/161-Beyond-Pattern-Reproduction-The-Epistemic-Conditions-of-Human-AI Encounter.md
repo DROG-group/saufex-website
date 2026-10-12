@@ -2,8 +2,8 @@
 title: "(161) Beyond Pattern Reproduction: The Epistemic Conditions of Human-AI Encounter"
 slug: "161-Beyond-Pattern-Reproduction-The-Epistemic-Conditions-of-Human-AI Encounter"
 author: "Onno Hansen-Staszyński"
-date: "2025-01-01"
-updated: "2025-01-01"
+date: "2026-12-04"
+updated: "2026-12-04"
 description: "A full paper based on earlier blog posts."
 draft: true
 ---
