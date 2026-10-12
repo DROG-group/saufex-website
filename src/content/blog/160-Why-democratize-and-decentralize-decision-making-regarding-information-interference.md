@@ -2,8 +2,8 @@
 title: "(160) Why democratize and decentralize decision-making regarding information interference?"
 slug: "160-Why-democratize-and-decentralize-decision-making-regarding-information-interference"
 author: "Onno Hansen-Staszyński"
-date: "2027-01-15"
-updated: "2027-01-15"
+date: "2026-12-02"
+updated: "2026-12-02"
 description: "The developing argument on why to democratize and decentralize decision-making regarding information interference."
 draft: true
 ---
