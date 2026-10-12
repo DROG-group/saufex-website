@@ -2,8 +2,8 @@
 title: "(152) What if we are flatlanders?"
 slug: "152-What-if-we-are-flatlanders"
 author: "Onno Hansen-Staszyński"
-date: "2026-11-20"
-updated: "2025-11-20"
+date: "2026-11-04"
+updated: "2025-11-04"
 description: "It would provide a case for the importance of ma."
 draft: true
 ---
