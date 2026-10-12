@@ -2,8 +2,8 @@
 title: "(156) Interdemocracy’s central task for democracy"
 slug: "156-Interdemocracy-s-central-task-for-democracy"
 author: "Onno Hansen-Staszyński"
-date: "2026-12-18"
-updated: "2026-12-18"
+date: "2026-11-18"
+updated: "2026-11-18"
 description: "Why democracy needs to preserve plurality."
 draft: true
 --- 
