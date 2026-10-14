@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-10-14"
 updated: "2026-10-14"
 description: "Reverse engineering my blog posts writing method."
-draft: true
+draft: false
 ---
 ## Introduction
 So far in these blog posts, I have used a method for writing that I’d call generative coherence: show how a theory grows because each stage reaches an explanatory limit. I reverse engineer the method after having written the blog posts.\
