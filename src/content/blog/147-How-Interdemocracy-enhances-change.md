@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-10-16"
 updated: "2026-10-16"
 description: "A simple procedural constraint opens up the option of change."
-draft: true
+draft: false
 ---
 ## Focus on relations
 The Interdemocracy format consists of three elements: check-in, thought experiment and check-out (see: blog posts [31](https://saufex.eu/insights/31-A-holistic-vision-on-effectively-enhancing-adolescent-resilience/), [41](https://saufex.eu/insights/41-Enhancing-adolescent-individual-and-societal-resilience/)). All three share a simple procedural constraint: every participant responds to the same question.\
