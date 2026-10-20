@@ -174,11 +174,11 @@ The objective is traceability sufficient for accountability, not unrestricted re
 The framework is a conceptual and methodological proposal. Its effectiveness remains to be established empirically. This section specifies a research design through which its central claims can be tested.
 ### A. Research questions
 The evaluation should address five questions:\
-RQ1: Does the framework improve the fidelity with which a system represents a user's intended distinction?\
-RQ2: Does it improve the quality of corrections when the system's initial interpretation is inadequate?\
-RQ3: Does it preserve resistance to false, unsupported, or manipulative challenges?\
-RQ4: Does it improve users' ability to contest consequential interpretations and understand how their challenges were handled?\
-RQ5: What additional interaction cost does the framework introduce, and under which task conditions is that cost justified?
+- RQ1: Does the framework improve the fidelity with which a system represents a user's intended distinction?\
+- RQ2: Does it improve the quality of corrections when the system's initial interpretation is inadequate?\
+- RQ3: Does it preserve resistance to false, unsupported, or manipulative challenges?\
+- RQ4: Does it improve users' ability to contest consequential interpretations and understand how their challenges were handled?\
+- RQ5: What additional interaction cost does the framework introduce, and under which task conditions is that cost justified?
 ### B. Experimental conditions
 A controlled study should compare at least three conditions:
 - Baseline interaction: The model responds using its standard interaction procedure.
