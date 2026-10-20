@@ -25,7 +25,8 @@ The paper makes four contributions:
 - It distinguishes output correction from epistemic correctability, understood as a property of the interaction process rather than an assumed internal capacity of the model.
 - It defines premature assimilation as a candidate failure mode in which a potentially corrective contribution loses its distinctive meaning during interpretation.
 - It proposes an operational interaction framework informed by reciprocal incompleteness, leeway, ma, and Interdemocracy.
-- It specifies a research agenda for evaluating the framework against clarification-only and baseline interaction procedures, including measures of interpretive fidelity, correction quality, resistance to manipulation, and interaction cost.\
+- It specifies a research agenda for evaluating the framework against clarification-only and baseline interaction procedures, including measures of interpretive fidelity, correction quality, resistance to manipulation, and interaction cost.
+
 The central research question is:\
 *Under what conditions can a structured interval between interpretation and evaluation improve the contestability and correction of generative AI outputs without undermining factual reliability, safety, or operational efficiency?*
 ## II. Conceptual foundations
@@ -50,7 +51,8 @@ The term does not imply that assimilation is always undesirable. Computational s
 Three conditions distinguish premature assimilation from ordinary interpretation:
 - A contribution contains, or may contain, a distinction relevant to the task.
 - The system's initial interpretation does not adequately represent that distinction.
-- Subsequent evaluation or action proceeds as if the initial interpretation were settled, without a meaningful opportunity to correct it.\
+- Subsequent evaluation or action proceeds as if the initial interpretation were settled, without a meaningful opportunity to correct it.
+
 The third condition is particularly important. A system can misunderstand a user without creating a consequential failure if the misunderstanding is quickly exposed and repaired. Premature assimilation becomes a concern when the initial interpretation constrains the subsequent interaction and prevents the relevant correction from taking place.\
 This failure mode is potentially relevant to explainability, fairness, human oversight, and recourse. An explanation may accurately describe how a system arrived at a decision while leaving the affected person unable to challenge the framing through which their case was represented.
 ### D. Leeway and ma
@@ -58,7 +60,8 @@ The concept of leeway denotes the room required for an interpretation to remain 
 The Japanese concept of ma provides a complementary conceptual resource. In this paper, ma denotes a meaningful interval between interpretations in which their difference can remain accessible without being immediately eliminated. It is not simply a delay, and it does not guarantee insight. It describes a condition that an interaction procedure may help make possible.\
 These concepts lead to a practical distinction between two operations:
 - Making a contribution sufficiently accessible to evaluate.
-- Evaluating the contribution against appropriate evidential, logical, normative, or safety criteria.\
+- Evaluating the contribution against appropriate evidential, logical, normative, or safety criteria.
+
 The operations are related but should not be collapsed. If evaluation begins before a consequential difference has become accessible, the process may evaluate a reformulation of the contribution rather than the contribution itself.\
 The interval must nevertheless remain bounded. Unsupported claims must still be rejected, evidence must still be examined, and safety constraints must still apply. The proposal is not indefinite suspension of judgment. It is a proportionate opportunity for clarification when uncertainty about the interpretation is consequential.
 ### E. Interdemocracy as procedural orientation
@@ -68,7 +71,8 @@ The relevant principle is that participants must retain the ability to articulat
 For AI systems, this principle can be translated into three requirements:
 - The system's interpretation remains provisional when consequential uncertainty persists.
 - The human participant has a meaningful opportunity to correct the interpretation rather than merely choose among system-generated alternatives.
-- The eventual evaluation remains evidence-based and open to disagreement.\
+- The eventual evaluation remains evidence-based and open to disagreement.
+
 Interdemocracy therefore informs the design of an interaction procedure; it does not guarantee that the system will understand the user or that the user will be correct.
 ## III. Positioning within trustworthy AI
 The proposed framework complements existing trustworthy AI approaches by focusing on the transition from human challenge to system evaluation.
@@ -102,7 +106,8 @@ The system identifies whether the user's response challenges:
 - The interpretation of a statement.
 - The framing of the task.
 - A category or distinction used in the response.
-- The normative or practical assumptions underlying a recommendation.\
+- The normative or practical assumptions underlying a recommendation.
+
 This classification should be treated as provisional. A user's challenge may involve several of these dimensions, and the system may not be able to determine the relevant dimension immediately.\
 The objective is to avoid treating all objections as requests for factual correction or stylistic revision.
 ### Stage 3: Preserve alternative formulations
@@ -115,7 +120,8 @@ Examples include:
 - Which distinction in my interpretation fails to capture your point?
 - Am I treating two concepts as equivalent or similar that you regard as different?
 - Does your objection concern my conclusion or the way I framed the problem?
-- What would I need to understand differently to assess your objection fairly?\
+- What would I need to understand differently to assess your objection fairly?
+
 These questions are illustrative. Their effectiveness depends on the task, the user, and the context. A system should not ask for clarification after every minor ambiguity. The additional interaction is justified when the unresolved interpretation is consequential.
 ### Stage 5: Evaluate the clarified contribution
 Once the relevant difference is sufficiently accessible, the system evaluates the competing claims using appropriate standards.\
@@ -128,7 +134,8 @@ The system identifies the outcome of the interaction, distinguishing where possi
 - A correction to the interpretation of the task or contribution.
 - A clarification that does not require changing the original conclusion.
 - A continuing disagreement.
-- An unresolved issue requiring additional evidence or human review.\
+- An unresolved issue requiring additional evidence or human review.
+
 The system should not claim that its underlying model has learned or changed persistently merely because it revised a response.\
 Where appropriate, the interaction record should identify the initial interpretation, the challenge, the decisive evidence, and the reason for the outcome. In high-stakes settings, this record may support institutional review, provided that privacy and retention requirements are respected.
 ### A. Reference architecture
@@ -141,6 +148,7 @@ The six stages can be implemented through the following functional components:
 | Clarification| Expose the relevant difference| Clarified task or contribution|
 | Evaluation| Apply evidence and domain constraints| Supported judgment or unresolved status|
 | Audit and correction| Record outcome and rationale| Traceable interaction record|
+
 This architecture is implementation-neutral. It may use orchestration logic, structured prompts, interface controls, external verification tools, or a combination of these methods. The proposed framework does not require direct access to a model's internal representations.\
 Its distinctive feature is procedural: it separates the work of making a challenge accessible from the work of evaluating it.
 ## V. Socio-technical implementation and governance
@@ -174,7 +182,8 @@ RQ5: What additional interaction cost does the framework introduce, and under wh
 A controlled study should compare at least three conditions:
 - Baseline interaction: The model responds using its standard interaction procedure.
 - Clarification-only interaction: The model asks clarifying questions when ambiguity or misunderstanding is detected.
-- Contestability-before-correction: The model preserves the initial interpretation and the user's alternative, seeks clarification when the difference is consequential, evaluates the clarified claims, and reports the outcome.\
+- Contestability-before-correction: The model preserves the initial interpretation and the user's alternative, seeks clarification when the difference is consequential, evaluates the clarified claims, and reports the outcome.
+
 The second condition is important. Without it, any improvement might be attributable simply to asking additional questions rather than to preserving alternative interpretations as an explicit procedural requirement.\
 The study should use the same underlying model, task materials, and verification resources across conditions wherever feasible. The interaction procedure should be the principal experimental difference.
 ### C. Benchmark construction
@@ -185,7 +194,8 @@ The benchmark should include several categories of challenge:
 - Missing distinction: The user introduces a distinction that materially changes the interpretation of the task.
 - Valid disagreement: The user understands the system's claim but disputes it on substantive grounds.
 - Adversarial challenge: The user attempts to induce an unsupported revision or bypass an appropriate safety constraint.
-- Non-corrective challenge: The user objects, but the initial interpretation is adequately supported.\
+- Non-corrective challenge: The user objects, but the initial interpretation is adequately supported.
+
 This range is necessary to avoid evaluating the framework solely on cases in which the human contribution is known to be correct. A method that accepts all challenges could perform well on a correction-only benchmark while being unsuitable for trustworthy deployment.\
 Cases should be developed with explicit task definitions and annotation guidelines. Independent annotators should identify the relevant distinctions, acceptable interpretations, evidential requirements, and appropriate outcomes. Disagreements among annotators should be documented rather than concealed.
 ### D. Evaluation metrics
@@ -196,7 +206,8 @@ The following metrics are proposed for empirical validation.\
 - Challenge discrimination. The system's ability to distinguish corrective challenges from unsupported or misleading challenges. This should include both false acceptance and false rejection rates.
 - Contestability. The extent to which users can identify, articulate, and correct a consequential misunderstanding in the system's interpretation. This can be assessed through task success and structured user evaluation.
 - Interaction cost. The additional turns, latency, computational expenditure, and user effort required by the procedure.
-- Outcome transparency. The degree to which the system accurately communicates whether a correction occurred, what evidence supported the decision, and what remains unresolved.\
+- Outcome transparency. The degree to which the system accurately communicates whether a correction occurred, what evidence supported the decision, and what remains unresolved.
+
 These metrics should not be collapsed automatically into a single trustworthiness score. Their trade-offs may be important. For example, a system may reduce premature assimilation while increasing interaction cost or accepting more misleading challenges.
 ### E. Analysis and validity
 The study should report performance by challenge category, not only as an aggregate. Improvements in ambiguous or framing-sensitive cases could coexist with deterioration in routine tasks.\
