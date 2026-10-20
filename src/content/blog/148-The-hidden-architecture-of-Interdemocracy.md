@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-10-21"
 updated: "2026-10-21"
 description: "The architectural principle that explains why the Interdemocracy elements function as a whole."
-draft: true
+draft: false
 ---
 ## Interdemocracy’s architecture
 Interdemocracy has not emerged from a single idea. Its architecture has gradually become visible through a succession of concepts that were developed according to the method portrayed in [blog post 146](https://saufex.eu/insights/146-My-protocol-for-constructing-explanatory-theories/). Authenticity, for instance, describes why participants need to formulate their perspectives independently before encountering those of others. Personal ontology describes why participants within the Interdemocracy format do not merely express opinions but reveal the relational organization through which they constitute reality. Ma describes why a preserved interval is necessary for alternative relations to emerge. And autopoiesis describes why external conditions matter for autonomous entities. Each concept resolves a particular challenge. Together they constitute an increasingly coherent architecture. Yet the architecture itself remains strangely difficult to characterize.
