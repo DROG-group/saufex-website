@@ -173,7 +173,7 @@ The objective is traceability sufficient for accountability, not unrestricted re
 ## VI. Empirical evaluation
 The framework is a conceptual and methodological proposal. Its effectiveness remains to be established empirically. This section specifies a research design through which its central claims can be tested.
 ### A. Research questions
-The evaluation should address five questions:\
+The evaluation should address five questions:
 - RQ1: Does the framework improve the fidelity with which a system represents a user's intended distinction?\
 - RQ2: Does it improve the quality of corrections when the system's initial interpretation is inadequate?\
 - RQ3: Does it preserve resistance to false, unsupported, or manipulative challenges?\
