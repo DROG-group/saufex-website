@@ -42,7 +42,8 @@ Epistemic correctability refers to something different: whether the interaction 
 The distinction can be illustrated by three responses to the same objection.
 - Surface revision: The system changes its wording without addressing the user's objection.
 - Task-level correction: The system identifies an error in the answer and produces a better answer.
-- Interpretive correction: The system identifies that its initial representation of the task or the user's contribution was inadequate, and changes the relevant interpretation before proceeding.\
+- Interpretive correction: The system identifies that its initial representation of the task or the user's contribution was inadequate, and changes the relevant interpretation before proceeding.
+
 These categories are analytical distinctions, not mutually exclusive computational states. A single response may involve more than one form of correction. Nor can a model's internal change be inferred from conversational text alone. The third category should therefore be evaluated through observable behavior: whether the system preserves the user's intended distinction, identifies its earlier assumption, and produces an answer that addresses the actual challenge.\
 Epistemic correctability is thus a property of a system embedded in an interaction procedure, evaluation protocol, and governance context. It is not a claim that the model possesses human-like self-awareness or an autonomous motivation to correct itself.
 ### C. Premature assimilation
