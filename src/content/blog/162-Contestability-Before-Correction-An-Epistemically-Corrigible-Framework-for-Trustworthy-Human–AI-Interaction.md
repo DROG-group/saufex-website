@@ -241,4 +241,4 @@ The proposed experimental design provides a way to assess that proposition again
 If the results support the hypothesis, epistemic correctability could become a useful design and evaluation dimension for trustworthy generative AI. It would address not only whether an AI system can respond to a correction, but whether its interaction procedure gives a legitimate correction a meaningful opportunity to emerge.
 
 ### Disclaimer
-AI (GPT-6) was used in this paper to enhance style fluence.
+AI (GPT-6) was used in this paper to enhance style fluency.
