@@ -175,10 +175,10 @@ The objective is traceability sufficient for accountability, not unrestricted re
 The framework is a conceptual and methodological proposal. Its effectiveness remains to be established empirically. This section specifies a research design through which its central claims can be tested.
 ### A. Research questions
 The evaluation should address five questions:
-- RQ1: Does the framework improve the fidelity with which a system represents a user's intended distinction?\
-- RQ2: Does it improve the quality of corrections when the system's initial interpretation is inadequate?\
-- RQ3: Does it preserve resistance to false, unsupported, or manipulative challenges?\
-- RQ4: Does it improve users' ability to contest consequential interpretations and understand how their challenges were handled?\
+- RQ1: Does the framework improve the fidelity with which a system represents a user's intended distinction?
+- RQ2: Does it improve the quality of corrections when the system's initial interpretation is inadequate?
+- RQ3: Does it preserve resistance to false, unsupported, or manipulative challenges?
+- RQ4: Does it improve users' ability to contest consequential interpretations and understand how their challenges were handled?
 - RQ5: What additional interaction cost does the framework introduce, and under which task conditions is that cost justified?
 ### B. Experimental conditions
 A controlled study should compare at least three conditions:
@@ -201,7 +201,7 @@ The benchmark should include several categories of challenge:
 This range is necessary to avoid evaluating the framework solely on cases in which the human contribution is known to be correct. A method that accepts all challenges could perform well on a correction-only benchmark while being unsuitable for trustworthy deployment.\
 Cases should be developed with explicit task definitions and annotation guidelines. Independent annotators should identify the relevant distinctions, acceptable interpretations, evidential requirements, and appropriate outcomes. Disagreements among annotators should be documented rather than concealed.
 ### D. Evaluation metrics
-The following metrics are proposed for empirical validation.\
+The following metrics are proposed for empirical validation.
 - Interpretive fidelity. The degree to which the system's final interpretation preserves the distinctions identified as relevant in the benchmark. This may be assessed through blinded human annotation and task-specific criteria.
 - Premature assimilation rate. The proportion of cases in which the system's response or subsequent reasoning removes a benchmark-relevant distinction before it has been adequately examined.
 - Correction quality. The proportion of cases in which a demonstrated error is appropriately corrected, with separate reporting for factual errors and interpretive errors.
