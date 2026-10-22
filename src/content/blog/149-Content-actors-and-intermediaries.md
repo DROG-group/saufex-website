@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-10-23"
 updated: "2026-10-23"
 description: "Establishing the responsibilities and accountabilities of content intermediaries."
-draft: true
+draft: false
 ---
 ## Introduction
 In many blog posts, the focus of the texts was on the demand side of information. The implication of some of their outcomes is that the traditional process description of information flows is uprooted. The clear “content creator -> intermediary -> passive consumer” scheme with its distinctive roles is hard to uphold. Rather, the first and last role types appear mixed since demand is an activity, not a consequence. Therefore, citizens’ meaning creation, and potentially linked behavior, is not a vulnerable treasure to be defended but a dynamical process to be facilitated. Responsibilities and accountability are not to be attributed a priori to separate categories of “intentionally destructive” content creators and “enabling” intermediaries only.
