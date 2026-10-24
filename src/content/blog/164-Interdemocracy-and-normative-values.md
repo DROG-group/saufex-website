@@ -4,7 +4,7 @@ slug: "164-Interdemocracy-and-normative-values"
 author: "Onno Hansen-Staszyński"
 date: "2026-12-16"
 updated: "2026-12-16"
-description: "Departing a value-agnostic stand."
+description: "Extending the Interdemocracy toward the normative and educational capacities needed to involve people beyond mainstream without sacrificing their autonomy or their potential contribution."
 draft: true
 ---
 ## Normative values
