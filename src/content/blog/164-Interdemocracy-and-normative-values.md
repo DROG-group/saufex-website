@@ -4,7 +4,7 @@ slug: "164-Interdemocracy-and-normative-values"
 author: "Onno Hansen-Staszyński"
 date: "2026-12-16"
 updated: "2026-12-16"
-description: "A brief description of the post (shown in blog listing)."
+description: "Departing a value-agnostic stand."
 draft: true
 ---
 ## Normative values
