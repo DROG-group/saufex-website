@@ -11,6 +11,20 @@ export const spotlight = {
 
 export const mediaMentions = [
   {
+    source: 'Sud Quotidien',
+    title: "Quand l'IA rend la manipulation informationnelle moins chère, du Sahel à l'Europe",
+    url: '/news/timbuktu-institute-sahel-europe-disinformation-report#in-the-senegalese-press',
+    date: '2026-10-26',
+    language: 'fr'
+  },
+  {
+    source: 'Le Soleil',
+    title: 'Timbuktu Institute et un centre de recherche polonais publient une étude',
+    url: '/news/timbuktu-institute-sahel-europe-disinformation-report#in-the-senegalese-press',
+    date: '2026-10-25',
+    language: 'fr'
+  },
+  {
     source: 'Polskie Radio Koszalin',
     title: 'Grzegorz Rzeczkowski on fake news, hate speech and troll farms',
     url: 'https://prk24.pl/91465482/',
