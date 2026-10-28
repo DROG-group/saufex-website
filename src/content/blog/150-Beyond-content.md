@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-10-28"
 updated: "2026-10-28"
 description: "Establishing the responsibilities and accountabilities of data applications."
-draft: true
+draft: false
 ---
 ## Introduction
 The checklists presented in blog post 150 could be applied beyond the scope of content to the scope of user data in general. In that case the roles are more general: data actor and application. The question of responsibility then translates to a question of sovereignty, being defined as whether a data actor is in control or needs to trust an application that is in control.
