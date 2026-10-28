@@ -8,7 +8,7 @@ description: "Establishing the responsibilities and accountabilities of data app
 draft: false
 ---
 ## Introduction
-The checklists presented in blog post 150 could be applied beyond the scope of content to the scope of user data in general. In that case the roles are more general: data actor and application. The question of responsibility then translates to a question of sovereignty, being defined as whether a data actor is in control or needs to trust an application that is in control.
+The checklists presented in [blog post 149](https://saufex.eu/insights/149-Content-actors-and-intermediaries/) could be applied beyond the scope of content to the scope of user data in general. In that case the roles are more general: data actor and application. The question of responsibility then translates to a question of sovereignty, being defined as whether a data actor is in control or needs to trust an application that is in control.
 
 ## Sovereignty checklist
 Can the data actor exercise control over their data or must they trust an application?
