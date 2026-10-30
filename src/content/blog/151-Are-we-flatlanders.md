@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-10-30"
 updated: "2026-10-30"
 description: " What if every attempt to correct our ontology is itself made from within an ontology?"
-draft: true
+draft: false
 ---
 
 ## Introduction
