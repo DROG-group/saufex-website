@@ -12,6 +12,8 @@ The report was presented in Dakar on Friday 23 October 2026 at an event organise
 
 Read the report (in French): [Désinformation, démocratie et enjeux de stabilité et de sécurité : quels défis partagés entre le Sahel et l'Europe ?](https://timbuktu-institute.org/index.php/component/k2/item/1833-rapport-desinformation-democratie-et-enjeux-de-stabilite-et-de-securite-quels-defis-partages-entre-le-sahel-et-l-europe)
 
+Full text (PDF, in French): [Download the complete report](https://timbuktu-institute.org/media/attachments/2026/10/22/rapport---desinformation-dmocratie-et-enjeux-de-stabilit-et-de-scurit---quels-dfis-partags-entre-le-sahel-et-leurope-.pdf)
+
 ## In the Senegalese press
 
 The launch was covered by the Senegalese press.
