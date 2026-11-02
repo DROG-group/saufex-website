@@ -20,14 +20,14 @@ export const mediaMentions = [
   {
     source: 'Sud Quotidien',
     title: "Quand l'IA rend la manipulation informationnelle moins chère, du Sahel à l'Europe",
-    url: '/news/timbuktu-institute-sahel-europe-disinformation-report#in-the-senegalese-press',
+    url: '/press/sud-quotidien-26-oct-2026.pdf',
     date: '2026-10-26',
     language: 'fr'
   },
   {
     source: 'Le Soleil',
     title: 'Timbuktu Institute et un centre de recherche polonais publient une étude',
-    url: '/news/timbuktu-institute-sahel-europe-disinformation-report#in-the-senegalese-press',
+    url: '/press/le-soleil-24-25-oct-2026.pdf',
     date: '2026-10-25',
     language: 'fr'
   },
