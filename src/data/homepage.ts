@@ -11,6 +11,13 @@ export const spotlight = {
 
 export const mediaMentions = [
   {
+    source: 'TOK FM',
+    title: 'Po co nam dziś szkoła? Onno Hansen-Staszyński o edukacji i demokracji',
+    url: 'https://audycje.tokfm.pl/podcast/200090,Po-co-nam-dzis-szkola-Onno-Hansen-staszynski-o-edukacji-i-demokracji',
+    date: '2026-10-31',
+    language: 'pl'
+  },
+  {
     source: 'Sud Quotidien',
     title: "Quand l'IA rend la manipulation informationnelle moins chère, du Sahel à l'Europe",
     url: '/news/timbuktu-institute-sahel-europe-disinformation-report#in-the-senegalese-press',
