@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-11-04"
 updated: "2025-11-04"
 description: "It would provide a case for the importance of ma."
-draft: true
+draft: false
 ---
 Let's assume we are flatlanders (see: [blog post 151](https://saufex.eu/insights/151-Are-we-flatlanders/)).\
 As flatlanders living within a lower dimension, we would not be able to establish whether what we encounter is adequately understood through our existing relational organization or whether aspects of reality remain inaccessible from within it. We could improve our observations, reasoning, and explanations, but we could not establish from within our own dimension that our understanding exhausts reality. Nor could we establish that a higher dimension does or does not exist.\
