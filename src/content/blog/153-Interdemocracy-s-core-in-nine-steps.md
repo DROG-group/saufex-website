@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-11-06"
 updated: "2026-11-06"
 description: "From personal ontologies to Interdemocracy procedures."
-draft: true
+draft: false
 ---
 ## 1. Personal ontology 
 Each person constitutes reality through a distinctive relational organization of concepts. This organization is necessary for orientation and action, but it is necessarily limited: no personal ontology exhausts reality, nor can it be certain that it contains all relevant concepts or that the relations it establishes among them are correct.
