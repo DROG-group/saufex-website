@@ -1,9 +1,9 @@
 ---
-title: "(168) Teaching media creation as prebunking"
-slug: "168-Teaching-media-creation-as-prebunking"
+title: "(169) Teaching media creation as prebunking"
+slug: "169-Teaching-media-creation-as-prebunking"
 author: "Onno Hansen-Staszyński"
-date: "2026-12-30"
-updated: "2026-12-30"
+date: "2027-01-01"
+updated: "2027-01-01"
 description: "Why the teaching of media creation could enhance prebunking."
 draft: true
 ---
