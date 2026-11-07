@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-11-11"
 updated: "2026-11-11"
 description: "How to deal with interpretative distortion."
-draft: true
+draft: false
 ---
 ## Introduction
 Human beings do not encounter information through an empty cognitive channel. Incoming information is interpreted through a *personal ontology*: a relatively stabilised structure of lived experience, prior interpretations and reinterpretations of reality, expectations, identity, belonging, achievement, prior knowledge, and institutional trust. A personal ontology is necessary; without an organisation of one’s interpretations, meaningful action would not be possible. Yet such an organisation is necessarily incomplete: no individual has, for example, experienced everything or belonged to every social environment. This creates *interpretive distortion*: whether information encountered is accurate or inaccurate, the personal ontology through which it is interpreted may systematically exclude relevant dimensions of reality. Interpretive distortion therefore requires intervention at two levels. DROG addresses it cognitively through EMOD and behaviorally through Interdemocracy, both drawing on the findings of the HORIZON-funded European project Saufex.
