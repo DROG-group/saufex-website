@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-11-13"
 updated: "2026-11-13"
 description: " How journalism can hear what it does not yet know how to ask."
-draft: true
+draft: false
 ---
 ## Introduction
 Journalists regularly ask the public what it thinks. They do this in many ways. A reporter approaches people in the street and asks a question. A newsroom commissions a survey. A journalist follows discussions on social media. Researchers conduct interviews or focus groups. Citizens send in stories, comments and reactions. These practices all have value. But they share a limitation that is easy to overlook: the journalist usually decides in advance what the public is being asked to respond to.\
