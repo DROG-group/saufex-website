@@ -1,6 +1,6 @@
 ---
 title: "(168) The Dead Cannot Resist Totalization: Levinas, Ma, and the Problem of Premature Assimilation. Conversational AI, mnemonic distortion and the ethical limits of representing the Other"
-slug: "168-The-Dead-Cannot-Resist-Totalization-Levinas-Ma-and-the-Problem-of-Premature-Assimilation-Conversational-AI-mnemonic-distortion-and-the-ethical-limits-of-representing-the-Other"
+slug: "168-The-Dead-Cannot-Resist-Totalization"
 author: "Onno Hansen-Staszyński"
 date: "2026-12-30"
 updated: "2026-12-30"
