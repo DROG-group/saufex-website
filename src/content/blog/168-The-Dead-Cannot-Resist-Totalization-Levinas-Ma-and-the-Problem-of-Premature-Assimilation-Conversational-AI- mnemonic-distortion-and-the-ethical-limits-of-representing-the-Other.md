@@ -1,9 +1,9 @@
 ---
-title: "(169) The Dead Cannot Resist Totalization: Levinas, Ma, and the Problem of Premature Assimilation. Conversational AI, mnemonic distortion and the ethical limits of representing the Other"
-slug: "169-The-Dead-Cannot-Resist-Totalization-Levinas-Ma-and-the-Problem-of-Premature-Assimilation-Conversational-AI- mnemonic-distortion-and-the-ethical-limits-of-representing-the-Other"
+title: "(168) The Dead Cannot Resist Totalization: Levinas, Ma, and the Problem of Premature Assimilation. Conversational AI, mnemonic distortion and the ethical limits of representing the Other"
+slug: "168-The-Dead-Cannot-Resist-Totalization-Levinas-Ma-and-the-Problem-of-Premature-Assimilation-Conversational-AI- mnemonic-distortion-and-the-ethical-limits-of-representing-the-Other"
 author: "Onno Hansen-Staszyński"
-date: "2027-01-01"
-updated: "2027-01-01"
+date: "2026-12-30"
+updated: "2026-12-30"
 description: "The difference between an experience and meeting a personal ontology."
 draft: true
 ---
