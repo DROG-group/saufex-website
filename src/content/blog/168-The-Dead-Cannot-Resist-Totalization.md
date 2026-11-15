@@ -1,12 +1,13 @@
 ---
-title: "(168) The Dead Cannot Resist Totalization: Levinas, Ma, and the Problem of Premature Assimilation. Conversational AI, mnemonic distortion and the ethical limits of representing the Other"
-slug: "168-The-Dead-Cannot-Resist-Totalization"
+title: "(168) The dead cannot resist totalization"
+slug: "168-The-dead-cannot-resist-totalization"
 author: "Onno Hansen-Staszyński"
 date: "2026-12-30"
 updated: "2026-12-30"
 description: "The difference between an experience and meeting a personal ontology."
 draft: true
 ---
+## The dead cannot resist totalization: Levinas, Ma, and the Problem of Premature Assimilation. Conversational AI, mnemonic distortion and the ethical limits of representing the Other
 ## Introduction
 Recent developments in conversational artificial intelligence have made it possible to construct interactive representations of deceased individuals. These systems, referred to by [Helena Ward (2026)](https://link.springer.com/article/10.1007/s13347-026-01229-8) as Interactive Personality Constructs of the Dead (IPCDs), use AI to simulate the conversational responses, personality and perspectives of people who have died. They offer new possibilities for memorialisation, allowing individuals to revisit familiar interactions, explore memories and experience a form of continued connectedness with the deceased.\
 However, Ward's paper, Conversational AIs and Mnemonic Distortion, identifies an important epistemic risk associated with these technologies. IPCDs can generate representations that diverge from the actual perspectives of the deceased. Such representations may subsequently become incorporated into users' memories, reshaping their understanding of the person they intended to remember. Ward describes this phenomenon as mnemonic distortion: the incorporation of generated misrepresentations into one's memory of another individual.\
