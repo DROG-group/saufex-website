@@ -1,6 +1,6 @@
 ---
-title: "(169) The dual institutional ethical burden of responsiveness and representation"
-slug: "169-The-dual-institutional-ethical-burden-of-responsiveness-and-representation"
+title: "(169) The dual institutional ethical burden of responsiveness and interpretation"
+slug: "169-The-dual-institutional-ethical-burden-of-responsiveness-and-interpretation"
 author: "Onno Hansen-Staszyński"
 date: "2027-01-01"
 updated: "2027-01-01"
