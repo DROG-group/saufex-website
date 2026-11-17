@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-11-18"
 updated: "2026-11-18"
 description: "Why democracy needs to preserve plurality."
-draft: true
+draft: false
 --- 
 ## 1
 Autopoiesis establishes the need for otherness, not specifically for Others. Because no personal ontology can fully correct itself, self-correction requires access to what exceeds it. That can come from experiences as well as Other people.
