@@ -17,4 +17,4 @@ Since 2011 Beata-Staszyńska-Hansen and I ask students to ask the following ques
 ## A fundamental question to understand an external ontology
 - **What does X mean to you/him/her/you/them?**
 ## External ontologies
-A first step is to understand external ontologies is to listen without immediate reaction or judgment. A second step is avoiding premature assimilation of an external personal ontology; this means answering the question *What does X mean to you/him/her/you/them?* before answeing the question *What does X mean to me?*
+A first step is to understand external ontologies is to listen without immediate reaction or judgment. A second step is avoiding premature assimilation of an external personal ontology; this means answering the question *What does X mean to you/him/her/you/them?* before answering the question *What does X mean to me?*
