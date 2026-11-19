@@ -4,8 +4,8 @@ slug: "157-An-AI-epistemology-of-human-encounter"
 author: "Onno Hansen-Staszyński"
 date: "2026-11-20"
 updated: "2026-11-20"
-description: "How an AI should interpret a human interlocutor "
-draft: true
+description: "How an AI should interpret a human interlocutor."
+draft: false
 ---
 ## Introduction
 If human beings are autonomous, self-constituting, and necessarily incomplete organizations of reality, this has consequences for how an AI should interpret a human interlocutor.\
