@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-11-25"
 updated: "2026-11-25"
 description: "How to relevantly encounter an Other person or persons."
-draft: true
+draft: false
 --- 
 ## Introduction
 If a person constitutes reality through a distinctive relational organization of concepts, then every human being encounters the world through an organization that makes orientation and action possible while remaining necessarily incomplete. No person can know all the concepts and relations that might be relevant to reality, nor can a person determine entirely from within their own organization whether those relations are correct. Human encounter therefore has an epistemic significance that goes beyond the exchange of information: another person may embody an organization of reality that makes something visible that one's own organization cannot access on its own.\
