@@ -2,14 +2,21 @@
 
 export const spotlight = {
   active: true,
-  type: 'report' as const,
-  title: 'Policy Brief: Five EU-funded Projects Recommend Stronger Measures to Counter FIMI',
-  description: 'Ten key recommendations from ATHENA, EU-HYBNET, FERMI, SAUFEX and VIGILANT for policymakers to counter foreign information manipulation and interference.',
+  type: 'book' as const,
+  title: 'Countering Foreign Information Manipulation and Interference in Europe',
+  description: 'A new open-access volume edited by Agnieszka K. Cianciara and Agnieszka Legucka — strategies, capabilities and resilience for countering FIMI across Europe.',
   image: '/images/saufex-overview.svg',
-  cta: { text: 'Read Policy Brief', url: 'https://docs.saufex.eu/Policy%20brief%20-%204%20Feb%202026%20(1).pdf' }
+  cta: { text: 'Read the book (open access)', url: 'https://www.routledge.com/Countering-Foreign-Information-Manipulation-and-Interference-in-Europe-Strategies-Capabilities-and-Resilience/Cianciara-Legucka/p/book/9781041374534' }
 };
 
 export const mediaMentions = [
+  {
+    source: 'RMF24',
+    title: 'Dezinformacja coraz większym zagrożeniem dla Polski. Kto i jak próbuje wpływać na Polaków?',
+    url: 'https://www.rmf24.pl/rozmowy/najnowsze/news-dezinformacja-coraz-wiekszym-zagrozeniem-dla-polski-kto-i-ja,nIdn,1026661',
+    date: '2026-11-19',
+    language: 'pl'
+  },
   {
     source: 'Sud Quotidien',
     title: "Quand l'IA rend la manipulation informationnelle moins chère, du Sahel à l'Europe",
