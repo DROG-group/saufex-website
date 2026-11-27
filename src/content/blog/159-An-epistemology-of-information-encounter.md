@@ -5,7 +5,7 @@ author: "Onno Hansen-Staszyński"
 date: "2026-11-27"
 updated: "2026-11-27"
 description: "How to relevantly encounter information."
-draft: true
+draft: false
 ---
 ## Introduction
 If human beings are autonomous, self-constituting, and necessarily incomplete organizations of reality, this has consequences not only for how they encounter other people, but also for how they encounter information.\
