@@ -1768,10 +1768,53 @@ button:focus-visible {
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: var(--space-md);
 }
-.linkedin-feed__post {
-  width: 100%;
-  min-height: 560px;
-  border: 1px solid rgba(0, 0, 0, 0.08);
-  border-radius: 12px;
+.linkedin-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
   background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  padding: var(--space-md);
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.linkedin-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+.linkedin-card__top {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.linkedin-card__icon {
+  width: 22px;
+  height: 22px;
+  color: #0a66c2;
+  flex: 0 0 auto;
+}
+.linkedin-card__source {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+.linkedin-card__text {
+  margin: 0;
+  flex: 1 1 auto;
+  line-height: 1.55;
+  color: #333;
+}
+.linkedin-card__meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.85rem;
+}
+.linkedin-card__date {
+  color: #666;
+}
+.linkedin-card__cta {
+  color: #0a66c2;
+  font-weight: 600;
 }
